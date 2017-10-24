@@ -23,6 +23,7 @@
     <!-- Tabs -->
     <string name="tab_general">General</string>
     <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitor</string>
     <string name="tab_system">System</string>
     <string name="tab_memory">Memory</string>
     <string name="tab_camera">Camera</string>
@@ -41,6 +42,7 @@
     <string name="tab_system_apps">System Applications</string>
     <string name="tab_camera_supported">Supported cameras</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
+    <string name="tab_cpu_time">CPU operating time</string>
 
     <!-- Tabs single list -->
     <string name="system_apps" translatable="false">System Applications</string>
@@ -84,12 +86,14 @@
 
     <string name="product">Product</string>
     <string name="type">Type</string>
+    <string name="build_type">Build type</string>
     <string name="tags">Tags</string>
     <string name="incremental">Incremental</string>
     <string name="fingerprint">Fingerprint</string>
     <string name="bootloader">Bootloader</string>
     <string name="selinux" translatable="false">SELinux</string>
     <string name="builder">Builder</string>
+    <string name="supported_features">Device features</string>
     <string name="language">Language</string>
     <string name="timezone">Timezone</string>
 
@@ -192,10 +196,15 @@
     <string name="charge_speed">Charge speed</string>
     <string name="discharge_speed">Discharge speed</string>
 
+    <string name="charge_ac">Charge via AC</string>
+    <string name="charge_usb">Charge via USB</string>
+    <string name="quick_charge">Quick Charge</string>
+
     <string name="thermal_not_found">Thermal sensors not found</string>
 
     <!-- Net -->
     <string name="ip_address" translatable="false">IPv4</string>
+    <string name="ip6_address" translatable="false">IPv6</string>
     <string name="ssid" translatable="false">SSID</string>
     <string name="link_speed">Link speed</string>
     <string name="mac_address" translatable="false">MAC</string>
@@ -228,6 +237,8 @@
     <string name="cpu_load">Load:</string>
     <string name="cpu_core">core</string>
 
+    <string name="gpu_label">GPU</string>
+
     <!-- LCD + Touch Test -->
 
     <string name="lcd_label">LCD</string>
@@ -248,7 +259,8 @@
     <string name="usb_num">Number</string>
     <string name="usb_bus">Device ID</string>
     <string name="usb_ver">Version</string>
-    <string name="usb_not_found">Devices not found</string>
+    <string name="usb_not_found1">Devices:</string>
+    <string name="usb_not_found2">not found</string>
 
     <!-- MTK -->
 
@@ -256,6 +268,7 @@
     <string name="camera_back">Camera Back</string>
     <string name="camera_front">Camera Front</string>
     <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Platform MTK</string>
 
     <!-- Report -->
 

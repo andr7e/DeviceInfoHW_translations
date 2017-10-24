@@ -21,6 +21,7 @@
     <!-- Tabs -->
     <string name="tab_general">Ogólne</string>
     <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitor</string>
     <string name="tab_system">System</string>
     <string name="tab_memory">Pamięć</string>
     <string name="tab_camera">Kamera</string>
@@ -39,6 +40,7 @@
     <string name="tab_system_apps">Aplikacje systemowe</string>
     <string name="tab_camera_supported">Kompatybilne kamery</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
+    <string name="tab_cpu_time">CPU operating time</string>
 
     <!-- Tabs single list -->
 
@@ -74,11 +76,13 @@
 
     <string name="product">Produkt</string>
     <string name="type">Typ</string>
+    <string name="build_type">Build typ</string>
     <string name="tags">Tagi</string>
     <string name="incremental">Przyrost</string>
     <string name="fingerprint">Fingerprint</string>
     <string name="bootloader">Bootloader</string>
     <string name="builder">Builder</string>
+    <string name="supported_features">Device features</string>
     <string name="language">Język</string>
     <string name="timezone">Strefa czasowa</string>
 
@@ -172,6 +176,10 @@
     <string name="charge_speed">Prędkość ładowania</string>
     <string name="discharge_speed">Prędkość rozładowywania</string>
 
+    <string name="charge_ac">Charge via AC</string>
+    <string name="charge_usb">Charge via USB</string>
+    <string name="quick_charge">Quick Charge</string>
+
     <string name="thermal_not_found">Thermal sensors not found</string>
 
     <!-- Net -->
@@ -206,6 +214,8 @@
     <string name="cpu_load">Load:</string>
     <string name="cpu_core">core</string>
 
+    <string name="gpu_label">GPU</string>
+
     <!-- LCD + Touch Test -->
 
     <string name="lcd_label">LCD</string>
@@ -226,7 +236,8 @@
     <string name="usb_num">Number</string>
     <string name="usb_bus">Device ID</string>
     <string name="usb_ver">Version</string>
-    <string name="usb_not_found">Devices not found</string>
+    <string name="usb_not_found1">Devices:</string>
+    <string name="usb_not_found2">not found</string>
 
     <!-- MTK -->
 
@@ -234,6 +245,7 @@
     <string name="camera_back">Tylnia kamera</string>
     <string name="camera_front">Przednia kamera</string>
     <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Platform MTK</string>
 
     <!-- Report -->
 

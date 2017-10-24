@@ -18,6 +18,7 @@
     <!-- Tabs -->
     <string name="tab_general">Общее</string>
     <string name="tab_soc">ЦП</string>
+    <string name="tab_monitor">Монитор</string>
     <string name="tab_system">Система</string>
     <string name="tab_memory">Память</string>
     <string name="tab_camera">Камера</string>
@@ -35,7 +36,8 @@
 
     <string name="tab_system_apps">Системные приложения</string>
     <string name="tab_camera_supported">Поддерживаемые камеры</string>
-    <string name="tab_cpu_monitor">CPU Monitor</string>
+    <string name="tab_cpu_monitor">Монитор ЦП</string>
+    <string name="tab_cpu_time">Время работы ЦП</string>
 
     <!-- Tabs single list -->
 
@@ -71,11 +73,13 @@
 
     <string name="product">Продукт</string>
     <string name="type">Тип</string>
+    <string name="build_type">Тип сборки</string>
     <string name="tags">Теги</string>
     <string name="incremental">Номер</string>
     <string name="fingerprint">Подпись</string>
     <string name="bootloader">Загрузчик</string>
     <string name="builder">Сборщик</string>
+    <string name="supported_features">Функции устройства</string>
     <string name="language">Язык</string>
     <string name="timezone">Часовой пояс</string>
 
@@ -169,6 +173,10 @@
     <string name="charge_speed">Скорость зарядки</string>
     <string name="discharge_speed">Скорость разряда</string>
 
+    <string name="charge_ac">Зарядка по сети</string>
+    <string name="charge_usb">Зарядка по USB</string>
+    <string name="quick_charge">Быстрая зарядка</string>
+
     <string name="thermal_not_found">Датчики температуры не найдены</string>
 
     <!-- Net -->
@@ -202,6 +210,8 @@
     <string name="cpu_load">Загрузка:</string>
     <string name="cpu_core">ядро</string>
 
+    <string name="gpu_label">ГП</string>
+
     <!-- LCD + Touch Test -->
 
     <string name="lcd_label">LCD</string>
@@ -222,7 +232,8 @@
     <string name="usb_num">Номер</string>
     <string name="usb_bus">Идентификатор</string>
     <string name="usb_ver">Версия</string>
-    <string name="usb_not_found">Устройства не найдены</string>
+    <string name="usb_not_found1">Устройства:</string>
+    <string name="usb_not_found2">не найдены</string>
 
     <!-- MTK -->
 
@@ -230,6 +241,7 @@
     <string name="camera_back">Основная камера</string>
     <string name="camera_front">Фронтальная камера</string>
     <string name="mtk_build">Сборка</string>
+    <string name="mtk_platform">Платформа MTK</string>
 
     <!-- Report -->
 
