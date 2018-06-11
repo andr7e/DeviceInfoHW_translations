@@ -60,6 +60,7 @@
 
     <string name="ram">ОЗУ</string>
     <string name="flash">Чип памяти</string>
+    <string name="flash_size">Объем ПЗУ</string>
 
     <string name="sound">Звук</string>
     <string name="fingerprint_sensor">Датчик отпечатка</string>
@@ -91,6 +92,7 @@
     <!-- Components -->
     <string name="lcm">Дисплей</string>
     <string name="touchscreen">Сенсорный экран</string>
+    <string name="touchscreen_key">Сенсорные кнопки</string>
     <string name="other">Другие</string>
     <string name="alsps">Датчик света</string>
     <string name="camera">Камера</string>
@@ -98,6 +100,7 @@
     <string name="charger">ЗУ</string>
 
     <string name="audio">Аудио</string>
+    <string name="ethernet">Сеть</string>
 
     <!-- CPU / GPU -->
     <string name="cpu">ЦП</string>
@@ -155,6 +158,11 @@
     <string name="no">нет</string>
     <string name="mp">МП</string>
     <string name="video_resolution">Видео</string>
+    <string name="focal_length">Фокусное расстояние</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Форматы</string>
+    <string name="camera_size">Размер сенсора</string>
+    <string name="camera_af_modes">Режимы фокусировки</string>
 
     <!-- Battery -->
 
@@ -270,6 +278,9 @@
 
     <string name="pref_title_disable_sysfs_msg">Убрать ошибку sysfs</string>
     <string name="pref_description_disable_sysfs_msg">Отключить сообщение об ошибке чтения sysfs на android 7.0+</string>
+
+    <string name="pref_title_invert_charge_speed">Инвертировать ток батареи</string>
+    <string name="pref_description_invert_charge_speed">Инвертировать скорость заряда / разряда батареи</string>
 
     <!-- Strings related to Message of first install -->
 

@@ -63,6 +63,7 @@
 
     <string name="ram">RAM</string>
     <string name="flash">Flash</string>
+    <string name="flash_size">Flash size</string>
 
     <string name="sound">Dźwięk</string>
     <string name="fingerprint_sensor">Fingerprint</string>
@@ -94,6 +95,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="touchscreen">Ekran dotykowy</string>
+    <string name="touchscreen_key">Touch keys</string>
     <string name="other">Inny</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">Kamera</string>
@@ -101,6 +103,7 @@
     <string name="charger">Ładowarka</string>
 
     <string name="audio">Audio</string>
+    <string name="ethernet">Ethernet</string>
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
@@ -158,6 +161,11 @@
     <string name="no">nie</string>
     <string name="mp">MP</string>
     <string name="video_resolution">Video</string>
+    <string name="focal_length">Focal length</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Image formats</string>
+    <string name="camera_size">Sensor size</string>
+    <string name="camera_af_modes">Focus modes</string>
 
     <!-- Battery -->
 
@@ -274,6 +282,9 @@
 
     <string name="pref_title_disable_sysfs_msg">Disable sysfs error</string>
     <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
+
+    <string name="pref_title_invert_charge_speed">Invert battery current</string>
+    <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
 
     <!-- Strings related to Message of first install -->
 
