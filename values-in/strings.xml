@@ -1,0 +1,350 @@
+<resources>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_about">Tentang</string>
+    <string name="action_info_center">Pusat Informasi</string>
+    <string name="action_screen_test">Pengetesan Layar</string>
+    <string name="action_engineer_menu">Menu Teknisi</string>
+
+    <string name="nav_header_options">Opsi</string>
+    <string name="action_rate_app">Berikan Rating</string>
+    <string name="action_upgrade_to_pro">Upgrade ke versi PRO</string>
+
+    <string name="navigation_drawer_open">Buka drawer navigasi</string>
+    <string name="navigation_drawer_close">Tutup drawer navigasi</string>
+
+    <string name="navigation_description">Daftar tab yang tersedia</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Umum</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitor</string>
+    <string name="tab_system">Sistem</string>
+    <string name="tab_memory">Penyimpanan</string>
+    <string name="tab_camera">Kamera</string>
+    <string name="tab_battery">Baterai</string>
+    <string name="tab_thermal">Suhu</string>
+    <string name="tab_sensors">Sensor</string>
+    <string name="tab_applications">Aplikasi</string>
+    <string name="tab_project">Proyek</string>
+    <string name="tab_drivers">Driver</string>
+    <string name="tab_partitions">Partisi</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">Net</string>
+    <string name="tab_input">Input</string>
+    <string name="tab_usb">USB</string>
+
+    <string name="tab_system_apps">Aplikasi Sistem</string>
+    <string name="tab_camera_supported">Dukungan Kamera</string>
+    <string name="tab_cpu_monitor">CPU Monitor</string>
+    <string name="tab_cpu_time">Lama CPU beroperasi</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">Perangkat</string>
+    <string name="manufacturer">Pabrikan</string>
+    <string name="model">Model</string>
+    <string name="brand">Merek</string>
+    <string name="model_name">Nama model</string>
+
+    <string name="platform">Platform</string>
+    <string name="board">Board</string>
+    <string name="resolution">Resolusi</string>
+
+    <string name="codename">Codename</string>
+
+    <string name="machine_arch">Mesin</string>
+
+    <string name="kernel">Kernel</string>
+
+    <string name="ram">RAM</string>
+    <string name="flash">Flash</string>
+    <string name="flash_size">Ukuran Flash</string>
+
+    <string name="sound">Sound</string>
+    <string name="fingerprint_sensor">Fingerprint</string>
+
+    <string name="baseband">Baseband</string>
+    <string name="serial">Serial</string>
+    <string name="build">Build</string>
+
+    <string name="security">Security</string>
+    <string name="uptime">Waktu hidup</string>
+
+    <string name="product">Produk</string>
+    <string name="type">Tipe</string>
+    <string name="build_type">Tipe build</string>
+    <string name="tags">Tags</string>
+    <string name="incremental">Tambahan</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">Fitur Perangkat</string>
+    <string name="language">Bahasa</string>
+    <string name="timezone">Zona waktu</string>
+
+    <string name="version">Versi</string>
+
+    <string name="enabled">Dihidupkan</string>
+    <string name="disabled">Dimatikan</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="touchscreen">Layar sentuh</string>
+    <string name="touchscreen_key">Tombol layar sentuh</string>
+    <string name="other">Lainnya</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">Kamera</string>
+    <string name="lens_af">AF Lensa</string>
+    <string name="charger">Charger</string>
+
+    <string name="audio">Audio</string>
+    <string name="ethernet">Ethernet</string>
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">Vendor</string>
+
+    <string name="cores">Core</string>
+    <string name="revision">Revisi</string>
+    <string name="family">Famili</string>
+
+    <string name="instructions">Instruksi</string>
+    <string name="clock_speed">Kecepatan Clock</string>
+    <string name="governor">Governor</string>
+
+    <string name="clusters">Cluster</string>
+    <string name="gpu_vendor">Vendor</string>
+    <string name="gpu_model">GPU</string>
+
+    <string name="gpu_clock">Kecepatan Clock</string>
+    <string name="gpu_cufreq">Clock saat ini</string>
+    <string name="gpu_extensions">Ekstensi</string>
+
+    <string name="density">Kerapatan</string>
+    <string name="refresh_rate">Refresh rate</string>
+
+
+    <!-- Sensors -->
+    <string name="test">TES</string>
+    <string name="info">INFO</string>
+
+    <string name="accelerometer">Accelerometer</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="gyroscope">Giroskop</string>
+    <string name="proximity">Proximity</string>
+    <string name="light">Cahaya</string>
+    <string name="pressure">Barometer</string>
+
+    <string name="install_sensor_test_note">Untuk menjalankan tes, silahkan install aplikasi tambahan! </string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Penyimpanan Internal</string>
+    <string name="external_storage">Penyimpanan Eksternal</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Vendor</string>
+    <string name="camera_model">Model</string>
+    <string name="camera_supported">Dukungan</string>
+
+    <string name="software">Software</string>
+    <string name="hardware">Hardware</string>
+
+    <string name="orientation">Orientasi</string>
+    <string name="camera_flash">Flash</string>
+    <string name="yes">ya</string>
+    <string name="no">tidak</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Focal length</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Format gambar</string>
+    <string name="camera_size">Ukuran sensor</string>
+    <string name="camera_af_modes">Mode fokus</string>
+
+    <!-- Battery -->
+
+    <string name="level">Tersisa</string>
+    <string name="health">Kesehatan</string>
+    <string name="status">Status</string>
+
+    <string name="power_source">Sumber tenaga</string>
+    <string name="technology">Teknologi</string>
+    <string name="temperature">Temperatur</string>
+    <string name="voltage">Voltase</string>
+    <string name="power_profile">Profil tenaga</string>
+    <string name="kernel_profile">Profil kernel</string>
+    <string name="battery_model">Model</string>
+    <string name="consumption">Konsumsi daya</string>
+    <string name="charge_speed">Kecepatan pengisian</string>
+    <string name="discharge_speed">Kecepatan pengeluaran daya</string>
+
+    <string name="charge_ac">Pengisian via AC</string>
+    <string name="charge_usb">Pengisian via USB</string>
+    <string name="quick_charge">Pengisian Cepat</string>
+    <string name="thermal_not_found">Sensor suhu tidak ditemukan</string>
+
+    <!-- Net -->
+    <string name="link_speed">Link speed</string>
+    <string name="frequency">Frekuensi</string>
+    <string name="signal">Sinyal</string>
+
+    <!-- SIM -->
+
+    <string name="sim_phone_type">Tipe telepon</string>
+    <string name="sim_operator_name">Operator</string>
+    <string name="sim_operator_code">Kode Operator</string>
+    <string name="sim_country_code">Kode Negara</string>
+    <string name="network_type">Tipe jaringan</string>
+    <string name="sim_state">Posisi SIM</string>
+    <string name="sim_icc_card">ICC card</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Nama</string>
+    <string name="partition_address">Start address</string>
+    <string name="partition_size">Ukuran Partisi</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">hari</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">Load:</string>
+    <string name="cpu_core">core</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">Pengetesan warna LCD</string>
+    <string name="lcd_desc">Cek warna layar dan kecacatan pixel.</string>
+
+    <string name="multitouch_label">Multi-touch</string>
+    <string name="multitouch_info">Pengetesan multi-touch layar sentuh</string>
+    <string name="multitouch_desc">Cek jumlah banyaknya sentuhan.</string>
+
+    <string name="touchdraw_label">Gambar sentuhan</string>
+    <string name="touchdraw_info">Pengetesan gambaran layar sentuh</string>
+    <string name="touchdraw_desc">Cek akurasi dari sentuhan dan area yang mati.</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Jalur</string>
+    <string name="usb_num">Jumlah</string>
+    <string name="usb_bus">ID Perangkat</string>
+    <string name="usb_ver">Versi</string>
+    <string name="usb_not_found1">Perangkat:</string>
+    <string name="usb_not_found2">tidak ditemukan</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Kamera Belakang</string>
+    <string name="camera_front">Kamera Depan</string>
+    <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Platform MTK</string>
+
+    <!-- Report -->
+
+    <string name="firmware">Firmware</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Pengaturan</string>
+
+    <string name="pref_category_general">Umum</string>
+    <string name="pref_category_appearance">Tamppilan</string>
+    <string name="pref_category_other">Lainnya</string>
+
+    <string name="pref_title_set_language">Bahasa</string>
+
+    <string name="language_default">Default</string>
+
+    <string name="pref_title_use_root">Gunakan mode root</string>
+    <string name="pref_description_use_root">Hidupkan informasi lebih</string>
+
+    <string name="pref_title_show_address">Tampilkan alamat i2c</string>
+    <string name="pref_description_show_address">Tampilkan alamat i2c perangkat</string>
+
+    <string name="pref_title_dark_theme">Gunakan tema gelap</string>
+    <string name="pref_description_dark_theme">terapkan tema gelap pada antarmuka</string>
+
+    <string name="pref_title_disable_sysfs_msg">Matikan sysfs error</string>
+    <string name="pref_description_disable_sysfs_msg">Matikan pesan sysfs reading error di android 7.0+</string>
+
+    <string name="pref_title_invert_charge_speed">Balikkan arus baterai</string>
+    <string name="pref_description_invert_charge_speed">Balikkan pengisian baterai / kecepatan penggunaan daya</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">Pesan</string>
+
+    <string name="root_lcm_detect">Deteksi layar membutuhkan akses root!</string>
+    <string name="root_camera_detect">Deteksi kamera biasanya membutuhkan akses root.</string>
+
+    <string name="root_enable_message">Anda dapat menghidupkan ini melalui pengaturan.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">Maaf, defender tidak dapat mengecek validitas aplikasi.\nMohon sambungkan ke koneksi internet dan klik di tombol recheck.</string>
+    <string name="app_recheck">Recheck</string>
+    <string name="app_exit">Keluar</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Maaf, penggunaan tema gratis sudah kadaluarsa!\nIt\'s tersedia di versi PRO.</string>
+
+    <!-- Info center -->
+    <string name="update">Perbarui</string>
+    <string name="updating">Memperbarui</string>
+
+    <string name="upload">Unggah</string>
+
+    <string name="create_report">Buat laporan</string>
+    <string name="create_report_msg">Laporan telah berhasil dibuat!\nLook in</string>
+    <string name="create_report_err">Tidak bisa membuat laporan!</string>
+    <string name="create_report_err_non_pro">Tidak bisa membuat laporan!\nIt\'s tersedia di versi PRO.</string>
+    <string name="create_report_info">Informasi perangkat akan disimpan dalam berkas HTML di folder app data.</string>
+    <string name="create">Buat</string>
+
+    <string name="error">Kesalahan</string>
+    <string name="close">Tutup</string>
+    <string name="open">Buka</string>
+
+    <string name="cpu_codenames_label">Nama kode CPU</string>
+    <string name="cpu_codenames_info">Daftar nama kode CPU</string>
+
+    <string name="update_components_label">Komponen perangkat</string>
+    <string name="update_components_msg">Perbarui aturan pendeteksian database</string>
+    <string name="update_component_msg">Aturan pendeteksian sukses diperbarui. Restart apliksi untuk menerapkan perubahan.</string>
+
+    <string name="upload_info_label">Unggah informasi perangkat</string>
+    <string name="upload_info_text">Hal ini membantu program ini menjadi lebih baik, menambah dukungan perangkat
+        dan pengembang lainnya dapat menemukan perangkat yang sama dan driver yang dibutuhkan.
+        Hasil sudah disimpan di database. Anda dapat melihat di:</string>
+
+    <string name="kernel_analyzer_label">Penganalisa Kernel</string>
+
+    <string name="i2c_viewer_label">perangkat i2c</string>
+    <string name="i2c_viewer_info">daftar perangkat tersambung di i2c bus</string>
+
+    <string name="error_read_sysfs">Maaf, di firmware Anda, pembacaan sysfs telah di-nonaktifkan. Hanya sebagian informasi yang dapat ditampilkan.</string>
+
+    <!-- Floating button -->
+    <string name="action_engineer_mode">Buka menu teknisi</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">versi</string>
+
+    <string name="about_author">pembuat\n
+        Andrey Efremov\n
+        aka andr7e</string>
+
+</resources>

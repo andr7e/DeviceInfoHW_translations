@@ -75,8 +75,8 @@
     <string name="flash_size">Flash size</string>
 
     <string name="wifi" translatable="false">Wi-Fi</string>
-    <string name="fingerprint_sensor">Fingerprint</string>
     <string name="sound">Sound</string>
+    <string name="fingerprint_sensor">Fingerprint</string>
 
     <string name="baseband">Baseband</string>
     <string name="serial">Serial</string>
@@ -309,6 +309,7 @@
         <item>Русский</item>
         <item>Español</item>
         <item>Polski</item>
+        <item>Bahasa Indonesia</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -316,6 +317,7 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
+        <item>4</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>
