@@ -188,6 +188,8 @@
     <string name="camera_formats">Image formats</string>
     <string name="camera_size">Sensor size</string>
     <string name="camera_af_modes">Focus modes</string>
+    <string name="aperture">Aperture</string>
+    <string name="iso" translatable="false">ISO</string>
 
     <!-- Battery -->
 
@@ -334,6 +336,9 @@
 
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+
+    <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
 
     <!-- Strings related to Message of first install -->
 

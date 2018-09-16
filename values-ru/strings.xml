@@ -163,6 +163,7 @@
     <string name="camera_formats">Форматы</string>
     <string name="camera_size">Размер сенсора</string>
     <string name="camera_af_modes">Режимы фокусировки</string>
+    <string name="aperture">Апертура</string>
 
     <!-- Battery -->
 
@@ -281,6 +282,9 @@
 
     <string name="pref_title_invert_charge_speed">Инвертировать ток батареи</string>
     <string name="pref_description_invert_charge_speed">Инвертировать скорость заряда / разряда батареи</string>
+
+    <string name="pref_title_temp_in_f_deg">Температура в &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Показывать температуру в &#xb0;F</string>
 
     <!-- Strings related to Message of first install -->
 

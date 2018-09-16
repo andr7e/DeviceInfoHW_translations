@@ -164,6 +164,7 @@
     <string name="camera_formats">Format gambar</string>
     <string name="camera_size">Ukuran sensor</string>
     <string name="camera_af_modes">Mode fokus</string>
+    <string name="aperture">Aperture</string>
 
     <!-- Battery -->
 
@@ -281,6 +282,9 @@
 
     <string name="pref_title_invert_charge_speed">Balikkan arus baterai</string>
     <string name="pref_description_invert_charge_speed">Balikkan pengisian baterai / kecepatan penggunaan daya</string>
+
+    <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
 
     <!-- Strings related to Message of first install -->
 
