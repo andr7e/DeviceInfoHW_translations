@@ -15,9 +15,6 @@
 
     <string name="navigation_description">Lista dostępnych kart</string>
 
-    <!-- <string name="common">Common</string> -->
-    <!--  <string name="advanced">Advanced</string> -->
-
     <!-- Tabs -->
     <string name="tab_general">Ogólne</string>
     <string name="tab_soc">SoC</string>
@@ -36,6 +33,7 @@
     <string name="tab_net">Sieć</string>
     <string name="tab_input">Urządzenia wejściowe</string>
     <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codecs</string>
 
     <string name="tab_system_apps">Aplikacje systemowe</string>
     <string name="tab_camera_supported">Kompatybilne kamery</string>
@@ -180,6 +178,7 @@
     <string name="voltage">Napięcie</string>
     <string name="power_profile">Profil zasilania</string>
     <string name="kernel_profile">Profil kernela</string>
+    <string name="charged_to">Charged up to</string>
     <string name="battery_model">Model</string>
     <string name="consumption">Rozładowywanie</string>
     <string name="charge_speed">Prędkość ładowania</string>
@@ -193,9 +192,10 @@
 
     <!-- Net -->
     <string name="link_speed">Prędkość</string>
-
     <string name="frequency">Częstotliwość</string>
     <string name="signal">Sygnał</string>
+    <string name="channel">Channel</string>
+    <string name="net_level">Level</string>
 
     <!-- SIM -->
 
@@ -290,12 +290,16 @@
     <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
 
+    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
+    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Wiadomość</string>
 
     <string name="root_lcm_detect">Do wykrycia ekranu potrzebny jest root!</string>
     <string name="root_camera_detect">Do wykrycia kamery potrzebny jest root!</string>
+    <string name="root_hw_detect">For complete information requires root!</string>
 
     <string name="root_enable_message">Możesz włączyć go w ustawieniach.</string>
 
@@ -324,6 +328,8 @@
     <string name="error">Error</string>
     <string name="close">Zamknij</string>
     <string name="open">Otwórz</string>
+    <string name="share">Share</string>
+    <string name="send_to_email">Send to email:</string>
 
     <string name="cpu_codenames_label">Nazwy kodowe CPU</string>
     <string name="cpu_codenames_info">Lista nazw kodowych CPU</string>
@@ -339,8 +345,8 @@
 
     <string name="kernel_analyzer_label">Analizator kernela</string>
 
-    <string name="i2c_viewer_label">Urządzenia i2c</string>
-    <string name="i2c_viewer_info">Lista urządzeń na magistrali i2c</string>
+    <string name="i2c_viewer_label">Lista urządzeń</string>
+    <string name="i2c_viewer_info">Lista urządzeń na magistrali i2c, spi</string>
 
     <string name="error_read_sysfs">Przepraszamy, ale twój firmware czytający sysfs jest wyłączony. Dostępna tylko częściowa informacja.</string>
 

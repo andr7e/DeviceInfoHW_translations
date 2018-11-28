@@ -33,6 +33,7 @@
     <string name="tab_net">Net</string>
     <string name="tab_input">Input</string>
     <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codecs</string>
 
     <string name="tab_system_apps">Aplikasi Sistem</string>
     <string name="tab_camera_supported">Dukungan Kamera</string>
@@ -178,6 +179,7 @@
     <string name="voltage">Voltase</string>
     <string name="power_profile">Profil tenaga</string>
     <string name="kernel_profile">Profil kernel</string>
+    <string name="charged_to">Charged up to</string>
     <string name="battery_model">Model</string>
     <string name="consumption">Konsumsi daya</string>
     <string name="charge_speed">Kecepatan pengisian</string>
@@ -192,6 +194,8 @@
     <string name="link_speed">Link speed</string>
     <string name="frequency">Frekuensi</string>
     <string name="signal">Sinyal</string>
+    <string name="channel">Channel</string>
+    <string name="net_level">Level</string>
 
     <!-- SIM -->
 
@@ -286,12 +290,16 @@
     <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
 
+    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
+    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Pesan</string>
 
     <string name="root_lcm_detect">Deteksi layar membutuhkan akses root!</string>
     <string name="root_camera_detect">Deteksi kamera biasanya membutuhkan akses root.</string>
+    <string name="root_hw_detect">For complete information requires root!</string>
 
     <string name="root_enable_message">Anda dapat menghidupkan ini melalui pengaturan.</string>
 
@@ -320,6 +328,8 @@
     <string name="error">Kesalahan</string>
     <string name="close">Tutup</string>
     <string name="open">Buka</string>
+    <string name="share">Share</string>
+    <string name="send_to_email">Send to email:</string>
 
     <string name="cpu_codenames_label">Nama kode CPU</string>
     <string name="cpu_codenames_info">Daftar nama kode CPU</string>
@@ -335,8 +345,8 @@
 
     <string name="kernel_analyzer_label">Penganalisa Kernel</string>
 
-    <string name="i2c_viewer_label">perangkat i2c</string>
-    <string name="i2c_viewer_info">daftar perangkat tersambung di i2c bus</string>
+    <string name="i2c_viewer_label">Daftar perangkat</string>
+    <string name="i2c_viewer_info">daftar perangkat tersambung di i2c, spi bus</string>
 
     <string name="error_read_sysfs">Maaf, di firmware Anda, pembacaan sysfs telah di-nonaktifkan. Hanya sebagian informasi yang dapat ditampilkan.</string>
 

@@ -33,6 +33,7 @@
     <string name="tab_net">Сеть</string>
     <string name="tab_input">Устройства ввода</string>
     <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Кодеки</string>
 
     <string name="tab_system_apps">Системные приложения</string>
     <string name="tab_camera_supported">Поддерживаемые камеры</string>
@@ -167,7 +168,7 @@
 
     <!-- Battery -->
 
-    <string name="level">Заряд</string>
+    <string name="level">Уровень заряда</string>
     <string name="health">Состояние</string>
     <string name="status">Статус</string>
 
@@ -177,6 +178,7 @@
     <string name="voltage">Напряжение</string>
     <string name="power_profile">Профиль системы</string>
     <string name="kernel_profile">Профиль ядра</string>
+    <string name="charged_to">Заряжено до</string>
     <string name="battery_model">Модель</string>
     <string name="consumption">Потребление</string>
     <string name="charge_speed">Скорость зарядки</string>
@@ -192,6 +194,8 @@
     <string name="link_speed">Скорость</string>
     <string name="frequency">Частота</string>
     <string name="signal">Сигнал</string>
+    <string name="channel">Канал</string>
+    <string name="net_level">Уровень</string>
 
     <!-- SIM -->
 
@@ -286,12 +290,16 @@
     <string name="pref_title_temp_in_f_deg">Температура в &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Показывать температуру в &#xb0;F</string>
 
+    <string name="pref_title_detect_therm_zones">Названия датчиков температуры</string>
+    <string name="pref_description_detect_therm_zones">Определять названия датчиков температуры (root)</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Сообщение</string>
 
     <string name="root_lcm_detect">Для определения дисплея может потребоваться root!</string>
     <string name="root_camera_detect">Для определения камеры может потребоваться root!</string>
+    <string name="root_hw_detect">Для получения полной информации нужен root!</string>
 
     <string name="root_enable_message">Вы можете разрешить его в настройках.</string>
 
@@ -320,6 +328,8 @@
     <string name="error">Ошибка</string>
     <string name="close">Закрыть</string>
     <string name="open">Открыть</string>
+    <string name="share">Отправить</string>
+    <string name="send_to_email">Отправить на почту:</string>
 
     <string name="cpu_codenames_label">Кодовые имена ЦП</string>
     <string name="cpu_codenames_info">Список кодовых имен ЦП</string>
@@ -333,8 +343,8 @@
 
     <string name="kernel_analyzer_label">Анализатор ядра</string>
 
-    <string name="i2c_viewer_label">Устройства i2c</string>
-    <string name="i2c_viewer_info">Список устройств на шине i2c</string>
+    <string name="i2c_viewer_label">Список устройств</string>
+    <string name="i2c_viewer_info">Устройства на шине i2c, spi</string>
 
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>
 

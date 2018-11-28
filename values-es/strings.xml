@@ -33,6 +33,7 @@
     <string name="tab_net">Red</string>
     <string name="tab_input">Entrada</string>
     <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codecs</string>
 
     <string name="tab_system_apps">Aplicaciones del sistema</string>
     <string name="tab_camera_supported">Cámaras compatibles</string>
@@ -105,11 +106,9 @@
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">Fabricante</string>
-
     <string name="cores">Cores</string>
     <string name="revision">Revisión</string>
     <string name="family">Familia</string>
-
     <string name="instructions">Instrucciones</string>
     <string name="clock_speed">Frecuencia del reloj</string>
     <string name="governor">Governor</string>
@@ -124,7 +123,6 @@
 
     <string name="density">Densidad</string>
     <string name="refresh_rate">Frecuencia de refresco</string>
-
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -178,6 +176,7 @@
     <string name="voltage">Voltaje</string>
     <string name="power_profile">Perfil del sistema</string>
     <string name="kernel_profile">Perfil del kernel</string>
+    <string name="charged_to">Charged up to</string>
     <string name="battery_model">Modelo</string>
     <string name="consumption">Consumo</string>
     <string name="charge_speed">Velocidad de recarga</string>
@@ -186,6 +185,7 @@
     <string name="charge_ac">Charge via AC</string>
     <string name="charge_usb">Charge via USB</string>
     <string name="quick_charge">Quick Charge</string>
+
     <string name="thermal_not_found">Thermal sensors not found</string>
 
     <!-- Net -->
@@ -193,6 +193,8 @@
     <string name="link_speed">Ancho de banda</string>
     <string name="frequency">Frecuencia</string>
     <string name="signal">Señal</string>
+    <string name="channel">Channel</string>
+    <string name="net_level">Level</string>
 
     <!-- SIM -->
 
@@ -287,12 +289,16 @@
     <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
 
+    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
+    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Mensaje</string>
 
     <string name="root_lcm_detect">¡Detección de pantalla necesita root!</string>
     <string name="root_camera_detect">¡Detección de cámara necesitan root!</string>
+    <string name="root_hw_detect">For complete information requires root!</string>
 
     <string name="root_enable_message">Puedes activarlo en ajustes.</string>
 
@@ -321,6 +327,8 @@
     <string name="error">Error</string>
     <string name="close">Cerrar</string>
     <string name="open">Abrir</string>
+    <string name="share">Share</string>
+    <string name="send_to_email">Send to email:</string>
 
     <string name="cpu_codenames_label">Nombre clave CPU</string>
     <string name="cpu_codenames_info">Listado de nombres clave CPU</string>
@@ -336,8 +344,8 @@
 
     <string name="kernel_analyzer_label">Analizador de Kernel</string>
 
-    <string name="i2c_viewer_label">Dispositivos i2c</string>
-    <string name="i2c_viewer_info">Lista de dispositivos en el bus i2c</string>
+    <string name="i2c_viewer_label">Lista de dispositivos</string>
+    <string name="i2c_viewer_info">Lista de dispositivos en el bus i2c, spi</string>
 
     <string name="error_read_sysfs">Lo siento, pero tu lector de sysfs firmware esta deshabilitado, solo información parcial esta disponible.</string>
 

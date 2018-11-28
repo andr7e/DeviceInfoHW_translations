@@ -38,6 +38,7 @@
     <string name="tab_net">Net</string>
     <string name="tab_input">Input</string>
     <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codecs</string>
 
     <string name="tab_system_apps">System Applications</string>
     <string name="tab_camera_supported">Supported cameras</string>
@@ -203,6 +204,7 @@
     <string name="voltage">Voltage</string>
     <string name="power_profile">Power profile</string>
     <string name="kernel_profile">Kernel profile</string>
+    <string name="charged_to">Charged up to</string>
     <string name="battery_model">Model</string>
     <string name="consumption">Consumption</string>
     <string name="charge_speed">Charge speed</string>
@@ -222,6 +224,8 @@
     <string name="mac_address" translatable="false">MAC</string>
     <string name="frequency">Frequency</string>
     <string name="signal">Signal</string>
+    <string name="channel">Channel</string>
+    <string name="net_level">Level</string>
 
     <!-- SIM -->
     <string name="sim_label" translatable="false">SIM</string>
@@ -312,6 +316,7 @@
         <item>Español</item>
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
+        <item>Magyar</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -320,6 +325,7 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+        <item>5</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>
@@ -340,6 +346,9 @@
     <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
 
+    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
+    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="ok" translatable="false">OK</string>
@@ -348,6 +357,7 @@
 
     <string name="root_lcm_detect">Display detection needs root!</string>
     <string name="root_camera_detect">Camera detection usually needs root!</string>
+    <string name="root_hw_detect">For complete information requires root!</string>
 
     <string name="root_enable_message">You can enable it in the settings.</string>
 
@@ -376,6 +386,8 @@
     <string name="error">Error</string>
     <string name="close">Close</string>
     <string name="open">Open</string>
+    <string name="share">Share</string>
+    <string name="send_to_email">Send to email:</string>
 
     <string name="cpu_codenames_label">CPU codenames</string>
     <string name="cpu_codenames_info">List of CPU codenames</string>
@@ -391,8 +403,8 @@
 
     <string name="kernel_analyzer_label">Kernel Analyzer</string>
 
-    <string name="i2c_viewer_label">i2c devices</string>
-    <string name="i2c_viewer_info">List of devices on the i2c bus</string>
+    <string name="i2c_viewer_label">Device list</string>
+    <string name="i2c_viewer_info">Devices on the i2c, spi bus</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
 
