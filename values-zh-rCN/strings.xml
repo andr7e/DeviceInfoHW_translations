@@ -284,7 +284,7 @@
     <string name="camera_back">后置相机</string>
     <string name="camera_front">前置相机</string>
     <string name="mtk_build">版本号</string>
-    <string name="mtk_platform">平台MTK</string>
+    <string name="mtk_platform">MTK平台</string>
 
     <!-- Report -->
 
@@ -317,7 +317,7 @@
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
-		<item>中文（简体）</item>
+	<item>中文（简体）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -327,7 +327,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-		<item>6</item>
+	<item>6</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
@@ -419,7 +419,7 @@
 
     <string name="about_author">作者\n
         Andrey Efremov\n
-        又名 andr7e\n翻译\n酷安ID：yaxisvip</string>
+        又名 andr7e\n翻译\nCoolapk ID：yaxisvip\n\n水平有限，如翻译有误，请及时在酷安私信与我联系</string>
 
     <string name="about_bottom" translatable="false">(c) 2016 - 2018</string>
 
