@@ -126,7 +126,7 @@
     <string name="cpu_vendor">供应商</string>
     <string name="soc" translatable="false">系统芯片</string>
     <string name="cores">核心数</string>
-    <string name="revision">分辨率</string>
+    <string name="revision">修订版本</string>
     <string name="family">家族</string>
     <string name="abi" translatable="false">ABI</string>
     <string name="instructions">指令</string>
@@ -182,7 +182,7 @@
     <string name="camera_flash">闪光灯</string>
     <string name="yes">是</string>
     <string name="no">否</string>
-    <string name="mp">百万像素</string>
+    <string name="mp">MP</string>
     <string name="video_resolution">视频</string>
     <string name="focal_length">焦距</string>
     <string name="camera2_api">Camera2 API</string>
@@ -364,8 +364,8 @@
     <string name="root_enable_message">您可以在设置中启用它。</string>
 
     <!-- Defender -->
-    <string name="app_defender">App防守者</string>
-    <string name="app_defender_msg">对不起，但是后卫无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">对不起，App Defenger无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
     <string name="app_recheck">重新检查</string>
     <string name="app_exit">退出</string>
 
