@@ -124,7 +124,7 @@
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">供应商</string>
-    <string name="soc" translatable="false">系统芯片</string>
+    <string name="soc" translatable="false">芯片</string>
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
