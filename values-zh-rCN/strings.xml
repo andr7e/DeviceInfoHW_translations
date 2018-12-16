@@ -128,8 +128,8 @@
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
-    <string name="abi" translatable="false">ABI</string>
-    <string name="instructions">指令</string>
+    <string name="abi" translatable="false">指令集</string>
+    <string name="instructions">说明</string>
     <string name="clock_speed">时钟速度</string>
     <string name="governor">调频器</string>
     <string name="big_little" translatable="false">big.LITTLE</string>
