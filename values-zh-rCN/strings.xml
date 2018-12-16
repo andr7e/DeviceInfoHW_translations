@@ -28,7 +28,7 @@
     <string name="tab_memory">内存</string>
     <string name="tab_camera">相机</string>
     <string name="tab_battery">电池</string>
-    <string name="tab_thermal">温控</string>
+    <string name="tab_thermal">温度</string>
     <string name="tab_sensors">传感器</string>
     <string name="tab_applications">应用程序</string>
     <string name="tab_project">Project</string>
@@ -64,7 +64,7 @@
     <string name="api" translatable="false">API</string>
     <string name="codename">开发代号</string>
 
-    <string name="machine_arch">机器</string>
+    <string name="machine_arch">指令集</string>
 
     <string name="kernel">内核</string>
 
@@ -105,7 +105,7 @@
     <string name="disabled">禁用</string>
 
     <!-- Components -->
-    <string name="lcm">LCM</string>
+    <string name="lcm">显示屏</string>
     <string name="touchscreen">触摸屏</string>
     <string name="touchscreen_key">触摸键</string>
     <string name="other">其他</string>
@@ -220,7 +220,7 @@
     <string name="ip_address" translatable="false">IPv4</string>
     <string name="ip6_address" translatable="false">IPv6</string>
     <string name="ssid" translatable="false">SSID</string>
-    <string name="link_speed">链接速度</string>
+    <string name="link_speed">连接速度</string>
     <string name="mac_address" translatable="false">MAC</string>
     <string name="frequency">频率</string>
     <string name="signal">信号</string>
@@ -334,7 +334,7 @@
     <string name="pref_description_use_root">启用更多信息</string>
 
     <string name="pref_title_show_address">显示I2C地址</string>
-    <string name="	">显示设备I2C地址</string>
+    <string name="	">显示驱动I2C地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主题</string>
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
@@ -342,8 +342,8 @@
     <string name="pref_title_disable_sysfs_msg">禁用sysfs错误</string>
     <string name="pref_description_disable_sysfs_msg">在android 7.0+上禁用sysfs读取错误消息</string>
 
-    <string name="pref_title_invert_charge_speed">反转电池电流</string>
-    <string name="pref_description_invert_charge_speed">反转电池充电 / 放电速度</string>
+    <string name="pref_title_invert_charge_speed">反向电池电流</string>
+    <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
 
     <string name="pref_title_temp_in_f_deg">温度在 &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
@@ -357,7 +357,7 @@
 
     <string name="first_install_title">信息</string>
 
-    <string name="root_lcm_detect">显示检测需要Root！</string>
+    <string name="root_lcm_detect">显示屏检测需要Root！</string>
     <string name="root_camera_detect">相机检测通常需要Root！</string>
     <string name="root_hw_detect">完整信息需要Root！</string>
 
