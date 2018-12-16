@@ -144,7 +144,7 @@
     <string name="density">密度</string>
     <string name="refresh_rate">刷新率</string>
 
-    <string name="cmdline" translatable="false">对角线</string>
+    <string name="cmdline" translatable="false">Cmdline</string>
 
     <!-- Sensors -->
     <string name="test">测试</string>
