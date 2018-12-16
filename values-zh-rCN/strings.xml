@@ -64,7 +64,7 @@
     <string name="api" translatable="false">API</string>
     <string name="codename">开发代号</string>
 
-    <string name="machine_arch">指令集</string>
+    <string name="machine_arch">Machine</string>
 
     <string name="kernel">内核</string>
 
