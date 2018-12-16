@@ -334,7 +334,7 @@
     <string name="pref_description_use_root">启用更多信息</string>
 
     <string name="pref_title_show_address">显示I2C地址</string>
-    <string name="	">显示驱动I2C地址</string>
+    <string name="pref_description_show_address">显示驱动I2C地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主题</string>
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
