@@ -59,7 +59,7 @@
 
     <string name="kernel">内核</string>
 
-    <string name="ram">RAM</string>
+    <string name="ram">运行内存</string>
     <string name="flash">闪存</string>
     <string name="flash_size">闪存大小</string>
 
@@ -239,7 +239,7 @@
     <!-- USB -->
 
     <string name="usb_path">路径</string>
-    <string name="usb_num">Number</string>
+    <string name="usb_num">编号</string>
     <string name="usb_bus">设备ID</string>
     <string name="usb_ver">版本</string>
     <string name="usb_not_found1">设备:</string>
@@ -356,7 +356,6 @@
 
     <string name="about_author">作者\n
         Andrey Efremov\n
-        又名 andr7e
-        <!-- \n翻译\nCoolapk ID：yaxisvip\n\n水平有限，如翻译有误，请及时在酷安私信与我联系 --></string>
+        又名 andr7e</string>
 
 </resources>

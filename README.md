@@ -5,6 +5,6 @@
 * Polish: Radek Strycharz
 * Indonesian: Bagas Pinantau
 * Hungarian: Oreg Robert
-* Simplified Chinese: Lester Chan (@yaxisvip)
+* Simplified Chinese: Lester Chan (yaxisvip)
 
 ```
