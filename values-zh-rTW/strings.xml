@@ -9,7 +9,7 @@
     <string name="action_engineer_menu">工程菜單</string>
 
     <string name="nav_header_options">選項</string>
-    <string name="action_rate_app">應用評分</string>
+    <string name="action_rate_app">評價應用</string>
     <string name="action_upgrade_to_pro">升級到PRO版</string>
 
     <string name="navigation_drawer_open">打開導航抽屜</string>
@@ -58,7 +58,7 @@
 
     <string name="platform">平台</string>
     <string name="board">主板</string>
-    <string name="resolution">分辨率</string>
+    <string name="resolution">解析度</string>
 
     <string name="android" translatable="false">Android</string>
     <string name="api" translatable="false">API</string>
@@ -68,8 +68,8 @@
 
     <string name="kernel">內核</string>
 
-    <string name="ram">內存</string>
-    <string name="kram">內存(內核)</string>
+    <string name="ram">記憶體</string>
+    <string name="kram">記憶體(內核)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">閃存</string>
     <string name="scsi" translatable="false">SCSI</string>
@@ -162,7 +162,7 @@
 
     <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
     <string name="sensor_app_name" translatable="false">Sensor Test</string>
-    <string name="install_sensor_test_note">請安裝使用此菜單的應用程序！ </string>
+    <string name="install_sensor_test_note">請安裝使用此菜單的應用程序！</string>
 
     <!-- Memory -->
 
