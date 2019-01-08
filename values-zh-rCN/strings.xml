@@ -318,6 +318,7 @@
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
 	<item>中文（简体）</item>
+	<item>中文（繁体）</item> 
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -328,6 +329,7 @@
         <item>4</item>
         <item>5</item>
 	<item>6</item>
+	<item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
@@ -340,7 +342,7 @@
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
 
     <string name="pref_title_disable_sysfs_msg">禁用sysfs错误</string>
-    <string name="pref_description_disable_sysfs_msg">在android 7.0+上禁用sysfs读取错误消息</string>
+    <string name="pref_description_disable_sysfs_msg">在Android 7.0+上禁用sysfs读取错误消息</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
@@ -382,7 +384,7 @@
     <string name="create_report_msg">报告已成功创建！\nLook in</string>
     <string name="create_report_err">无法创建报告！</string>
     <string name="create_report_err_non_pro">无法创建报告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">设备信息将保存在app data文件夹中的html文件中。</string>
+    <string name="create_report_info">设备信息将保存在app data文件夹内的html文件中。</string>
     <string name="create">创建</string>
 
     <string name="error">错误</string>
