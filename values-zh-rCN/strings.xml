@@ -46,7 +46,7 @@
     <string name="tab_cpu_time">CPU运行时间</string>
 
     <!-- Tabs single list -->
-    <string name="system_apps" translatable="false">系统应用</string>
+    <string name="system_apps" translatable="false">System Applications</string>
     <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
 
     <!-- Menu -->
