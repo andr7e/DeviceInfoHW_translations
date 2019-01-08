@@ -91,7 +91,7 @@
     <string name="build_type">构建类型</string>
     <string name="tags">标签</string>
     <string name="incremental">增量版本</string>
-    <string name="fingerprint">Fingerprint</string>
+    <string name="fingerprint" translatable="false">Fingerprint</string>
     <string name="bootloader">引导程序</string>
     <string name="selinux" translatable="false">SELinux</string>
     <string name="builder">构建者</string>
