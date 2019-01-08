@@ -76,7 +76,7 @@
     <string name="flash_size">閃存大小</string>
 
     <string name="wifi" translatable="false">Wi-Fi</string>
-    <string name="sound">​​聲卡</string>
+    <string name="sound">聲卡</string>
     <string name="fingerprint_sensor">指紋</string>
 
     <string name="baseband">基帶</string>
@@ -214,7 +214,7 @@
     <string name="charge_usb">通過USB充電</string>
     <string name="quick_charge">快速充電</string>
 
-    <string name="thermal_not_found">​​找不到溫度傳感器</string>
+    <string name="thermal_not_found">找不到溫度傳感器</string>
 
     <!-- Net -->
     <string name="ip_address" translatable="false">IPv4</string>
@@ -284,7 +284,7 @@
     <string name="camera_back">後置相機</string>
     <string name="camera_front">前置相機</string>
     <string name="mtk_build">版本號</string>
-    <string name="mtk_platform"> MTK平台</string>
+    <string name="mtk_platform">MTK平台</string>
 
     <!-- Report -->
 
@@ -317,8 +317,8 @@
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
-		<item>中文（简体）</item>
-		<item>中文（繁體）</item>
+	<item>中文（简体）</item>
+	<item>中文（繁體）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -328,8 +328,8 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-		<item>6</item>
-		<item>7</item>
+	<item>6</item>
+	<item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root </string>
@@ -367,12 +367,12 @@
 
     <!-- Defender -->
     <string name="app_defender"> App Defender </string>
-    <string name="app_defender_msg">抱歉，App Defenger無法檢查應用程序的有效性。\ n請連接到互聯網並單擊重新檢查。</string>
+    <string name="app_defender_msg">抱歉，App Defenger無法檢查應用程序的有效性。\n請連接到互聯網並單擊重新檢查。</string>
     <string name="app_recheck">重新檢查</string>
     <string name="app_exit">退出</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">抱歉，免費使用主題已過期！\ n它在PRO版中可用。</string>
+    <string name="using_theme_expired_non_pro">抱歉，免費使用主題已過期！\n它在PRO版中可用。</string>
 
     <!-- Info center -->
     <string name="update">更新</string>
@@ -381,9 +381,9 @@
     <string name="upload">上傳</string>
 
     <string name="create_report">創建報告</string>
-    <string name="create_report_msg">報告已成功創建！\ nLook in </string>
+    <string name="create_report_msg">報告已成功創建！\nLook in </string>
     <string name="create_report_err">無法創建報告！</string>
-    <string name="create_report_err_non_pro">無法創建報告！\ n它在PRO版本中可用。</string>
+    <string name="create_report_err_non_pro">無法創建報告！\n它在PRO版本中可用。</string>
     <string name="create_report_info">設備信息將保存在app data文件夾內的html文件中。</string>
     <string name="create">創建</string>
 
