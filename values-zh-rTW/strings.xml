@@ -31,7 +31,7 @@
     <string name="tab_thermal">溫度</string>
     <string name="tab_sensors">傳感器</string>
     <string name="tab_applications">應用程序</string>
-    <string name="tab_project">Project</string>
+    <string name="tab_project" translatable="false">Project</string>
     <string name="tab_drivers">驅動</string>
     <string name="tab_partitions">分區</string>
     <string name="tab_pmic">電源管理IC</string>
@@ -64,7 +64,7 @@
     <string name="api" translatable="false">API</string>
     <string name="codename">開發代號</string>
 
-    <string name="machine_arch">Machine</string>
+    <string name="machine_arch" translatable="false">Machine</string>
 
     <string name="kernel">內核</string>
 
@@ -124,7 +124,7 @@
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">供應商</string>
-    <string name="soc"芯片</string>
+    <string name="soc">芯片</string>
     <string name="cores">核心數</string>
     <string name="revision">修訂版本</string>
     <string name="family">架構</string>
@@ -182,7 +182,7 @@
     <string name="camera_flash">閃光燈</string>
     <string name="yes">是</string>
     <string name="no">否</string>
-    <string name="mp">MP</string>
+    <string name="mp" translatable="false">MP</string>
     <string name="video_resolution">視頻</string>
     <string name="focal_length">焦距</string>
     <string name="camera2_api">Camera2 API</string>
@@ -249,11 +249,11 @@
 
     <!-- CPU Monitor -->
 
-    <string name="cpu_label">CPU</string>
+    <string name="cpu_label" translatable="false">CPU</string>
     <string name="cpu_load">負載:</string>
     <string name="cpu_core">核心數</string>
 
-    <string name="gpu_label">GPU</string>
+    <string name="gpu_label" translatable="false">GPU</string>
 
     <!-- LCD + Touch Test -->
 
