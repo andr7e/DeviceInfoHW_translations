@@ -76,7 +76,7 @@
     <string name="flash_size">閃存大小</string>
 
     <string name="wifi" translatable="false">Wi-Fi</string>
-    <string name="sound">​​聲卡</string>
+    <string name="sound">聲卡</string>
     <string name="fingerprint_sensor">指紋</string>
 
     <string name="baseband">基帶</string>
@@ -214,7 +214,7 @@
     <string name="charge_usb">通過USB充電</string>
     <string name="quick_charge">快速充電</string>
 
-    <string name="thermal_not_found">​​找不到溫度傳感器</string>
+    <string name="thermal_not_found">找不到溫度傳感器</string>
 
     <!-- Net -->
     <string name="ip_address" translatable="false">IPv4</string>
@@ -317,8 +317,8 @@
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
-		<item>中文（简体）</item>
-		<item>中文（繁體）</item>
+	<item>中文（简体）</item>
+	<item>中文（繁體）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -328,8 +328,8 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-		<item>6</item>
-		<item>7</item>
+	<item>6</item>
+	<item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root </string>
