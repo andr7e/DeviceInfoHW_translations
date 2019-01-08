@@ -1,315 +1,315 @@
 <resources>
-    <string name="app_name" translatable="false">Device Info HW</string>
-    <string name="app_name_title" translatable="false">Device Info HW</string>
-
-    <string name="action_settings">Settings</string>
-    <string name="action_about">About</string>
-    <string name="action_info_center">Info сenter</string>
-    <string name="action_screen_test">Screen Test</string>
-    <string name="action_engineer_menu">Engineering menu</string>
-
-    <string name="nav_header_options">Options</string>
-    <string name="action_rate_app">Rate App</string>
-    <string name="action_upgrade_to_pro">Upgrade to PRO</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
-    <string name="navigation_description">List of available tabs</string>
-
-    <!-- <string name="common">Common</string> -->
-    <!--  <string name="advanced">Advanced</string> -->
-
-    <!-- Tabs -->
-    <string name="tab_general">General</string>
-    <string name="tab_soc">SoC</string>
-    <string name="tab_monitor">Monitor</string>
-    <string name="tab_system">System</string>
-    <string name="tab_memory">Memory</string>
-    <string name="tab_camera">Camera</string>
-    <string name="tab_battery">Battery</string>
-    <string name="tab_thermal">Thermal</string>
-    <string name="tab_sensors">Sensors</string>
-    <string name="tab_applications">Applications</string>
-    <string name="tab_project">Project</string>
-    <string name="tab_drivers">Drivers</string>
-    <string name="tab_partitions">Partitions</string>
-    <string name="tab_pmic">PMIC</string>
-    <string name="tab_net">Net</string>
-    <string name="tab_input">Input</string>
-    <string name="tab_usb">USB</string>
-    <string name="tab_codecs">Codecs</string>
-
-    <string name="tab_system_apps">System Applications</string>
-    <string name="tab_camera_supported">Supported cameras</string>
-    <string name="tab_cpu_monitor">CPU Monitor</string>
-    <string name="tab_cpu_time">CPU operating time</string>
-
-    <!-- Tabs single list -->
-    <string name="system_apps" translatable="false">System Applications</string>
-    <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
-
-    <!-- Menu -->
-    <string name="device">Device</string>
-    <string name="manufacturer">Manufacturer</string>
-    <string name="model">Model</string>
-    <string name="brand">Brand</string>
-    <string name="model_name">Model name</string>
-
-    <string name="platform">Platform</string>
-    <string name="board">Board</string>
-    <string name="resolution">Resolution</string>
-
-    <string name="android" translatable="false">Android</string>
-    <string name="api" translatable="false">API</string>
-    <string name="codename">Codename</string>
-
-    <string name="machine_arch">Machine</string>
-
-    <string name="kernel">Kernel</string>
-
-    <string name="ram">RAM</string>
-    <string name="kram" translatable="false">RAM (kernel)</string>
-    <string name="zram" translatable="false">SWAP</string>
-    <string name="flash">Flash</string>
-    <string name="scsi" translatable="false">SCSI</string>
-    <string name="flash_size">Flash size</string>
-
-    <string name="wifi" translatable="false">Wi-Fi</string>
-    <string name="sound">Sound</string>
-    <string name="fingerprint_sensor">Fingerprint</string>
-
-    <string name="baseband">Baseband</string>
-    <string name="serial">Serial</string>
-    <string name="build">Build</string>
-    <string name="java_vm" translatable="false">Java VM</string>
-    <string name="security">Security</string>
-    <string name="uptime">Uptime</string>
-
-    <string name="product">Product</string>
-    <string name="type">Type</string>
-    <string name="build_type">Build type</string>
-    <string name="tags">Tags</string>
-    <string name="incremental">Incremental</string>
-    <string name="fingerprint">Fingerprint</string>
-    <string name="bootloader">Bootloader</string>
-    <string name="selinux" translatable="false">SELinux</string>
-    <string name="builder">Builder</string>
-    <string name="supported_features">Device features</string>
-    <string name="language">Language</string>
-    <string name="timezone">Timezone</string>
-
-    <string name="version">Version</string>
-
-    <string name="enabled">Enabled</string>
-    <string name="disabled">Disabled</string>
-
-    <!-- Components -->
-    <string name="lcm">LCM</string>
-    <string name="touchscreen">Touchscreen</string>
-    <string name="touchscreen_key">Touch keys</string>
-    <string name="other">Other</string>
-    <string name="alsps">Als/ps</string>
-    <string name="camera">Camera</string>
-    <string name="lens_af">Lens AF</string>
-    <string name="charger">Charger</string>
-    <string name="usb_typec" translatable="false">USB Type-C</string>
-    <string name="pmic" translatable="false">PMIC</string>
-    <string name="rtc" translatable="false">RTC</string>
-    <string name="nfc" translatable="false">NFC</string>
-    <string name="audio">Audio</string>
-    <string name="ethernet">Ethernet</string>
-
-
-    <!-- CPU / GPU -->
-    <string name="cpu">CPU</string>
-    <string name="cpu_vendor">Vendor</string>
-    <string name="soc" translatable="false">SoC</string>
-    <string name="cores">Cores</string>
-    <string name="revision">Revision</string>
-    <string name="family">Family</string>
-    <string name="abi" translatable="false">ABI</string>
-    <string name="instructions">Instructions</string>
-    <string name="clock_speed">Clock speed</string>
-    <string name="governor">Governor</string>
-    <string name="big_little" translatable="false">big.LITTLE</string>
-    <string name="clusters">Clusters</string>
-    <string name="gpu_vendor">Vendor</string>
-    <string name="gpu_model">GPU</string>
-    <string name="gl_version" translatable="false">OpenGL ES</string>
-    <string name="gpu_clock">Clock speed</string>
-    <string name="gpu_cufreq">Current clock</string>
-    <string name="gpu_extensions">Extensions</string>
-
-    <string name="density">Density</string>
-    <string name="refresh_rate">Refresh rate</string>
-
-    <string name="cmdline" translatable="false">Cmdline</string>
-
-    <!-- Sensors -->
-    <string name="test">TEST</string>
-    <string name="info">INFO</string>
-
-    <string name="led" translatable="false">•</string>
-
-    <string name="accelerometer">Accelerometer</string>
-    <string name="magnetometer">Magnetometer</string>
-    <string name="gyroscope">Gyroscope</string>
-    <string name="proximity">Proximity</string>
-    <string name="light">Light</string>
-    <string name="pressure">Barometer</string>
-    <string name="accel_gyro" translatable="false">Accel + Gyro</string>
-
-    <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
-    <string name="sensor_app_name" translatable="false">Sensor Test</string>
-    <string name="install_sensor_test_note">Please install application for working this menu! </string>
-
-    <!-- Memory -->
-
-    <string name="internal_storage">Internal Storage</string>
-    <string name="external_storage">External Storage</string>
-
-    <!-- Camera -->
-
-    <string name="camera_vendor">Vendor</string>
-    <string name="camera_model">Model</string>
-    <string name="camera_supported">Supported</string>
-
-    <string name="software">Software</string>
-    <string name="hardware">Hardware</string>
-
-    <string name="orientation">Orientation</string>
-    <string name="camera_flash">Flash</string>
-    <string name="yes">yes</string>
-    <string name="no">no</string>
-    <string name="mp">MP</string>
-    <string name="video_resolution">Video</string>
-    <string name="focal_length">Focal length</string>
-    <string name="camera2_api">Camera2 API</string>
-    <string name="camera_formats">Image formats</string>
-    <string name="camera_size">Sensor size</string>
-    <string name="camera_af_modes">Focus modes</string>
-    <string name="aperture">Aperture</string>
-    <string name="iso" translatable="false">ISO</string>
-
-    <!-- Battery -->
-
-    <string name="level">Level</string>
-    <string name="health">Health</string>
-    <string name="status">Status</string>
-
-    <string name="power_source">Power source</string>
-    <string name="technology">Technology</string>
-    <string name="temperature">Temperature</string>
-    <string name="voltage">Voltage</string>
-    <string name="power_profile">Power profile</string>
-    <string name="kernel_profile">Kernel profile</string>
-    <string name="charged_to">Charged up to</string>
-    <string name="battery_model">Model</string>
-    <string name="consumption">Consumption</string>
-    <string name="charge_speed">Charge speed</string>
-    <string name="discharge_speed">Discharge speed</string>
-
-    <string name="charge_ac">Charge via AC</string>
-    <string name="charge_usb">Charge via USB</string>
-    <string name="quick_charge">Quick Charge</string>
-
-    <string name="thermal_not_found">Thermal sensors not found</string>
-
-    <!-- Net -->
-    <string name="ip_address" translatable="false">IPv4</string>
-    <string name="ip6_address" translatable="false">IPv6</string>
-    <string name="ssid" translatable="false">SSID</string>
-    <string name="link_speed">Link speed</string>
-    <string name="mac_address" translatable="false">MAC</string>
-    <string name="frequency">Frequency</string>
-    <string name="signal">Signal</string>
-    <string name="channel">Channel</string>
-    <string name="net_level">Level</string>
-
-    <!-- SIM -->
-    <string name="sim_label" translatable="false">SIM</string>
-    <string name="sim_phone_type">Phone type</string>
-    <string name="sim_operator_name">Operator</string>
-    <string name="sim_operator_code">Operator Code</string>
-    <string name="sim_country_code">Country Code</string>
-    <string name="network_type">Network Type</string>
-    <string name="sim_state">SIM state</string>
-    <string name="sim_icc_card">ICC card</string>
-
-    <!-- Partition -->
-
-    <string name="partition_name">Name</string>
-    <string name="partition_address">Start address</string>
-    <string name="partition_size">Partition size</string>
-
-    <!-- System -->
-
-    <string name="uptime_days">days</string>
-
-    <!-- CPU Monitor -->
-
-    <string name="cpu_label">CPU</string>
-    <string name="cpu_load">Load:</string>
-    <string name="cpu_core">core</string>
-
-    <string name="gpu_label">GPU</string>
-
-    <!-- LCD + Touch Test -->
-
-    <string name="lcd_label">LCD</string>
-    <string name="lcd_info">LCD color test</string>
-    <string name="lcd_desc">Check screen color and no defective pixels.</string>
-
-    <string name="multitouch_label">Multi-touch</string>
-    <string name="multitouch_info">Touchscreen multi-touch test</string>
-    <string name="multitouch_desc">Check how many fingers supported.</string>
-
-    <string name="touchdraw_label">Touch drawing</string>
-    <string name="touchdraw_info">Touchscreen drawing test</string>
-    <string name="touchdraw_desc">Check accuracy of touch and dead zones.</string>
-
-    <!-- USB -->
-
-    <string name="usb_path">Path</string>
-    <string name="usb_num">Number</string>
-    <string name="usb_bus">Device ID</string>
-    <string name="usb_ver">Version</string>
-    <string name="usb_not_found1">Devices:</string>
-    <string name="usb_not_found2">not found</string>
-
-    <!-- MTK -->
-
-    <string name="modem">Modem</string>
-    <string name="camera_back">Camera Back</string>
-    <string name="camera_front">Camera Front</string>
-    <string name="mtk_build">Build</string>
-    <string name="mtk_platform">Platform MTK</string>
-
-    <!-- Report -->
-
-    <string name="flash_id" translatable="false">flash_id</string>
-    <string name="flash_name" translatable="false">flash_name</string>
-    <string name="hwinfo" translatable="false">hwinfo</string>
-    <string name="platform_drivers" translatable="false">platform_drivers</string>
-    <string name="spi_drivers" translatable="false">spi</string>
-    <string name="iio_drivers" translatable="false">iio</string>
-
-    <string name="firmware">Firmware</string>
-
-    <!-- Strings related to Settings -->
-
-    <string name="title_activity_settings">Settings</string>
-
-    <string name="pref_category_general">General</string>
-    <string name="pref_category_appearance">Appearance</string>
-    <string name="pref_category_other">Other</string>
-
-    <string name="pref_title_set_language">Language</string>
-
-    <string name="language_default">Default</string>
-
-    <string-array name="pref_language_list_titles" translatable="false">
+    <string name="app_name" translatable="false">Device Info HW</string>
+    <string name="app_name_title" translatable="false">Device Info HW</string>
+
+    <string name="action_settings">設置</string>
+    <string name="action_about">關於</string>
+    <string name="action_info_center">信息中心</string>
+    <string name="action_screen_test">屏幕測試</string>
+    <string name="action_engineer_menu">工程菜單</string>
+
+    <string name="nav_header_options">選項</string>
+    <string name="action_rate_app">應用評分</string>
+    <string name="action_upgrade_to_pro">升級到Pro版</string>
+
+    <string name="navigation_drawer_open">打開導航抽屜</string>
+    <string name="navigation_drawer_close">打開導航抽屜</string>
+
+    <string name="navigation_description">可用選項卡列表</string>
+
+    <!-- <string name="common">Common</string> -->
+    <!-- <string name="advanced">Advanced</string> -->
+
+    <!-- Tabs -->
+    <string name="tab_general">常規</string>
+    <string name="tab_soc">芯片</string>
+    <string name="tab_monitor">監視器</string>
+    <string name="tab_system">系統</string>
+    <string name="tab_memory">內存</string>
+    <string name="tab_camera">相機</string>
+    <string name="tab_battery">電池</string>
+    <string name="tab_thermal">溫度</string>
+    <string name="tab_sensors">傳感器</string>
+    <string name="tab_applications">應用程序</string>
+    <string name="tab_project" translatable="false">Project</string>
+    <string name="tab_drivers">驅動</string>
+    <string name="tab_partitions">分區</string>
+    <string name="tab_pmic">電源管理IC</string>
+    <string name="tab_net">網絡</string>
+    <string name="tab_input">輸出</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">編解碼器</string>
+
+    <string name="tab_system_apps">系統應用程序</string>
+    <string name="tab_camera_supported">支持相機</string>
+    <string name="tab_cpu_monitor">CPU監視器</string>
+    <string name="tab_cpu_time">CPU運行時間</string>
+
+    <!-- Tabs single list -->
+    <string name="system_apps" translatable="false">System Applications</string>
+    <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
+
+    <!-- Menu -->
+    <string name="device">設備</string>
+    <string name="manufacturer">製造商</string>
+    <string name="model">型號</string>
+    <string name="brand">品牌</string>
+    <string name="model_name">型號名稱</string>
+
+    <string name="platform">平台</string>
+    <string name="board">主板</string>
+    <string name="resolution">分辨率</string>
+
+    <string name="android" translatable="false">Android</string>
+    <string name="api" translatable="false">API</string>
+    <string name="codename">開發代號</string>
+
+    <string name="machine_arch" translatable="false">Machine</string>
+
+    <string name="kernel">內核</string>
+
+    <string name="ram">內存</string>
+    <string name="kram">內存(內核)</string>
+    <string name="zram" translatable="false">SWAP</string>
+    <string name="flash">閃存</string>
+    <string name="scsi" translatable="false">SCSI</string>
+    <string name="flash_size">閃存大小</string>
+
+    <string name="wifi" translatable="false">Wi-Fi</string>
+    <string name="sound">​​聲卡</string>
+    <string name="fingerprint_sensor">指紋</string>
+
+    <string name="baseband">基帶</string>
+    <string name="serial">序列號</string>
+    <string name="build">版本號</string>
+    <string name="java_vm">Java虛擬機</string>
+    <string name="security">安全補丁程序級別</string>
+    <string name="uptime">正常運行時間</string>
+
+    <string name="product">產品</string>
+    <string name="type">類型</string>
+    <string name="build_type">構建類型</string>
+    <string name="tags">標籤</string>
+    <string name="incremental">增量版本</string>
+    <string name="fingerprint" translatable="false">Fingerprint</string>
+    <string name="bootloader">引導程序</string>
+    <string name="selinux" translatable="false">SELinux</string>
+    <string name="builder">構建者</string>
+    <string name="supported_features">設備特徵</string>
+    <string name="language">語言</string>
+    <string name="timezone">時區</string>
+
+    <string name="version">版本</string>
+
+    <string name="enabled">啟用</string>
+    <string name="disabled">禁用</string>
+
+    <!-- Components -->
+    <string name="lcm">顯示屏</string>
+    <string name="touchscreen">觸摸屏</string>
+    <string name="touchscreen_key">觸摸鍵</string>
+    <string name="other">其他</string>
+    <string name="alsps">環境光/接近傳感器</string>
+    <string name="camera">相機</string>
+    <string name="lens_af">鏡頭自動對焦</string>
+    <string name="charger">充電器</string>
+    <string name="usb_typec" translatable="false">USB Type-C</string>
+    <string name="pmic">電源管理IC</string>
+    <string name="rtc">時鐘芯片</string>
+    <string name="nfc" translatable="false">NFC</string>
+    <string name="audio">音頻</string>
+    <string name="ethernet">以太網絡</string>
+
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">供應商</string>
+    <string name="soc">芯片</string>
+    <string name="cores">核心數</string>
+    <string name="revision">修訂版本</string>
+    <string name="family">架構</string>
+    <string name="abi">指令集</string>
+    <string name="instructions">說明</string>
+    <string name="clock_speed">時鐘速度</string>
+    <string name="governor">調頻器</string>
+    <string name="big_little" translatable="false">big.LITTLE</string>
+    <string name="clusters">集群</string>
+    <string name="gpu_vendor">供應商</string>
+    <string name="gpu_model">GPU</string>
+    <string name="gl_version" translatable="false">OpenGL ES</string>
+    <string name="gpu_clock">時鐘速度</string>
+    <string name="gpu_cufreq">當前時鐘</string>
+    <string name="gpu_extensions">擴展</string>
+
+    <string name="density">密度</string>
+    <string name="refresh_rate">刷新率</string>
+
+    <string name="cmdline" translatable="false">Cmdline</string>
+
+    <!-- Sensors -->
+    <string name="test">測試</string>
+    <string name="info">信息</string>
+
+    <string name="led" translatable="false">•</string>
+
+    <string name="accelerometer">加速規</string>
+    <string name="magnetometer">磁強計</string>
+    <string name="gyroscope">陀螺儀</string>
+    <string name="proximity">接近傳感器</string>
+    <string name="light">環境光傳感器</string>
+    <string name="pressure">氣壓表</string>
+    <string name="accel_gyro">加速規 + 陀螺儀</string>
+
+    <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="sensor_app_name" translatable="false">Sensor Test</string>
+    <string name="install_sensor_test_note">請安裝使用此菜單的應用程序！ </string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">內部存儲器</string>
+    <string name="external_storage">外部存儲器</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">供應商</string>
+    <string name="camera_model">型號</string>
+    <string name="camera_supported">支持</string>
+
+    <string name="software">軟件</string>
+    <string name="hardware">硬件</string>
+
+    <string name="orientation">方向</string>
+    <string name="camera_flash">閃光燈</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="mp" translatable="false">MP</string>
+    <string name="video_resolution">視頻</string>
+    <string name="focal_length">焦距</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">圖像格式</string>
+    <string name="camera_size">傳感器尺寸</string>
+    <string name="camera_af_modes">對焦模式</string>
+    <string name="aperture">光圈</string>
+    <string name="iso" translatable="false">ISO</string>
+
+    <!-- Battery -->
+
+    <string name="level">電量</string>
+    <string name="health">健康情況</string>
+    <string name="status">狀態</string>
+
+    <string name="power_source">電源</string>
+    <string name="technology">技術</string>
+    <string name="temperature">溫度</string>
+    <string name="voltage">電壓</string>
+    <string name="power_profile">電源配置文件</string>
+    <string name="kernel_profile">內核配置文件</string>
+    <string name="charged_to">充電至</string>
+    <string name="battery_model">型號</string>
+    <string name="consumption">消耗量</string>
+    <string name="charge_speed">充電速度</string>
+    <string name="discharge_speed">放電速度</string>
+
+    <string name="charge_ac">通過交流電充電</string>
+    <string name="charge_usb">通過USB充電</string>
+    <string name="quick_charge">快速充電</string>
+
+    <string name="thermal_not_found">​​找不到溫度傳感器</string>
+
+    <!-- Net -->
+    <string name="ip_address" translatable="false">IPv4</string>
+    <string name="ip6_address" translatable="false">IPv6</string>
+    <string name="ssid" translatable="false">SSID</string>
+    <string name="link_speed">連接速度</string>
+    <string name="mac_address" translatable="false">MAC</string>
+    <string name="frequency">頻率</string>
+    <string name="signal">信號</string>
+    <string name="channel">信道</string>
+    <string name="net_level">級別</string>
+
+    <!-- SIM -->
+    <string name="sim_label" translatable="false">SIM</string>
+    <string name="sim_phone_type">電話類型</string>
+    <string name="sim_operator_name">運營商</string>
+    <string name="sim_operator_code">運營商代碼</string>
+    <string name="sim_country_code">國家代碼</string>
+    <string name="network_type">網絡狀態</string>
+    <string name="sim_state">SIM狀態</string>
+    <string name="sim_icc_card">ICC卡</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">名稱</string>
+    <string name="partition_address">起始地址</string>
+    <string name="partition_size">分區大小</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">天</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label" translatable="false">CPU</string>
+    <string name="cpu_load">負載:</string>
+    <string name="cpu_core">核心數</string>
+
+    <string name="gpu_label" translatable="false">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">屏幕</string>
+    <string name="lcd_info">屏幕顏色測試</string>
+    <string name="lcd_desc">檢查屏幕顏色和像素缺陷。 </string>
+
+    <string name="multitouch_label">多點觸控</string>
+    <string name="multitouch_info">觸摸屏多點觸控測試</string>
+    <string name="multitouch_desc">檢查支持的手指數。 </string>
+
+    <string name="touchdraw_label">觸摸繪圖</string>
+    <string name="touchdraw_info">觸摸屏繪圖測試</string>
+    <string name="touchdraw_desc">檢查觸摸屏的準確性和壞區</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">路徑</string>
+    <string name="usb_num">編號</string>
+    <string name="usb_bus">設備ID </string>
+    <string name="usb_ver">版本</string>
+    <string name="usb_not_found1">設備：</string>
+    <string name="usb_not_found2">找不到</string>
+
+    <!-- MTK -->
+
+    <string name="modem">調製解調器</string>
+    <string name="camera_back">後置相機</string>
+    <string name="camera_front">前置相機</string>
+    <string name="mtk_build">版本號</string>
+    <string name="mtk_platform"> MTK平台</string>
+
+    <!-- Report -->
+
+    <string name="flash_id”translatable =“false"> flash_id </string>
+    <string name="flash_name”translatable =“false"> flash_name </string>
+    <string name="hwinfo”translatable =“false"> hwinfo </string>
+    <string name="platform_drivers”translatable =“false"> platform_drivers </string>
+    <string name="spi_drivers”translatable =“false"> spi </string>
+    <string name="iio_drivers”translatable =“false"> iio </string>
+
+    <string name="firmware">固件</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">設置</string>
+
+    <string name="pref_category_general">一般</string>
+    <string name="pref_category_appearance">外貌</string>
+    <string name="pref_category_other">其他</string>
+
+    <string name="pref_title_set_language">語言</string>
+
+    <string name="language_default">默認</string>
+
+    <string-array name="pref_language_list_titles" translatable="false">
         <item>@string/language_default</item>
         <item>English</item>
         <item>Русский</item>
@@ -317,6 +317,8 @@
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
+		<item>中文（简体）</item>
+		<item>中文（繁體）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -326,99 +328,101 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
+		<item>6</item>
+		<item>7</item>
     </string-array>
 
-    <string name="pref_title_use_root">Use root</string>
-    <string name="pref_description_use_root">Enable more information</string>
+    <string name="pref_title_use_root">使用Root </string>
+    <string name="pref_description_use_root">顯示完整信息</string>
 
-    <string name="pref_title_show_address">Show i2c address</string>
-    <string name="pref_description_show_address">Show device i2c address</string>
+    <string name="pref_title_show_address">顯示I2C地址</string>
+    <string name="pref_description_show_address">顯示設備的I2C地址</string>
 
-    <string name="pref_title_dark_theme">Use dark theme</string>
-    <string name="pref_description_dark_theme">Apply dark theme to interface</string>
+    <string name="pref_title_dark_theme">使用暗色主題</string>
+    <string name="pref_description_dark_theme">將暗色主題應用於界面</string>
 
-    <string name="pref_title_disable_sysfs_msg">Disable sysfs error</string>
-    <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
+    <string name="pref_title_disable_sysfs_msg">禁用sysfs錯誤</string>
+    <string name="pref_description_disable_sysfs_msg">在Android 7.0以上，禁止顯示sysfs讀取錯誤消息</string>
 
-    <string name="pref_title_invert_charge_speed">Invert battery current</string>
-    <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+    <string name="pref_title_invert_charge_speed">反向電池電流</string>
+    <string name="pref_description_invert_charge_speed">反向電池充電/放電速度</string>
 
-    <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
-    <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
+    <string name="pref_title_temp_in_f_deg">溫度以＆＃xb0; F為單位</string>
+    <string name="pref_description_temp_in_f_deg">以華氏度顯示溫度</string>
 
-    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
-    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+    <string name="pref_title_detect_therm_zones">檢測熱區</string>
+    <string name="pref_description_detect_therm_zones">檢測熱區名稱（根）</string>
 
-    <!-- Strings related to Message of first install -->
+    <!-- Strings related to Message of first install -->
 
-    <string name="ok" translatable="false">OK</string>
+    <string name="ok”translatable =“false">確定</string>
 
-    <string name="first_install_title">Message</string>
+    <string name="first_install_title">信息</string>
 
-    <string name="root_lcm_detect">Display detection needs root!</string>
-    <string name="root_camera_detect">Camera detection usually needs root!</string>
-    <string name="root_hw_detect">For complete information requires root!</string>
+    <string name="root_lcm_detect">顯示屏檢測需要Root！</string>
+    <string name="root_camera_detect">相機檢測通常需要Root！</string>
+    <string name="root_hw_detect">完整信息需要Root！</string>
 
-    <string name="root_enable_message">You can enable it in the settings.</string>
+    <string name="root_enable_message">您可以在設置中啟用它。</string>
 
-    <!-- Defender -->
-    <string name="app_defender">App Defender</string>
-    <string name="app_defender_msg">Sorry, but defender can\'t check app validity.\nPlease connect to the internet and click on the recheck.</string>
-    <string name="app_recheck">Recheck</string>
-    <string name="app_exit">Exit</string>
+    <!-- Defender -->
+    <string name="app_defender"> App Defender </string>
+    <string name="app_defender_msg">抱歉，App Defenger無法檢查應用程序的有效性。\ n請連接到互聯網並單擊重新檢查。</string>
+    <string name="app_recheck">重新檢查</string>
+    <string name="app_exit">退出</string>
 
-    <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Sorry, but free using theme expired!\nIt\'s available in PRO version.</string>
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">抱歉，免費使用主題已過期！\ n它在PRO版中可用。</string>
 
-    <!-- Info center -->
-    <string name="update">Update</string>
-    <string name="updating">Updating</string>
+    <!-- Info center -->
+    <string name="update">更新</string>
+    <string name="updating">更新中</string>
 
-    <string name="upload">Upload</string>
+    <string name="upload">上傳</string>
 
-    <string name="create_report">Create report</string>
-    <string name="create_report_msg">Report successfully created!\nLook in</string>
-    <string name="create_report_err">Can\'t create report!</string>
-    <string name="create_report_err_non_pro">Can not create report!\nIt\'s available in PRO version.</string>
-    <string name="create_report_info">Device information will be saved in html file in app data folder.</string>
-    <string name="create">Create</string>
+    <string name="create_report">創建報告</string>
+    <string name="create_report_msg">報告已成功創建！\ nLook in </string>
+    <string name="create_report_err">無法創建報告！</string>
+    <string name="create_report_err_non_pro">無法創建報告！\ n它在PRO版本中可用。</string>
+    <string name="create_report_info">設備信息將保存在app data文件夾內的html文件中。</string>
+    <string name="create">創建</string>
 
-    <string name="error">Error</string>
-    <string name="close">Close</string>
-    <string name="open">Open</string>
-    <string name="share">Share</string>
-    <string name="send_to_email">Send to email:</string>
+    <string name="error">錯誤</string>
+    <string name="close">關閉</string>
+    <string name="open">打開</string>
+    <string name="share">分享</string>
+    <string name="send_to_email">發送電子郵件：</string>
 
-    <string name="cpu_codenames_label">CPU codenames</string>
-    <string name="cpu_codenames_info">List of CPU codenames</string>
+    <string name="cpu_codenames_label"> CPU代號</string>
+    <string name="cpu_codenames_info"> CPU代號名單</string>
 
-    <string name="update_components_label">Device components</string>
-    <string name="update_components_msg">Update detection rules database</string>
-    <string name="update_component_msg">Detection rules successfully updated. Restart application for apply changes.</string>
+    <string name="update_components_label">設備組件</string>
+    <string name="update_components_msg">更新檢測規則數據庫</string>
+    <string name="update_component_msg">檢測規則已成功更新。重啟應用程序以應用更改。</string>
 
-    <string name="upload_info_label">Upload device information</string>
-    <string name="upload_info_text">It helps make program better, improve devices support
-        and other developers can find similar devices and needed drivers.
-        Result stored in database. You can see on:</string>
+    <string name="upload_info_label">上傳設備信息</string>
+    <string name="upload_info_text">它有助於使程序更好，改進設備支持，
+        其他開發人員可以找到類似的設備和所需的驅動程序。
+        結果存儲在數據庫中。你可以看到：</string>
 
-    <string name="kernel_analyzer_label">Kernel Analyzer</string>
+    <string name="kernel_analyzer_label">內核分析器</string>
 
-    <string name="i2c_viewer_label">Device list</string>
-    <string name="i2c_viewer_info">Devices on the i2c, spi bus</string>
+    <string name="i2c_viewer_label">設備列表</string>
+    <string name="i2c_viewer_info">設備上的I2C，SPI總線</string>
 
-    <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+    <string name="error_read_sysfs">抱歉，您的的固件已禁止讀取sysfs。只有部分信息可用（顯示完整信息，需Root權限）。 </string>
 
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Open engineer menu</string>
+    <!-- Floating button -->
+    <string name="action_engineer_mode">打開工程菜單</string>
 
-    <!-- Strings related to About -->
+    <!-- Strings related to About -->
 
-    <string name="about_version">version</string>
+    <string name="about_version">版本</string>
 
-    <string name="about_author">author\n
-        Andrey Efremov\n
-        aka andr7e</string>
+    <string name="about_author">作者\n
+        Andrey Efremov\n
+        又名 andr7e</string>
 
-    <string name="about_bottom" translatable="false">(c) 2016 - 2018</string>
+    <string name="about_bottom" translatable="false">(c) 2016 - 2018</string>
 
 </resources>
