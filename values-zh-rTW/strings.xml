@@ -30,7 +30,7 @@
     <string name="tab_battery">電池</string>
     <string name="tab_thermal">溫度</string>
     <string name="tab_sensors">傳感器</string>
-    <string name="tab_applications">應用程序</string>
+    <string name="tab_applications">應用程式</string>
     <string name="tab_project" translatable="false">Project</string>
     <string name="tab_drivers">驅動</string>
     <string name="tab_partitions">分區</string>
@@ -40,7 +40,7 @@
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">編解碼器</string>
 
-    <string name="tab_system_apps">系統應用程序</string>
+    <string name="tab_system_apps">系統應用程式</string>
     <string name="tab_camera_supported">支持相機</string>
     <string name="tab_cpu_monitor">CPU監視器</string>
     <string name="tab_cpu_time">CPU運行時間</string>
