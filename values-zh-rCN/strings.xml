@@ -69,7 +69,7 @@
     <string name="kernel">内核</string>
 
     <string name="ram">运行内存</string>
-    <string name="kram" translatable="false">RAM (内核)</string>
+    <string name="kram">RAM (内核)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">闪存</string>
     <string name="scsi" translatable="false">SCSI</string>
@@ -114,8 +114,8 @@
     <string name="lens_af">镜头自动对焦</string>
     <string name="charger">充电器</string>
     <string name="usb_typec" translatable="false">USB Type-C</string>
-    <string name="pmic" translatable="false">电源管理IC</string>
-    <string name="rtc" translatable="false">时钟芯片</string>
+    <string name="pmic">电源管理IC</string>
+    <string name="rtc">时钟芯片</string>
     <string name="nfc" translatable="false">NFC</string>
     <string name="audio">音频</string>
     <string name="ethernet">以太网络</string>
@@ -124,11 +124,11 @@
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">供应商</string>
-    <string name="soc" translatable="false">芯片</string>
+    <string name="soc"芯片</string>
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
-    <string name="abi" translatable="false">指令集</string>
+    <string name="abi">指令集</string>
     <string name="instructions">说明</string>
     <string name="clock_speed">时钟速度</string>
     <string name="governor">调频器</string>
@@ -158,10 +158,10 @@
     <string name="proximity">接近传感器</string>
     <string name="light">环境光传感器</string>
     <string name="pressure">气压表</string>
-    <string name="accel_gyro" translatable="false">加速规 + 陀螺仪</string>
+    <string name="accel_gyro">加速规 + 陀螺仪</string>
 
     <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
-    <string name="sensor_app_name" translatable="false">传感器测试</string>
+    <string name="sensor_app_name">传感器测试</string>
     <string name="install_sensor_test_note">请安装使用此菜单的应用程序！</string>
 
     <!-- Memory -->
