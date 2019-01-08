@@ -161,7 +161,7 @@
     <string name="accel_gyro">加速规 + 陀螺仪</string>
 
     <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
-    <string name="sensor_app_name">传感器测试</string>
+    <string name="sensor_app_name" translatable="false">Sensor Test</string>
     <string name="install_sensor_test_note">请安装使用此菜单的应用程序！</string>
 
     <!-- Memory -->
@@ -259,7 +259,7 @@
 
     <string name="lcd_label">屏幕</string>
     <string name="lcd_info">屏幕颜色测试</string>
-    <string name="lcd_desc">检查屏幕颜色和没有缺陷像素。</string>
+    <string name="lcd_desc">检查屏幕颜色和像素缺陷。</string>
 
     <string name="multitouch_label">多点触控</string>
     <string name="multitouch_info">触摸屏多点触控测试</string>
@@ -333,7 +333,7 @@
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
-    <string name="pref_description_use_root">启用更多信息</string>
+    <string name="pref_description_use_root">显示更多信息</string>
 
     <string name="pref_title_show_address">显示I2C地址</string>
     <string name="pref_description_show_address">显示驱动I2C地址</string>
@@ -347,7 +347,7 @@
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
 
-    <string name="pref_title_temp_in_f_deg">温度在 &#xb0;F</string>
+    <string name="pref_title_temp_in_f_deg">温度以 &#xb0;F为单位</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
 
     <string name="pref_title_detect_therm_zones">检测热区</string>
