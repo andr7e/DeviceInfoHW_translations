@@ -9,8 +9,8 @@
     <string name="action_engineer_menu">工程菜单</string>
 
     <string name="nav_header_options">选项</string>
-    <string name="action_rate_app">评价应用</string>
-    <string name="action_upgrade_to_pro">升级到专业版</string>
+    <string name="action_rate_app">应用评分</string>
+    <string name="action_upgrade_to_pro">升级到Pro版</string>
 
     <string name="navigation_drawer_open">打开导航抽屉</string>
     <string name="navigation_drawer_close">打开导航抽屉</string>
@@ -318,7 +318,6 @@
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
 	<item>中文（简体）</item>
-	<item>中文（繁体）</item> 
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -329,20 +328,19 @@
         <item>4</item>
         <item>5</item>
 	<item>6</item>
-	<item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
     <string name="pref_description_use_root">显示完整信息</string>
 
     <string name="pref_title_show_address">显示I2C地址</string>
-    <string name="pref_description_show_address">显示驱动I2C地址</string>
+    <string name="pref_description_show_address">显示设备的I2C地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主题</string>
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
 
     <string name="pref_title_disable_sysfs_msg">禁用sysfs错误</string>
-    <string name="pref_description_disable_sysfs_msg">在Android 7.0+上禁用sysfs读取错误消息</string>
+    <string name="pref_description_disable_sysfs_msg">在Android 7.0以上，禁止显示sysfs读取错误消息</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
@@ -372,7 +370,7 @@
     <string name="app_exit">退出</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">抱歉，免费试用主题已过期！\n它在PRO版中可用。</string>
+    <string name="using_theme_expired_non_pro">抱歉，免费使用主题已过期！\n它在PRO版中可用。</string>
 
     <!-- Info center -->
     <string name="update">更新</string>
@@ -410,7 +408,7 @@
     <string name="i2c_viewer_label">设备列表</string>
     <string name="i2c_viewer_info">设备上的I2C，SPI总线</string>
 
-    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示完整信息，需要Root权限）。</string>
+    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示完整信息，需Root权限）。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打开工程菜单</string>
