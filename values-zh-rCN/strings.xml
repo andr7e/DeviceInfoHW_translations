@@ -10,7 +10,7 @@
 
     <string name="nav_header_options">选项</string>
     <string name="action_rate_app">应用评分</string>
-    <string name="action_upgrade_to_pro">升级到Pro版</string>
+    <string name="action_upgrade_to_pro">升级到PRO版</string>
 
     <string name="navigation_drawer_open">打开导航抽屉</string>
     <string name="navigation_drawer_close">打开导航抽屉</string>
@@ -122,7 +122,7 @@
 
 
     <!-- CPU / GPU -->
-    <string name="cpu">CPU</string>
+    <string name="cpu" translatable="false">CPU</string>
     <string name="cpu_vendor">供应商</string>
     <string name="soc"芯片</string>
     <string name="cores">核心数</string>
@@ -135,7 +135,7 @@
     <string name="big_little" translatable="false">big.LITTLE</string>
     <string name="clusters">集群</string>
     <string name="gpu_vendor">供应商</string>
-    <string name="gpu_model">GPU</string>
+    <string name="gpu_model" translatable="false">GPU</string>
     <string name="gl_version" translatable="false">OpenGL ES</string>
     <string name="gpu_clock">时钟速度</string>
     <string name="gpu_cufreq">当前时钟</string>
@@ -182,7 +182,7 @@
     <string name="camera_flash">闪光灯</string>
     <string name="yes">是</string>
     <string name="no">否</string>
-    <string name="mp">MP</string>
+    <string name="mp" translatable="false">MP</string>
     <string name="video_resolution">视频</string>
     <string name="focal_length">焦距</string>
     <string name="camera2_api">Camera2 API</string>
@@ -253,7 +253,7 @@
     <string name="cpu_load">负载:</string>
     <string name="cpu_core">核心数</string>
 
-    <string name="gpu_label">GPU</string>
+    <string name="gpu_label" translatable="false">GPU</string>
 
     <!-- LCD + Touch Test -->
 
@@ -317,7 +317,8 @@
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
-	<item>中文（简体）</item>
+		<item>中文（简体）</item>
+		<item>中文（繁體）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -327,7 +328,8 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-	<item>6</item>
+		<item>6</item>
+		<item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
