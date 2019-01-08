@@ -333,7 +333,7 @@
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
-    <string name="pref_description_use_root">显示更多信息</string>
+    <string name="pref_description_use_root">显示完整信息</string>
 
     <string name="pref_title_show_address">显示I2C地址</string>
     <string name="pref_description_show_address">显示驱动I2C地址</string>
@@ -367,12 +367,12 @@
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
-    <string name="app_defender_msg">对不起，App Defenger无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
+    <string name="app_defender_msg">抱歉，App Defenger无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
     <string name="app_recheck">重新检查</string>
     <string name="app_exit">退出</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">抱歉，免费使用主题已过期！\n它在PRO版本中可用。</string>
+    <string name="using_theme_expired_non_pro">抱歉，免费试用主题已过期！\n它在PRO版中可用。</string>
 
     <!-- Info center -->
     <string name="update">更新</string>
@@ -410,7 +410,7 @@
     <string name="i2c_viewer_label">设备列表</string>
     <string name="i2c_viewer_info">设备上的I2C，SPI总线</string>
 
-    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示全部信息，需要Rroot权限）。</string>
+    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示完整信息，需要Root权限）。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打开工程菜单</string>
