@@ -68,8 +68,8 @@
 
     <string name="kernel">内核</string>
 
-    <string name="ram">运行内存</string>
-    <string name="kram">RAM (内核)</string>
+    <string name="ram">内存</string>
+    <string name="kram">内存(内核)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">闪存</string>
     <string name="scsi" translatable="false">SCSI</string>
@@ -82,7 +82,7 @@
     <string name="baseband">基带</string>
     <string name="serial">序列号</string>
     <string name="build">版本号</string>
-    <string name="java_vm" translatable="false">Java VM</string>
+    <string name="java_vm">Java虚拟机</string>
     <string name="security">安全补丁程序级别</string>
     <string name="uptime">正常运行时间</string>
 
