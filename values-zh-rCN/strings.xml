@@ -76,7 +76,7 @@
     <string name="flash_size">闪存大小</string>
 
     <string name="wifi" translatable="false">Wi-Fi</string>
-    <string name="sound">音频</string>
+    <string name="sound">声卡</string>
     <string name="fingerprint_sensor">指纹</string>
 
     <string name="baseband">基带</string>
