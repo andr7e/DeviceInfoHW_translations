@@ -35,7 +35,7 @@
     <string name="tab_drivers">驅動</string>
     <string name="tab_partitions">分區</string>
     <string name="tab_pmic">電源管理IC</string>
-    <string name="tab_net">網絡</string>
+    <string name="tab_net">網路</string>
     <string name="tab_input">輸出</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">編解碼器</string>
@@ -50,7 +50,7 @@
     <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
 
     <!-- Menu -->
-    <string name="device">設備</string>
+    <string name="device">裝置</string>
     <string name="manufacturer">製造商</string>
     <string name="model">型號</string>
     <string name="brand">品牌</string>
@@ -257,9 +257,9 @@
 
     <!-- LCD + Touch Test -->
 
-    <string name="lcd_label">屏幕</string>
-    <string name="lcd_info">屏幕顏色測試</string>
-    <string name="lcd_desc">檢查屏幕顏色和像素缺陷。 </string>
+    <string name="lcd_label">熒幕</string>
+    <string name="lcd_info">熒幕顏色測試</string>
+    <string name="lcd_desc">檢查熒幕顏色和像素缺陷。 </string>
 
     <string name="multitouch_label">多點觸控</string>
     <string name="multitouch_info">觸摸屏多點觸控測試</string>
@@ -367,7 +367,7 @@
 
     <!-- Defender -->
     <string name="app_defender"> App Defender </string>
-    <string name="app_defender_msg">抱歉，App Defenger無法檢查應用程序的有效性。\n請連接到互聯網並單擊重新檢查。</string>
+    <string name="app_defender_msg">抱歉，App Defenger無法檢查應用程式的有效性。\n請連接到互聯網並單擊重新檢查。</string>
     <string name="app_recheck">重新檢查</string>
     <string name="app_exit">退出</string>
 
@@ -401,8 +401,8 @@
     <string name="update_component_msg">檢測規則已成功更新。重啟應用程序以應用更改。</string>
 
     <string name="upload_info_label">上傳設備信息</string>
-    <string name="upload_info_text">它有助於使程序更好，改進設備支持，
-        其他開發人員可以找到類似的設備和所需的驅動程序。
+    <string name="upload_info_text">它有助於使程式更好，改進設備支持，
+        其他開發人員可以找到類似的設備和所需的驅動程式。
         結果存儲在數據庫中。你可以看到：</string>
 
     <string name="kernel_analyzer_label">內核分析器</string>
