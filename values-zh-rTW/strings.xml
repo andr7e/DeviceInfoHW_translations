@@ -2,20 +2,20 @@
     <string name="app_name" translatable="false">Device Info HW</string>
     <string name="app_name_title" translatable="false">Device Info HW</string>
 
-    <string name="action_settings">设置</string>
-    <string name="action_about">关于</string>
+    <string name="action_settings">設置</string>
+    <string name="action_about">關於</string>
     <string name="action_info_center">信息中心</string>
-    <string name="action_screen_test">屏幕测试</string>
-    <string name="action_engineer_menu">工程菜单</string>
+    <string name="action_screen_test">屏幕測試</string>
+    <string name="action_engineer_menu">工程菜單</string>
 
-    <string name="nav_header_options">选项</string>
-    <string name="action_rate_app">评价应用</string>
-    <string name="action_upgrade_to_pro">升级到专业版</string>
+    <string name="nav_header_options">選項</string>
+    <string name="action_rate_app">評價應用</string>
+    <string name="action_upgrade_to_pro">升級到專業版</string>
 
-    <string name="navigation_drawer_open">打开导航抽屉</string>
-    <string name="navigation_drawer_close">打开导航抽屉</string>
+    <string name="navigation_drawer_open">打開導航抽屜</string>
+    <string name="navigation_drawer_close">打開導航抽屜</string>
 
-    <string name="navigation_description">可用选项卡列表</string>
+    <string name="navigation_description">可用選項卡列表</string>
 
     <!-- <string name="common">Common</string> -->
     <!--  <string name="advanced">Advanced</string> -->
@@ -69,7 +69,7 @@
     <string name="kernel">内核</string>
 
     <string name="ram">运行内存</string>
-    <string name="kram" translatable="false">RAM (内核)</string>
+    <string name="kram">RAM (内核)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">闪存</string>
     <string name="scsi" translatable="false">SCSI</string>
@@ -114,8 +114,8 @@
     <string name="lens_af">镜头自动对焦</string>
     <string name="charger">充电器</string>
     <string name="usb_typec" translatable="false">USB Type-C</string>
-    <string name="pmic" translatable="false">电源管理IC</string>
-    <string name="rtc" translatable="false">时钟芯片</string>
+    <string name="pmic">电源管理IC</string>
+    <string name="rtc">时钟芯片</string>
     <string name="nfc" translatable="false">NFC</string>
     <string name="audio">音频</string>
     <string name="ethernet">以太网络</string>
@@ -124,11 +124,11 @@
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">供应商</string>
-    <string name="soc" translatable="false">芯片</string>
+    <string name="soc"芯片</string>
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
-    <string name="abi" translatable="false">指令集</string>
+    <string name="abi">指令集</string>
     <string name="instructions">说明</string>
     <string name="clock_speed">时钟速度</string>
     <string name="governor">调频器</string>
@@ -158,10 +158,10 @@
     <string name="proximity">接近传感器</string>
     <string name="light">环境光传感器</string>
     <string name="pressure">气压表</string>
-    <string name="accel_gyro" translatable="false">加速规 + 陀螺仪</string>
+    <string name="accel_gyro">加速规 + 陀螺仪</string>
 
     <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
-    <string name="sensor_app_name" translatable="false">传感器测试</string>
+    <string name="sensor_app_name">传感器测试</string>
     <string name="install_sensor_test_note">请安装使用此菜单的应用程序！</string>
 
     <!-- Memory -->
@@ -318,6 +318,7 @@
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
 	<item>中文（简体）</item>
+	<item>中文（繁体）</item> 
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -328,6 +329,7 @@
         <item>4</item>
         <item>5</item>
 	<item>6</item>
+	<item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
@@ -340,7 +342,7 @@
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
 
     <string name="pref_title_disable_sysfs_msg">禁用sysfs错误</string>
-    <string name="pref_description_disable_sysfs_msg">在android 7.0+上禁用sysfs读取错误消息</string>
+    <string name="pref_description_disable_sysfs_msg">在Android 7.0+上禁用sysfs读取错误消息</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
@@ -382,7 +384,7 @@
     <string name="create_report_msg">报告已成功创建！\nLook in</string>
     <string name="create_report_err">无法创建报告！</string>
     <string name="create_report_err_non_pro">无法创建报告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">设备信息将保存在app data文件夹中的html文件中。</string>
+    <string name="create_report_info">设备信息将保存在app data文件夹内的html文件中。</string>
     <string name="create">创建</string>
 
     <string name="error">错误</string>
