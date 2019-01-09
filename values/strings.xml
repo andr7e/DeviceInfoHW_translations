@@ -106,6 +106,7 @@
 
     <!-- Components -->
     <string name="lcm">LCM</string>
+    <string name="lcm_type">LCD Type</string>
     <string name="touchscreen">Touchscreen</string>
     <string name="touchscreen_key">Touch keys</string>
     <string name="other">Other</string>
@@ -318,6 +319,7 @@
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
         <item>中文（简体）</item>
+        <item>中文（繁體）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -328,10 +330,11 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>
-    <string name="pref_description_use_root">Enable more information</string>
+    <string name="pref_description_use_root">For getting complete information</string>
 
     <string name="pref_title_show_address">Show i2c address</string>
     <string name="pref_description_show_address">Show device i2c address</string>
@@ -407,6 +410,10 @@
 
     <string name="i2c_viewer_label">Device list</string>
     <string name="i2c_viewer_info">Devices on the i2c, spi bus</string>
+
+    <string name="exif_cam_label">Exif Camera Info</string>
+    <string name="exif_cam_info">Read exif info from image</string>
+    <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
 

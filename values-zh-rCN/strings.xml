@@ -8,7 +8,7 @@
 
     <string name="nav_header_options">选项</string>
     <string name="action_rate_app">评价应用</string>
-    <string name="action_upgrade_to_pro">升级到专业版</string>
+    <string name="action_upgrade_to_pro">升级到PRO版</string>
 
     <string name="navigation_drawer_open">打开导航抽屉</string>
     <string name="navigation_drawer_close">打开导航抽屉</string>
@@ -18,7 +18,7 @@
     <!-- Tabs -->
     <string name="tab_general">常规</string>
     <string name="tab_soc">芯片</string>
-    <string name="tab_monitor">监控</string>
+    <string name="tab_monitor">监视器</string>
     <string name="tab_system">系统</string>
     <string name="tab_memory">内存</string>
     <string name="tab_camera">相机</string>
@@ -37,7 +37,7 @@
 
     <string name="tab_system_apps">系统应用程序</string>
     <string name="tab_camera_supported">支持相机</string>
-    <string name="tab_cpu_monitor">CPU监控</string>
+    <string name="tab_cpu_monitor">CPU监视器</string>
     <string name="tab_cpu_time">CPU运行时间</string>
 
     <!-- Tabs single list -->
@@ -59,11 +59,11 @@
 
     <string name="kernel">内核</string>
 
-    <string name="ram">运行内存</string>
+    <string name="ram">内存</string>
     <string name="flash">闪存</string>
     <string name="flash_size">闪存大小</string>
 
-    <string name="sound">声音</string>
+    <string name="sound">声卡</string>
     <string name="fingerprint_sensor">指纹</string>
 
     <string name="baseband">基带</string>
@@ -91,10 +91,11 @@
 
     <!-- Components -->
     <string name="lcm">显示屏</string>
+    <string name="lcm_type">LCD Type</string>
     <string name="touchscreen">触摸屏</string>
     <string name="touchscreen_key">触摸键</string>
     <string name="other">其他</string>
-    <string name="alsps">Als/ps</string>
+    <string name="alsps">环境光/接近传感器</string>
     <string name="camera">相机</string>
     <string name="lens_af">镜头自动对焦</string>
     <string name="charger">充电器</string>
@@ -226,7 +227,7 @@
 
     <string name="lcd_label">屏幕</string>
     <string name="lcd_info">屏幕颜色测试</string>
-    <string name="lcd_desc">检查屏幕颜色和没有缺陷像素。</string>
+    <string name="lcd_desc">检查屏幕颜色和像素缺陷。</string>
 
     <string name="multitouch_label">多点触控</string>
     <string name="multitouch_info">触摸屏多点触控测试</string>
@@ -270,10 +271,10 @@
     <string name="language_default">默认</string>
 
     <string name="pref_title_use_root">使用Root</string>
-    <string name="pref_description_use_root">启用更多信息</string>
+    <string name="pref_description_use_root">显示完整信息</string>
 
     <string name="pref_title_show_address">显示I2C地址</string>
-    <string name="pref_description_show_address">显示驱动I2C地址</string>
+    <string name="pref_description_show_address">显示设备的I2C地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主题</string>
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
@@ -284,7 +285,7 @@
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
 
-    <string name="pref_title_temp_in_f_deg">温度在 &#xb0;F</string>
+    <string name="pref_title_temp_in_f_deg">温度以 &#xb0;F为单位</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
 
     <string name="pref_title_detect_therm_zones">检测热区</string>
@@ -302,12 +303,12 @@
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
-    <string name="app_defender_msg">对不起，App Defenger无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
+    <string name="app_defender_msg">抱歉，App Defender无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
     <string name="app_recheck">重新检查</string>
     <string name="app_exit">退出</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">抱歉，免费使用主题已过期！\n它在PRO版本中可用。</string>
+    <string name="using_theme_expired_non_pro">抱歉，免费使用主题已过期！\n它在PRO版中可用。</string>
 
     <!-- Info center -->
     <string name="update">更新</string>
@@ -319,7 +320,7 @@
     <string name="create_report_msg">报告已成功创建！\nLook in</string>
     <string name="create_report_err">无法创建报告！</string>
     <string name="create_report_err_non_pro">无法创建报告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">设备信息将保存在app data文件夹中的html文件中。</string>
+    <string name="create_report_info">设备信息将保存在app data文件夹内的html文件中。</string>
     <string name="create">创建</string>
 
     <string name="error">错误</string>
@@ -345,7 +346,11 @@
     <string name="i2c_viewer_label">设备列表</string>
     <string name="i2c_viewer_info">设备上的I2C，SPI总线</string>
 
-    <string name="error_read_sysfs">抱歉，您的固件读取sysfs已禁用。 只有部分信息可用。</string>
+    <string name="exif_cam_label">Exif Camera Info</string>
+    <string name="exif_cam_info">Read exif info from image</string>
+    <string name="open_img_file_label">Open image file...</string>
+
+    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示完整信息，需Root权限）。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打开工程菜单</string>

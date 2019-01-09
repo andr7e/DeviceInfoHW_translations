@@ -92,6 +92,7 @@
 
     <!-- Components -->
     <string name="lcm">LCM</string>
+    <string name="lcm_type">LCD Type</string>
     <string name="touchscreen">Ekran dotykowy</string>
     <string name="touchscreen_key">Touch keys</string>
     <string name="other">Inny</string>
@@ -347,6 +348,10 @@
 
     <string name="i2c_viewer_label">Lista urządzeń</string>
     <string name="i2c_viewer_info">Lista urządzeń na magistrali i2c, spi</string>
+
+    <string name="exif_cam_label">Exif Camera Info</string>
+    <string name="exif_cam_info">Read exif info from image</string>
+    <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Przepraszamy, ale twój firmware czytający sysfs jest wyłączony. Dostępna tylko częściowa informacja.</string>
 

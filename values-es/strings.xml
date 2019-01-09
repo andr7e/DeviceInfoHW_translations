@@ -92,6 +92,7 @@
 
     <!-- Components -->
     <string name="lcm">LCM</string>
+    <string name="lcm_type">LCD Type</string>
     <string name="touchscreen">Pantalla táctil</string>
     <string name="touchscreen_key">Touch keys</string>
     <string name="other">Otro</string>
@@ -346,6 +347,10 @@
 
     <string name="i2c_viewer_label">Lista de dispositivos</string>
     <string name="i2c_viewer_info">Lista de dispositivos en el bus i2c, spi</string>
+
+    <string name="exif_cam_label">Exif Camera Info</string>
+    <string name="exif_cam_info">Read exif info from image</string>
+    <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Lo siento, pero tu lector de sysfs firmware esta deshabilitado, solo información parcial esta disponible.</string>
 

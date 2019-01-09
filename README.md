@@ -6,5 +6,6 @@
 * Indonesian: Bagas Pinantau
 * Hungarian: Oreg Robert
 * Simplified Chinese: Lester Chan (yaxisvip)
+* Traditional Chinese: Lester Chan (yaxisvip)
 
 ```
