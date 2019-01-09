@@ -175,7 +175,7 @@
     <string name="camera_model">型號</string>
     <string name="camera_supported">支持</string>
 
-    <string name="software">軟件</string>
+    <string name="software">軟体</string>
     <string name="hardware">硬件</string>
 
     <string name="orientation">方向</string>
@@ -233,7 +233,7 @@
     <string name="sim_operator_name">運營商</string>
     <string name="sim_operator_code">運營商代碼</string>
     <string name="sim_country_code">國家代碼</string>
-    <string name="network_type">網絡狀態</string>
+    <string name="network_type">網路狀態</string>
     <string name="sim_state">SIM狀態</string>
     <string name="sim_icc_card">ICC卡</string>
 
@@ -351,7 +351,7 @@
     <string name="pref_description_temp_in_f_deg">以華氏度顯示溫度</string>
 
     <string name="pref_title_detect_therm_zones">檢測熱區</string>
-    <string name="pref_description_detect_therm_zones">檢測熱區名稱（根）</string>
+    <string name="pref_description_detect_therm_zones">檢測熱區名稱（Root）</string>
 
     <!-- Strings related to Message of first install -->
 
