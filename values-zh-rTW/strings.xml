@@ -2,10 +2,10 @@
     <string name="app_name" translatable="false">Device Info HW</string>
     <string name="app_name_title" translatable="false">Device Info HW</string>
 
-    <string name="action_settings">設置</string>
+    <string name="action_settings">設定</string>
     <string name="action_about">關於</string>
     <string name="action_info_center">信息中心</string>
-    <string name="action_screen_test">屏幕測試</string>
+    <string name="action_screen_test">熒幕測試</string>
     <string name="action_engineer_menu">工程菜單</string>
 
     <string name="nav_header_options">選項</string>
@@ -26,7 +26,7 @@
     <string name="tab_monitor">監視器</string>
     <string name="tab_system">系統</string>
     <string name="tab_memory">內存</string>
-    <string name="tab_camera">相機</string>
+    <string name="tab_camera">照相機</string>
     <string name="tab_battery">電池</string>
     <string name="tab_thermal">溫度</string>
     <string name="tab_sensors">傳感器</string>
@@ -66,10 +66,10 @@
 
     <string name="machine_arch" translatable="false">Machine</string>
 
-    <string name="kernel">內核</string>
+    <string name="kernel">核心</string>
 
     <string name="ram">記憶體</string>
-    <string name="kram">記憶體(內核)</string>
+    <string name="kram">記憶體(核心)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">閃存</string>
     <string name="scsi" translatable="false">SCSI</string>
@@ -79,12 +79,12 @@
     <string name="sound">聲卡</string>
     <string name="fingerprint_sensor">指紋</string>
 
-    <string name="baseband">基帶</string>
-    <string name="serial">序列號</string>
+    <string name="baseband">基頻</string>
+    <string name="serial">序號</string>
     <string name="build">版本號</string>
     <string name="java_vm">Java虛擬機</string>
-    <string name="security">安全補丁程序級別</string>
-    <string name="uptime">正常運行時間</string>
+    <string name="security">安全修補程式等級</string>
+    <string name="uptime">開機纍計時間</string>
 
     <string name="product">產品</string>
     <string name="type">類型</string>
@@ -95,7 +95,7 @@
     <string name="bootloader">引導程序</string>
     <string name="selinux" translatable="false">SELinux</string>
     <string name="builder">構建者</string>
-    <string name="supported_features">設備特徵</string>
+    <string name="supported_features">裝置特徵</string>
     <string name="language">語言</string>
     <string name="timezone">時區</string>
 
@@ -176,7 +176,7 @@
     <string name="camera_supported">支持</string>
 
     <string name="software">軟体</string>
-    <string name="hardware">硬件</string>
+    <string name="hardware">硬体</string>
 
     <string name="orientation">方向</string>
     <string name="camera_flash">閃光燈</string>
@@ -185,7 +185,7 @@
     <string name="mp" translatable="false">MP</string>
     <string name="video_resolution">視頻</string>
     <string name="focal_length">焦距</string>
-    <string name="camera2_api">Camera2 API</string>
+    <string name="camera2_api" translatable="false">>Camera2 API</string>
     <string name="camera_formats">圖像格式</string>
     <string name="camera_size">傳感器尺寸</string>
     <string name="camera_af_modes">對焦模式</string>
@@ -203,7 +203,7 @@
     <string name="temperature">溫度</string>
     <string name="voltage">電壓</string>
     <string name="power_profile">電源配置文件</string>
-    <string name="kernel_profile">內核配置文件</string>
+    <string name="kernel_profile">核心配置文件</string>
     <string name="charged_to">充電至</string>
     <string name="battery_model">型號</string>
     <string name="consumption">消耗量</string>
@@ -220,10 +220,10 @@
     <string name="ip_address" translatable="false">IPv4</string>
     <string name="ip6_address" translatable="false">IPv6</string>
     <string name="ssid" translatable="false">SSID</string>
-    <string name="link_speed">連接速度</string>
+    <string name="link_speed">連線速度</string>
     <string name="mac_address" translatable="false">MAC</string>
     <string name="frequency">頻率</string>
-    <string name="signal">信號</string>
+    <string name="signal">訊號</string>
     <string name="channel">信道</string>
     <string name="net_level">級別</string>
 
@@ -273,9 +273,9 @@
 
     <string name="usb_path">路徑</string>
     <string name="usb_num">編號</string>
-    <string name="usb_bus">設備ID </string>
+    <string name="usb_bus">裝置ID </string>
     <string name="usb_ver">版本</string>
-    <string name="usb_not_found1">設備：</string>
+    <string name="usb_not_found1">裝置：</string>
     <string name="usb_not_found2">找不到</string>
 
     <!-- MTK -->
@@ -299,7 +299,7 @@
 
     <!-- Strings related to Settings -->
 
-    <string name="title_activity_settings">設置</string>
+    <string name="title_activity_settings">設定</string>
 
     <string name="pref_category_general">一般</string>
     <string name="pref_category_appearance">外貌</string>
@@ -336,7 +336,7 @@
     <string name="pref_description_use_root">顯示完整信息</string>
 
     <string name="pref_title_show_address">顯示I2C地址</string>
-    <string name="pref_description_show_address">顯示設備的I2C地址</string>
+    <string name="pref_description_show_address">顯示裝置的I2C地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主題</string>
     <string name="pref_description_dark_theme">將暗色主題應用於界面</string>
@@ -363,7 +363,7 @@
     <string name="root_camera_detect">相機檢測通常需要Root！</string>
     <string name="root_hw_detect">完整信息需要Root！</string>
 
-    <string name="root_enable_message">您可以在設置中啟用它。</string>
+    <string name="root_enable_message">您可以在設定中啟用它。</string>
 
     <!-- Defender -->
     <string name="app_defender"> App Defender </string>
@@ -384,7 +384,7 @@
     <string name="create_report_msg">報告已成功創建！\nLook in </string>
     <string name="create_report_err">無法創建報告！</string>
     <string name="create_report_err_non_pro">無法創建報告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">設備信息將保存在app data文件夾內的html文件中。</string>
+    <string name="create_report_info">裝置信息將保存在app data文件夾內的html文件中。</string>
     <string name="create">創建</string>
 
     <string name="error">錯誤</string>
@@ -396,19 +396,19 @@
     <string name="cpu_codenames_label"> CPU代號</string>
     <string name="cpu_codenames_info"> CPU代號名單</string>
 
-    <string name="update_components_label">設備組件</string>
+    <string name="update_components_label">裝置組件</string>
     <string name="update_components_msg">更新檢測規則數據庫</string>
     <string name="update_component_msg">檢測規則已成功更新。重啟應用程序以應用更改。</string>
 
-    <string name="upload_info_label">上傳設備信息</string>
-    <string name="upload_info_text">它有助於使程式更好，改進設備支持，
-        其他開發人員可以找到類似的設備和所需的驅動程式。
+    <string name="upload_info_label">上傳裝置信息</string>
+    <string name="upload_info_text">它有助於使程式更好，改進裝置支持，
+        其他開發人員可以找到類似的裝置和所需的驅動程式。
         結果存儲在數據庫中。你可以看到：</string>
 
-    <string name="kernel_analyzer_label">內核分析器</string>
+    <string name="kernel_analyzer_label">核心分析器</string>
 
-    <string name="i2c_viewer_label">設備列表</string>
-    <string name="i2c_viewer_info">設備上的I2C，SPI總線</string>
+    <string name="i2c_viewer_label">裝置列表</string>
+    <string name="i2c_viewer_info">裝置上的I2C，SPI總線</string>
 
     <string name="error_read_sysfs">抱歉，您的的固件已禁止讀取sysfs。只有部分信息可用（顯示完整信息，需Root權限）。 </string>
 
