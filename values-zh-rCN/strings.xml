@@ -13,7 +13,7 @@
     <string name="action_upgrade_to_pro">升级到PRO版</string>
 
     <string name="navigation_drawer_open">打开导航抽屉</string>
-    <string name="navigation_drawer_close">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
 
     <string name="navigation_description">可用选项卡列表</string>
 
@@ -34,14 +34,14 @@
     <string name="tab_project">Project</string>
     <string name="tab_drivers">驱动</string>
     <string name="tab_partitions">分区</string>
-    <string name="tab_pmic">电源管理IC</string>
+    <string name="tab_pmic">PMIC</string>
     <string name="tab_net">网络</string>
     <string name="tab_input">输出</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">编解码器</string>
 
     <string name="tab_system_apps">系统应用程序</string>
-    <string name="tab_camera_supported">支持相机</string>
+    <string name="tab_camera_supported">Supported cameras</string>
     <string name="tab_cpu_monitor">CPU监视器</string>
     <string name="tab_cpu_time">CPU运行时间</string>
 
@@ -69,7 +69,7 @@
     <string name="kernel">内核</string>
 
     <string name="ram">内存</string>
-    <string name="kram">内存(内核)</string>
+    <string name="kram" translatable="false">内存 (内核)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">闪存</string>
     <string name="scsi" translatable="false">SCSI</string>
@@ -82,16 +82,16 @@
     <string name="baseband">基带</string>
     <string name="serial">序列号</string>
     <string name="build">版本号</string>
-    <string name="java_vm">Java虚拟机</string>
-    <string name="security">安全补丁程序级别</string>
+    <string name="java_vm" translatable="false">Java VM</string>
+    <string name="security">安全补丁级别</string>
     <string name="uptime">正常运行时间</string>
 
     <string name="product">产品</string>
     <string name="type">类型</string>
     <string name="build_type">构建类型</string>
-    <string name="tags">标签</string>
+    <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
-    <string name="fingerprint" translatable="false">Fingerprint</string>
+    <string name="fingerprint">Fingerprint</string>
     <string name="bootloader">引导程序</string>
     <string name="selinux" translatable="false">SELinux</string>
     <string name="builder">构建者</string>
@@ -105,37 +105,38 @@
     <string name="disabled">禁用</string>
 
     <!-- Components -->
-    <string name="lcm">显示屏</string>
+    <string name="lcm">LCD显示模组</string>
+    <string name="lcm_type">LCD类型</string>
     <string name="touchscreen">触摸屏</string>
-    <string name="touchscreen_key">触摸键</string>
+    <string name="touchscreen_key">Touch keys</string>
     <string name="other">其他</string>
-    <string name="alsps">环境光/接近传感器</string>
+    <string name="alsps">Als/ps</string>
     <string name="camera">相机</string>
-    <string name="lens_af">镜头自动对焦</string>
+    <string name="lens_af">Lens AF</string>
     <string name="charger">充电器</string>
     <string name="usb_typec" translatable="false">USB Type-C</string>
-    <string name="pmic">电源管理IC</string>
-    <string name="rtc">时钟芯片</string>
+    <string name="pmic" translatable="false">PMIC</string>
+    <string name="rtc" translatable="false">时钟芯片</string>
     <string name="nfc" translatable="false">NFC</string>
     <string name="audio">音频</string>
     <string name="ethernet">以太网络</string>
 
 
     <!-- CPU / GPU -->
-    <string name="cpu" translatable="false">CPU</string>
+    <string name="cpu">CPU</string>
     <string name="cpu_vendor">供应商</string>
-    <string name="soc"芯片</string>
+    <string name="soc" translatable="false">SoC</string>
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
-    <string name="abi">指令集</string>
+    <string name="abi" translatable="false">ABI</string>
     <string name="instructions">说明</string>
     <string name="clock_speed">时钟速度</string>
     <string name="governor">调频器</string>
     <string name="big_little" translatable="false">big.LITTLE</string>
     <string name="clusters">集群</string>
     <string name="gpu_vendor">供应商</string>
-    <string name="gpu_model" translatable="false">GPU</string>
+    <string name="gpu_model">GPU</string>
     <string name="gl_version" translatable="false">OpenGL ES</string>
     <string name="gpu_clock">时钟速度</string>
     <string name="gpu_cufreq">当前时钟</string>
@@ -158,7 +159,7 @@
     <string name="proximity">接近传感器</string>
     <string name="light">环境光传感器</string>
     <string name="pressure">气压表</string>
-    <string name="accel_gyro">加速规 + 陀螺仪</string>
+    <string name="accel_gyro" translatable="false">Accel + Gyro</string>
 
     <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
     <string name="sensor_app_name" translatable="false">Sensor Test</string>
@@ -182,7 +183,7 @@
     <string name="camera_flash">闪光灯</string>
     <string name="yes">是</string>
     <string name="no">否</string>
-    <string name="mp" translatable="false">MP</string>
+    <string name="mp">MP</string>
     <string name="video_resolution">视频</string>
     <string name="focal_length">焦距</string>
     <string name="camera2_api">Camera2 API</string>
@@ -233,7 +234,7 @@
     <string name="sim_operator_name">运营商</string>
     <string name="sim_operator_code">运营商代码</string>
     <string name="sim_country_code">国家代码</string>
-    <string name="network_type">网络状态</string>
+    <string name="network_type">网络类型</string>
     <string name="sim_state">SIM状态</string>
     <string name="sim_icc_card">ICC卡</string>
 
@@ -253,7 +254,7 @@
     <string name="cpu_load">负载:</string>
     <string name="cpu_core">核心数</string>
 
-    <string name="gpu_label" translatable="false">GPU</string>
+    <string name="gpu_label">GPU</string>
 
     <!-- LCD + Touch Test -->
 
@@ -302,7 +303,7 @@
     <string name="title_activity_settings">设置</string>
 
     <string name="pref_category_general">一般</string>
-    <string name="pref_category_appearance">外貌</string>
+    <string name="pref_category_appearance">外观</string>
     <string name="pref_category_other">其他</string>
 
     <string name="pref_title_set_language">语言</string>
@@ -317,8 +318,8 @@
         <item>Polski</item>
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
-	<item>中文（简体）</item>
-	<item>中文（繁體）</item>
+        <item>中文（简体）</item>
+        <item>中文（繁體）</item>
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
         <item>-1</item>
@@ -328,15 +329,15 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-	<item>6</item>
-	<item>7</item>
+        <item>6</item>
+        <item>7</item>
     </string-array>
 
     <string name="pref_title_use_root">使用Root</string>
-    <string name="pref_description_use_root">显示完整信息</string>
+    <string name="pref_description_use_root">获取完整信息</string>
 
-    <string name="pref_title_show_address">显示I2C地址</string>
-    <string name="pref_description_show_address">显示设备的I2C地址</string>
+    <string name="pref_title_show_address">显示i2c地址</string>
+    <string name="pref_description_show_address">显示设备i2c地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主题</string>
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
@@ -345,23 +346,23 @@
     <string name="pref_description_disable_sysfs_msg">在Android 7.0以上，禁止显示sysfs读取错误消息</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
-    <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
+    <string name="pref_description_invert_charge_speed">反向充电 / 放电速度</string>
 
     <string name="pref_title_temp_in_f_deg">温度以 &#xb0;F为单位</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
 
     <string name="pref_title_detect_therm_zones">检测热区</string>
-    <string name="pref_description_detect_therm_zones">检测热区名称（Root）</string>
+    <string name="pref_description_detect_therm_zones">检测热区名称 (root)</string>
 
     <!-- Strings related to Message of first install -->
 
-    <string name="ok" translatable="false">确定</string>
+    <string name="ok" translatable="false">OK</string>
 
     <string name="first_install_title">信息</string>
 
     <string name="root_lcm_detect">显示屏检测需要Root！</string>
     <string name="root_camera_detect">相机检测通常需要Root！</string>
-    <string name="root_hw_detect">完整信息需要Root！</string>
+    <string name="root_hw_detect">有关完整信息，请求root！</string>
 
     <string name="root_enable_message">您可以在设置中启用它。</string>
 
@@ -383,8 +384,8 @@
     <string name="create_report">创建报告</string>
     <string name="create_report_msg">报告已成功创建！\nLook in</string>
     <string name="create_report_err">无法创建报告！</string>
-    <string name="create_report_err_non_pro">无法创建报告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">设备信息将保存在app data文件夹内的html文件中。</string>
+    <string name="create_report_err_non_pro">无法创建报告！\n在PRO版本中可用。</string>
+    <string name="create_report_info">设备信息将保存在app data文件夹的html文件中。</string>
     <string name="create">创建</string>
 
     <string name="error">错误</string>
@@ -394,15 +395,15 @@
     <string name="send_to_email">发送电子邮件:</string>
 
     <string name="cpu_codenames_label">CPU代号</string>
-    <string name="cpu_codenames_info">CPU代号名单</string>
+    <string name="cpu_codenames_info">CPU代号列表</string>
 
     <string name="update_components_label">设备组件</string>
     <string name="update_components_msg">更新检测规则数据库</string>
     <string name="update_component_msg">检测规则已成功更新。 重启应用程序以应用更改。</string>
 
     <string name="upload_info_label">上传设备信息</string>
-    <string name="upload_info_text">它有助于使程序更好，改进设备支持，
-        其他开发人员可以找到类似的设备和所需的驱动程序。
+    <string name="upload_info_text">它有助于使程序更好，改善设备支持
+        其他开发人员可以找到类似的设备和所需的驱动
         结果存储在数据库中。 你可以看到:</string>
 
     <string name="kernel_analyzer_label">内核分析器</string>
@@ -410,7 +411,11 @@
     <string name="i2c_viewer_label">设备列表</string>
     <string name="i2c_viewer_info">设备上的I2C，SPI总线</string>
 
-    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示完整信息，需Root权限）。</string>
+    <string name="exif_cam_label">Exif相机信息</string>
+    <string name="exif_cam_info">从图像中读取exif信息</string>
+    <string name="open_img_file_label">打开图像文件......</string>
+
+    <string name="error_read_sysfs">抱歉，您的已禁止读取sysfs。只有部分信息可用。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打开工程菜单</string>
