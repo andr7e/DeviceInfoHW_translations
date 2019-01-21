@@ -69,7 +69,7 @@
     <string name="kernel">内核</string>
 
     <string name="ram">内存</string>
-    <string name="kram" translatable="false">内存 (内核)</string>
+    <string name="kram" translatable="false">RAM (kernel)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">闪存</string>
     <string name="scsi" translatable="false">SCSI</string>
