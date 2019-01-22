@@ -11,7 +11,7 @@
     <string name="action_upgrade_to_pro">升級到PRO版</string>
 
     <string name="navigation_drawer_open">打開導航抽屜</string>
-    <string name="navigation_drawer_close">打開導航抽屜</string>
+    <string name="navigation_drawer_close">關閉導航抽屜</string>
 
     <string name="navigation_description">可用選項卡列表</string>
 
@@ -29,14 +29,14 @@
     <string name="tab_project">Project</string>
     <string name="tab_drivers">驅動</string>
     <string name="tab_partitions">分區</string>
-    <string name="tab_pmic">電源管理IC</string>
+    <string name="tab_pmic">PMIC</string>
     <string name="tab_net">網路</string>
     <string name="tab_input">輸出</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">編解碼器</string>
 
     <string name="tab_system_apps">系統應用程式</string>
-    <string name="tab_camera_supported">支持相機</string>
+    <string name="tab_camera_supported">Supported cameras</string>
     <string name="tab_cpu_monitor">CPU監視器</string>
     <string name="tab_cpu_time">CPU運行時間</string>
 
@@ -67,7 +67,7 @@
     <string name="fingerprint_sensor">指紋</string>
 
     <string name="baseband">基頻</string>
-    <string name="serial">序號</string>
+    <string name="serial">序列號</string>
     <string name="build">版本號</string>
     <string name="security">安全修補程式等級</string>
     <string name="uptime">開機纍計時間</string>
@@ -75,7 +75,7 @@
     <string name="product">產品</string>
     <string name="type">類型</string>
     <string name="build_type">構建類型</string>
-    <string name="tags">標籤</string>
+    <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
     <string name="fingerprint">Fingerprint</string>
     <string name="bootloader">引導程序</string>
@@ -90,18 +90,18 @@
     <string name="disabled">禁用</string>
 
     <!-- Components -->
-    <string name="lcm">顯示屏</string>
-    <string name="lcm_type">LCD Type</string>
+    <string name="lcm">LCD顯示模組</string>
+    <string name="lcm_type">LCD類型</string>
     <string name="touchscreen">觸摸屏</string>
-    <string name="touchscreen_key">觸摸鍵</string>
+    <string name="touchscreen_key">Touch keys</string>
     <string name="other">其他</string>
-    <string name="alsps">環境光/接近傳感器</string>
-    <string name="camera">相機</string>
-    <string name="lens_af">鏡頭自動對焦</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">照相機</string>
+    <string name="lens_af">Lens AF</string>
     <string name="charger">充電器</string>
 
     <string name="audio">音頻</string>
-    <string name="ethernet">以太網絡</string>
+    <string name="ethernet">以太網路</string>
 
 
     <!-- CPU / GPU -->
@@ -136,7 +136,7 @@
     <string name="light">環境光傳感器</string>
     <string name="pressure">氣壓表</string>
 
-    <string name="install_sensor_test_note">請安裝使用此菜單的應用程序！</string>
+    <string name="install_sensor_test_note">請安裝使用此菜單的應用程式！</string>
 
     <!-- Memory -->
 
@@ -149,8 +149,8 @@
     <string name="camera_model">型號</string>
     <string name="camera_supported">支持</string>
 
-    <string name="software">軟体</string>
-    <string name="hardware">硬体</string>
+    <string name="software">軟體</string>
+    <string name="hardware">硬體</string>
 
     <string name="orientation">方向</string>
     <string name="camera_flash">閃光燈</string>
@@ -201,7 +201,7 @@
     <string name="sim_operator_name">運營商</string>
     <string name="sim_operator_code">運營商代碼</string>
     <string name="sim_country_code">國家代碼</string>
-    <string name="network_type">網路狀態</string>
+    <string name="network_type">網路類型</string>
     <string name="sim_state">SIM狀態</string>
     <string name="sim_icc_card">ICC卡</string>
 
@@ -227,11 +227,11 @@
 
     <string name="lcd_label">熒幕</string>
     <string name="lcd_info">熒幕顏色測試</string>
-    <string name="lcd_desc">檢查熒幕顏色和像素缺陷。 </string>
+    <string name="lcd_desc">檢查熒幕顏色和像素缺陷。</string>
 
     <string name="multitouch_label">多點觸控</string>
     <string name="multitouch_info">觸摸屏多點觸控測試</string>
-    <string name="multitouch_desc">檢查支持的手指數。 </string>
+    <string name="multitouch_desc">檢查支持的手指數。</string>
 
     <string name="touchdraw_label">觸摸繪圖</string>
     <string name="touchdraw_info">觸摸屏繪圖測試</string>
@@ -249,8 +249,8 @@
     <!-- MTK -->
 
     <string name="modem">調製解調器</string>
-    <string name="camera_back">後置相機</string>
-    <string name="camera_front">前置相機</string>
+    <string name="camera_back">後置照相機</string>
+    <string name="camera_front">前置照相機</string>
     <string name="mtk_build">版本號</string>
     <string name="mtk_platform">MTK平台</string>
 
@@ -270,11 +270,11 @@
 
     <string name="language_default">默認</string>
 
-    <string name="pref_title_use_root">使用Root </string>
-    <string name="pref_description_use_root">顯示完整信息</string>
+    <string name="pref_title_use_root">使用Root</string>
+    <string name="pref_description_use_root">獲取完整信息</string>
 
-    <string name="pref_title_show_address">顯示I2C地址</string>
-    <string name="pref_description_show_address">顯示裝置的I2C地址</string>
+    <string name="pref_title_show_address">顯示i2c地址</string>
+    <string name="pref_description_show_address">顯示裝置i2c地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主題</string>
     <string name="pref_description_dark_theme">將暗色主題應用於界面</string>
@@ -283,21 +283,21 @@
     <string name="pref_description_disable_sysfs_msg">在Android 7.0以上，禁止顯示sysfs讀取錯誤消息</string>
 
     <string name="pref_title_invert_charge_speed">反向電池電流</string>
-    <string name="pref_description_invert_charge_speed">反向電池充電/放電速度</string>
+    <string name="pref_description_invert_charge_speed">反向充電 / 放電速度</string>
 
-    <string name="pref_title_temp_in_f_deg">溫度以＆＃xb0; F為單位</string>
+    <string name="pref_title_temp_in_f_deg">溫度以 &#xb0;F為單位</string>
     <string name="pref_description_temp_in_f_deg">以華氏度顯示溫度</string>
 
     <string name="pref_title_detect_therm_zones">檢測熱區</string>
-    <string name="pref_description_detect_therm_zones">檢測熱區名稱（Root）</string>
+    <string name="pref_description_detect_therm_zones">檢測熱區名稱 (root)</string>
 
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">信息</string>
 
     <string name="root_lcm_detect">顯示屏檢測需要Root！</string>
-    <string name="root_camera_detect">相機檢測通常需要Root！</string>
-    <string name="root_hw_detect">完整信息需要Root！</string>
+    <string name="root_camera_detect">照相機檢測通常需要Root！</string>
+    <string name="root_hw_detect">有關完整信息，請求Root！</string>
 
     <string name="root_enable_message">您可以在設定中啟用它。</string>
 
@@ -317,40 +317,40 @@
     <string name="upload">上傳</string>
 
     <string name="create_report">創建報告</string>
-    <string name="create_report_msg">報告已成功創建！\nLook in </string>
+    <string name="create_report_msg">報告已成功創建！\nLook in</string>
     <string name="create_report_err">無法創建報告！</string>
-    <string name="create_report_err_non_pro">無法創建報告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">裝置信息將保存在app data文件夾內的html文件中。</string>
-    <string name="create">創建</string>
+    <string name="create_report_err_non_pro">無法創建報告！\n在PRO版本中可用。</string>
+    <string name="create_report_info">裝置信息將保存在app data文件夾的html文件中。</string>
+    <string name="create">创建</string>
 
     <string name="error">錯誤</string>
     <string name="close">關閉</string>
     <string name="open">打開</string>
     <string name="share">分享</string>
-    <string name="send_to_email">發送電子郵件：</string>
+    <string name="send_to_email">發送電子郵件:</string>
 
-    <string name="cpu_codenames_label"> CPU代號</string>
-    <string name="cpu_codenames_info"> CPU代號名單</string>
+    <string name="cpu_codenames_label">CPU代號</string>
+    <string name="cpu_codenames_info">CPU代號列表</string>
 
-    <string name="update_components_label">裝置組件</string>
-    <string name="update_components_msg">更新檢測規則數據庫</string>
-    <string name="update_component_msg">檢測規則已成功更新。重啟應用程序以應用更改。</string>
+    <string name="update_components_label">设备组件</string>
+    <string name="update_components_msg">更新检测规则数据库</string>
+    <string name="update_component_msg">检测规则已成功更新。 重启应用程序以应用更改。</string>
 
     <string name="upload_info_label">上傳裝置信息</string>
-    <string name="upload_info_text">它有助於使程式更好，改進裝置支持，
-        其他開發人員可以找到類似的裝置和所需的驅動程式。
-        結果存儲在數據庫中。你可以看到：</string>
+    <string name="upload_info_text">它有助於使程序更好，改善裝置支持
+        其他開發人員可以找到類似的裝置和所需的驅動
+        結果存儲在數據庫中。你可以看到:</string>
 
     <string name="kernel_analyzer_label">核心分析器</string>
 
     <string name="i2c_viewer_label">裝置列表</string>
     <string name="i2c_viewer_info">裝置上的I2C，SPI總線</string>
 
-    <string name="exif_cam_label">Exif Camera Info</string>
-    <string name="exif_cam_info">Read exif info from image</string>
-    <string name="open_img_file_label">Open image file...</string>
+    <string name="exif_cam_label">Exif照相機信息</string>
+    <string name="exif_cam_info">從圖像中讀取exif信息</string>
+    <string name="open_img_file_label">打開圖像文件......</string>
 
-    <string name="error_read_sysfs">抱歉，您的的固件已禁止讀取sysfs。只有部分信息可用（顯示完整信息，需Root權限）。 </string>
+    <string name="error_read_sysfs">抱歉，您的已禁止讀取sysfs。只有部分信息可用。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打開工程菜單</string>

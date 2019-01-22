@@ -11,7 +11,7 @@
     <string name="action_upgrade_to_pro">升级到PRO版</string>
 
     <string name="navigation_drawer_open">打开导航抽屉</string>
-    <string name="navigation_drawer_close">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
 
     <string name="navigation_description">可用选项卡列表</string>
 
@@ -29,14 +29,14 @@
     <string name="tab_project">Project</string>
     <string name="tab_drivers">驱动</string>
     <string name="tab_partitions">分区</string>
-    <string name="tab_pmic">电源管理IC</string>
+    <string name="tab_pmic">PMIC</string>
     <string name="tab_net">网络</string>
     <string name="tab_input">输出</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">编解码器</string>
 
     <string name="tab_system_apps">系统应用程序</string>
-    <string name="tab_camera_supported">支持相机</string>
+    <string name="tab_camera_supported">Supported cameras</string>
     <string name="tab_cpu_monitor">CPU监视器</string>
     <string name="tab_cpu_time">CPU运行时间</string>
 
@@ -69,13 +69,13 @@
     <string name="baseband">基带</string>
     <string name="serial">序列号</string>
     <string name="build">版本号</string>
-    <string name="security">安全补丁程序级别</string>
+    <string name="security">安全补丁级别</string>
     <string name="uptime">正常运行时间</string>
 
     <string name="product">产品</string>
     <string name="type">类型</string>
     <string name="build_type">构建类型</string>
-    <string name="tags">标签</string>
+    <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
     <string name="fingerprint">Fingerprint</string>
     <string name="bootloader">引导程序</string>
@@ -90,14 +90,14 @@
     <string name="disabled">禁用</string>
 
     <!-- Components -->
-    <string name="lcm">显示屏</string>
-    <string name="lcm_type">LCD Type</string>
+    <string name="lcm">LCD显示模组</string>
+    <string name="lcm_type">LCD类型</string>
     <string name="touchscreen">触摸屏</string>
-    <string name="touchscreen_key">触摸键</string>
+    <string name="touchscreen_key">Touch keys</string>
     <string name="other">其他</string>
-    <string name="alsps">环境光/接近传感器</string>
+    <string name="alsps">Als/ps</string>
     <string name="camera">相机</string>
-    <string name="lens_af">镜头自动对焦</string>
+    <string name="lens_af">Lens AF</string>
     <string name="charger">充电器</string>
 
     <string name="audio">音频</string>
@@ -201,7 +201,7 @@
     <string name="sim_operator_name">运营商</string>
     <string name="sim_operator_code">运营商代码</string>
     <string name="sim_country_code">国家代码</string>
-    <string name="network_type">网络状态</string>
+    <string name="network_type">网络类型</string>
     <string name="sim_state">SIM状态</string>
     <string name="sim_icc_card">ICC卡</string>
 
@@ -263,7 +263,7 @@
     <string name="title_activity_settings">设置</string>
 
     <string name="pref_category_general">一般</string>
-    <string name="pref_category_appearance">外貌</string>
+    <string name="pref_category_appearance">外观</string>
     <string name="pref_category_other">其他</string>
 
     <string name="pref_title_set_language">语言</string>
@@ -271,10 +271,10 @@
     <string name="language_default">默认</string>
 
     <string name="pref_title_use_root">使用Root</string>
-    <string name="pref_description_use_root">显示完整信息</string>
+    <string name="pref_description_use_root">获取完整信息</string>
 
-    <string name="pref_title_show_address">显示I2C地址</string>
-    <string name="pref_description_show_address">显示设备的I2C地址</string>
+    <string name="pref_title_show_address">显示i2c地址</string>
+    <string name="pref_description_show_address">显示设备i2c地址</string>
 
     <string name="pref_title_dark_theme">使用暗色主题</string>
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
@@ -283,13 +283,13 @@
     <string name="pref_description_disable_sysfs_msg">在android 7.0+上禁用sysfs读取错误消息</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
-    <string name="pref_description_invert_charge_speed">反向电池充电 / 放电速度</string>
+    <string name="pref_description_invert_charge_speed">反向充电 / 放电速度</string>
 
     <string name="pref_title_temp_in_f_deg">温度以 &#xb0;F为单位</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
 
     <string name="pref_title_detect_therm_zones">检测热区</string>
-    <string name="pref_description_detect_therm_zones">检测热区名称（Root）</string>
+    <string name="pref_description_detect_therm_zones">检测热区名称 (root)</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -297,7 +297,7 @@
 
     <string name="root_lcm_detect">显示屏检测需要Root！</string>
     <string name="root_camera_detect">相机检测通常需要Root！</string>
-    <string name="root_hw_detect">完整信息需要Root！</string>
+    <string name="root_hw_detect">有关完整信息，请求root！</string>
 
     <string name="root_enable_message">您可以在设置中启用它。</string>
 
@@ -319,8 +319,8 @@
     <string name="create_report">创建报告</string>
     <string name="create_report_msg">报告已成功创建！\nLook in</string>
     <string name="create_report_err">无法创建报告！</string>
-    <string name="create_report_err_non_pro">无法创建报告！\n它在PRO版本中可用。</string>
-    <string name="create_report_info">设备信息将保存在app data文件夹内的html文件中。</string>
+    <string name="create_report_err_non_pro">无法创建报告！\n在PRO版本中可用。</string>
+    <string name="create_report_info">设备信息将保存在app data文件夹的html文件中。</string>
     <string name="create">创建</string>
 
     <string name="error">错误</string>
@@ -330,15 +330,15 @@
     <string name="send_to_email">发送电子邮件:</string>
 
     <string name="cpu_codenames_label">CPU代号</string>
-    <string name="cpu_codenames_info">CPU代号名单</string>
+    <string name="cpu_codenames_info">CPU代号列表</string>
 
     <string name="update_components_label">设备组件</string>
     <string name="update_components_msg">更新检测规则数据库</string>
     <string name="update_component_msg">检测规则已成功更新。 重启应用程序以应用更改。</string>
 
     <string name="upload_info_label">上传设备信息</string>
-    <string name="upload_info_text">它有助于使程序更好，改进设备支持，
-        其他开发人员可以找到类似的设备和所需的驱动程序。
+    <string name="upload_info_text">它有助于使程序更好，改善设备支持
+        其他开发人员可以找到类似的设备和所需的驱动
         结果存储在数据库中。 你可以看到:</string>
 
     <string name="kernel_analyzer_label">内核分析器</string>
@@ -346,11 +346,11 @@
     <string name="i2c_viewer_label">设备列表</string>
     <string name="i2c_viewer_info">设备上的I2C，SPI总线</string>
 
-    <string name="exif_cam_label">Exif Camera Info</string>
-    <string name="exif_cam_info">Read exif info from image</string>
-    <string name="open_img_file_label">Open image file...</string>
+    <string name="exif_cam_label">Exif相机信息</string>
+    <string name="exif_cam_info">从图像中读取exif信息</string>
+    <string name="open_img_file_label">打开图像文件......</string>
 
-    <string name="error_read_sysfs">抱歉，您的的固件已禁止读取sysfs。只有部分信息可用（显示完整信息，需Root权限）。</string>
+    <string name="error_read_sysfs">抱歉，您的已禁止读取sysfs。只有部分信息可用。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打开工程菜单</string>
