@@ -108,7 +108,7 @@
     <string name="lcm">LCD显示模组</string>
     <string name="lcm_type">LCD类型</string>
     <string name="touchscreen">触摸屏</string>
-    <string name="touchscreen_key">Touch keys</string>
+    <string name="touchscreen_key">触摸键</string>
     <string name="other">其他</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">相机</string>
