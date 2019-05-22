@@ -116,7 +116,7 @@
     <string name="charger">充电器</string>
     <string name="usb_typec" translatable="false">USB Type-C</string>
     <string name="pmic" translatable="false">PMIC</string>
-    <string name="rtc" translatable="false">时钟芯片</string>
+    <string name="rtc" translatable="false">RTC</string>
     <string name="nfc" translatable="false">NFC</string>
     <string name="audio">音频</string>
     <string name="ethernet">以太网络</string>
