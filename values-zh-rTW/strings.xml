@@ -348,7 +348,7 @@
     <string name="pref_title_invert_charge_speed">反向電池電流</string>
     <string name="pref_description_invert_charge_speed">反向充電 / 放電速度</string>
 
-    <string name="pref_title_temp_in_f_deg">溫度以 &#xb0;F為單位</string>
+    <string name="pref_title_temp_in_f_deg">溫度以 &#xb0;F 為單位</string>
     <string name="pref_description_temp_in_f_deg">以華氏度顯示溫度</string>
 
     <string name="pref_title_detect_therm_zones">檢測熱區</string>
