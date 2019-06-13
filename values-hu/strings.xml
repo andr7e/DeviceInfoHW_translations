@@ -54,6 +54,7 @@
     <string name="resolution">Felbontás</string>
 
     <string name="codename">Kódnév</string>
+    <string name="release">Release</string>
 
     <string name="machine_arch">Készülék</string>
 
@@ -79,6 +80,7 @@
     <string name="tags">Cimkék</string>
     <string name="incremental">Differenciális</string>
     <string name="fingerprint">Ujjlenyomat</string>
+    <string name="description">Description</string>
     <string name="bootloader">Bootloader</string>
     <string name="builder">Építő</string>
     <string name="supported_features">Eszköz tulajdonságai</string>
@@ -165,6 +167,8 @@
     <string name="camera_size">Szensor mérete</string>
     <string name="camera_af_modes">Fókusz módok</string>
     <string name="aperture">Rekesz</string>
+    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_sw_info">Info</string>
 
     <!-- Battery -->
 

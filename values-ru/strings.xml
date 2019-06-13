@@ -79,6 +79,7 @@
     <string name="tags">Теги</string>
     <string name="incremental">Номер</string>
     <string name="fingerprint">Подпись</string>
+    <string name="description">Описание сборки</string>
     <string name="bootloader">Загрузчик</string>
     <string name="builder">Сборщик</string>
     <string name="supported_features">Функции устройства</string>
@@ -166,6 +167,8 @@
     <string name="camera_size">Размер сенсора</string>
     <string name="camera_af_modes">Режимы фокусировки</string>
     <string name="aperture">Апертура</string>
+    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_sw_info">Info</string>
 
     <!-- Battery -->
 
@@ -363,5 +366,6 @@
     <string name="about_author">автор\n
         Ефремов Андрей\n
         aka andr7e</string>
+    <string name="release">Выпуск</string>
 
 </resources>

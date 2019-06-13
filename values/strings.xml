@@ -63,6 +63,7 @@
     <string name="android" translatable="false">Android</string>
     <string name="api" translatable="false">API</string>
     <string name="codename">Codename</string>
+    <string name="release">Release</string>
 
     <string name="machine_arch">Machine</string>
 
@@ -92,6 +93,7 @@
     <string name="tags">Tags</string>
     <string name="incremental">Incremental</string>
     <string name="fingerprint">Fingerprint</string>
+    <string name="description">Description</string>
     <string name="bootloader">Bootloader</string>
     <string name="selinux" translatable="false">SELinux</string>
     <string name="builder">Builder</string>
@@ -192,6 +194,8 @@
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
     <string name="iso" translatable="false">ISO</string>
+    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_sw_info">Info</string>
 
     <!-- Battery -->
 

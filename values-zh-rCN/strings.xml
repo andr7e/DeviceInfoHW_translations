@@ -54,6 +54,7 @@
     <string name="resolution">分辨率</string>
 
     <string name="codename">开发代号</string>
+    <string name="release">Release</string>
 
     <string name="machine_arch">Machine</string>
 
@@ -78,6 +79,7 @@
     <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
     <string name="fingerprint">Fingerprint</string>
+    <string name="description">Description</string>
     <string name="bootloader">引导程序</string>
     <string name="builder">构建者</string>
     <string name="supported_features">设备特征</string>
@@ -164,6 +166,8 @@
     <string name="camera_size">传感器尺寸</string>
     <string name="camera_af_modes">对焦模式</string>
     <string name="aperture">光圈</string>
+    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_sw_info">Info</string>
 
     <!-- Battery -->
 

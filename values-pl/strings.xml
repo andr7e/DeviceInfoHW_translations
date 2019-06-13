@@ -54,6 +54,7 @@
     <string name="resolution">Rozdzielczość</string>
 
     <string name="codename">Nazwa kodowa</string>
+    <string name="release">Release</string>
 
     <string name="machine_arch">Maszyna</string>
 
@@ -79,6 +80,7 @@
     <string name="tags">Tagi</string>
     <string name="incremental">Przyrost</string>
     <string name="fingerprint">Fingerprint</string>
+    <string name="description">Description</string> 
     <string name="bootloader">Bootloader</string>
     <string name="builder">Builder</string>
     <string name="supported_features">Device features</string>
@@ -166,6 +168,8 @@
     <string name="camera_size">Sensor size</string>
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
+    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_sw_info">Info</string>
 
     <!-- Battery -->
 
