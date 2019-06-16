@@ -1,0 +1,372 @@
+<resources>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_about">Über</string>
+    <string name="action_info_center">Info сenter</string>
+    <string name="action_screen_test">Bildschirmtest</string>
+    <string name="action_engineer_menu">Engineering menu</string>
+
+    <string name="nav_header_options">Optionen</string>
+    <string name="action_rate_app">App bewerten</string>
+    <string name="action_upgrade_to_pro">PRO-Upgrade</string>
+
+    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
+    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
+
+    <string name="navigation_description">Liste verfügbarer Tabs</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Allgemein</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitor</string>
+    <string name="tab_system">System</string>
+    <string name="tab_memory">Speicher</string>
+    <string name="tab_camera">Kamera</string>
+    <string name="tab_battery">Akku</string>
+    <string name="tab_thermal">Temperatur</string>
+    <string name="tab_sensors">Sensoren</string>
+    <string name="tab_applications">Anwendungen</string>
+    <string name="tab_project">Projekt</string>
+    <string name="tab_drivers">Treiber</string>
+    <string name="tab_partitions">Partitionen</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">Netz</string>
+    <string name="tab_input">Eingabe</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codecs</string>
+
+    <string name="tab_system_apps">Systemanwendungen</string>
+    <string name="tab_camera_supported">Unterstützte Kameras</string>
+    <string name="tab_cpu_monitor">CPU Monitor</string>
+    <string name="tab_cpu_time">CPU Betriebszeit</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">Gerät</string>/string>
+    <string name="manufacturer">Hersteller</string>
+    <string name="model">Modell</string>
+    <string name="brand">Marke</string>
+    <string name="model_name">Modellname</string>
+
+    <string name="platform">Plattform</string>
+    <string name="board">Board</string>
+    <string name="resolution">Auflösung</string>
+
+    <string name="codename">Codename</string>
+    <string name="release">Release</string>
+
+    <string name="machine_arch">Maschine</string>
+
+    <string name="kernel">Kernel</string>
+
+    <string name="ram">RAM</string>
+    <string name="flash">Flash</string>
+    <string name="flash_size">Flashgröße</string>
+
+    <string name="sound">Sound</string>
+    <string name="fingerprint_sensor">Fingerabdruck</string>
+
+    <string name="baseband">Basisband</string>
+    <string name="serial">Seriennummer</string>
+    <string name="build">Build</string>
+
+    <string name="security">Sicherheit</string>
+    <string name="uptime">Laufzeit</string>
+
+    <string name="product">Produkt</string>
+    <string name="type">Typ</string>
+    <string name="build_type">Build Typ</string>
+    <string name="tags">Tags</string>
+    <string name="incremental">Inkremental</string>
+    <string name="fingerprint">Fingerabdruck</string>
+    <string name="description">Beschreibung</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">Gerätefunktionen</string>
+    <string name="language">Sprache</string>
+    <string name="timezone">Zeitzone</string>
+
+    <string name="version">Version</string>
+
+    <string name="enabled">Aktiviert</string>
+    <string name="disabled">Deaktiviert</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">LCD Typ</string>
+    <string name="touchscreen">Touchscreen</string>
+    <string name="touchscreen_key">Touch-Tasten</string>
+    <string name="other">Andere</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">Kamera</string>
+    <string name="lens_af">Objektiv AF</string>
+    <string name="charger">Ladegerät</string>
+
+    <string name="audio">Audio</string>
+    <string name="ethernet">Ethernet</string>
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">Vendor</string>
+    <string name="cores">Kerne</string>
+    <string name="revision">Revision</string>>
+    <string name="family">Familie</string>
+    <string name="instructions">Anweisungen</string>
+    <string name="clock_speed">Taktfrequenz</string>
+    <string name="governor">Regler</string>
+
+    <string name="clusters">Cluster</string>
+    <string name="gpu_vendor">Vendor</string>
+    <string name="gpu_model">GPU</string>
+
+    <string name="gpu_clock">Taktfrequenz</string>
+    <string name="gpu_cufreq">Aktueller Takt</string>
+    <string name="gpu_extensions">Erweiterungen</string>
+
+    <string name="density">Dichte</string>/string>
+    <string name="refresh_rate">Wiederholrate</string>
+
+    <string name="cmdline" translatable="false">Cmdline</string>
+
+    <!-- Sensors -->
+    <string name="test">TEST</string>
+    <string name="info">INFO</string>
+
+    <string name="accelerometer">Accelerometer</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="gyroscope">Gyroskop</string>
+    <string name="proximity">Näherung</string>
+    <string name="light">Licht</string>
+    <string name="pressure">Barometer</string>
+
+    <string name="install_sensor_test_note">Bitte installieren Sie die Anwendung, um dieses Menü zu nutzen! </string>
+
+    <!-- Memory -->
+	
+    <string name="internal_storage">Interner Speicher</string>
+    <string name="external_storage">Externer Speicher</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Vendor</string>
+    <string name="camera_model">Modell</string>
+    <string name="camera_supported">Unterstützt</string>
+
+    <string name="software">Software</string>
+    <string name="hardware">Hardware</string>
+
+    <string name="orientation">Orientierung</string>>
+    <string name="camera_flash">Blitz</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Brennweite</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Bildformate</string>
+    <string name="camera_size">Sensorgröße</string>
+    <string name="camera_af_modes">Fokusmodi</string>
+    <string name="aperture">Blendenöffnung</string>
+    <string name="camera_phy_count">Phy Kameras</string>
+    <string name="camera_sw_info">Info</string>
+
+    <!-- Battery -->
+
+    <string name="level">Level</string>
+    <string name="health">Zustand</string>
+    <string name="status">Status</string>
+
+    <string name="power_source">Energiequelle</string>
+    <string name="technology">Technologie</string>
+    <string name="temperature">Temperatur</string>
+    <string name="voltage">Spannung</string>
+    <string name="power_profile">Energieprofil</string>
+    <string name="kernel_profile">Kernel-Profil</string>
+    <string name="charged_to">Ladestatus</string>
+    <string name="battery_model">Modell</string>
+    <string name="consumption">Verbrauch</string>
+    <string name="charge_speed">Ladegeschwindigkeit</string>
+    <string name="discharge_speed">Entladegeschwindigkeit</string>
+
+    <string name="charge_ac">Laden über AC</string>
+    <string name="charge_usb">Laden über USB</string>
+    <string name="quick_charge">Quick Charge</string>
+
+    <string name="thermal_not_found">Thermische Sensoren nicht gefunden</string>
+
+    <!-- Net -->
+
+    <string name="link_speed">Geschwindigkeit </string>
+    <string name="frequency">Frequenz</string>
+    <string name="signal">Signal</string>
+    <string name="channel">Kanal</string>
+    <string name="net_level">Level</string>
+
+    <!-- SIM -->
+
+    <string name="sim_phone_type">Telefontyp</string>
+    <string name="sim_operator_name">Betreiber</string>
+    <string name="sim_operator_code">Betreibercode</string>
+    <string name="sim_country_code">Ländercode</string>
+    <string name="network_type">Netzwerktyp</string>
+    <string name="sim_state">SIM Status</string>
+    <string name="sim_icc_card">ICC-Karte</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Name</string>
+    <string name="partition_address">Startadresse</string>
+    <string name="partition_size">Partitionsgröße</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">Tage</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">Last:</string>
+    <string name="cpu_core">Kern</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">LCD Farbtest</string>
+    <string name="lcd_desc">Bildschirmfarbe und defekte Pixel testen.</string>
+
+    <string name="multitouch_label">Multi-touch</string>
+    <string name="multitouch_info">Touchscreen Multitouch-Test</string>
+    <string name="multitouch_desc">Prüfen Sie, wie viele Finger unterstützt werden. </string>
+
+    <string name="touchdraw_label">Touchzeichnung</string>
+    <string name="touchdraw_info">Touchscreen-Zeichnungstest</string>
+    <string name="touchdraw_desc">Prüfen Sie die Genauigkeit von Berührungen und Totzonen.</string>.
+
+    <!-- USB -->
+
+    <string name="usb_path">Pfad</string>
+    <string name="usb_num">Nummer</string>
+    <string name="usb_bus">Geräte-ID</string>
+    <string name="usb_ver">Version</string>
+    <string name="usb_not_found1">Geräte:</string>
+    <string name="usb_not_found2">nicht gefunden</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Kamera hinten</string>
+    <string name="camera_front">Kamera Front</string>
+    <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Plattform MTK</string>
+
+    <!-- Report -->
+
+    <string name="firmware">Firmware</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Einstellungen</string>
+
+    <string name="pref_category_general">Allgemein</string>
+    <string name="pref_category_appearance">Aussehen</string>
+    <string name="pref_category_other">Andere</string>
+
+    <string name="pref_title_set_language">Sprache</string>
+
+    <string name="language_default">Standard</string>
+
+    <string name="pref_title_use_root">root verwenden</string>.
+    <string name="pref_description_use_root">Für vollständige Informationen</string>
+
+    <string name="pref_title_show_address">Zeige i2c Adresse</string>
+    <string name="pref_description_show_address">Geräte i2c-Adresse anzeigen</string>
+
+    <string name="pref_title_dark_theme">dunkles Theme nutzen</string>
+    <string name="pref_description_dark_theme">Färbt das Interface dunkel</string>
+
+    <string name="pref_title_disable_sysfs_msg" >sysfs Fehler deaktivieren</string>
+    <string name="pref_description_disable_sysfs_msg">Deaktivieren von sysfs Lesefehlermeldungen unter Android 7.0+</string>
+
+    <string name="pref_title_invert_charge_speed">Ladegeschwindigkeit umkehren</string>
+    <string name="pref_description_invert_charge_speed">Akkulade / Entladegeschwindigkeit umkehren</string>
+
+    <string name="pref_title_temp_in_f_deg">Temperatur in &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Temperatur in Fahrenheit anzeigen</string>
+
+    <string name="pref_title_detect_therm_zones">Thermozonen erkennen</string>
+    <string name="pref_description_detect_therm_zones">Thermozonen-Namen erkennen (root)</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">Meldung</string>
+
+    <string name="root_lcm_detect">Displayerkennung benötigt root!</string>
+    <string name="root_camera_detect">Die Kameraerkennung benötigt normalerweise root!</string>
+    <string name="root_hw_detect">Für vollständige Informationen wird root benötigt!</string>
+
+    <string name="root_enable_message">root kann in den Einstellungen aktiviert werden.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">Schade, aber der Defender kann die App-Gültigkeit nicht überprüfen.\nBitte verbinden Sie sich mit dem Internet und klicken Sie auf die Recheck.</string>.
+    <string name="app_recheck">Recheck</string>
+    <string name="app_exit">Exit</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Sorry, die Gratisnutzung des Themes ist abgelaufen! Es ist in der PRO Version verfügbar.</string>
+	   
+    <!-- Info center -->
+    <string name="update">Update</string>>
+    <string name="updating">Aktualisieren </string>
+
+    <string name="upload">Upload</string>/string>
+
+    <string name="create_report">Bericht erstellen</string>
+    <string name="create_report_msg">Bericht erfolgreich erstellt!\n Hier ansehen</string>
+    <string name="create_report_err">Kann keinen Bericht erstellen!</string>
+    <string name="create_report_err_non_pro">Kann keinen Bericht erstellen!\n Berichte in PRO Version verfügbar.</string>.
+    <string name="create_report_info">Geräteinformationen werden in der html-Datei im App-Data Ordner gespeichert.</string>
+    <string name="create">Erstellen</string>
+
+    <string name="error">Fehler</string>
+    <string name="close">Schließen</string>
+    <string name="open">Öffnen</string>
+    <string name="share">Teilen</string>
+    <string name="send_to_email">An E-Mail senden:</string>
+
+    <string name="cpu_codenames_label">CPU Codename</string>
+    <string name="cpu_codenames_info">Liste der CPU-Codenamen</string>
+
+    <string name="update_components_label">Gerätekomponenten</string>
+    <string name="update_components_msg">Erkennungsregeln aktualisieren</string>
+    <string name="update_component_msg">Erkennungsregeln erfolgreich aktualisiert. Anwendung neustartetn, um Änderungen anzuwenden.</string>
+
+    <string name="upload_info_label">Geräteinformationen hochladen</string>
+    <string name="upload_info_text">Untersützt die Programmverbesserung und erhöht die Geräteunterstützung. Andere Entwickler können ähnliche Geräte und benötigte Treiber finden. Ergebnis in der Datenbank gespeichert. Hier ansehen:</string>
+
+    <string name="kernel_analyzer_label">Kernel Analyzer</string>
+
+    <string name="i2c_viewer_label">Geräteliste</string>
+    <string name="i2c_viewer_info">Geräte auf dem i2c, spi bus</string>
+
+    <string name="exif_cam_label">Exif Kamera Info</string>
+    <string name="exif_cam_info">exif-Informationen aus Bild auslesen</string>
+    <string name="open_img_file_label">Bilddatei öffnen....</string>
+
+    <string name="error_read_sysfs">Sorry, aber auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
+	
+    <!-- Floating button -->
+    <string name="action_engineer_mode">Ingenieurmenü öffnen</string>
+
+    <!-- Strings related to About -->
+
+<string name="about_version">Version</string>
+
+    <string name="about_author">Author\n
+        Andrey Efremov\n
+        aka andr7e</string>
+
+</resources>

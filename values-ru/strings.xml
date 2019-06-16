@@ -54,6 +54,7 @@
     <string name="resolution">Разрешение</string>
 
     <string name="codename">Название</string>
+    <string name="release">Выпуск</string>
 
     <string name="machine_arch">Тип</string>
 
@@ -366,6 +367,5 @@
     <string name="about_author">автор\n
         Ефремов Андрей\n
         aka andr7e</string>
-    <string name="release">Выпуск</string>
 
 </resources>
