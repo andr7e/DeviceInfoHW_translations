@@ -127,8 +127,6 @@
     <string name="density">Dichte</string>/string>
     <string name="refresh_rate">Wiederholrate</string>
 
-    <string name="cmdline" translatable="false">Cmdline</string>
-
     <!-- Sensors -->
     <string name="test">TEST</string>
     <string name="info">INFO</string>
@@ -140,7 +138,7 @@
     <string name="light">Licht</string>
     <string name="pressure">Barometer</string>
 
-    <string name="install_sensor_test_note">Bitte installieren Sie die Anwendung, um dieses Menü zu nutzen! </string>
+    <string name="install_sensor_test_note">Bitte installieren Sie die Anwendung, um dieses Menü zu nutzen!</string>
 
     <!-- Memory -->
 	
@@ -284,10 +282,10 @@
     <string name="pref_title_show_address">Zeige i2c Adresse</string>
     <string name="pref_description_show_address">Geräte i2c-Adresse anzeigen</string>
 
-    <string name="pref_title_dark_theme">dunkles Theme nutzen</string>
+    <string name="pref_title_dark_theme">dunkles Theme verwenden</string>
     <string name="pref_description_dark_theme">Färbt das Interface dunkel</string>
 
-    <string name="pref_title_disable_sysfs_msg" >sysfs Fehler deaktivieren</string>
+    <string name="pref_title_disable_sysfs_msg">sysfs Fehler deaktivieren</string>
     <string name="pref_description_disable_sysfs_msg">Deaktivieren von sysfs Lesefehlermeldungen unter Android 7.0+</string>
 
     <string name="pref_title_invert_charge_speed">Ladegeschwindigkeit umkehren</string>
@@ -320,7 +318,7 @@
 	   
     <!-- Info center -->
     <string name="update">Update</string>>
-    <string name="updating">Aktualisieren </string>
+    <string name="updating">Aktualisieren</string>
 
     <string name="upload">Upload</string>/string>
 
