@@ -234,15 +234,15 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">Тест дисплея</string>
-    <string name="lcd_desc">Проверьте передачу цветов экраном\nи отсутствие битых пискселей.</string>
+    <string name="lcd_desc">Проверьте передачу цветов экраном\nи отсутствие битых пискселей</string>
 
     <string name="multitouch_label">Multi-touch</string>
     <string name="multitouch_info">Тест мультитача сенсорного экрана</string>
-    <string name="multitouch_desc">Проверьте сколько касаний\nподдерживает ваше устройство.</string>
+    <string name="multitouch_desc">Проверьте сколько касаний\nподдерживает ваше устройство</string>
 
     <string name="touchdraw_label">Touch drawing</string>
     <string name="touchdraw_info">Тест рисования по сенсорному экрану</string>
-    <string name="touchdraw_desc">Проверьте точность касания\nи отсутствие мертвых зон.</string>
+    <string name="touchdraw_desc">Проверьте точность касания\nи отсутствие мертвых зон</string>
 
     <!-- USB -->
 
@@ -351,8 +351,8 @@
     <string name="i2c_viewer_label">Список устройств</string>
     <string name="i2c_viewer_info">Устройства на шине i2c, spi</string>
 
-    <string name="exif_cam_label">Информация о камере из еxif</string>
-    <string name="exif_cam_info">Считать данные exif из фото</string>
+    <string name="exif_cam_label">Информация о камере из EXIF</string>
+    <string name="exif_cam_info">Считать данные EXIF из фото</string>
     <string name="open_img_file_label">Выбрать фото...</string>
 
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>

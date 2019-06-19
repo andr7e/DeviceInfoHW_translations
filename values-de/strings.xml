@@ -2,9 +2,9 @@
 
     <string name="action_settings">Einstellungen</string>
     <string name="action_about">Über</string>
-    <string name="action_info_center">Info сenter</string>
+    <string name="action_info_center">Info Center</string>
     <string name="action_screen_test">Bildschirmtest</string>
-    <string name="action_engineer_menu">Engineering menu</string>
+    <string name="action_engineer_menu">Expertenmenü</string>
 
     <string name="nav_header_options">Optionen</string>
     <string name="action_rate_app">App bewerten</string>
@@ -43,7 +43,7 @@
     <!-- Tabs single list -->
 
     <!-- Menu -->
-    <string name="device">Gerät</string>/string>
+    <string name="device">Gerät</string>
     <string name="manufacturer">Hersteller</string>
     <string name="model">Modell</string>
     <string name="brand">Marke</string>
@@ -108,7 +108,7 @@
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
-    <string name="cpu_vendor">Vendor</string>
+    <string name="cpu_vendor">Hersteller</string>
     <string name="cores">Kerne</string>
     <string name="revision">Revision</string>>
     <string name="family">Familie</string>
@@ -117,7 +117,7 @@
     <string name="governor">Regler</string>
 
     <string name="clusters">Cluster</string>
-    <string name="gpu_vendor">Vendor</string>
+    <string name="gpu_vendor">Hersteller</string>
     <string name="gpu_model">GPU</string>
 
     <string name="gpu_clock">Taktfrequenz</string>
@@ -147,14 +147,14 @@
 
     <!-- Camera -->
 
-    <string name="camera_vendor">Vendor</string>
+    <string name="camera_vendor">Hersteller</string>
     <string name="camera_model">Modell</string>
     <string name="camera_supported">Unterstützt</string>
 
     <string name="software">Software</string>
     <string name="hardware">Hardware</string>
 
-    <string name="orientation">Orientierung</string>>
+    <string name="orientation">Orientierung</string>
     <string name="camera_flash">Blitz</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
@@ -233,15 +233,15 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">LCD Farbtest</string>
-    <string name="lcd_desc">Bildschirmfarbe und defekte Pixel testen.</string>
+    <string name="lcd_desc">Bildschirmfarbe und defekte Pixel testen</string>
 
-    <string name="multitouch_label">Multi-touch</string>
+    <string name="multitouch_label">Multitouch</string>
     <string name="multitouch_info">Touchscreen Multitouch-Test</string>
-    <string name="multitouch_desc">Prüfen Sie, wie viele Finger unterstützt werden. </string>
+    <string name="multitouch_desc">Prüfen Sie, wie viele Fingerunterstützt werden</string>
 
     <string name="touchdraw_label">Touchzeichnung</string>
     <string name="touchdraw_info">Touchscreen-Zeichnungstest</string>
-    <string name="touchdraw_desc">Prüfen Sie die Genauigkeit von Berührungen und Totzonen.</string>.
+    <string name="touchdraw_desc">Berührungsgenauigkeit und Totzonen testen</string>.
 
     <!-- USB -->
 
@@ -276,16 +276,16 @@
 
     <string name="language_default">Standard</string>
 
-    <string name="pref_title_use_root">root verwenden</string>.
+    <string name="pref_title_use_root">Root verwenden</string>.
     <string name="pref_description_use_root">Für vollständige Informationen</string>
 
     <string name="pref_title_show_address">Zeige i2c Adresse</string>
     <string name="pref_description_show_address">Geräte i2c-Adresse anzeigen</string>
 
-    <string name="pref_title_dark_theme">dunkles Theme verwenden</string>
+    <string name="pref_title_dark_theme">Dunkles Theme verwenden</string>
     <string name="pref_description_dark_theme">Färbt das Interface dunkel</string>
 
-    <string name="pref_title_disable_sysfs_msg">sysfs Fehler deaktivieren</string>
+    <string name="pref_title_disable_sysfs_msg">Sysfs Fehler deaktivieren</string>
     <string name="pref_description_disable_sysfs_msg">Deaktivieren von sysfs Lesefehlermeldungen unter Android 7.0+</string>
 
     <string name="pref_title_invert_charge_speed">Ladegeschwindigkeit umkehren</string>
@@ -323,9 +323,9 @@
     <string name="upload">Upload</string>/string>
 
     <string name="create_report">Bericht erstellen</string>
-    <string name="create_report_msg">Bericht erfolgreich erstellt!\n Hier ansehen</string>
+    <string name="create_report_msg">Bericht erfolgreich erstellt!\nHier ansehen</string>
     <string name="create_report_err">Kann keinen Bericht erstellen!</string>
-    <string name="create_report_err_non_pro">Kann keinen Bericht erstellen!\n Berichte in PRO Version verfügbar.</string>.
+    <string name="create_report_err_non_pro">Kann keinen Bericht erstellen!\nBerichte in PRO Version verfügbar.</string>.
     <string name="create_report_info">Geräteinformationen werden in der html-Datei im App-Data Ordner gespeichert.</string>
     <string name="create">Erstellen</string>
 
@@ -343,27 +343,27 @@
     <string name="update_component_msg">Erkennungsregeln erfolgreich aktualisiert. Anwendung neustartetn, um Änderungen anzuwenden.</string>
 
     <string name="upload_info_label">Geräteinformationen hochladen</string>
-    <string name="upload_info_text">Untersützt die Programmverbesserung und erhöht die Geräteunterstützung. Andere Entwickler können ähnliche Geräte und benötigte Treiber finden. Ergebnis in der Datenbank gespeichert. Hier ansehen:</string>
+    <string name="upload_info_text">Untersützt die Programmverbesserung und erhöht die Geräteunterstützung. Andere Entwickler können ähnliche Geräte und benötigte Treiber finden. Ergebnisse werden in der Datenbank gespeichert. Hier ansehen:</string>
 
     <string name="kernel_analyzer_label">Kernel Analyzer</string>
 
     <string name="i2c_viewer_label">Geräteliste</string>
     <string name="i2c_viewer_info">Geräte auf dem i2c, spi bus</string>
 
-    <string name="exif_cam_label">Exif Kamera Info</string>
-    <string name="exif_cam_info">exif-Informationen aus Bild auslesen</string>
+    <string name="exif_cam_label">EXIF Kamera Info</string>
+    <string name="exif_cam_info">EXIF-Informationen aus Bild auslesen</string>
     <string name="open_img_file_label">Bilddatei öffnen....</string>
 
-    <string name="error_read_sysfs">Sorry, aber auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
+    <string name="error_read_sysfs">Sorry, auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
 	
     <!-- Floating button -->
-    <string name="action_engineer_mode">Ingenieurmenü öffnen</string>
+    <string name="action_engineer_mode">Expertenmenü</string>
 
     <!-- Strings related to About -->
 
 <string name="about_version">Version</string>
 
-    <string name="about_author">Author\n
+    <string name="about_author">Autor\n
         Andrey Efremov\n
         aka andr7e</string>
 

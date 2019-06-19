@@ -231,11 +231,11 @@
 
     <string name="lcd_label">熒幕</string>
     <string name="lcd_info">熒幕顏色測試</string>
-    <string name="lcd_desc">檢查熒幕顏色和像素缺陷。</string>
+    <string name="lcd_desc">檢查熒幕顏色和像素缺陷</string>
 
     <string name="multitouch_label">多點觸控</string>
     <string name="multitouch_info">觸摸屏多點觸控測試</string>
-    <string name="multitouch_desc">檢查支持的手指數。</string>
+    <string name="multitouch_desc">檢查支持的手指數</string>
 
     <string name="touchdraw_label">觸摸繪圖</string>
     <string name="touchdraw_info">觸摸屏繪圖測試</string>
@@ -350,9 +350,9 @@
     <string name="i2c_viewer_label">裝置列表</string>
     <string name="i2c_viewer_info">裝置上的I2C，SPI總線</string>
 
-    <string name="exif_cam_label">Exif照相機信息</string>
-    <string name="exif_cam_info">從圖像中讀取exif信息</string>
-    <string name="open_img_file_label">打開圖像文件......</string>
+    <string name="exif_cam_label">EXIF照相機信息</string>
+    <string name="exif_cam_info">從圖像中讀取EXIF信息</string>
+    <string name="open_img_file_label">打開圖像文件...</string>
 
     <string name="error_read_sysfs">抱歉，您的已禁止讀取sysfs。只有部分信息可用。</string>
 

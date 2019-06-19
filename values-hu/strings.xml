@@ -233,15 +233,15 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">LCD szín teszt</string>
-    <string name="lcd_desc">A képernyő színének és a hibás pixelek ellenőrzése.</string>
+    <string name="lcd_desc">A képernyő színének és a hibás pixelek ellenőrzése</string>
 
     <string name="multitouch_label">Többérintéses</string>
     <string name="multitouch_info">Képernyő többétrintéses teszt</string>
-    <string name="multitouch_desc">Ellenőrizze hány ujjat támogat a készülék.</string>
+    <string name="multitouch_desc">Ellenőrizze hány ujjat támogat a készülék</string>
 
     <string name="touchdraw_label">Érintéses rajzolás</string>
     <string name="touchdraw_info">Képernyő érintéses rajzolási teszt</string>
-    <string name="touchdraw_desc">Ellenőrizze az érintőképernyő pontosságát és a holtsávot.</string>
+    <string name="touchdraw_desc">Ellenőrizze az érintőképernyő pontosságát és a holtsávot</string>
 
     <!-- USB -->
 
@@ -344,16 +344,16 @@
 
     <string name="upload_info_label">Eszközinformációk feltöltése</string>
     <string name="upload_info_text">Segít a program jobb elkészítésében, javítja az eszközök támogatását
-         és más fejlesztők találhatnak hasonló eszközöket és a szükséges illesztőprogramokat.
-         Adatbázisban tároljuk az eredményt. Megnézheti a:</string>
+        és más fejlesztők találhatnak hasonló eszközöket és a szükséges illesztőprogramokat.
+        Adatbázisban tároljuk az eredményt. Megnézheti a:</string>
 
     <string name="kernel_analyzer_label">Kernelanalizátor</string>
 
     <string name="i2c_viewer_label">Eszközök listája</string>
     <string name="i2c_viewer_info">Eszközök listája az i2c, spi csatlakozón</string>
 
-    <string name="exif_cam_label">Exif Camera Info</string>
-    <string name="exif_cam_info">Read exif info from image</string>
+    <string name="exif_cam_label">EXIF Camera Info</string>
+    <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Sajnáljuk, de a firmware olvasásakor a sysfs le van tiltva. Csak részleges információk állnak rendelkezésre.</string>

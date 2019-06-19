@@ -261,15 +261,15 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">LCD color test</string>
-    <string name="lcd_desc">Check screen color and no defective pixels.</string>
+    <string name="lcd_desc">Check screen color and no defective pixels</string>
 
     <string name="multitouch_label">Multi-touch</string>
     <string name="multitouch_info">Touchscreen multi-touch test</string>
-    <string name="multitouch_desc">Check how many fingers supported.</string>
+    <string name="multitouch_desc">Check how many fingers supported</string>
 
     <string name="touchdraw_label">Touch drawing</string>
     <string name="touchdraw_info">Touchscreen drawing test</string>
-    <string name="touchdraw_desc">Check accuracy of touch and dead zones.</string>
+    <string name="touchdraw_desc">Check accuracy of touch and dead zones</string>
 
     <!-- USB -->
 
@@ -415,8 +415,8 @@
     <string name="i2c_viewer_label">Device list</string>
     <string name="i2c_viewer_info">Devices on the i2c, spi bus</string>
 
-    <string name="exif_cam_label">Exif Camera Info</string>
-    <string name="exif_cam_info">Read exif info from image</string>
+    <string name="exif_cam_label">EXIF Camera Info</string>
+    <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>

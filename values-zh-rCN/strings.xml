@@ -231,11 +231,11 @@
 
     <string name="lcd_label">屏幕</string>
     <string name="lcd_info">屏幕颜色测试</string>
-    <string name="lcd_desc">检查屏幕颜色和像素缺陷。</string>
+    <string name="lcd_desc">检查屏幕颜色和像素缺陷</string>
 
     <string name="multitouch_label">多点触控</string>
     <string name="multitouch_info">触摸屏多点触控测试</string>
-    <string name="multitouch_desc">检查支持的手指数。</string>
+    <string name="multitouch_desc">检查支持的手指数</string>
 
     <string name="touchdraw_label">触摸绘图</string>
     <string name="touchdraw_info">触摸屏绘图测试</string>
@@ -350,9 +350,9 @@
     <string name="i2c_viewer_label">设备列表</string>
     <string name="i2c_viewer_info">设备上的I2C，SPI总线</string>
 
-    <string name="exif_cam_label">Exif相机信息</string>
-    <string name="exif_cam_info">从图像中读取exif信息</string>
-    <string name="open_img_file_label">打开图像文件......</string>
+    <string name="exif_cam_label">EXIF相机信息</string>
+    <string name="exif_cam_info">从图像中读取EXIF信息</string>
+    <string name="open_img_file_label">打开图像文件...</string>
 
     <string name="error_read_sysfs">抱歉，您的已禁止读取sysfs。只有部分信息可用。</string>
 
