@@ -54,7 +54,7 @@
     <string name="resolution">分辨率</string>
 
     <string name="codename">开发代号</string>
-    <string name="release">Release</string>
+    <string name="release">发布版本</string>
 
     <string name="machine_arch">Machine</string>
 
@@ -95,7 +95,7 @@
     <string name="lcm">LCD显示模组</string>
     <string name="lcm_type">LCD类型</string>
     <string name="touchscreen">触摸屏</string>
-    <string name="touchscreen_key">Touch keys</string>
+    <string name="touchscreen_key">触摸键</string>
     <string name="other">其他</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">相机</string>
@@ -166,8 +166,8 @@
     <string name="camera_size">传感器尺寸</string>
     <string name="camera_af_modes">对焦模式</string>
     <string name="aperture">光圈</string>
-    <string name="camera_phy_count">Phy cameras</string>
-    <string name="camera_sw_info">Info</string>
+    <string name="camera_phy_count">物理相机</string>
+    <string name="camera_sw_info">信息</string>
 
     <!-- Battery -->
 
@@ -354,7 +354,7 @@
     <string name="exif_cam_info">从图像中读取EXIF信息</string>
     <string name="open_img_file_label">打开图像文件...</string>
 
-    <string name="error_read_sysfs">抱歉，您的已禁止读取sysfs。只有部分信息可用。</string>
+    <string name="error_read_sysfs">抱歉，您的固件已禁止读取sysfs。只有部分信息可用。</string>
 
     <!-- Floating button -->
     <string name="action_engineer_mode">打开工程菜单</string>
