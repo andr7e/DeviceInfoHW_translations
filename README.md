@@ -8,5 +8,6 @@
 * Simplified Chinese: Lester Chan (yaxisvip)
 * Traditional Chinese: Lester Chan (yaxisvip)
 * German: Tim Köhler
+* Brazilian: Mickael Mesquita
 	
 ```
