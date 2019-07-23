@@ -320,6 +320,7 @@
         <item>Bahasa Indonesia</item>
         <item>Magyar</item>
         <item>Deutsch</item>
+        <item>Português Brasil</item>
         <item>中文（简体）</item>
         <item>中文（繁體）</item>
 
@@ -335,6 +336,7 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+        <item>9</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>
