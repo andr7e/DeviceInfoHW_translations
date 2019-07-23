@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Device Info HW</string>
-    <string name="app_name_title" translatable="false">Device Info HW</string>
 
     <string name="action_settings">Configurações</string>
     <string name="action_about">Sobre</string>
@@ -43,8 +41,6 @@
     <string name="tab_cpu_time">Tempo de atividade da CPU</string>
 
     <!-- Tabs single list -->
-    <string name="system_apps" translatable="false">Aplicativos do Sistema</string>
-    <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
 
     <!-- Menu -->
     <string name="device">Dispositivo</string>
@@ -57,8 +53,6 @@
     <string name="board">Placa</string>
     <string name="resolution">Resolução</string>
 
-    <string name="android" translatable="false">Android</string>
-    <string name="api" translatable="false">API</string>
     <string name="codename">Codinome</string>
     <string name="release">Lançamento</string>
 
@@ -67,20 +61,16 @@
     <string name="kernel">Kernel</string>
 
     <string name="ram">RAM</string>
-    <string name="kram" translatable="false">RAM (kernel)</string>
-    <string name="zram" translatable="false">SWAP</string>
     <string name="flash">Flash</string>
-    <string name="scsi" translatable="false">SCSI</string>
     <string name="flash_size">Tamanho Flash</string>
 
-    <string name="wifi" translatable="false">Wi-Fi</string>
     <string name="sound">Som</string>
     <string name="fingerprint_sensor">Biometria</string>
 
     <string name="baseband">Banda de base</string>
     <string name="serial">Serial</string>
     <string name="build">Número da versão</string>
-    <string name="java_vm" translatable="false">Java VM</string>
+
     <string name="security">Segurança</string>
     <string name="uptime">Tempo ativo</string>
 
@@ -92,7 +82,6 @@
     <string name="fingerprint">Identificação</string>
     <string name="description">Descrição</string>
     <string name="bootloader">Bootloader</string>
-    <string name="selinux" translatable="false">SELinux</string>
     <string name="builder">Compilador</string>
     <string name="supported_features">Recursos do dispositivo</string>
     <string name="language">Lingagem</string>
@@ -113,30 +102,23 @@
     <string name="camera">Câmera</string>
     <string name="lens_af">Lente AF</string>
     <string name="charger">Carregamento</string>
-    <string name="usb_typec" translatable="false">USB Type-C</string>
-    <string name="pmic" translatable="false">PMIC</string>
-    <string name="rtc" translatable="false">RTC</string>
-    <string name="nfc" translatable="false">NFC</string>
+
     <string name="audio">Áudio</string>
     <string name="ethernet">Ethernet</string>
-
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">Fornecedor</string>
-    <string name="soc" translatable="false">SoC</string>
     <string name="cores">Núcleos</string>
     <string name="revision">Revisão</string>
     <string name="family">Família</string>
-    <string name="abi" translatable="false">ABI</string>
     <string name="instructions">Instruções</string>
     <string name="clock_speed">Velocidade</string>
     <string name="governor">Governador</string>
-    <string name="big_little" translatable="false">big.LITTLE</string>
     <string name="clusters">Grupos</string>
     <string name="gpu_vendor">Fornecedor</string>
     <string name="gpu_model">GPU</string>
-    <string name="gl_version" translatable="false">OpenGL ES</string>
+
     <string name="gpu_clock">Velocidade</string>
     <string name="gpu_cufreq">Velocidade atual</string>
     <string name="gpu_extensions">Extensões</string>
@@ -144,13 +126,9 @@
     <string name="density">Densidade</string>
     <string name="refresh_rate">Taxa de atualização</string>
 
-    <string name="cmdline" translatable="false">Cmdline</string>
-
     <!-- Sensors -->
     <string name="test">TESTAR</string>
     <string name="info">INFO</string>
-
-    <string name="led" translatable="false">•</string>
 
     <string name="accelerometer">Acelerômetro</string>
     <string name="magnetometer">Magnetômetro</string>
@@ -158,10 +136,7 @@
     <string name="proximity">Proximidade</string>
     <string name="light">Iluminação</string>
     <string name="pressure">Barômetro</string>
-    <string name="accel_gyro" translatable="false">Acel + Giros</string>
 
-    <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
-    <string name="sensor_app_name" translatable="false">Testar Sensores</string>
     <string name="install_sensor_test_note">Por favor instale o aplicativo para usar este menu! </string>
 
     <!-- Memory -->
@@ -190,7 +165,6 @@
     <string name="camera_size">Tamanho do sensor</string>
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
-    <string name="iso" translatable="false">ISO</string>
     <string name="camera_phy_count">Phy câmeras</string>
     <string name="camera_sw_info">Informações</string>
 
@@ -219,18 +193,15 @@
     <string name="thermal_not_found">Sensores de temperatura não encontrados</string>
 
     <!-- Net -->
-    <string name="ip_address" translatable="false">IPv4</string>
-    <string name="ip6_address" translatable="false">IPv6</string>
-    <string name="ssid" translatable="false">SSID</string>
+
     <string name="link_speed">Velocidade do link</string>
-    <string name="mac_address" translatable="false">MAC</string>
     <string name="frequency">Frequência</string>
     <string name="signal">Sinal</string>
     <string name="channel">Canal</string>
     <string name="net_level">Nível</string>
 
     <!-- SIM -->
-    <string name="sim_label" translatable="false">SIM</string>
+
     <string name="sim_phone_type">Tipo de telefone</string>
     <string name="sim_operator_name">Operadora</string>
     <string name="sim_operator_code">Código da operadora</string>
@@ -290,13 +261,6 @@
 
     <!-- Report -->
 
-    <string name="flash_id" translatable="false">flash_id</string>
-    <string name="flash_name" translatable="false">flash_name</string>
-    <string name="hwinfo" translatable="false">hwinfo</string>
-    <string name="platform_drivers" translatable="false">platform_drivers</string>
-    <string name="spi_drivers" translatable="false">spi</string>
-    <string name="iio_drivers" translatable="false">iio</string>
-
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -310,34 +274,6 @@
     <string name="pref_title_set_language">Linguagem</string>
 
     <string name="language_default">Padrão</string>
-
-    <string-array name="pref_language_list_titles" translatable="false">
-        <item>@string/language_default</item>
-        <item>English</item>
-        <item>Русский</item>
-        <item>Español</item>
-        <item>Polski</item>
-        <item>Bahasa Indonesia</item>
-        <item>Magyar</item>
-        <item>Deutsch</item>
-        <item>Português Brasil</item>
-        <item>中文（简体）</item>
-        <item>中文（繁體）</item>
-
-    </string-array>
-    <string-array name="pref_language_list_values" translatable="false">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-    </string-array>
 
     <string name="pref_title_use_root">Usar root</string>
     <string name="pref_description_use_root">Para obter informações completas</string>
@@ -361,8 +297,6 @@
     <string name="pref_description_detect_therm_zones">Detectar nome das zonas térmicas (root)</string>
 
     <!-- Strings related to Message of first install -->
-
-    <string name="ok" translatable="false">OK</string>
 
     <string name="first_install_title">Mensagem</string>
 
@@ -433,7 +367,5 @@
     <string name="about_author">autor\n
         Andrey Efremov\n
         ou andr7e</string>
-
-    <string name="about_bottom" translatable="false">(c) 2016 - 2019</string>
 
 </resources>
