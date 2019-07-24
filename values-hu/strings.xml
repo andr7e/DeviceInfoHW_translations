@@ -118,6 +118,7 @@
     <string name="governor">Irányító</string>
 
     <string name="clusters">Klaszterek</string>
+    <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Gyártó</string>
     <string name="gpu_model">GPU</string>
 

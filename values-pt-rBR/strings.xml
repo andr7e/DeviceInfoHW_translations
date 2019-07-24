@@ -116,6 +116,7 @@
     <string name="clock_speed">Velocidade</string>
     <string name="governor">Governador</string>
     <string name="clusters">Grupos</string>
+    <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Fornecedor</string>
     <string name="gpu_model">GPU</string>
 

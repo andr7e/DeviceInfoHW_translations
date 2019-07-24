@@ -134,6 +134,7 @@
     <string name="governor">Governor</string>
     <string name="big_little" translatable="false">big.LITTLE</string>
     <string name="clusters">Clusters</string>
+    <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Vendor</string>
     <string name="gpu_model">GPU</string>
     <string name="gl_version" translatable="false">OpenGL ES</string>

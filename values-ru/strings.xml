@@ -119,6 +119,7 @@
     <string name="governor">Регулятор</string>
 
     <string name="clusters">Кластеры</string>
+    <string name="cache_l3">Кэш L3</string>
     <string name="gpu_vendor">Вендор</string>
     <string name="gpu_model">ГП</string>
 

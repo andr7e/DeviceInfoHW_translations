@@ -117,6 +117,7 @@
     <string name="governor">Governor</string>
 
     <string name="clusters">Clusters</string>
+    <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Fabricante</string>
     <string name="gpu_model">GPU</string>
 
