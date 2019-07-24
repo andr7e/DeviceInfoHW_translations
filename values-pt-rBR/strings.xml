@@ -156,8 +156,8 @@
 
     <string name="orientation">Orientação</string>
     <string name="camera_flash">Flash</string>
-    <string name="yes">yes</string>
-    <string name="no">no</string>
+    <string name="yes">sim</string>
+    <string name="no">não</string>
     <string name="mp">MP</string>
     <string name="video_resolution">Vídeo</string>
     <string name="focal_length">Comprimento do foco</string>
