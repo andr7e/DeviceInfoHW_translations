@@ -31,7 +31,7 @@
     <string name="tab_partitions">Partições</string>
     <string name="tab_pmic">PMIC</string>
     <string name="tab_net">Net</string>
-    <string name="tab_input">Input</string>
+    <string name="tab_input">Entrada</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
 
@@ -84,7 +84,7 @@
     <string name="bootloader">Bootloader</string>
     <string name="builder">Compilador</string>
     <string name="supported_features">Recursos do dispositivo</string>
-    <string name="language">Lingagem</string>
+    <string name="language">Linguagem</string>
     <string name="timezone">Fuso horário</string>
 
     <string name="version">Versão</string>
@@ -163,8 +163,8 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Formatos de imagem</string>
     <string name="camera_size">Tamanho do sensor</string>
-    <string name="camera_af_modes">Focus modes</string>
-    <string name="aperture">Aperture</string>
+    <string name="camera_af_modes">Modos de foco</string>
+    <string name="aperture">Abertura</string>
     <string name="camera_phy_count">Phy câmeras</string>
     <string name="camera_sw_info">Informações</string>
 
