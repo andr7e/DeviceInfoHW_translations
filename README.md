@@ -9,5 +9,6 @@
 * Traditional Chinese: Lester Chan (yaxisvip)
 * German: Tim Köhler
 * Portuguese (Brazil): Mickael Mesquita
-	
+* Arabic : Ali Mohamed
+
 ```

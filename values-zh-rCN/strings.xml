@@ -165,10 +165,14 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">图像格式</string>
     <string name="camera_size">传感器尺寸</string>
+    <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">对焦模式</string>
     <string name="aperture">光圈</string>
     <string name="camera_phy_count">物理相机</string>
     <string name="camera_sw_info">信息</string>
+    <string name="camera_color_filter">Color Filter</string>
+    <string name="camera_view_angle">View Angle</string>
+    <string name="unit_um">µm</string>
 
     <!-- Battery -->
 

@@ -189,11 +189,15 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Image formats</string>
     <string name="camera_size">Sensor size</string>
+    <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
     <string name="iso" translatable="false">ISO</string>
     <string name="camera_phy_count">Phy cameras</string>
     <string name="camera_sw_info">Info</string>
+    <string name="camera_color_filter">Color Filter</string>
+    <string name="camera_view_angle">View Angle</string>
+    <string name="unit_um">µm</string>
 
     <!-- Battery -->
 
@@ -324,6 +328,7 @@
         <item>Português (Brasil)</item>
         <item>中文（简体）</item>
         <item>中文（繁體）</item>
+        <item>العربية</item>
 
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
@@ -338,6 +343,7 @@
         <item>7</item>
         <item>8</item>
         <item>9</item>
+        <item>10</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>

@@ -165,10 +165,14 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Image formats</string>
     <string name="camera_size">Sensor size</string>
+    <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
     <string name="camera_phy_count">Phy cameras</string>
     <string name="camera_sw_info">Info</string>
+    <string name="camera_color_filter">Color Filter</string>
+    <string name="camera_view_angle">View Angle</string>
+    <string name="unit_um">µm</string>
     
     <!-- Battery -->
 

@@ -1,0 +1,379 @@
+<resources>
+
+    <string name="action_settings">الإعدادات</string>
+    <string name="action_about">حول التطبيق</string>
+    <string name="action_info_center">مركز المعلومات</string>
+    <string name="action_screen_test">إختبار الشاشة</string>
+    <string name="action_engineer_menu">Engineering menu</string>
+
+    <string name="nav_header_options">خيارات أخرى</string>
+    <string name="action_rate_app">تقييم التطبيق</string>
+    <string name="action_upgrade_to_pro">الترقية للنسخة الإحترافية</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="navigation_description">التبويبات المتاحة</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">عام</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">المراقب</string>
+    <string name="tab_system">النظام</string>
+    <string name="tab_memory">الذاكرة</string>
+    <string name="tab_camera">الكاميرا</string>
+    <string name="tab_battery">البطارية</string>
+    <string name="tab_thermal">Thermal</string>
+    <string name="tab_sensors">الحساسات</string>
+    <string name="tab_applications">التطبيقات</string>
+    <string name="tab_project">Project</string>
+    <string name="tab_drivers">التعريفات</string>
+    <string name="tab_partitions">الأقسام</string>
+    <string name="tab_pmic">دوائر الطاقة</string>
+    <string name="tab_net">الإنترنت</string>
+    <string name="tab_input">إدخال</string>
+    <string name="tab_usb">منفذ USB</string>
+    <string name="tab_codecs">الترميز</string>
+
+    <string name="tab_system_apps">تطبيقات النظام</string>
+    <string name="tab_camera_supported">الكاميرا المدعومة</string>
+    <string name="tab_cpu_monitor">مراقب المعالج</string>
+    <string name="tab_cpu_time">وقت عمل المعالج</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">نوع الجهاز</string>
+    <string name="manufacturer">الشركة المصنعة</string>
+    <string name="model">الموديل</string>
+    <string name="brand">الهوية</string>
+    <string name="model_name">إسم الموديل</string>
+
+    <string name="platform">البيئة</string>
+    <string name="board">Board</string>
+    <string name="resolution">دقة الشاشة</string>
+
+    <string name="codename">الإسم الرمزي</string>
+    <string name="release">تاريخ الإصدار</string>
+
+    <string name="machine_arch">الآلة</string>
+
+    <string name="kernel">النواة</string>
+
+    <string name="ram">الذاكرة العشوائية</string>
+    <string name="flash">الفلاش</string>
+    <string name="flash_size">سعة التخزين</string>
+
+    <string name="sound">الصوت</string>
+    <string name="fingerprint_sensor">بصمة الأصبع</string>
+
+    <string name="baseband">إصدار النطاق الأساسي</string>
+    <string name="serial">الرقم التسلسلي</string>
+    <string name="build">Build</string>
+
+    <string name="security">الحماية</string>
+    <string name="uptime">وقت التشغيل</string>
+
+    <string name="product">المنتج</string>
+    <string name="type">النوع</string>
+    <string name="build_type">Build type</string>
+    <string name="tags">الأوسمة</string>
+    <string name="incremental">Incremental</string>
+    <string name="fingerprint">بصمة الأصبع</string>
+    <string name="description">الوصف</string>
+    <string name="bootloader">محمل الإقلاع</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">خصائص الجهاز</string>
+    <string name="language">اللغة</string>
+    <string name="timezone">المنطقة الزمنية</string>
+
+    <string name="version">الإصدار</string>
+
+    <string name="enabled">مفعل</string>
+    <string name="disabled">معطل</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">النوع LCD</string>
+    <string name="touchscreen">شاشة اللمس</string>
+    <string name="touchscreen_key">مفاتيح اللمس</string>
+    <string name="other">أخرى</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">الكاميرا</string>
+    <string name="lens_af">Lens AF</string>
+    <string name="charger">الشاحن</string>
+
+    <string name="audio">الصوت</string>
+    <string name="ethernet">إبثرنت</string>
+
+    <!-- CPU / GPU -->
+    <string name="cpu">المعالج</string>
+    <string name="cpu_vendor">المزود</string>
+
+    <string name="cores">عدد الأنوية</string>
+    <string name="revision">مراجعة</string>
+    <string name="family">العائلة</string>
+
+    <string name="instructions">التعليمات</string>
+    <string name="clock_speed">السرعة</string>
+    <string name="governor">Governor</string>
+
+    <string name="clusters">Clusters</string>
+    <string name="cache_l3">Cache L3</string>
+    <string name="gpu_vendor">المزود</string>
+    <string name="gpu_model">المعالج</string>
+
+    <string name="gpu_clock">السرعة</string>
+    <string name="gpu_cufreq">الحالية</string>
+    <string name="gpu_extensions">إضافات</string>
+
+    <string name="density">Density</string>
+    <string name="refresh_rate">معدل التحديث</string>
+
+    <!-- Sensors -->
+    <string name="test">إختبار</string>
+    <string name="info">معلومات</string>
+
+    <string name="accelerometer">التسارع</string>
+    <string name="magnetometer">مقياس المغنطيسية</string>
+    <string name="gyroscope">جيروسكوب</string>
+    <string name="proximity">التقارب</string>
+    <string name="light">الإضاءة</string>
+    <string name="pressure">مقياس الضغط الجوي</string>
+
+    <string name="install_sensor_test_note">الرجاء تثبيت التطبيقات المطلوبة لعمل هذه القائمة! </string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">المساحة الداخلية</string>
+    <string name="external_storage">المساحة الخارجية</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">المزود</string>
+    <string name="camera_model">الموديل</string>
+    <string name="camera_supported">يدعم</string>
+
+    <string name="software">البرنامج</string>
+    <string name="hardware">الهاردوير</string>
+
+    <string name="orientation">الإتجاه</string>
+    <string name="camera_flash">فلاش</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">الفيديو</string>
+    <string name="focal_length">البعد البؤري</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">إمتدادات الصور</string>
+    <string name="camera_size">حجم الحساس</string>
+    <string name="pixel_size">Pixel size</string>
+    <string name="camera_af_modes">وضع التركيز</string>
+    <string name="aperture">الفتحة</string>
+    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_sw_info">معلومات</string>
+    <string name="camera_color_filter">Color Filter</string>
+    <string name="camera_view_angle">View Angle</string>
+    <string name="unit_um">µm</string>
+    
+    <!-- Battery -->
+
+    <string name="level">المستوى</string>
+    <string name="health">الصحة</string>
+    <string name="status">الحالة</string>
+
+    <string name="power_source">مصدر الطاقة</string>
+    <string name="technology">التقنية المستخدمة</string>
+    <string name="temperature">درجة الحرارة</string>
+    <string name="voltage">الجهد</string>
+    <string name="power_profile">سعة الطاقة</string>
+    <string name="kernel_profile">السعة ال‘جمالية</string>
+    <string name="charged_to">آخر شحن كامل</string>
+    <string name="battery_model">الموديل</string>
+    <string name="consumption">الإستهلاك</string>
+    <string name="charge_speed">سرعة الشحن</string>
+    <string name="discharge_speed">سرعة التفريق</string>
+
+    <string name="charge_ac">تيار متردد</string>
+    <string name="charge_usb">كيبل يو اس بي</string>
+    <string name="quick_charge">الشحن السريع</string>
+
+    <string name="thermal_not_found">Thermal sensors not found</string>
+
+    <!-- Net -->
+
+    <string name="link_speed">سرعة الربط</string>
+    <string name="frequency">التردد</string>
+    <string name="signal">الإشارة</string>
+    <string name="channel">القناة</string>
+    <string name="net_level">مستوى الإشارة</string>
+
+    <!-- SIM -->
+
+    <string name="sim_phone_type">Phone type</string>
+    <string name="sim_operator_name">المشغل</string>
+    <string name="sim_operator_code">رمز المشغل</string>
+    <string name="sim_country_code">رمز الدولة</string>
+    <string name="network_type">نوع الشبكة</string>
+    <string name="sim_state">حالة SIM</string>
+    <string name="sim_icc_card">بطاقة ICC</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">الإسم</string>
+    <string name="partition_address">عنوان البدء</string>
+    <string name="partition_size">حجم القسم</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">يوم</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">المعالج</string>
+    <string name="cpu_load">التحميل:</string>
+    <string name="cpu_core">الأنوية</string>
+
+    <string name="gpu_label">معالج الرسوميات</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">الشاشة</string>
+    <string name="lcd_info">إختبار ألوان الشاشة</string>
+    <string name="lcd_desc">‘فحص ألوان الشاشة و النقاط الميتة</string>
+
+    <string name="multitouch_label">اللمس المتعدد</string>
+    <string name="multitouch_info">إختبار اللمس المتعدد</string>
+    <string name="multitouch_desc">إفحص كم عدد الأصابع المدعومة</string>
+
+    <string name="touchdraw_label">الرسم على الشاشة</string>
+    <string name="touchdraw_info">إختبار الرسم على الشاشة</string>
+    <string name="touchdraw_desc">إفحص المناطق الميتة في الشاشة</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">المسار</string>
+    <string name="usb_num">رقم</string>
+    <string name="usb_bus">معرف الجهاز</string>
+    <string name="usb_ver">الإصدار</string>
+    <string name="usb_not_found1">الأجهزة:</string>
+    <string name="usb_not_found2">لا يوججد</string>
+
+    <!-- MTK -->
+
+    <string name="modem">المودمم</string>
+    <string name="camera_back">الكاميرا الخلفية</string>
+    <string name="camera_front">الكاميرا الأمامية</string>
+    <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Platform MTK</string>
+
+    <!-- Report -->
+
+    <string name="firmware">Firmware</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">الإعدادات</string>
+
+    <string name="pref_category_general">عام</string>
+    <string name="pref_category_appearance">المظهر</string>
+    <string name="pref_category_other">المزيد</string>
+
+    <string name="pref_title_set_language">اللغة</string>
+
+    <string name="language_default">إفتراضي</string>
+
+    <string name="pref_title_use_root">إستخدم صلاحيات الروت</string>
+    <string name="pref_description_use_root">للحصول على كامل المعلومات</string>
+
+    <string name="pref_title_show_address">إظهار عنوان I2C</string>
+    <string name="pref_description_show_address">إظهار عنوان I2C</string>
+
+    <string name="pref_title_dark_theme">إستخدام المظهر الداكن</string>
+    <string name="pref_description_dark_theme">تطبيق المظهر الداكن للواجهة</string>
+
+    <string name="pref_title_disable_sysfs_msg">تعطيل خطأ sysfs</string>
+    <string name="pref_description_disable_sysfs_msg">تعطيل sysfs من قراءة رسالة الخطأ على أندرويد 7 و أعلى</string>
+
+    <string name="pref_title_invert_charge_speed">عكس تيار البطارية</string>
+    <string name="pref_description_invert_charge_speed">عكس سرعة شحن \ تفريغ البطارية</string>
+
+    <string name="pref_title_temp_in_f_deg">درجة الحرارة &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">عرض درجة الحرارة بالفهرنهايت</string>
+
+    <string name="pref_title_detect_therm_zones">إكتشف مناطق الحرارة</string>
+    <string name="pref_description_detect_therm_zones">إكتشف أسماء القطع ذات الحرارة المرتفعة ( تحتاج روت )</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">رسالة</string>
+
+    <string name="root_lcm_detect">مكتشف الشاشة يحتاج إلى صلاحيات روت!</string>
+    <string name="root_camera_detect">مكتشف الكاميرا يحتاج إلى صلاحيات روت!</string>
+    <string name="root_hw_detect">للمعلومات الكاملة يحتاج إلى صلاحيات روت!</string>
+
+    <string name="root_enable_message">يمكنك تفعيله من الإعدادات.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">فاحص التطبيقات</string>
+    <string name="app_defender_msg">عذراً, تعذر فحص التطبيق.\nمن فضلك تأكد من إتصالك بالإنترنت ثم أعد المحاولة.</string>
+    <string name="app_recheck">أعادة الفحص</string>
+    <string name="app_exit">خروج</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">عذراً, إنتهى الإستخدام المجاني للثيم!\nIt\'s متاح في النسخة المدفوعة.</string>
+
+    <!-- Info center -->
+    <string name="update">تحديث</string>
+    <string name="updating">جار التحديث</string>
+
+    <string name="upload">رفع</string>
+
+    <string name="create_report">إنشاء تقرير</string>
+    <string name="create_report_msg">تم إنشاء التقرير بنجاح!\nأنظر</string>
+    <string name="create_report_err">تعذر إنشاء التقرير!</string>
+    <string name="create_report_err_non_pro">لا يمكن إنشاء تقرير!\nIt\'s متاح في النسخة المدفوعة.</string>
+    <string name="create_report_info">سيتم حفظ معلومات الجهاز في ملف HTML داخل مجلد App Data.</string>
+    <string name="create">إنشاء</string>
+
+    <string name="error">خطأ</string>
+    <string name="close">إغلاق</string>
+    <string name="open">فتح</string>
+    <string name="share">مشاركة</string>
+    <string name="send_to_email">إرسال إلى بريد:</string>
+
+    <string name="cpu_codenames_label">أسماء المعالجات</string>
+    <string name="cpu_codenames_info">قائمة بأسماء المعالجات</string>
+
+    <string name="update_components_label">مكونات لجهاز</string>
+    <string name="update_components_msg">تحديث قواعد البيانات لقواعد الكشف</string>
+    <string name="update_component_msg">تم تحديث قواعد الكشف بنجاح. أعد تشغيل البرنامج لتطبيق التغييرات.</string>
+
+    <string name="upload_info_label">رفع معلومات الجهاز</string>
+    <string name="upload_info_text">يساعدنا على جعل التطبيق أفضل, ساعد في تحسين دعم الأجهزة
+        لتمكين المطورين في إيجاد الأجهزة المشابهة و التعريفات المطلوبة.
+        النتائج تخزن في قاعدة البيانات. يمكنك أن تراها على:</string>
+
+    <string name="kernel_analyzer_label">محلل النواة</string>
+
+    <string name="i2c_viewer_label">قائمة الجهاز</string>
+    <string name="i2c_viewer_info">Devices on the i2c, spi bus</string>
+
+    <string name="exif_cam_label">EXIF Camera Info</string>
+    <string name="exif_cam_info">Read EXIF info from image</string>
+    <string name="open_img_file_label">Open image file...</string>
+
+    <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+
+    <!-- Floating button -->
+    <string name="action_engineer_mode">Open engineer menu</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">رقم الإصدار</string>
+
+    <string name="about_author">المطور\n
+        Andrey Efremov\n
+        aka andr7e</string>
+
+</resources>

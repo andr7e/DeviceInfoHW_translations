@@ -167,10 +167,14 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Форматы</string>
     <string name="camera_size">Размер сенсора</string>
+    <string name="pixel_size">Размер пикселя</string>
     <string name="camera_af_modes">Режимы фокусировки</string>
     <string name="aperture">Апертура</string>
     <string name="camera_phy_count">Phy cameras</string>
     <string name="camera_sw_info">Info</string>
+    <string name="camera_color_filter">Цветовой фильтр</string>
+    <string name="camera_view_angle">Угол обзора</string>
+    <string name="unit_um">мкм</string>
 
     <!-- Battery -->
 
