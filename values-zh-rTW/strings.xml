@@ -36,7 +36,7 @@
     <string name="tab_codecs">編解碼器</string>
 
     <string name="tab_system_apps">系統應用程式</string>
-    <string name="tab_camera_supported">Supported cameras</string>
+    <string name="tab_camera_supported">支援照相機</string>
     <string name="tab_cpu_monitor">CPU監視器</string>
     <string name="tab_cpu_time">CPU運行時間</string>
 
@@ -54,7 +54,7 @@
     <string name="resolution">解析度</string>
 
     <string name="codename">開發代號</string>
-    <string name="release">Release</string>
+    <string name="release">發布版</string>
 
     <string name="machine_arch">Machine</string>
 
@@ -76,10 +76,10 @@
     <string name="product">產品</string>
     <string name="type">類型</string>
     <string name="build_type">構建類型</string>
-    <string name="tags">Tags</string>
+    <string name="tags">標籤</string>
     <string name="incremental">增量版本</string>
-    <string name="fingerprint">Fingerprint</string>
-    <string name="description">Description</string>
+    <string name="fingerprint">指紋</string>
+    <string name="description">描述</string>
     <string name="bootloader">引導程序</string>
     <string name="builder">構建者</string>
     <string name="supported_features">裝置特徵</string>
@@ -97,9 +97,9 @@
     <string name="touchscreen">觸摸屏</string>
     <string name="touchscreen_key">Touch keys</string>
     <string name="other">其他</string>
-    <string name="alsps">Als/ps</string>
+    <string name="alsps">光線/距離感應器</string>
     <string name="camera">照相機</string>
-    <string name="lens_af">Lens AF</string>
+    <string name="lens_af">鏡頭自动对焦</string>
     <string name="charger">充電器</string>
 
     <string name="audio">音頻</string>
@@ -113,16 +113,19 @@
     <string name="revision">修訂版本</string>
     <string name="family">架構</string>
     <string name="instructions">說明</string>
-    <string name="clock_speed">時鐘速度</string>
+    <string name="clock_speed">時脈時脈</string>
     <string name="governor">調頻器</string>
 
     <string name="clusters">集群</string>
-    <string name="cache_l3">Cache L3</string>
+    <string name="cache_l3">三級緩存</string>
     <string name="gpu_vendor">供應商</string>
     <string name="gpu_model">GPU</string>
+    <string name="gpu_clock">時脈頻率</string>
+    <string name="gpu_cufreq">當前時脈</string>
+    <string name="gpu_extensions">扩展</string>
 
-    <string name="gpu_clock">時鐘速度</string>
-    <string name="gpu_cufreq">當前時鐘</string>
+    <string name="gpu_clock">時脈頻率</string>
+    <string name="gpu_cufreq">當前時脈</string>
     <string name="gpu_extensions">擴展</string>
 
     <string name="density">密度</string>
@@ -165,13 +168,13 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">圖像格式</string>
     <string name="camera_size">傳感器尺寸</string>
-    <string name="pixel_size">Pixel size</string>
+    <string name="pixel_size">像素大小</string>
     <string name="camera_af_modes">對焦模式</string>
     <string name="aperture">光圈</string>
-    <string name="camera_phy_count">Phy cameras</string>
-    <string name="camera_sw_info">Info</string>
-    <string name="camera_color_filter">Color Filter</string>
-    <string name="camera_view_angle">View Angle</string>
+    <string name="camera_phy_count">物理相機eras</string>
+    <string name="camera_sw_info">信息</string>
+    <string name="camera_color_filter">顏色過濾器</string>
+    <string name="camera_view_angle">視角</string>
     <string name="unit_um">µm</string>
 
     <!-- Battery -->
