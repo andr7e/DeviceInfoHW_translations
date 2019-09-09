@@ -78,8 +78,8 @@
     <string name="build_type">构建类型</string>
     <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
-    <string name="fingerprint">Fingerprint</string>
-    <string name="description">Description</string>
+    <string name="fingerprint">指纹</string>
+    <string name="description">描述</string>
     <string name="bootloader">引导程序</string>
     <string name="builder">构建者</string>
     <string name="supported_features">设备特征</string>
@@ -120,7 +120,6 @@
     <string name="cache_l3">三级缓存</string>
     <string name="gpu_vendor">供应商</string>
     <string name="gpu_model">GPU</string>
-    <string name="gl_version" translatable="false">OpenGL ES</string>
     <string name="gpu_clock">时钟频率</string>
     <string name="gpu_cufreq">当前频率</string>
     <string name="gpu_extensions">扩展</string>
