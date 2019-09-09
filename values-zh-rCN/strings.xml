@@ -36,7 +36,7 @@
     <string name="tab_codecs">编解码器</string>
 
     <string name="tab_system_apps">系统应用程序</string>
-    <string name="tab_camera_supported">Supported cameras</string>
+    <string name="tab_camera_supported">支持相机</string>
     <string name="tab_cpu_monitor">CPU监视器</string>
     <string name="tab_cpu_time">CPU运行时间</string>
 
@@ -97,9 +97,9 @@
     <string name="touchscreen">触摸屏</string>
     <string name="touchscreen_key">触摸键</string>
     <string name="other">其他</string>
-    <string name="alsps">Als/ps</string>
+    <string name="alsps">光线/距离传感器</string>
     <string name="camera">相机</string>
-    <string name="lens_af">Lens AF</string>
+    <string name="lens_af">镜头自动对焦</string>
     <string name="charger">充电器</string>
 
     <string name="audio">音频</string>
@@ -113,16 +113,20 @@
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
     <string name="instructions">说明</string>
-    <string name="clock_speed">时钟速度</string>
+    <string name="clock_speed">时钟频率</string>
     <string name="governor">调频器</string>
 
     <string name="clusters">集群</string>
-    <string name="cache_l3">Cache L3</string>
+    <string name="cache_l3">三级缓存</string>
     <string name="gpu_vendor">供应商</string>
     <string name="gpu_model">GPU</string>
+    <string name="gl_version" translatable="false">OpenGL ES</string>
+    <string name="gpu_clock">时钟频率</string>
+    <string name="gpu_cufreq">当前频率</string>
+    <string name="gpu_extensions">扩展</string>
 
-    <string name="gpu_clock">时钟速度</string>
-    <string name="gpu_cufreq">当前时钟</string>
+    <string name="gpu_clock">时钟频率</string>
+    <string name="gpu_cufreq">当前频率</string>
     <string name="gpu_extensions">扩展</string>
 
     <string name="density">密度</string>
@@ -165,13 +169,13 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">图像格式</string>
     <string name="camera_size">传感器尺寸</string>
-    <string name="pixel_size">Pixel size</string>
+    <string name="pixel_size">像素大小</string>
     <string name="camera_af_modes">对焦模式</string>
     <string name="aperture">光圈</string>
     <string name="camera_phy_count">物理相机</string>
     <string name="camera_sw_info">信息</string>
-    <string name="camera_color_filter">Color Filter</string>
-    <string name="camera_view_angle">View Angle</string>
+    <string name="camera_color_filter">彩色滤光片</string>
+    <string name="camera_view_angle">視角</string>
     <string name="unit_um">µm</string>
 
     <!-- Battery -->
