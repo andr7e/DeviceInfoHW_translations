@@ -117,7 +117,7 @@
     <string name="governor">调频器</string>
 
     <string name="clusters">集群</string>
-    <string name="cache_l3">Cache L3</string>
+    <string name="cache_l3">三级缓存</string>
     <string name="gpu_vendor">供应商</string>
     <string name="gpu_model">GPU</string>
     <string name="gl_version" translatable="false">OpenGL ES</string>
