@@ -113,16 +113,20 @@
     <string name="revision">修訂版本</string>
     <string name="family">架構</string>
     <string name="instructions">說明</string>
-    <string name="clock_speed">時鐘速度</string>
+    <string name="clock_speed">時脈時脈</string>
     <string name="governor">調頻器</string>
 
     <string name="clusters">集群</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">供應商</string>
     <string name="gpu_model">GPU</string>
+    <string name="gl_version" translatable="false">OpenGL ES</string>
+    <string name="gpu_clock">時脈頻率</string>
+    <string name="gpu_cufreq">當前時脈</string>
+    <string name="gpu_extensions">扩展</string>
 
-    <string name="gpu_clock">時鐘速度</string>
-    <string name="gpu_cufreq">當前時鐘</string>
+    <string name="gpu_clock">時脈頻率</string>
+    <string name="gpu_cufreq">當前時脈</string>
     <string name="gpu_extensions">擴展</string>
 
     <string name="density">密度</string>
