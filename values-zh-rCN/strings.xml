@@ -120,9 +120,6 @@
     <string name="cache_l3">三级缓存</string>
     <string name="gpu_vendor">供应商</string>
     <string name="gpu_model">GPU</string>
-    <string name="gpu_clock">时钟频率</string>
-    <string name="gpu_cufreq">当前频率</string>
-    <string name="gpu_extensions">扩展</string>
 
     <string name="gpu_clock">时钟频率</string>
     <string name="gpu_cufreq">当前频率</string>

@@ -95,7 +95,7 @@
     <string name="lcm">LCD顯示模組</string>
     <string name="lcm_type">LCD類型</string>
     <string name="touchscreen">觸摸屏</string>
-    <string name="touchscreen_key">Touch keys</string>
+    <string name="touchscreen_key">觸摸鍵</string>
     <string name="other">其他</string>
     <string name="alsps">光線/距離感應器</string>
     <string name="camera">照相機</string>
@@ -120,9 +120,6 @@
     <string name="cache_l3">三級緩存</string>
     <string name="gpu_vendor">供應商</string>
     <string name="gpu_model">GPU</string>
-    <string name="gpu_clock">時脈頻率</string>
-    <string name="gpu_cufreq">當前時脈</string>
-    <string name="gpu_extensions">扩展</string>
 
     <string name="gpu_clock">時脈頻率</string>
     <string name="gpu_cufreq">當前時脈</string>
@@ -171,7 +168,7 @@
     <string name="pixel_size">像素大小</string>
     <string name="camera_af_modes">對焦模式</string>
     <string name="aperture">光圈</string>
-    <string name="camera_phy_count">物理相機eras</string>
+    <string name="camera_phy_count">物理相機</string>
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">顏色過濾器</string>
     <string name="camera_view_angle">視角</string>

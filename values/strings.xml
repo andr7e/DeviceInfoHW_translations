@@ -74,6 +74,7 @@
     <string name="flash_size">Flash size</string>
 
     <string name="wifi" translatable="false">Wi-Fi</string>
+    <string name="gps" translatable="false">GPS</string>
     <string name="sound">Sound</string>
     <string name="fingerprint_sensor">Fingerprint</string>
 
@@ -193,7 +194,7 @@
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
     <string name="iso" translatable="false">ISO</string>
-    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_phy_count">Cameras in module</string>
     <string name="camera_sw_info">Info</string>
     <string name="camera_color_filter">Color Filter</string>
     <string name="camera_view_angle">View Angle</string>
