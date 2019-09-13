@@ -61,6 +61,9 @@
     <string name="kernel">النواة</string>
 
     <string name="ram">الذاكرة العشوائية</string>
+    <string name="free">Free:</string>
+    <string name="used">Used:</string>
+    <string name="total">Total:</string>
     <string name="flash">الفلاش</string>
     <string name="flash_size">سعة التخزين</string>
 

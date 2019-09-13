@@ -61,6 +61,9 @@
     <string name="kernel">Версия ядра</string>
 
     <string name="ram">ОЗУ</string>
+    <string name="free">Свободно:</string>
+    <string name="used">Используется:</string>
+    <string name="total">Всего:</string>
     <string name="flash">Чип памяти</string>
     <string name="flash_size">Объем ПЗУ</string>
 

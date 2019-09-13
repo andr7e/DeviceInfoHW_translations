@@ -67,6 +67,9 @@
     <string name="kernel">Kernel</string>
 
     <string name="ram">RAM</string>
+    <string name="free">Free:</string>
+    <string name="used">Used:</string>
+    <string name="total">Total:</string>
     <string name="kram" translatable="false">RAM (kernel)</string>
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">Flash</string>

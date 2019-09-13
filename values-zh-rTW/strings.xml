@@ -61,6 +61,9 @@
     <string name="kernel">核心</string>
 
     <string name="ram">記憶體</string>
+    <string name="free">Free:</string>
+    <string name="used">Used:</string>
+    <string name="total">Total:</string>
     <string name="flash">閃存</string>
     <string name="flash_size">閃存大小</string>
 
