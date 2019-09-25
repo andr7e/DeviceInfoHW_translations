@@ -117,6 +117,8 @@
     <string name="revision">Felülvizsgálat</string>
     <string name="family">Család</string>
     <string name="instructions">Instrukciók</string>
+    <string name="techprocess">Process technology</string>
+    <string name="unit_nm">nm</string>
     <string name="clock_speed">Óra sebesség</string>
     <string name="governor">Irányító</string>
 

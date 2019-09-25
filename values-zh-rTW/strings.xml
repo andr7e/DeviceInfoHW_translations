@@ -116,6 +116,8 @@
     <string name="revision">修訂版本</string>
     <string name="family">架構</string>
     <string name="instructions">說明</string>
+    <string name="techprocess">Process technology</string>
+    <string name="unit_nm">nm</string>
     <string name="clock_speed">時脈時脈</string>
     <string name="governor">調頻器</string>
 

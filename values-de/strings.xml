@@ -116,6 +116,8 @@
     <string name="revision">Revision</string>>
     <string name="family">Familie</string>
     <string name="instructions">Anweisungen</string>
+    <string name="techprocess">Process technology</string>
+    <string name="unit_nm">nm</string>
     <string name="clock_speed">Taktfrequenz</string>
     <string name="governor">Regler</string>
 

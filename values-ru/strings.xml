@@ -118,6 +118,8 @@
     <string name="family">Семейство</string>
 
     <string name="instructions">Инструкции</string>
+    <string name="techprocess">Техпроцесс</string>
+    <string name="unit_nm">нм</string>
     <string name="clock_speed">Частота</string>
     <string name="governor">Регулятор</string>
 

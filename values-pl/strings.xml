@@ -118,6 +118,8 @@
     <string name="family">Family</string>
 
     <string name="instructions">Instrukcje</string>
+    <string name="techprocess">Process technology</string>
+    <string name="unit_nm">nm</string>
     <string name="clock_speed">Taktowanie</string>
     <string name="governor">Governor</string>
 
