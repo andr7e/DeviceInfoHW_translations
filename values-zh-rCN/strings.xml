@@ -173,11 +173,13 @@
     <string name="pixel_size">像素大小</string>
     <string name="camera_af_modes">对焦模式</string>
     <string name="aperture">光圈</string>
-    <string name="camera_phy_count">物理相机</string>
+    <string name="camera_phy_count">Module type</string>
+    <string name="camera_add_modules">Additional cameras</string>
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">彩色滤光片</string>
     <string name="camera_view_angle">視角</string>
     <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
 
     <!-- Battery -->
 
@@ -298,6 +300,8 @@
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向充电 / 放电速度</string>
+    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
+    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">温度以 &#xb0;F为单位</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
@@ -309,11 +313,9 @@
 
     <string name="first_install_title">信息</string>
 
-    <string name="root_lcm_detect">显示屏检测需要Root！</string>
-    <string name="root_camera_detect">相机检测通常需要Root！</string>
-    <string name="root_hw_detect">有关完整信息，请求root！</string>
-
-    <string name="root_enable_message">您可以在设置中启用它。</string>
+    <string name="root_hw_detect">In new versions of android, some information is blocked,
+        if you have root access, you can enable it in the settings.
+        More details will be available.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>

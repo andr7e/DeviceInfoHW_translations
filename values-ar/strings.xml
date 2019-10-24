@@ -175,11 +175,13 @@
     <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">وضع التركيز</string>
     <string name="aperture">الفتحة</string>
-    <string name="camera_phy_count">Phy cameras</string>
+    <string name="camera_phy_count">Module type</string>
+    <string name="camera_add_modules">Additional cameras</string>
     <string name="camera_sw_info">معلومات</string>
     <string name="camera_color_filter">Color Filter</string>
     <string name="camera_view_angle">View Angle</string>
     <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
     
     <!-- Battery -->
 
@@ -302,6 +304,8 @@
 
     <string name="pref_title_invert_charge_speed">عكس تيار البطارية</string>
     <string name="pref_description_invert_charge_speed">عكس سرعة شحن \ تفريغ البطارية</string>
+    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
+    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">درجة الحرارة &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">عرض درجة الحرارة بالفهرنهايت</string>
@@ -313,11 +317,9 @@
 
     <string name="first_install_title">رسالة</string>
 
-    <string name="root_lcm_detect">مكتشف الشاشة يحتاج إلى صلاحيات روت!</string>
-    <string name="root_camera_detect">مكتشف الكاميرا يحتاج إلى صلاحيات روت!</string>
-    <string name="root_hw_detect">للمعلومات الكاملة يحتاج إلى صلاحيات روت!</string>
-
-    <string name="root_enable_message">يمكنك تفعيله من الإعدادات.</string>
+    <string name="root_hw_detect">In new versions of android, some information is blocked,
+        if you have root access, you can enable it in the settings.
+        More details will be available.</string>
 
     <!-- Defender -->
     <string name="app_defender">فاحص التطبيقات</string>

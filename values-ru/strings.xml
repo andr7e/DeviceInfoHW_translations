@@ -10,8 +10,8 @@
     <string name="action_rate_app">Поставить оценку</string>
     <string name="action_upgrade_to_pro">Перейти на PRO</string>
 
-    <string name="navigation_drawer_open">Открыть панель навигации</string>
-    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="navigation_description">Список доступных вкладок</string>
 
@@ -175,11 +175,13 @@
     <string name="pixel_size">Размер пикселя</string>
     <string name="camera_af_modes">Режимы фокусировки</string>
     <string name="aperture">Апертура</string>
-    <string name="camera_phy_count">Кол-во камер в модуле</string>
+    <string name="camera_phy_count">Тип модуля</string>
+    <string name="camera_add_modules">Доп. камеры</string>
     <string name="camera_sw_info">Инфо</string>
     <string name="camera_color_filter">Цветовой фильтр</string>
     <string name="camera_view_angle">Угол обзора</string>
     <string name="unit_um">мкм</string>
+    <string name="unit_mm">мм</string>
 
     <!-- Battery -->
 
@@ -301,6 +303,8 @@
 
     <string name="pref_title_invert_charge_speed">Инвертировать ток батареи</string>
     <string name="pref_description_invert_charge_speed">Инвертировать скорость заряда / разряда батареи</string>
+    <string name="pref_title_use_charge_counter">Использовать параметр \'заряжен до\'</string>
+    <string name="pref_description_use_charge_counter">Показывать значение \'заряжен до\', не все устройства обеспечивают полную поддержку</string>
 
     <string name="pref_title_temp_in_f_deg">Температура в &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Показывать температуру в &#xb0;F</string>
@@ -312,11 +316,9 @@
 
     <string name="first_install_title">Сообщение</string>
 
-    <string name="root_lcm_detect">Для определения дисплея может потребоваться root!</string>
-    <string name="root_camera_detect">Для определения камеры может потребоваться root!</string>
-    <string name="root_hw_detect">Для получения полной информации нужен root!</string>
-
-    <string name="root_enable_message">Вы можете разрешить его в настройках.</string>
+    <string name="root_hw_detect">В новых версиях android некоторая информация заблокирована,
+        если у вас есть root доступ, вы можете включить его в настройках.
+        Будет доступна более подробная информация.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>

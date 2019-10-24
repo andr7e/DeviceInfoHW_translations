@@ -172,11 +172,13 @@
     <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">Modos de foco</string>
     <string name="aperture">Abertura</string>
-    <string name="camera_phy_count">Phy câmeras</string>
+    <string name="camera_phy_count">Module type</string>
+    <string name="camera_add_modules">Additional cameras</string>
     <string name="camera_sw_info">Informações</string>
     <string name="camera_color_filter">Color Filter</string>
     <string name="camera_view_angle">View Angle</string>
     <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
 
     <!-- Battery -->
 
@@ -299,6 +301,8 @@
 
     <string name="pref_title_invert_charge_speed">Inverter bateria atual</string>
     <string name="pref_description_invert_charge_speed">Inverter velocidade de carregamento / descarregamento</string>
+    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
+    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">Temperatura em &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Mostrar temperatura em Fahrenheit</string>
@@ -310,11 +314,9 @@
 
     <string name="first_install_title">Mensagem</string>
 
-    <string name="root_lcm_detect">Detecção de tela é necessário root!</string>
-    <string name="root_camera_detect">Detecção de câmera normalmente necessita root!</string>
-    <string name="root_hw_detect">Para informações mais completas é necessário root!</string>
-
-    <string name="root_enable_message">Você pode ativá-lo nas configurações.</string>
+    <string name="root_hw_detect">In new versions of android, some information is blocked,
+        if you have root access, you can enable it in the settings.
+        More details will be available.</string>
 
     <!-- Defender -->
     <string name="app_defender">Defensor de aplicativos</string>
