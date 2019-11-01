@@ -211,8 +211,8 @@
     <string name="link_speed">Prędkość</string>
     <string name="frequency">Częstotliwość</string>
     <string name="signal">Sygnał</string>
-    <string name="channel">Channel</string>
-    <string name="net_level">Level</string>
+    <string name="channel">Kanał</string>
+    <string name="net_level">Poziom</string>
 
     <!-- SIM -->
 
@@ -282,8 +282,8 @@
     <string name="title_activity_settings">Ustawienia</string>
 
     <string name="pref_category_general">Główne</string>
-    <string name="pref_category_appearance">Appearance</string>
-    <string name="pref_category_other">Other</string>
+    <string name="pref_category_appearance">Wygląd</string>
+    <string name="pref_category_other">Inne</string>
 
     <string name="pref_title_set_language">Język</string>
 
@@ -295,8 +295,8 @@
     <string name="pref_title_show_address">Pokaż adres i2c</string>
     <string name="pref_description_show_address">Pokaż adres i2c urządzenia</string>
 
-    <string name="pref_title_dark_theme">Use dark theme</string>
-    <string name="pref_description_dark_theme">Apply dark theme to interface</string>
+    <string name="pref_title_dark_theme">Użyj ciemnego motywu</string>
+    <string name="pref_description_dark_theme">Zastosuj ciemny motyw do interfejsu</string>
 
     <string name="pref_title_disable_sysfs_msg">Disable sysfs error</string>
     <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
@@ -322,12 +322,12 @@
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
-    <string name="app_defender_msg">Sorry, but defender can\'t check app validity.\nPlease connect to the internet and click on the recheck.</string>
-    <string name="app_recheck">Recheck</string>
-    <string name="app_exit">Exit</string>
+    <string name="app_defender_msg">Przepraszamy, ale obrońca nie może sprawdzić poprawności aplikacji.\nPołącz się z Internetem i kliknij ponownie.</string>
+    <string name="app_recheck">Sprawdź ponownie</string>
+    <string name="app_exit">Wyjdź</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Sorry, but free using theme expired!\nIt\'s available in PRO version.</string>
+    <string name="using_theme_expired_non_pro">Przepraszamy, ale darmowy motyw wygasł!\nJest dostępny w wersji PRO.</string>
 
     <!-- Info center -->
     <string name="update">Aktualizuj</string>
@@ -339,14 +339,14 @@
     <string name="create_report_msg">Raport utworzony z powodzeniem!\nZobacz</string>
     <string name="create_report_err">Nie można utworzyć raportu!</string>
     <string name="create_report_err_non_pro">Nie można utworzyć raportu!\nTylko dostępne w wersji PRO.</string>
-    <string name="create_report_info">Informacja o urządzeniu zostanie zapisane w pliku HTML w folderze aplikacji.</string>
+    <string name="create_report_info">Informacje o urządzeniu zostaną zapisane w pliku HTML w folderze danych aplikacji.</string>
     <string name="create">Utwórz</string>
 
-    <string name="error">Error</string>
+    <string name="error">Błąd</string>
     <string name="close">Zamknij</string>
     <string name="open">Otwórz</string>
-    <string name="share">Share</string>
-    <string name="send_to_email">Send to email:</string>
+    <string name="share">Udostępnij</string>
+    <string name="send_to_email">Wyślij przez email:</string>
 
     <string name="cpu_codenames_label">Nazwy kodowe CPU</string>
     <string name="cpu_codenames_info">Lista nazw kodowych CPU</string>
