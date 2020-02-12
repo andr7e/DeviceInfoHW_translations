@@ -296,6 +296,8 @@
     <string name="pref_title_dark_theme">Usar tema escuro</string>
     <string name="pref_description_dark_theme">Aplicar tema escuro na interface</string>
 
+    <string name="pref_title_theme">Tema da interface</string>
+
     <string name="pref_title_disable_sysfs_msg">Desativar erro sysfs</string>
     <string name="pref_description_disable_sysfs_msg">Disativar mensagem de erro de leitura no sysfs para android 7.0+</string>
 

@@ -297,6 +297,8 @@
     <string name="pref_title_dark_theme">Sötét téma</string>
     <string name="pref_description_dark_theme">Sötét téma használata az felületre</string>
 
+    <string name="pref_title_theme">Interfész téma</string>
+
     <string name="pref_title_disable_sysfs_msg"> Sysfs Hiba tiltása</string>
     <string name="pref_description_disable_sysfs_msg">Tiltsa a Sysfs olvasási hiba üzenetet az android 7.0+ eszközökön</string>
 

@@ -298,6 +298,8 @@
     <string name="pref_title_dark_theme">Применить темную тему</string>
     <string name="pref_description_dark_theme">Применить темную тему для интерфейса</string>
 
+    <string name="pref_title_theme">Тема интерфейса</string>
+
     <string name="pref_title_disable_sysfs_msg">Убрать ошибку sysfs</string>
     <string name="pref_description_disable_sysfs_msg">Отключить сообщение об ошибке чтения sysfs на android 7.0+</string>
 

@@ -295,6 +295,8 @@
     <string name="pref_title_dark_theme">使用暗色主題</string>
     <string name="pref_description_dark_theme">將暗色主題應用於界面</string>
 
+    <string name="pref_title_theme">界面主題</string>
+
     <string name="pref_title_disable_sysfs_msg">禁用sysfs錯誤</string>
     <string name="pref_description_disable_sysfs_msg">在Android 7.0以上，禁止顯示sysfs讀取錯誤消息</string>
 
