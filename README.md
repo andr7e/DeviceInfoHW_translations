@@ -5,8 +5,8 @@
 * Polish: Radek Strycharz
 * Indonesian: Bagas Pinantau
 * Hungarian: Oreg Robert
-* Simplified Chinese: Lester Chan (yaxisvip)
-* Traditional Chinese: Lester Chan (yaxisvip)
+* Simplified Chinese: yaxisvip
+* Traditional Chinese: yaxisvip
 * German: Tim Köhler
 * Portuguese (Brazil): Mickael Mesquita
 * Arabic : Ali Mohamed
