@@ -61,9 +61,9 @@
     <string name="kernel">内核</string>
 
     <string name="ram">内存</string>
-    <string name="free">Free:</string>
-    <string name="used">Used:</string>
-    <string name="total">Total:</string>
+    <string name="free">可用:</string>
+    <string name="used">已用:</string>
+    <string name="total">总共:</string>
     <string name="flash">闪存</string>
     <string name="flash_size">闪存大小</string>
 
@@ -177,7 +177,7 @@
     <string name="camera_add_modules">Additional cameras</string>
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">彩色滤光片</string>
-    <string name="camera_view_angle">視角</string>
+    <string name="camera_view_angle">视角</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
