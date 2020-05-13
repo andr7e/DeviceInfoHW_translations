@@ -138,6 +138,13 @@
     <string name="test">TESZT</string>
     <string name="info">INFÓ</string>
 
+    <string name="title_activity_light_sensor">Light Sensor Test</string>
+    <string name="title_activity_proximity_sensor">Proximity Sensor Test</string>
+    <string name="title_activity_accelerometer_sensor">Accelerometer Test</string>
+    <string name="title_activity_magnetometer_sensor">Magnetometer Test</string>
+    <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
+    <string name="title_activity_pressure_sensor">Barometer Test</string>
+
     <string name="accelerometer">Gyorsulásmérő</string>
     <string name="magnetometer">Magnetométer</string>
     <string name="gyroscope">Giroszkóp</string>
@@ -145,7 +152,30 @@
     <string name="light">Fény</string>
     <string name="pressure">Barométer</string>
 
-    <string name="install_sensor_test_note">Kérjük telepítse az alkalmazást hogy működjön ez a menü! </string>
+    <string name="no_input_data">No data from sensor</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+    <string name="unit_percent" translatable="false">%</string>
+    <string name="unit_temp" translatable="false">&#xb0;С</string>
+    <string name="unit_degree" translatable="false">&#xb0;</string>
+
+    <string name="s_name">Name:</string>
+    <string name="s_vendor">Vendor:</string>
+    <string name="s_version">Version:</string>
+    <string name="s_max_range">Max range:</string>
+    <string name="s_resolution">Resolution:</string>
+    <string name="s_power">Power:</string>
+    <string name="s_unit">Unit:</string>
+
+    <string name="unsupported">unsupported</string>
+
+    <string name="total_sensors">Total:</string>
 
     <!-- Memory -->
 

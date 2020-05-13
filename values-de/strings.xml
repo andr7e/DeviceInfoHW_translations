@@ -137,6 +137,13 @@
     <string name="test">TEST</string>
     <string name="info">INFO</string>
 
+    <string name="title_activity_light_sensor">Lichtsensor Test</string>
+    <string name="title_activity_proximity_sensor" >Näherungssensor Test</string>
+    <string name="title_activity_accelerometer_sensor">Beschleunigungssensor Test</string>
+    <string name="title_activity_magnetometer_sensor">Magnetometer Test</string>
+    <string name="title_activity_gyroscope_sensor">Gyroskop Test</string>
+    <string name="title_activity_pressure_sensor">Barometer Test</string>
+
     <string name="accelerometer">Accelerometer</string>
     <string name="magnetometer">Magnetometer</string>
     <string name="gyroscope">Gyroskop</string>
@@ -144,7 +151,27 @@
     <string name="light">Licht</string>
     <string name="pressure">Barometer</string>
 
-    <string name="install_sensor_test_note">Bitte installieren Sie die Anwendung, um dieses Menü zu nutzen!</string>
+    <string name="no_input_data">Keine Daten vom Sensor</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+
+    <string name="s_name">Name:</string>
+    <string name="s_vendor" >Hersteller:</string>
+    <string name="s_version">Version:</string>
+    <string name="s_max_range" >Max Bereich:</string>
+    <string name="s_resolution">Auflösung:</string>
+    <string name="s_power">Leistung:</string>
+    <string name="s_unit">Einheit:</string>
+
+    <string name="unsupported">nicht unterstützt</string>
+
+    <string name="total_sensors">Total:</string>
 
     <!-- Memory -->
 	

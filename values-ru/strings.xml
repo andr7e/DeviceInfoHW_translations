@@ -139,6 +139,13 @@
     <string name="test">ТЕСТ</string>
     <string name="info">ИНФО</string>
 
+    <string name="title_activity_light_sensor">Тест датчика освещенности</string>
+    <string name="title_activity_proximity_sensor">Тест датчика приближения</string>
+    <string name="title_activity_accelerometer_sensor">Тест акселерометра</string>
+    <string name="title_activity_magnetometer_sensor">Тест магнитометра</string>
+    <string name="title_activity_gyroscope_sensor">Тест гироскопа</string>
+    <string name="title_activity_pressure_sensor">Тест барометра</string>
+
     <string name="accelerometer">Акселерометр</string>
     <string name="magnetometer">Магнитометр</string>
     <string name="gyroscope">Гироскоп</string>
@@ -146,7 +153,27 @@
     <string name="light">Освещенность</string>
     <string name="pressure">Барометр</string>
 
-    <string name="install_sensor_test_note">Пожалуйста, установите приложение для работы этого меню!</string>
+    <string name="no_input_data">Нет данных от датчика</string>
+
+    <string name="unit_accelerometer">м/с²</string>
+    <string name="unit_light">лк</string>
+    <string name="unit_proximity">см</string>
+    <string name="unit_magnetometer">μТл</string>
+    <string name="unit_gyroscope">рад/с</string>
+    <string name="unit_pressure">мбар</string>
+    <string name="unit_pressure_mm">мм рт. ст.</string>
+
+    <string name="s_name">Название:</string>
+    <string name="s_vendor">Производитель:</string>
+    <string name="s_version">Версия:</string>
+    <string name="s_max_range">Макс. знач:</string>
+    <string name="s_resolution">Разрешение:</string>
+    <string name="s_power">Мощность:</string>
+    <string name="s_unit">Ед. измер:</string>
+
+    <string name="unsupported">не поддерживается</string>
+
+    <string name="total_sensors">Всего:</string>
 
     <!-- Memory -->
 
