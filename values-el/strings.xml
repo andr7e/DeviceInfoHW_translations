@@ -1,0 +1,403 @@
+<resources>
+
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="action_about">Σχετικά με</string>
+    <string name="action_info_center">Κέντρο πληροφοριών</string>
+    <string name="action_screen_test">Δοκιμή οθόνης</string>
+    <string name="action_engineer_menu">Μενού μηχανικής</string>
+
+    <string name="nav_header_options">Επιλογές</string>
+    <string name="action_rate_app">Βαθμολόγησε την εφαρμογη</string>
+    <string name="action_upgrade_to_pro">Αναβάθμιση σε επαγγελματικό</string>
+
+    <string name="navigation_description">Λίστα διαθέσιμων καρτελών</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Γενικες</string>
+    <string name="tab_soc">Συστημα ολοκληρωμένου κυκλωματος  </string>
+    <string name="tab_monitor">Οθόνη</string>
+    <string name="tab_system">Συστημα</string>
+    <string name="tab_memory">Μνημη</string>
+    <string name="tab_camera">Φωτογραφική μηχανή</string>
+    <string name="tab_battery">Μπαταρια</string>
+    <string name="tab_thermal">Θερμικός</string>
+    <string name="tab_sensors">Αισθητήρες</string>
+    <string name="tab_applications">Εφαρμογές</string>
+    <string name="tab_project">Εργο</string>
+    <string name="tab_drivers">Οδηγοί</string>
+    <string name="tab_partitions">Χωρίσματα</string>
+    <string name="tab_pmic">Διαχειριση ισχυος</string>
+    <string name="tab_net">Δικτυο</string>
+    <string name="tab_input">Εισαγωγή</string>
+    <string name="tab_usb">Θυρα τυπου υπολογιστη</string>
+    <string name="tab_codecs">Κωδικοποιητές</string>
+
+    <string name="tab_system_apps">Εφαρμογές συστήματος</string>
+    <string name="tab_camera_supported">Υποστηριζόμενες κάμερες</string>
+    <string name="tab_cpu_monitor">Οθονη κεντρικης μοναδας επεξεργασιας</string>
+    <string name="tab_cpu_time">Χρόνος λειτουργίας κεντρικης μοναδας επεξεργασιας</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">Συσκευη</string>
+    <string name="manufacturer">Κατασκευαστής</string>
+    <string name="model">Μοντέλο</string>
+    <string name="brand">Μάρκα</string>
+    <string name="model_name">Ονομα μοντέλου</string>
+
+    <string name="platform">Πλατφόρμα</string>
+    <string name="board">Πινακας</string>
+    <string name="resolution">Ανάλυση</string>
+
+    <string name="codename">Κωδικό όνομα</string>
+    <string name="release">Ελευθέρωση</string>
+
+    <string name="machine_arch">Μηχανή</string>
+
+    <string name="kernel">Πυρήνας</string>
+
+    <string name="ram">Μνημη τυχαιας προσπελασης</string>
+    <string name="free">Ελεύθερος:</string>
+    <string name="used">Μεταχειρισμένος:</string>
+    <string name="total">Σύνολο:</string>
+    <string name="flash">αναλαμπή</string>
+    <string name="flash_size">Μέγεθος μνημης συστηματος</string>
+
+    <string name="sound">Ήχος</string>
+    <string name="fingerprint_sensor">Δακτυλικό αποτύπωμα</string>
+
+    <string name="baseband">Μεταδοση</string>
+    <string name="serial">Σειριακός</string>
+    <string name="build">Κατασκευη</string>
+    <string name="security">Ασφάλεια</string>
+    <string name="uptime">Χρονος λειτουργιας</string>
+
+    <string name="product">προϊόν</string>
+    <string name="type">Τύπος</string>
+    <string name="build_type">Τύπος κατασκευής</string>
+    <string name="tags">Ετικέτες</string>
+    <string name="incremental">Σταδιακή</string>
+    <string name="fingerprint">Υπογραφή</string>
+    <string name="description">Περιγραφή</string>
+    <string name="bootloader">Φορτωτής εκκίνησης</string>
+    <string name="builder">Κατασκευαστης</string>
+    <string name="supported_features">Χαρακτηριστικά συσκευής</string>
+    <string name="language">Γλώσσα</string>
+    <string name="timezone">Ζώνη ώρας</string>
+
+    <string name="version">Εκδοχή</string>
+
+    <string name="enabled">Ενεργοποιήθηκε</string>
+    <string name="disabled">Απενεργοποιηθηκε</string>
+
+    <!-- Components -->
+    <string name="lcm">διαχείριση κύκλου ζωής</string>
+    <string name="lcm_type">Τυπος οθονης</string>
+    <string name="touchscreen">Οθόνη αφής</string>
+    <string name="touchscreen_key">Πλήκτρα αφής</string>
+    <string name="other">Αλλα</string>
+    <string name="alsps">αισθητήρας φωτισμού περιβάλλοντος / αισθητήρας εγγύτητας</string>
+    <string name="camera">ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ</string>
+    <string name="lens_af">Αυτόματη εστίαση φακού</string>
+    <string name="charger">Φορτιστής</string>
+
+    <string name="audio">Ήχος</string>
+    <string name="ethernet">Ethernet</string>
+
+    <!-- CPU / GPU -->
+    <string name="cpu">κεντρική μονάδα επεξεργασίας</string>
+    <string name="cpu_vendor">Προμηθευτήs κεντρικής μονάδας επεξεργασίας </string>
+    <string name="cores">Πυρήνες</string>
+    <string name="revision">Αναθεώρηση</string>
+    <string name="family">Οικογένεια</string>
+    <string name="instructions">Οδηγίες</string>
+    <string name="techprocess">Τεχνολογία διεργασιών</string>
+    <string name="unit_nm">μοναδα_νανομετρα</string>
+    <string name="clock_speed">Ταχύτητα ρολογιού</string>
+    <string name="governor">Κυβερνήτης</string>
+    <string name="clusters">Συστάδες</string>
+    <string name="cache_l3">Κρυφή μνήμη_L3</string>
+    <string name="gpu_vendor">Προμηθευτή</string>
+    <string name="gpu_model">Μονάδα επεξεργασίας γραφικών</string>
+    <string name="gpu_clock">Ταχύτητα ρολογιού γραφικων</string>
+    <string name="gpu_cufreq">Τρέχον ρολόι γραφικων</string>
+    <string name="gpu_extensions">Επεκτάσεις</string>
+
+    <string name="density">Πυκνότητα</string>
+    <string name="refresh_rate">Ρυθμός ανανέωσης</string>
+
+    <!-- Sensors -->
+    <string name="test">ΔΟΚΙΜΗ</string>
+    <string name="info">ΠΛΗΡΟΦΟΡΙΕΣ</string>
+
+    <string name="title_activity_light_sensor">Δοκιμή αισθητήρα φωτός</string>
+    <string name="title_activity_proximity_sensor">Δοκιμή αισθητήρα εγγύτητας</string>
+    <string name="title_activity_accelerometer_sensor">Δοκιμή επιταχυνσιόμετρου</string>
+    <string name="title_activity_magnetometer_sensor">Δοκιμή μαγνητόμετρου</string>
+    <string name="title_activity_gyroscope_sensor">Δοκιμή γυροσκοπίου</string>
+    <string name="title_activity_pressure_sensor">Δοκιμή βαρόμετρου</string>
+
+    <string name="accelerometer">Επιταχυνσιόμετρο</string>
+    <string name="magnetometer">Μαγνητόμετρο</string>
+    <string name="gyroscope">Γυροσκόπιο</string>
+    <string name="proximity">Εγγύτητα</string>
+    <string name="light">Φως</string>
+    <string name="pressure">Βαρόμετρο</string>
+
+    <string name="no_input_data">Δεν υπάρχουν δεδομένα από τον αισθητήρα</string>
+
+    <string name="unit_accelerometer">Μοναδες επιταχυνσιομετρου</string>
+    <string name="unit_light">Μοναδα φωτος</string>
+    <string name="unit_proximity">εκατοστα</string>
+    <string name="unit_magnetometer">Μοναδες μαγνητομετρου</string>
+    <string name="unit_gyroscope">Μοναδες γυροσκοπιου</string>
+    <string name="unit_pressure">Μοναδες βαρομετρου</string>
+    <string name="unit_pressure_mm">Μοναδες βαρομετρου_mm Hg</string>
+
+    <string name="s_name">Ονομα:</string>
+    <string name="s_vendor">Προμηθευτής:</string>
+    <string name="s_version">Εκδοχή:</string>
+    <string name="s_max_range">Μέγιστο εύρος:</string>
+    <string name="s_resolution">Ανάλυση:</string>
+    <string name="s_power">Ισχυς:</string>
+    <string name="s_unit">Μονάδα:</string>
+
+    <string name="unsupported">ανυποστήρικτος</string>
+
+    <string name="total_sensors">Σύνολο:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Εσωτερική αποθήκευση</string>
+    <string name="external_storage">Εξωτερική αποθήκευση</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">πωλητής_κάμερας</string>
+    <string name="camera_model">Μοντέλο_κάμερας</string>
+    <string name="camera_supported">Καμερα_υποστηρίζεται</string>
+
+    <string name="software">Λογισμικό</string>
+    <string name="hardware">Εξαρτηματα</string>
+
+    <string name="orientation">Προσανατολισμός</string>
+    <string name="camera_flash">Λάμψη_καμερας</string>
+    <string name="yes">Ναί</string>
+    <string name="no">όχι</string>
+    <string name="mp">Ορισμός Megapixel</string>
+    <string name="video_resolution">Ανάλυση_βίντεο</string>
+    <string name="focal_length">Εστιακό μήκος</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Μορφές εικόνας</string>
+    <string name="camera_size">Μέγεθος αισθητήρα</string>
+    <string name="pixel_size">Μέγεθος pixel</string>
+    <string name="camera_af_modes">Λειτουργίες εστίασης</string>
+    <string name="aperture">Ανοιγμα</string>
+    <string name="camera_phy_count">Τύπος ενότητας</string>
+    <string name="camera_add_modules">Πρόσθετες κάμερες</string>
+    <string name="camera_sw_info">Πληροφορίες</string>
+    <string name="camera_color_filter">Φίλτρο χρώματος</string>
+    <string name="camera_view_angle">Προβολή γωνίας</string>
+    <string name="unit_um">Μοναδα μικρομετρου</string>
+    <string name="unit_mm">Μοναδα χιλιοστου</string>
+
+    <!-- Battery -->
+
+    <string name="level">Επίπεδο</string>
+    <string name="health">Υγεία</string>
+    <string name="status">Κατάσταση</string>
+
+    <string name="power_source">Πηγή ενέργειας</string>
+    <string name="technology">Τεχνολογία</string>
+    <string name="temperature">Θερμοκρασία</string>
+    <string name="voltage">Τάση</string>
+    <string name="power_profile">Προφίλ ισχύος</string>
+    <string name="kernel_profile">Προφίλ πυρήνα</string>
+    <string name="charged_to">Φορτιστικε εως το</string>
+    <string name="battery_model">Μοντέλο</string>
+    <string name="consumption">Κατανάλωση</string>
+    <string name="charge_speed">Ταχύτητα φόρτισης</string>
+    <string name="discharge_speed">Ταχύτητα εκφόρτισης</string>
+
+    <string name="charge_ac">Φόρτιση μέσω AC</string>
+    <string name="charge_usb">Φόρτιση μέσω USB</string>
+    <string name="quick_charge">Γρήγορη φόρτιση</string>
+
+    <string name="thermal_not_found">Δεν βρέθηκαν θερμικοί αισθητήρες</string>
+
+    <!-- Net -->
+    <string name="link_speed">Ταχύτητα σύνδεσης</string>
+    <string name="frequency">Συχνότητα</string>
+    <string name="signal">Σήμα</string>
+    <string name="channel">Κανάλι</string>
+    <string name="net_level">Επίπεδο</string>
+
+    <!-- SIM -->
+    <string name="sim_phone_type">Τύπος τηλεφώνου</string>
+    <string name="sim_operator_name">Χειριστής</string>
+    <string name="sim_operator_code">Κωδικός χειριστή</string>
+    <string name="sim_country_code">Κωδικός χώρας</string>
+    <string name="network_type">Τύπος δικτύου</string>
+    <string name="sim_state">Κατάσταση SIM</string>
+    <string name="sim_icc_card">Κάρτα ICC</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Ονομα</string>
+    <string name="partition_address">Έναρξη διεύθυνσης</string>
+    <string name="partition_size">Μέγεθος διαμερίσματος</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">ημέρες</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">Κεντρικη μοναδα επεξεργασιας</string>
+    <string name="cpu_load">Φορτώνω:</string>
+    <string name="cpu_core">πυρήνας</string>
+
+    <string name="gpu_label">Μοναδα επεξεργασιας γραφικων</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">οθόνη υγρού κρυστάλλου</string>
+    <string name="lcd_info">Δοκιμή χρώματος οθονης</string>
+    <string name="lcd_desc">Ελέγξτε το χρώμα της οθόνης και δεν υπάρχουν ελαττωματικά pixel</string>
+
+    <string name="multitouch_label">Πολλαπλής αφής</string>
+    <string name="multitouch_info">Δοκιμή πολλαπλής αφής οθόνης αφής</string>
+    <string name="multitouch_desc">Ελέγξτε πόσα δάχτυλα υποστηρίζονται</string>
+
+    <string name="touchdraw_label">Αγγίξτε το σχέδιο</string>
+    <string name="touchdraw_info">Δοκιμή σχεδίασης οθόνης αφής</string>
+    <string name="touchdraw_desc">Ελέγξτε την ακρίβεια της αφής και των νεκρών ζωνών</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Μονοπάτι_usb</string>
+    <string name="usb_num">Αριθμός</string>
+    <string name="usb_bus">Αναγνωριστικό συσκευής</string>
+    <string name="usb_ver">Εκδοχή</string>
+    <string name="usb_not_found1">Συσκευές:</string>
+    <string name="usb_not_found2">δεν βρέθηκε</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Μοντέμ</string>
+    <string name="camera_back">Πίσω κάμερα</string>
+    <string name="camera_front">Κάμερα μπροστά</string>
+    <string name="mtk_build">Κατασκευη_mtk</string>
+    <string name="mtk_platform">Πλατφόρμα MTK</string>
+
+    <!-- Report -->
+
+    <string name="firmware">Υλικολογισμικό</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Ρυθμίσεις</string>
+
+    <string name="pref_category_general">Γενικός</string>
+    <string name="pref_category_appearance">Εμφάνιση</string>
+    <string name="pref_category_other">Αλλα</string>
+
+    <string name="pref_title_set_language">Γλώσσα</string>
+
+    <string name="language_default">Προκαθορισμένο</string>
+
+    <string name="pref_title_use_root">Χρησιμοποιήστε τη ρίζα</string>
+    <string name="pref_description_use_root">Για να λάβετε πλήρεις πληροφορίες</string>
+
+    <string name="pref_title_show_address">Εμφάνιση διεύθυνσης i2c</string>
+    <string name="pref_description_show_address">Εμφάνιση διεύθυνσης i2c συσκευής</string>
+
+    <string name="pref_title_dark_theme">Χρησιμοποιήστε σκοτεινό θέμα</string>
+    <string name="pref_description_dark_theme">Εφαρμόστε σκοτεινό θέμα στη διεπαφή</string>
+
+    <string name="pref_title_theme">Θέμα διεπαφής</string>
+
+    <string name="pref_title_disable_sysfs_msg">Απενεργοποίηση σφάλματος εικονικων αρχειων</string>
+    <string name="pref_description_disable_sysfs_msg">Απενεργοποιήστε το μήνυμα σφάλματος ανάγνωσης εικονικων αρχειων στο Android 7.0+</string>
+
+    <string name="pref_title_invert_charge_speed">Αντιστρέψτε το ρεύμα της μπαταρίας</string>
+    <string name="pref_description_invert_charge_speed">Αντιστρέψτε την ταχύτητα φόρτισης / εκφόρτισης της μπαταρίας</string>
+
+    <string name="pref_title_use_charge_counter">Χρήση \'φορτισμένα σε\'</string>
+    <string name="pref_description_use_charge_counter">προβολή \'φοπρτισμενα σε\'τιμή μπαταρίας, δεν είναι όλες οι συσκευές πλήρως συμβατές </string>
+
+    <string name="pref_title_temp_in_f_deg">Θερμοκρασία σε &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Εμφάνιση θερμοκρασίας σε Φαρεναιτ</string>
+
+    <string name="pref_title_detect_therm_zones">Εντοπισμός θερμικών ζωνών</string>
+    <string name="pref_description_detect_therm_zones">Εντοπισμός ονομάτων θερμικής ζώνης (ριζωμενη)</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">Μήνυμα</string>
+
+    <string name="root_hw_detect">Σε νέες εκδόσεις του Android, ορισμένες πληροφορίες αποκλείονται,
+         εάν έχετε πρόσβαση root, μπορείτε να την ενεργοποιήσετε στις ρυθμίσεις.
+         Περισσότερες λεπτομέρειες θα είναι διαθέσιμες.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">Υπερασπιστήςεφαρμογης</string>
+    <string name="app_defender_msg">Λυπούμαστε, αλλά ο υπερασπιστής δεν μπορεί να ελέγξει την εγκυρότητα της εφαρμογής. Συνδεθείτε στο Διαδίκτυο και κάντε κλικ στον έλεγχο.</string>
+    <string name="app_recheck">Ελέγξτε ξανά</string>
+    <string name="app_exit">Εξοδος</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Λυπούμαστε, αλλά η χρήση του θέματος έληξε δωρεάν! Διατίθεται σε έκδοση PRO.</string>
+
+    <!-- Info center -->
+    <string name="update">Αναβαθμιση</string>
+    <string name="updating">Ενημέρωση</string>
+
+    <string name="upload">Μεταφόρτωση</string>
+
+    <string name="create_report">Δημιουργία αναφοράς</string>
+    <string name="create_report_msg">Η αναφορά δημιουργήθηκε με επιτυχία!Μάθετε</string>
+    <string name="create_report_err">Δεν είναι δυνατή η δημιουργία αναφοράς!</string>
+    <string name="create_report_err_non_pro">Δεν είναι δυνατή η δημιουργία αναφοράς! Διατίθεται σε έκδοση PRO.</string>
+    <string name="create_report_info">Οι πληροφορίες της συσκευής θα αποθηκευτούν σε αρχείο html στο φάκελο δεδομένων της εφαρμογής.</string>
+    <string name="create">Δημιουργώ</string>
+
+    <string name="error">Λάθος</string>
+    <string name="close">Κλείσε</string>
+    <string name="open">Ανοιξε</string>
+    <string name="share">Μοιρασε</string>
+    <string name="send_to_email">Αποστολή σε ηλεκτρονικο ταχυδρομειο:</string>
+
+    <string name="cpu_codenames_label">Κωδικά ονόματα κεντρικης μοναδας επεξεργασιας</string>
+    <string name="cpu_codenames_info">Λιστα κωδικων ονοματων κεντρικης μοναδας επεξεργασιας</string>
+
+    <string name="update_components_label">Εξαρτήματα συσκευής</string>
+    <string name="update_components_msg">Ενημέρωση βάσης δεδομένων κανόνων ανίχνευσης</string>
+    <string name="update_component_msg">Οι κανόνες ανίχνευσης ενημερώθηκαν με επιτυχία. Επανεκκινήστε την εφαρμογή για εφαρμογή αλλαγών.</string>
+
+    <string name="upload_info_label">Μεταφόρτωση πληροφοριών συσκευής</string>
+    <string name="upload_info_text">Βοηθά να βελτιωθεί το πρόγραμμα, να βελτιωθεί η υποστήριξη συσκευών
+         και άλλοι προγραμματιστές μπορούν να βρουν παρόμοιες συσκευές και απαιτούμενα προγράμματα οδήγησης.
+         Αποτέλεσμα αποθηκευμένο στη βάση δεδομένων. Μπορείτε να δείτε στο:</string>
+
+    <string name="kernel_analyzer_label">Αναλυτής πυρήνα</string>
+
+    <string name="i2c_viewer_label">Λίστα συσκευών</string>
+    <string name="i2c_viewer_info">Συσκευές στο i2c, spi bus</string>
+
+    <string name="exif_cam_label">Πληροφορίες κάμερας EXIF</string>
+    <string name="exif_cam_info">Διαβάστε τις πληροφορίες EXIF από την εικόνα</string>
+    <string name="open_img_file_label">Άνοιγμα αρχείου εικόνας ...</string>
+
+    <string name="error_read_sysfs">Λυπούμαστε, αλλά στο firmware σας η ανάγνωση των εικονικων αρχειων πυρηνα συσκευων υλικου και προγραμματων είναι απενεργοποιημένη. Διατίθενται μόνο μερικές πληροφορίες.</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">εκδοση</string>
+
+    <string name="about_author">συντάκτης\n
+        Αντρέι Εφρέμοφ\n
+        aka andr7e</string>
+
+</resources>

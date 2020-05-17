@@ -10,9 +10,6 @@
     <string name="action_rate_app">App értékelése</string>
     <string name="action_upgrade_to_pro">Frissítsen PRO-ra</string>
 
-    <string name="navigation_drawer_open">Navigációs fiók megnyitása</string>
-    <string name="navigation_drawer_close">Navigációs fiók bezárása</string>
-
     <string name="navigation_description">A rendelkezésre álló fülek listája</string>
 
     <!-- Tabs -->
@@ -161,9 +158,6 @@
     <string name="unit_gyroscope">rad/s</string>
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
-    <string name="unit_percent" translatable="false">%</string>
-    <string name="unit_temp" translatable="false">&#xb0;С</string>
-    <string name="unit_degree" translatable="false">&#xb0;</string>
 
     <string name="s_name">Name:</string>
     <string name="s_vendor">Vendor:</string>
@@ -401,9 +395,6 @@
     <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Sajnáljuk, de a firmware olvasásakor a sysfs le van tiltva. Csak részleges információk állnak rendelkezésre.</string>
-
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Nyissa meg a mérnöki menüt</string>
 
     <!-- Strings related to About -->
 

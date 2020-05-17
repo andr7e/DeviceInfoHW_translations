@@ -10,9 +10,6 @@
     <string name="action_rate_app">App bewerten</string>
     <string name="action_upgrade_to_pro">PRO-Upgrade</string>
 
-    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
-    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
-
     <string name="navigation_description">Liste verfügbarer Tabs</string>
 
     <!-- Tabs -->
@@ -396,9 +393,6 @@
     <string name="open_img_file_label">Bilddatei öffnen....</string>
 
     <string name="error_read_sysfs">Sorry, auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
-	
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Expertenmenü</string>
 
     <!-- Strings related to About -->
 

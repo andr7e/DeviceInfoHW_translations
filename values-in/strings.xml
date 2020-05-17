@@ -10,9 +10,6 @@
     <string name="action_rate_app">Berikan Rating</string>
     <string name="action_upgrade_to_pro">Upgrade ke versi PRO</string>
 
-    <string name="navigation_drawer_open">Buka drawer navigasi</string>
-    <string name="navigation_drawer_close">Tutup drawer navigasi</string>
-
     <string name="navigation_description">Daftar tab yang tersedia</string>
 
     <!-- Tabs -->
@@ -163,9 +160,6 @@
     <string name="unit_gyroscope">rad/s</string>
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
-    <string name="unit_percent" translatable="false">%</string>
-    <string name="unit_temp" translatable="false">&#xb0;С</string>
-    <string name="unit_degree" translatable="false">&#xb0;</string>
 
     <string name="s_name">Name:</string>
     <string name="s_vendor">Vendor:</string>
@@ -402,9 +396,6 @@
     <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Maaf, di firmware Anda, pembacaan sysfs telah di-nonaktifkan. Hanya sebagian informasi yang dapat ditampilkan.</string>
-
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Buka menu teknisi</string>
 
     <!-- Strings related to About -->
 

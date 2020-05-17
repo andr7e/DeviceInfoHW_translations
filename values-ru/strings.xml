@@ -10,9 +10,6 @@
     <string name="action_rate_app">Поставить оценку</string>
     <string name="action_upgrade_to_pro">Перейти на PRO</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="navigation_description">Список доступных вкладок</string>
 
     <!-- Tabs -->
@@ -397,9 +394,6 @@
     <string name="open_img_file_label">Выбрать фото...</string>
 
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>
-
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Открыть инженерное меню</string>
 
    <!-- Strings related to About -->
 

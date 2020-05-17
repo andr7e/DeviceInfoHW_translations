@@ -10,9 +10,6 @@
     <string name="action_rate_app">Avaliar App</string>
     <string name="action_upgrade_to_pro">Atualizar para PRO</string>
 
-    <string name="navigation_drawer_open">Abrir menu de navegação</string>
-    <string name="navigation_drawer_close">Fechar menu de navegação</string>
-
     <string name="navigation_description">Lista de abas disponíveis</string>
 
     <!-- Tabs -->
@@ -159,9 +156,6 @@
     <string name="unit_gyroscope">rad/s</string>
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
-    <string name="unit_percent" translatable="false">%</string>
-    <string name="unit_temp" translatable="false">&#xb0;С</string>
-    <string name="unit_degree" translatable="false">&#xb0;</string>
 
     <string name="s_name">Name:</string>
     <string name="s_vendor">Vendor:</string>
@@ -400,9 +394,6 @@
     <string name="open_img_file_label">Abrir arquivo de imagem...</string>
 
     <string name="error_read_sysfs">Desculpe, mas em seu firmware a leitura de sysfs está desativada. Apenas parte da informação estará disponível.</string>
-
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Abrir menu de engenharia</string>
 
     <!-- Strings related to About -->
 

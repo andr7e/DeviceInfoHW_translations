@@ -12,8 +12,8 @@
     <string name="action_rate_app">Rate App</string>
     <string name="action_upgrade_to_pro">Upgrade to PRO</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
 
     <string name="navigation_description">List of available tabs</string>
 
@@ -369,6 +369,7 @@
         <item>Magyar</item>
         <item>Deutsch</item>
         <item>Português (Brasil)</item>
+        <item>Ελληνικά</item>
         <item>中文（简体）</item>
         <item>中文（繁體）</item>
         <item>العربية</item>
@@ -387,6 +388,7 @@
         <item>8</item>
         <item>9</item>
         <item>10</item>
+        <item>11</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>
@@ -487,9 +489,6 @@
     <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
-
-    <!-- Floating button -->
-    <string name="action_engineer_mode">Open engineer menu</string>
 
     <!-- Strings related to About -->
 

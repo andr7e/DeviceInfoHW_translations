@@ -10,9 +10,6 @@
     <string name="action_rate_app">評價應用</string>
     <string name="action_upgrade_to_pro">升級到PRO版</string>
 
-    <string name="navigation_drawer_open">打開導航抽屜</string>
-    <string name="navigation_drawer_close">關閉導航抽屜</string>
-
     <string name="navigation_description">可用選項卡列表</string>
 
     <!-- Tabs -->
@@ -160,9 +157,6 @@
     <string name="unit_gyroscope">rad/s</string>
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
-    <string name="unit_percent" translatable="false">%</string>
-    <string name="unit_temp" translatable="false">&#xb0;С</string>
-    <string name="unit_degree" translatable="false">&#xb0;</string>
 
     <string name="s_name">Name:</string>
     <string name="s_vendor">Vendor:</string>
@@ -399,9 +393,6 @@
     <string name="open_img_file_label">打開圖像文件...</string>
 
     <string name="error_read_sysfs">抱歉，您的已禁止讀取sysfs。只有部分信息可用。</string>
-
-    <!-- Floating button -->
-    <string name="action_engineer_mode">打開工程菜單</string>
 
     <!-- Strings related to About -->
 
