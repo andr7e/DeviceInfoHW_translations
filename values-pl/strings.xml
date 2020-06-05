@@ -365,7 +365,7 @@
     <string name="create_report_msg">Raport utworzony z powodzeniem!\nZobacz</string>
     <string name="create_report_err">Nie można utworzyć raportu!</string>
     <string name="create_report_err_non_pro">Nie można utworzyć raportu!\nTylko dostępne w wersji PRO.</string>
-    <string name="create_report_info">Informacje o urządzeniu zostaną zapisane w pliku HTML w folderze danych aplikacji.</string>
+    <string name="create_report_info">Informacje o urządzeniu zostaną zapisane w pliku HTML/PDF w folderze danych aplikacji.</string>
     <string name="create">Utwórz</string>
 
     <string name="error">Błąd</string>

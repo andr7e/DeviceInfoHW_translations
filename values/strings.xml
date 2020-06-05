@@ -404,12 +404,14 @@
         <item>BASIC</item>
         <item>DARK</item>
         <item>BLACK</item>
+        <item>AUTO</item>
 
     </string-array>
     <string-array name="pref_theme_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
     </string-array>
 
     <string name="pref_title_theme">Interface theme</string>
@@ -458,7 +460,7 @@
     <string name="create_report_msg">Report successfully created!\nLook in</string>
     <string name="create_report_err">Can\'t create report!</string>
     <string name="create_report_err_non_pro">Can not create report!\nIt\'s available in PRO version.</string>
-    <string name="create_report_info">Device information will be saved in html file in app data folder.</string>
+    <string name="create_report_info">Device information will be saved to file in app data folder.</string>
     <string name="create">Create</string>
 
     <string name="error">Error</string>

@@ -364,7 +364,7 @@
     <string name="create_report_msg">Bericht erfolgreich erstellt!\nHier ansehen</string>
     <string name="create_report_err">Kann keinen Bericht erstellen!</string>
     <string name="create_report_err_non_pro">Kann keinen Bericht erstellen!\nBerichte in PRO Version verfügbar.</string>.
-    <string name="create_report_info">Geräteinformationen werden in der html-Datei im App-Data Ordner gespeichert.</string>
+    <string name="create_report_info">Geräteinformationen werden in der html/pdf-Datei im App-Data Ordner gespeichert.</string>
     <string name="create">Erstellen</string>
 
     <string name="error">Fehler</string>

@@ -366,7 +366,7 @@
     <string name="create_report_msg">تم إنشاء التقرير بنجاح!\nأنظر</string>
     <string name="create_report_err">تعذر إنشاء التقرير!</string>
     <string name="create_report_err_non_pro">لا يمكن إنشاء تقرير!\nIt\'s متاح في النسخة المدفوعة.</string>
-    <string name="create_report_info">سيتم حفظ معلومات الجهاز في ملف HTML داخل مجلد App Data.</string>
+    <string name="create_report_info">سيتم حفظ معلومات الجهاز في ملف HTML/PDF داخل مجلد App Data.</string>
     <string name="create">إنشاء</string>
 
     <string name="error">خطأ</string>

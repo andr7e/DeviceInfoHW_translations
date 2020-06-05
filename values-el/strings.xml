@@ -64,8 +64,8 @@
     <string name="flash">Λάμψη</string>
     <string name="flash_size">Μεγεθος λαμψης</string>
 
-    <string name="sound">Κάρτα ήχου</string>
-    <string name="fingerprint_sensor">Δακτυλικό αποτύπωμα</string>
+    <string name="sound">Καρτα ηχου</string>
+    <string name="fingerprint_sensor">Δακτυλικο αποτυπωμα</string>
 
     <string name="baseband">Βαση συχνοτητων</string>
     <string name="serial">Σειριακος</string>
@@ -97,7 +97,7 @@
     <string name="touchscreen">Οθόνη αφής</string>
     <string name="touchscreen_key">Πλήκτρα αφής</string>
     <string name="other">Αλλα</string>
-    <string name="alsps">Αισθητήρας φωτός</string>
+    <string name="alsps">Αισθητηρας φωτος</string>
     <string name="camera">Φωτογραφικη</string>
     <string name="lens_af">AF φακού</string>
     <string name="charger">Φορτιστής</string>
@@ -114,13 +114,13 @@
     <string name="instructions">Οδηγίες</string>
     <string name="techprocess">Τεχνολογία διεργασιών</string>
     <string name="unit_nm">nm</string>
-    <string name="clock_speed">Ταχύτητα ρολογιού</string>
+    <string name="clock_speed">Ταχυτητα ρολογιου</string>
     <string name="governor">Ρυθμιστης</string>
     <string name="clusters">Συστάδες</string>
     <string name="cache_l3">Μνημη L3</string>
     <string name="gpu_vendor">Προμηθευτής</string>
     <string name="gpu_model">Μοντελο</string>
-    <string name="gpu_clock">Ταχύτητα ρολογιού</string>
+    <string name="gpu_clock">Ταχυτητα ρολογιου</string>
     <string name="gpu_cufreq">Τρέχον ρολόι γραφικων</string>
     <string name="gpu_extensions">Επεκτάσεις</string>
 
@@ -148,7 +148,7 @@
     <string name="light">Φως</string>
     <string name="pressure">Βαρόμετρο</string>
 
-    <string name="no_input_data">No data from sensor</string>
+    <string name="no_input_data">Χωρις δεδομένα</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -267,7 +267,7 @@
 
     <string name="lcd_label">Οθονη</string>
     <string name="lcd_info">Δοκιμή χρώματος οθονης</string>
-    <string name="lcd_desc">Ελέγξτε το χρώμα της οθόνης και οχι  ελαττωματικά pixel</string>
+    <string name="lcd_desc">Ελέγξτε το χρώμα της οθόνης και οχι ελαττωματικά pixel</string>
 
     <string name="multitouch_label">Πολλαπλής αφής</string>
     <string name="multitouch_info">Δοκιμή πολλαπλής αφής οθόνης αφής</string>
@@ -351,6 +351,7 @@
     <string name="app_recheck">Ελέγξτε ξανά</string>
     <string name="app_exit">Εξοδος</string>
 
+
     <!-- PRO -->
     <string name="using_theme_expired_non_pro">Λυπούμαστε, αλλά η δωρεάν χρήση του θέματος έληξε!\nΔιατίθεται σε έκδοση PRO.</string>
 
@@ -361,10 +362,10 @@
     <string name="upload">Μεταφόρτωση</string>
 
     <string name="create_report">Δημιουργία αναφοράς</string>
-    <string name="create_report_msg">Η αναφορά δημιουργήθηκε με επιτυχία!\nΚοίτα μέσα</string>
+    <string name="create_report_msg">Η αναφορά δημιουργήθηκε με επιτυχία!\nΚοιτα μεσα</string>
     <string name="create_report_err">Δεν είναι δυνατή η δημιουργία αναφοράς!</string>
-    <string name="create_report_err_non_pro">Δεν είναι δυνατή η δημιουργία αναφοράς! Διατίθεται στην έκδοση PRO.</string>
-    <string name="create_report_info">Οι πληροφορίες της συσκευής θα αποθηκευτούν σε αρχείο html στο φάκελο δεδομένων της εφαρμογής.</string>
+    <string name="create_report_err_non_pro">Δεν είναι δυνατή η δημιουργία αναφοράς!\nΔιατίθεται στην έκδοση PRO.</string>
+    <string name="create_report_info">Οι πληροφορίες της συσκευής θα αποθηκευτούν σε αρχείο στο φάκελο δεδομένων της εφαρμογής.</string>
     <string name="create">Δημιουργώ</string>
 
     <string name="error">Σφαλμα</string>

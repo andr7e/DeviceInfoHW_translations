@@ -365,7 +365,7 @@
     <string name="create_report_msg">Laporan telah berhasil dibuat!\nLook in</string>
     <string name="create_report_err">Tidak bisa membuat laporan!</string>
     <string name="create_report_err_non_pro">Tidak bisa membuat laporan!\nIt\'s tersedia di versi PRO.</string>
-    <string name="create_report_info">Informasi perangkat akan disimpan dalam berkas HTML di folder app data.</string>
+    <string name="create_report_info">Informasi perangkat akan disimpan dalam berkas HTML/PDF di folder app data.</string>
     <string name="create">Buat</string>
 
     <string name="error">Kesalahan</string>

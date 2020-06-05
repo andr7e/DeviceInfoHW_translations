@@ -364,7 +364,7 @@
     <string name="create_report_msg">Reporte creado correctamente!\nVer</string>
     <string name="create_report_err">¡No se puede crear reporte!</string>
     <string name="create_report_err_non_pro">¡No se puede crear reporte!\nSolo disponible en la versión PRO.</string>
-    <string name="create_report_info">La información del dispositivo se guarada en un archivo HTML en la carpeta de la app.</string>
+    <string name="create_report_info">La información del dispositivo se guarada en un archivo HTML/PDF en la carpeta de la app.</string>
     <string name="create">Crear</string>
 
     <string name="error">Error</string>

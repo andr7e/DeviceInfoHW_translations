@@ -362,7 +362,7 @@
     <string name="create_report_msg">報告已成功創建！\nLook in</string>
     <string name="create_report_err">無法創建報告！</string>
     <string name="create_report_err_non_pro">無法創建報告！\n在PRO版本中可用。</string>
-    <string name="create_report_info">裝置信息將保存在app data文件夾的html文件中。</string>
+    <string name="create_report_info">裝置信息將保存在app data文件夾的html/pdf文件中。</string>
     <string name="create">创建</string>
 
     <string name="error">錯誤</string>

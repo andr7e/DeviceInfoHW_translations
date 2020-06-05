@@ -10,5 +10,6 @@
 * German: Tim Köhler
 * Portuguese (Brazil): Mickael Mesquita
 * Arabic : Ali Mohamed
+* Greek : Fotis
 
 ```

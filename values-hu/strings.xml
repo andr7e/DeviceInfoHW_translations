@@ -364,7 +364,7 @@
     <string name="create_report_msg">A jelentés sikeresen elkészült!\nNézze meg</string>
     <string name="create_report_err">A jelentés nem hozható létre!</string>
     <string name="create_report_err_non_pro">Nem hozható létre jelentés!\nA PRO verzióban elérhető.</string>
-    <string name="create_report_info">Az információk az eszközről el lesznek mentve egy html fájlban az App Data mappában.</string>
+    <string name="create_report_info">Az információk az eszközről el lesznek mentve egy html/pdf fájlban az App Data mappában.</string>
     <string name="create">Létrehoz</string>
 
     <string name="error">Hiba</string>
