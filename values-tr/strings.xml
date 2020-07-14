@@ -14,7 +14,7 @@
 
     <!-- Tabs -->
     <string name="tab_general">Genel</string>
-    <string name="tab_soc">SoC</string>
+    <string name="tab_soc">İşlemci</string>
     <string name="tab_monitor">Monitör</string>
     <string name="tab_system">Sistem</string>
     <string name="tab_memory">Hafıza</string>
@@ -47,10 +47,10 @@
     <string name="model_name">Model adı</string>
 
     <string name="platform">Platform</string>
-    <string name="board">Kart</string>
+    <string name="board">Çip</string>
     <string name="resolution">Çözünürlük</string>
 
-    <string name="codename">Kod adı</string>
+    <string name="codename">Sürüm kod adı</string>
     <string name="release">Sürüm</string>
 
     <string name="machine_arch">Mimari</string>
@@ -61,28 +61,28 @@
     <string name="free">Boş:</string>
     <string name="used">Kullanılan:</string>
     <string name="total">Toplam:</string>
-    <string name="flash">Flaş</string>
-    <string name="flash_size">Flaş boyutu</string>
+    <string name="flash">Depolama türü</string>
+    <string name="flash_size">Depolama boyutu</string>
 
     <string name="sound">Ses kartı</string>
     <string name="fingerprint_sensor">Parmak izi</string>
 
     <string name="baseband">Ana Bant</string>
-    <string name="serial">Seri</string>
-    <string name="build">Yapı</string>
+    <string name="serial">Seri numarası</string>
+    <string name="build">Yapı numarası</string>
 
-    <string name="security">Güvenlik</string>
+    <string name="security">Güvenlik yaması</string>
     <string name="uptime">Çalışma süresi</string>
 
     <string name="product">Ürün</string>
     <string name="type">Tip</string>
     <string name="build_type">Yapı tipi</string>
     <string name="tags">Etiketler</string>
-    <string name="incremental">Artım</string>
-    <string name="fingerprint">Parmak izi</string>
+    <string name="incremental">Incremental</string>
+    <string name="fingerprint">Derleme Parmak izi</string>
     <string name="description">Açıklama</string>
-    <string name="bootloader">Ön yükleme</string>
-    <string name="builder">Builder</string>
+    <string name="bootloader">Ön yükleme (Bootloader)</string>
+    <string name="builder">Derleyici</string>
     <string name="supported_features">Cihaz özellikleri</string>
     <string name="language">Dil</string>
     <string name="timezone">Zaman dilimi</string>
@@ -113,7 +113,7 @@
     <string name="revision">Revizyon</string>
     <string name="family">Aile</string>
     <string name="instructions">Talimatlar</string>
-    <string name="techprocess">İşlem teknolojisi</string>
+    <string name="techprocess">İşlemci teknolojisi</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Saat hızı</string>
     <string name="governor">Governor</string>
@@ -148,7 +148,7 @@
     <string name="light">Işık</string>
     <string name="pressure">Barometre</string>
 
-    <string name="no_input_data">No data from sensor</string>
+    <string name="no_input_data">Sensor verisi yok</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -184,10 +184,10 @@
     <string name="software">Yazılım</string>
     <string name="hardware">Donanım</string>
 
-    <string name="orientation">Oryantasyon</string>
+    <string name="orientation">Yönlendirme</string>
     <string name="camera_flash">Flaş</string>
-    <string name="yes">evet</string>
-    <string name="no">hayır</string>
+    <string name="yes">var</string>
+    <string name="no">yok</string>
     <string name="mp">MP</string>
     <string name="video_resolution">Video</string>
     <string name="focal_length">Odak uzaklığı</string>
@@ -217,7 +217,7 @@
     <string name="voltage">Voltaj</string>
     <string name="power_profile">Güç profili</string>
     <string name="kernel_profile">Çekirdek (Kernel) profili</string>
-    <string name="charged_to">Charged up to</string>
+    <string name="charged_to">Şarj ediliyor</string>
     <string name="battery_model">Model</string>
     <string name="consumption">Tüketim</string>
     <string name="charge_speed">Şarj hızı</string>
@@ -269,7 +269,7 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">LCD renk testi</string>
-    <string name="lcd_desc">Ekran rengini kontrol ve ölü pikselleri kontrol edin</string>
+    <string name="lcd_desc">Ekran rengini ve ölü pikselleri kontrol edin</string>
 
     <string name="multitouch_label">Çoklu dokunuş</string>
     <string name="multitouch_info">Dokunmatik ekran çoklu dokunma testi</string>
@@ -329,8 +329,8 @@
     <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
     <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
 
-    <string name="pref_title_use_charge_counter">\'şarj için\' kullanın</string>
-    <string name="pref_description_use_charge_counter">\'şarj için\' pil değerini göster, tüm cihazlar tam uyumlu değil</string>
+    <string name="pref_title_use_charge_counter">Pil yüzdesini göster</string>
+    <string name="pref_description_use_charge_counter">Bataryanın yüzde kaç dolu olduğunu gösterir. Bazı cihazlarda çalışmayabilir</string>
 
     <string name="pref_title_temp_in_f_deg">&#xb0;F cinsinden sıcaklık</string>
     <string name="pref_description_temp_in_f_deg">Sıcaklığı Fahrenheit olarak göster</string>
@@ -342,7 +342,7 @@
 
     <string name="first_install_title">İleti</string>
 
-    <string name="root_hw_detect">Android\'in yeni sürümlerinde, bazı bilgiler engellenir,
+    <string name="root_hw_detect">Android\'in yeni sürümlerinde bazı bilgiler engellenir,
         root erişiminiz varsa, ayarlardan etkinleştirebilirsiniz.
         Daha fazla detay mevcut olacaktır.</string>
 
@@ -382,9 +382,9 @@
     <string name="update_component_msg">Algılama kuralları başarıyla güncellendi. Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</string>
 
     <string name="upload_info_label">Cihaz bilgilerini yükle</string>
-    <string name="upload_info_text">It helps make program better, improve devices support
-        and other developers can find similar devices and needed drivers.
-        Result stored in database. You can see on:</string>
+    <string name="upload_info_text">Programın daha iyi olmasına yardımcı olur, cihaz desteğini geliştirir
+        ve diğer geliştiriciler benzer cihazları ve gerekli sürücüleri bulabilir.
+        Sonuçlar veritabanında saklanır. Detaylı bilgi için sitemize bakabilirsiniz:</string>
 
     <string name="kernel_analyzer_label">Çekirdek (Kernel) Analiz Cihazı</string>
 
@@ -399,10 +399,11 @@
 
     <!-- Strings related to About -->
 
-    <string name="about_version">versiyon</string>
+    <string name="about_version">sürüm</string>
 
     <string name="about_author">Sahip\n
         Andrey Efremov\n
-        diğer adıyla andr7e</string>
+        diğer adıyla andr7e\n
+        Türkçe uyarlama NaytSeyd</string>
 
 </resources>
