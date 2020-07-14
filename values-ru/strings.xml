@@ -353,7 +353,7 @@
     <string name="app_exit">Выйти</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Извините, но время использования темы истекло!\nУстановите PRO версию.</string>
+    <string name="using_theme_expired_non_pro">Извините, но пробный период использования темной темы истек!\nВыбор тем доступен в PRO версии.</string>
 
    <!-- Info center -->
     <string name="update">Обновить</string>

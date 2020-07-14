@@ -328,6 +328,7 @@
 
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+
     <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
     <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
 
