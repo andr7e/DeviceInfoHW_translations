@@ -1,0 +1,505 @@
+<resources>
+    <string name="app_name" translatable="false">Device Info HW</string>
+    <string name="app_name_title" translatable="false">Device Info HW</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_about">Hakkında</string>
+    <string name="action_info_center">Bilgi merkezi</string>
+    <string name="action_screen_test">Ekran testi</string>
+    <string name="action_engineer_menu">Mühendislik menüsü</string>
+
+    <string name="nav_header_options">Seçenekler</string>
+    <string name="action_rate_app">Uygulamayı Değerlendir</string>
+    <string name="action_upgrade_to_pro">Pro'ya yükselt</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="navigation_description">Kullanılabilir sekmelerin listesi</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Genel</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitör</string>
+    <string name="tab_system">Sistem</string>
+    <string name="tab_memory">Hafıza</string>
+    <string name="tab_camera">Kamera</string>
+    <string name="tab_battery">Pil</string>
+    <string name="tab_thermal">Termal</string>
+    <string name="tab_sensors">Sensörler</string>
+    <string name="tab_applications">Uygulamalar</string>
+    <string name="tab_project">Proje</string>
+    <string name="tab_drivers">Sürücüler</string>
+    <string name="tab_partitions">Bölümler</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">Net</string>
+    <string name="tab_input">Giriş</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Kodekler</string>
+
+    <string name="tab_system_apps">Sistem Uygulamaları</string>
+    <string name="tab_camera_supported">Desteklenen kameralar</string>
+    <string name="tab_cpu_monitor">CPU Monitörü</string>
+    <string name="tab_cpu_time">CPU çalışma süresi</string>
+
+    <!-- Tabs single list -->
+    <string name="system_apps" translatable="false">System Applications</string>
+    <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
+
+    <!-- Menu -->
+    <string name="device">Cihaz</string>
+    <string name="manufacturer">Üretici firma</string>
+    <string name="model">Model</string>
+    <string name="brand">Marka</string>
+    <string name="model_name">Model adı</string>
+
+    <string name="platform">Platform</string>
+    <string name="board">Kart</string>
+    <string name="resolution">Çözünürlük</string>
+
+    <string name="android" translatable="false">Android</string>
+    <string name="api" translatable="false">API</string>
+    <string name="codename">Kod adı</string>
+    <string name="release">Sürüm</string>
+
+    <string name="machine_arch">Mimari</string>
+
+    <string name="kernel">Çekirdek (Kernel)</string>
+
+    <string name="ram">RAM</string>
+    <string name="free">Boş:</string>
+    <string name="used">Kullanılan:</string>
+    <string name="total">Toplam:</string>
+    <string name="kram" translatable="false">RAM (kernel)</string>
+    <string name="zram" translatable="false">SWAP</string>
+    <string name="flash">Flaş</string>
+    <string name="scsi" translatable="false">SCSI</string>
+    <string name="flash_size">Flaş boyutu</string>
+
+    <string name="wifi" translatable="false">Wi-Fi</string>
+    <string name="gps" translatable="false">GPS</string>
+    <string name="sound">Ses</string>
+    <string name="fingerprint_sensor">Parmak izi</string>
+
+    <string name="baseband">Ana Bant</string>
+    <string name="serial">Seri</string>
+    <string name="build">Yapı</string>
+    <string name="java_vm" translatable="false">Java VM</string>
+    <string name="security">Güvenlik</string>
+    <string name="uptime">Çalışma süresi</string>
+
+    <string name="product">Ürün</string>
+    <string name="type">Tip</string>
+    <string name="build_type">Yapı tipi</string>
+    <string name="tags">Etiketler</string>
+    <string name="incremental">Artım</string>
+    <string name="fingerprint">Parmak izi</string>
+    <string name="description">Açıklama</string>
+    <string name="bootloader">Ön yükleme</string>
+    <string name="selinux" translatable="false">SELinux</string>
+    <string name="gmsver" translatable="false">Google Play Services</string>
+    <string name="hmsver" translatable="false">Huawei Mobile Services</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">Cihaz özellikleri</string>
+    <string name="language">Dil</string>
+    <string name="timezone">Zaman dilimi</string>
+
+    <string name="version">versiyon</string>
+
+    <string name="enabled">Etkin</string>
+    <string name="disabled">Devre dışı</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">LCD Tipi</string>
+    <string name="touchscreen">Dokunmatik ekran</string>
+    <string name="touchscreen_key">Dokunmatik tuşlar</string>
+    <string name="other">Diğer</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">Kamera</string>
+    <string name="lens_af">Lens AF</string>
+    <string name="charger">Şarj cihazı</string>
+    <string name="usb_typec" translatable="false">USB Type-C</string>
+    <string name="pmic" translatable="false">PMIC</string>
+    <string name="rtc" translatable="false">RTC</string>
+    <string name="nfc" translatable="false">NFC</string>
+    <string name="audio">Ses</string>
+    <string name="ethernet">Ethernet</string>
+
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">Üretici</string>
+    <string name="soc" translatable="false">SoC</string>
+    <string name="cores">Çekirdekler</string>
+    <string name="revision">Revizyon</string>
+    <string name="family">Aile</string>
+    <string name="abi" translatable="false">ABI</string>
+    <string name="instructions">Talimatlar</string>
+    <string name="techprocess">İşlem teknolojisi</string>
+    <string name="unit_nm">nm</string>
+    <string name="clock_speed">Saat hızı</string>
+    <string name="governor">Governor</string>
+    <string name="big_little" translatable="false">big.LITTLE</string>
+    <string name="clusters">Clusters</string>
+    <string name="cache_l3">Cache L3</string>
+    <string name="gpu_vendor">Üretici</string>
+    <string name="gpu_model">GPU</string>
+    <string name="gl_version" translatable="false">OpenGL ES</string>
+    <string name="gpu_clock">Saat hızı</string>
+    <string name="gpu_cufreq">Geçerli saat</string>
+    <string name="gpu_extensions">Uzantılar</string>
+    <string name="vulkan" translatable="false">Vulkan</string>
+
+    <string name="density">Yoğunluk</string>
+    <string name="refresh_rate">Yenileme hızı</string>
+    <string name="hdr" translatable="false">HDR</string>
+
+    <string name="cmdline" translatable="false">Cmdline</string>
+
+    <!-- Sensors -->
+    <string name="test">TEST</string>
+    <string name="info">BILGI</string>
+
+    <string name="title_activity_light_sensor">Işık Sensörü Testi</string>
+    <string name="title_activity_proximity_sensor">Yakınlık Sensörü Testi</string>
+    <string name="title_activity_accelerometer_sensor">İvmeölçer Testi</string>
+    <string name="title_activity_magnetometer_sensor">Manyetometre Testi</string>
+    <string name="title_activity_gyroscope_sensor">Jiroskop Testi</string>
+    <string name="title_activity_pressure_sensor">Barometre Testi</string>
+
+    <string name="led" translatable="false">•</string>
+
+    <string name="accelerometer">İvme ölçer</string>
+    <string name="magnetometer">Manyetometre</string>
+    <string name="gyroscope">Jiroskop</string>
+    <string name="proximity">Yakınlık</string>
+    <string name="light">Işık</string>
+    <string name="pressure">Barometre</string>
+    <string name="accel_gyro" translatable="false">Accel + Gyro</string>
+
+    <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="sensor_app_name" translatable="false">Sensor Test</string>
+
+    <string name="no_input_data">No data from sensor</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+    <string name="unit_percent" translatable="false">%</string>
+    <string name="unit_temp" translatable="false">&#xb0;С</string>
+    <string name="unit_degree" translatable="false">&#xb0;</string>
+
+    <string name="s_name">İsim:</string>
+    <string name="s_vendor">Üretici:</string>
+    <string name="s_version">Versiyon:</string>
+    <string name="s_max_range">Maksimum aralık:</string>
+    <string name="s_resolution">Çözüm:</string>
+    <string name="s_power">Güç:</string>
+    <string name="s_unit">Birim:</string>
+
+    <string name="unsupported">desteklenmiyor</string>
+
+    <string name="total_sensors">Toplam:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Dahili depolama</string>
+    <string name="external_storage">Harici depolama</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Üretici</string>
+    <string name="camera_model">Model</string>
+    <string name="camera_supported">Destekleniyor</string>
+
+    <string name="software">Yazılım</string>
+    <string name="hardware">Donanım</string>
+
+    <string name="orientation">Oryantasyon</string>
+    <string name="camera_flash">Flaş</string>
+    <string name="yes">evet</string>
+    <string name="no">hayır</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Odak uzaklığı</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Görüntü formatları</string>
+    <string name="camera_size">Sensör boyutu</string>
+    <string name="pixel_size">Piksel boyutu</string>
+    <string name="camera_af_modes">Odak modları</string>
+    <string name="aperture">Açıklık</string>
+    <string name="iso" translatable="false">ISO</string>
+    <string name="camera_phy_count">Modül tipi</string>
+    <string name="camera_add_modules">Ek kameralar</string>
+    <string name="camera_sw_info">Bilgi</string>
+    <string name="camera_color_filter">Renk filtresi</string>
+    <string name="camera_view_angle">Görüş açısı</string>
+    <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
+
+    <!-- Battery -->
+
+    <string name="level">Düzey</string>
+    <string name="health">Sağlık</string>
+    <string name="status">Durum</string>
+
+    <string name="power_source">Güç kaynağı</string>
+    <string name="technology">Teknoloji</string>
+    <string name="temperature">Sıcaklık</string>
+    <string name="voltage">Voltaj</string>
+    <string name="power_profile">Güç profili</string>
+    <string name="kernel_profile">Çekirdek (Kernel) profili</string>
+    <string name="charged_to">Charged up to</string>
+    <string name="battery_model">Model</string>
+    <string name="consumption">Tüketim</string>
+    <string name="charge_speed">Şarj hızı</string>
+    <string name="discharge_speed">Deşarj hızı</string>
+
+    <string name="charge_ac">AC ile şarj</string>
+    <string name="charge_usb">USB ile şarj</string>
+    <string name="quick_charge">Hızlı şarj</string>
+
+    <string name="thermal_not_found">Termal sensörler bulunamadı</string>
+
+    <!-- Net -->
+    <string name="ip_address" translatable="false">IPv4</string>
+    <string name="ip6_address" translatable="false">IPv6</string>
+    <string name="ssid" translatable="false">SSID</string>
+    <string name="link_speed">Bağlantı hızı</string>
+    <string name="mac_address" translatable="false">MAC</string>
+    <string name="frequency">Frekans</string>
+    <string name="signal">Sinyal</string>
+    <string name="channel">Kanal</string>
+    <string name="net_level">Düzey</string>
+
+    <!-- SIM -->
+    <string name="sim_label" translatable="false">SIM</string>
+    <string name="sim_phone_type">Telefon türü</string>
+    <string name="sim_operator_name">Operatör</string>
+    <string name="sim_operator_code">Operatör kodu</string>
+    <string name="sim_country_code">Ülke kodu</string>
+    <string name="network_type">Ağ tipi</string>
+    <string name="sim_state">SIM durumu</string>
+    <string name="sim_icc_card">ICC kartı</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">İsim</string>
+    <string name="partition_address">Başlangıç ​​adresi</string>
+    <string name="partition_size">Bölüm boyutu</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">gün</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">Yük:</string>
+    <string name="cpu_core">çekirdek</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">LCD renk testi</string>
+    <string name="lcd_desc">Ekran rengini kontrol ve ölü pikselleri kontrol edin</string>
+
+    <string name="multitouch_label">Çoklu dokunuş</string>
+    <string name="multitouch_info">Dokunmatik ekran çoklu dokunma testi</string>
+    <string name="multitouch_desc">Kaç parmağın desteklendiğini kontrol edin</string>
+
+    <string name="touchdraw_label">Dokunmatik çizim</string>
+    <string name="touchdraw_info">Dokunmatik ekran çizim testi</string>
+    <string name="touchdraw_desc">Dokunma ve ölü bölgelerin doğruluğunu kontrol edin</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Yol</string>
+    <string name="usb_num">Numara</string>
+    <string name="usb_bus">Cihaz Kimliği</string>
+    <string name="usb_ver">Versiyon</string>
+    <string name="usb_not_found1">Cihazlar:</string>
+    <string name="usb_not_found2">bulunamadı</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Arka Kamera</string>
+    <string name="camera_front">Ön Kamera</string>
+    <string name="mtk_build">Yapı</string>
+    <string name="mtk_platform">Platform MTK</string>
+
+    <!-- Report -->
+
+    <string name="flash_id" translatable="false">flash_id</string>
+    <string name="flash_name" translatable="false">flash_name</string>
+    <string name="hwinfo" translatable="false">hwinfo</string>
+    <string name="platform_drivers" translatable="false">platform_drivers</string>
+    <string name="spi_drivers" translatable="false">spi</string>
+    <string name="iio_drivers" translatable="false">iio</string>
+
+    <string name="firmware">Yazılım</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Ayarlar</string>
+
+    <string name="pref_category_general">Genel</string>
+    <string name="pref_category_appearance">Görünüm</string>
+    <string name="pref_category_other">Diğer</string>
+
+    <string name="pref_title_set_language">Dil</string>
+
+    <string name="language_default">Varsayılan</string>
+
+    <string-array name="pref_language_list_titles" translatable="false">
+        <item>@string/language_default</item>
+        <item>English</item>
+        <item>Русский</item>
+        <item>Español</item>
+        <item>Polski</item>
+        <item>Bahasa Indonesia</item>
+        <item>Magyar</item>
+        <item>Deutsch</item>
+        <item>Português (Brasil)</item>
+        <item>Ελληνικά</item>
+        <item>中文（简体）</item>
+        <item>中文（繁體）</item>
+        <item>العربية</item>
+
+    </string-array>
+    <string-array name="pref_language_list_values" translatable="false">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string name="pref_title_use_root">Root kullan</string>
+    <string name="pref_description_use_root">Tam bilgi almak için</string>
+
+    <string name="pref_title_show_address">i2c adresini göster</string>
+    <string name="pref_description_show_address">Cihazın i2c adresini göster</string>
+
+    <string name="pref_title_dark_theme">Koyu temayı kullan</string>
+    <string name="pref_description_dark_theme">Arayüze karanlık tema uygula</string>
+
+    <string-array name="pref_theme_titles" translatable="false">
+        <item>BASIC</item>
+        <item>DARK</item>
+        <item>BLACK</item>
+        <item>AUTO</item>
+
+    </string-array>
+    <string-array name="pref_theme_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="pref_title_theme">Arayüz teması</string>
+
+    <string name="pref_title_disable_sysfs_msg">Sysfs hatasını devre dışı bırak</string>
+    <string name="pref_description_disable_sysfs_msg">Android 7.0 ve sonraki sürümlerinde sysfs okuma hatası mesajını devre dışı bırak</string>
+
+    <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
+    <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
+
+    <string name="pref_title_use_charge_counter">\'şarj için\' kullanın</string>
+    <string name="pref_description_use_charge_counter">\'şarj için'\ pil değerini göster, tüm cihazlar tam uyumlu değil</string>
+
+    <string name="pref_title_temp_in_f_deg">&#Xb0;F cinsinden sıcaklık</string>
+    <string name="pref_description_temp_in_f_deg">Sıcaklığı Fahrenheit olarak göster</string>
+
+    <string name="pref_title_detect_therm_zones">Termal bölgeleri algılama</string>
+    <string name="pref_description_detect_therm_zones">Termal bölge adlarını algılama (root)</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="ok" translatable="false">OK</string>
+
+    <string name="first_install_title">İleti</string>
+
+    <string name="root_hw_detect">Android'in yeni sürümlerinde, bazı bilgiler engellenir,
+        root erişiminiz varsa, ayarlardan etkinleştirebilirsiniz.
+        Daha fazla detay mevcut olacaktır.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">Uygulama Koruyucu</string>
+    <string name="app_defender_msg">Üzgünüz, ancak koruyucu uygulama geçerliliğini kontrol edemez.\nLütfen internete bağlanın ve tekrar kontrol edin.</string>
+    <string name="app_recheck">Tekrar kontrol et</string>
+    <string name="app_exit">Çıkış</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Üzgünüz, ücretsiz tema süresi doldu!\nPRO sürümünde mevcuttur.</string>
+
+    <!-- Info center -->
+    <string name="update">Güncelleme</string>
+    <string name="updating">Güncelleniyor</string>
+
+    <string name="upload">Yükleme</string>
+
+    <string name="create_report">Rapor oluştur</string>
+    <string name="create_report_msg">Rapor başarıyla oluşturuldu!\nArama konumu</string>
+    <string name="create_report_err">Rapor oluşturulamıyor!</string>
+    <string name="create_report_err_non_pro">Rapor oluşturulamıyor!\nPRO sürümünde mevcuttur.</string>
+    <string name="create_report_info">Cihaz bilgileri uygulama veri klasöründeki dosyaya kaydedilecektir.</string>
+    <string name="create">Oluştur</string>
+
+    <string name="error">Hata</string>
+    <string name="close">Kapat</string>
+    <string name="open">Aç</string>
+    <string name="share">Paylaş</string>
+    <string name="send_to_email">E-posta gönder:</string>
+
+    <string name="cpu_codenames_label">CPU kod adları</string>
+    <string name="cpu_codenames_info">CPU kod adlarının listesi</string>
+
+    <string name="update_components_label">Cihaz bileşenleri</string>
+    <string name="update_components_msg">Algılama kuralları veritabanını güncelleme</string>
+    <string name="update_component_msg">Algılama kuralları başarıyla güncellendi. Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</string>
+
+    <string name="upload_info_label">Cihaz bilgilerini yükle</string>
+    <string name="upload_info_text">It helps make program better, improve devices support
+        and other developers can find similar devices and needed drivers.
+        Result stored in database. You can see on:</string>
+
+    <string name="kernel_analyzer_label">Çekirdek (Kernel) Analiz Cihazı</string>
+
+    <string name="i2c_viewer_label">Aygıt listesi</string>
+    <string name="i2c_viewer_info">i2c, spi veriyolundaki cihazlar</string>
+
+    <string name="exif_cam_label">EXIF Kamera Bilgisi</string>
+    <string name="exif_cam_info">Resimdeki EXIF ​​bilgilerini okuma</string>
+    <string name="open_img_file_label">Görüntü dosyasını aç...</string>
+
+    <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">versiyon</string>
+
+    <string name="about_author">Sahip\n
+        Andrey Efremov\n
+        diğer adıyla andr7e</string>
+
+    <string name="about_bottom" translatable="false">(c) 2016 - 2020</string>
+
+</resources>

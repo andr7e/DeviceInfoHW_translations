@@ -11,5 +11,6 @@
 * Portuguese (Brazil): Mickael Mesquita
 * Arabic : Ali Mohamed
 * Greek : Fotis
+* Turkish: NaytSeyd
 
 ```
