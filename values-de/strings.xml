@@ -222,6 +222,7 @@
     <string name="consumption">Verbrauch</string>
     <string name="charge_speed">Ladegeschwindigkeit</string>
     <string name="discharge_speed">Entladegeschwindigkeit</string>
+    <string name="time_to_full_charge">Time to full charge</string>
 
     <string name="charge_ac">Laden über AC</string>
     <string name="charge_usb">Laden über USB</string>
@@ -328,8 +329,8 @@
 
     <string name="pref_title_invert_charge_speed">Ladegeschwindigkeit umkehren</string>
     <string name="pref_description_invert_charge_speed">Akkulade / Entladegeschwindigkeit umkehren</string>
-    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
-    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
+    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
+    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">Temperatur in &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Temperatur in Fahrenheit anzeigen</string>
@@ -394,9 +395,13 @@
 
     <string name="error_read_sysfs">Sorry, auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
 
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
+
     <!-- Strings related to About -->
 
-<string name="about_version">Version</string>
+    <string name="about_version">Version</string>
 
     <string name="about_author">Autor\n
         Andrey Efremov\n

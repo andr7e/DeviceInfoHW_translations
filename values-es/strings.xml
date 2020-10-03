@@ -222,6 +222,7 @@
     <string name="consumption">Consumo</string>
     <string name="charge_speed">Velocidad de recarga</string>
     <string name="discharge_speed">Velocidad de descarga</string>
+    <string name="time_to_full_charge">Time to full charge</string>
 
     <string name="charge_ac">Charge via AC</string>
     <string name="charge_usb">Charge via USB</string>
@@ -328,9 +329,8 @@
 
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
-
-    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
-    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
+    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
+    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
@@ -353,7 +353,7 @@
     <string name="app_exit">Exit</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Sorry, but free using theme expired!\nIt\'s available in PRO version.</string>
+    <string name="using_theme_expired_non_pro">Sorry, but free using dark theme expired!\nIt\'s available in PRO version.</string>
 
     <!-- Info center -->
     <string name="update">Actualizar</string>
@@ -396,6 +396,10 @@
     <string name="open_img_file_label">Open image file...</string>
 
     <string name="error_read_sysfs">Lo siento, pero tu lector de sysfs firmware esta deshabilitado, solo información parcial esta disponible.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
 
     <!-- Strings related to About -->
 

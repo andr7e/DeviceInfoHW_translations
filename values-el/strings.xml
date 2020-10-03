@@ -222,6 +222,7 @@
     <string name="consumption">Κατανάλωση</string>
     <string name="charge_speed">Ταχύτητα φόρτισης</string>
     <string name="discharge_speed">Ταχύτητα εκφόρτισης</string>
+    <string name="time_to_full_charge">Time to full charge</string>
 
     <string name="charge_ac">Φόρτιση μέσω AC</string>
     <string name="charge_usb">Φόρτιση μέσω USB</string>
@@ -327,8 +328,8 @@
     <string name="pref_title_invert_charge_speed">Αντιστρέψτε το ρεύμα της μπαταρίας</string>
     <string name="pref_description_invert_charge_speed">Αντιστρέψτε την ταχύτητα φόρτισης / εκφόρτισης της μπαταρίας</string>
 
-    <string name="pref_title_use_charge_counter">Χρήση \'φορτιστικε στο\'</string>
-    <string name="pref_description_use_charge_counter">Εμφάνιση της τιμής μπαταρίας \'φορτισμένη σε\' και όχι όλες οι συσκευές πλήρως συμβατές</string>
+    <string name="pref_title_use_charged_to">Χρήση \'φορτιστικε στο\'</string>
+    <string name="pref_description_use_charged_to">Εμφάνιση της τιμής μπαταρίας \'φορτισμένη σε\' και όχι όλες οι συσκευές πλήρως συμβατές</string>
 
     <string name="pref_title_temp_in_f_deg">Θερμοκρασία σε &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Εμφάνιση θερμοκρασίας σε Fahrenheit</string>
@@ -396,6 +397,10 @@
     <string name="open_img_file_label">Άνοιγμα αρχείου εικόνας ...</string>
 
     <string name="error_read_sysfs">Λυπούμαστε, αλλά στο firmware σας η ανάγνωση sysfs είναι απενεργοποιημένη. Διατίθενται μόνο μερικές πληροφορίες.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
 
     <!-- Strings related to About -->
 

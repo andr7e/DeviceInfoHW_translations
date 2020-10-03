@@ -71,7 +71,7 @@
     <string name="serial">Серийный номер</string>
     <string name="build">Сборка</string>
 
-    <string name="security">Безопасность</string>
+    <string name="security">Патч безопасности</string>
     <string name="uptime">Время работы</string>
 
     <string name="product">Продукт</string>
@@ -224,6 +224,7 @@
     <string name="consumption">Потребление</string>
     <string name="charge_speed">Скорость зарядки</string>
     <string name="discharge_speed">Скорость разряда</string>
+    <string name="time_to_full_charge">Время до полной зарядки</string>
 
     <string name="charge_ac">Зарядка по сети</string>
     <string name="charge_usb">Зарядка по USB</string>
@@ -270,7 +271,7 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">Тест дисплея</string>
-    <string name="lcd_desc">Проверьте передачу цветов экраном\nи отсутствие битых пискселей</string>
+    <string name="lcd_desc">Проверьте передачу цветов экраном\nи отсутствие битых пикселей</string>
 
     <string name="multitouch_label">Multi-touch</string>
     <string name="multitouch_info">Тест мультитача сенсорного экрана</string>
@@ -329,8 +330,8 @@
 
     <string name="pref_title_invert_charge_speed">Инвертировать ток батареи</string>
     <string name="pref_description_invert_charge_speed">Инвертировать скорость заряда / разряда батареи</string>
-    <string name="pref_title_use_charge_counter">Использовать параметр \'заряжен до\'</string>
-    <string name="pref_description_use_charge_counter">Показывать значение \'заряжен до\', не все устройства обеспечивают полную поддержку</string>
+    <string name="pref_title_use_charged_to">Использовать параметр \'заряжен до\'</string>
+    <string name="pref_description_use_charged_to">Показывать значение \'заряжен до\', не все устройства обеспечивают полную поддержку</string>
 
     <string name="pref_title_temp_in_f_deg">Температура в &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Показывать температуру в &#xb0;F</string>
@@ -394,6 +395,10 @@
     <string name="open_img_file_label">Выбрать фото...</string>
 
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Скопирован текст:</string>
 
    <!-- Strings related to About -->
 

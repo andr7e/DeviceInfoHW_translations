@@ -221,6 +221,7 @@
     <string name="consumption">Consumo</string>
     <string name="charge_speed">Velocidade de carregamento</string>
     <string name="discharge_speed">Velocidade de descarregamento</string>
+    <string name="time_to_full_charge">Time to full charge</string>
 
     <string name="charge_ac">Carregando via AC</string>
     <string name="charge_usb">Carregando via USB</string>
@@ -327,8 +328,8 @@
 
     <string name="pref_title_invert_charge_speed">Inverter bateria atual</string>
     <string name="pref_description_invert_charge_speed">Inverter velocidade de carregamento / descarregamento</string>
-    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
-    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
+    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
+    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">Temperatura em &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Mostrar temperatura em Fahrenheit</string>
@@ -394,6 +395,10 @@
     <string name="open_img_file_label">Abrir arquivo de imagem...</string>
 
     <string name="error_read_sysfs">Desculpe, mas em seu firmware a leitura de sysfs está desativada. Apenas parte da informação estará disponível.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
 
     <!-- Strings related to About -->
 

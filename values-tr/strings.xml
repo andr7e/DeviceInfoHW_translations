@@ -222,6 +222,7 @@
     <string name="consumption">Tüketim</string>
     <string name="charge_speed">Şarj hızı</string>
     <string name="discharge_speed">Deşarj hızı</string>
+    <string name="time_to_full_charge">Time to full charge</string>
 
     <string name="charge_ac">AC ile şarj</string>
     <string name="charge_usb">USB ile şarj</string>
@@ -329,8 +330,8 @@
     <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
     <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
 
-    <string name="pref_title_use_charge_counter">Pil yüzdesini göster</string>
-    <string name="pref_description_use_charge_counter">Bataryanın yüzde kaç dolu olduğunu gösterir. Bazı cihazlarda çalışmayabilir</string>
+    <string name="pref_title_use_charged_to">Pil yüzdesini göster</string>
+    <string name="pref_description_use_charged_to">Bataryanın yüzde kaç dolu olduğunu gösterir. Bazı cihazlarda çalışmayabilir</string>
 
     <string name="pref_title_temp_in_f_deg">&#xb0;F cinsinden sıcaklık</string>
     <string name="pref_description_temp_in_f_deg">Sıcaklığı Fahrenheit olarak göster</string>
@@ -396,6 +397,10 @@
     <string name="open_img_file_label">Görüntü dosyasını aç...</string>
 
     <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
 
     <!-- Strings related to About -->
 
