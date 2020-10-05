@@ -113,7 +113,7 @@
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
     <string name="instructions">说明</string>
-    <string name="techprocess">Process technology</string>
+    <string name="techprocess">制程工艺</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">时钟频率</string>
     <string name="governor">调频器</string>
@@ -158,17 +158,17 @@
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
 
-    <string name="s_name">Name:</string>
-    <string name="s_vendor">Vendor:</string>
-    <string name="s_version">Version:</string>
+    <string name="s_name">名称:</string>
+    <string name="s_vendor">供应商:</string>
+    <string name="s_version">版本:</string>
     <string name="s_max_range">Max range:</string>
-    <string name="s_resolution">Resolution:</string>
-    <string name="s_power">Power:</string>
+    <string name="s_resolution">分辨率:</string>
+    <string name="s_power">功耗:</string>
     <string name="s_unit">Unit:</string>
 
-    <string name="unsupported">unsupported</string>
+    <string name="unsupported">不支持</string>
 
-    <string name="total_sensors">Total:</string>
+    <string name="total_sensors">总计:</string>
 
     <!-- Memory -->
 
@@ -197,8 +197,8 @@
     <string name="pixel_size">像素大小</string>
     <string name="camera_af_modes">对焦模式</string>
     <string name="aperture">光圈</string>
-    <string name="camera_phy_count">Module type</string>
-    <string name="camera_add_modules">Additional cameras</string>
+    <string name="camera_phy_count">模组类型</string>
+    <string name="camera_add_modules">额外的相机</string>
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">彩色滤光片</string>
     <string name="camera_view_angle">视角</string>
