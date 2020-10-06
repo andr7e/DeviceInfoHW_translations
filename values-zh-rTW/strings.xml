@@ -222,6 +222,7 @@
     <string name="consumption">消耗量</string>
     <string name="charge_speed">充電速度</string>
     <string name="discharge_speed">放電速度</string>
+    <string name="time_to_full_charge">Time to full charge</string>
 
     <string name="charge_ac">通過交流電充電</string>
     <string name="charge_usb">通過USB充電</string>
@@ -326,8 +327,8 @@
 
     <string name="pref_title_invert_charge_speed">反向電池電流</string>
     <string name="pref_description_invert_charge_speed">反向充電 / 放電速度</string>
-    <string name="pref_title_use_charge_counter">Use \'charged to\'</string>
-    <string name="pref_description_use_charge_counter">Show \'charged to\' battery value, not all devices full compatible</string>
+    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
+    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
     <string name="pref_title_temp_in_f_deg">溫度以 &#xb0;F為單位</string>
     <string name="pref_description_temp_in_f_deg">以華氏度顯示溫度</string>
@@ -393,6 +394,10 @@
     <string name="open_img_file_label">打開圖像文件...</string>
 
     <string name="error_read_sysfs">抱歉，您的已禁止讀取sysfs。只有部分信息可用。</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
 
     <!-- Strings related to About -->
 
