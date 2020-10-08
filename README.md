@@ -12,5 +12,6 @@
 * Arabic : Ali Mohamed
 * Greek : Fotis
 * Turkish: NaytSeyd
+* Vietnamese: Nguyễn Lam
 
 ```

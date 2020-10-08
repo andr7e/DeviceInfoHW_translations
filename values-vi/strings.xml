@@ -1,0 +1,410 @@
+<resources>
+
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_about">Thông tin</string>
+    <string name="action_info_center">Trung tâm thông tin</string>
+    <string name="action_screen_test">Thử màn hình</string>
+    <string name="action_engineer_menu">Menu kỹ thuật</string>
+
+    <string name="nav_header_options">Tùy chọn</string>
+    <string name="action_rate_app">Đánh giá ứng dụng</string>
+    <string name="action_upgrade_to_pro">Nâng cấp lên bản PRO</string>
+
+    <string name="navigation_description">Danh sách thẻ khả dụng</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Tổng quát</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Màn hình</string>
+    <string name="tab_system">Hệ thống</string>
+    <string name="tab_memory">Bộ nhớ</string>
+    <string name="tab_camera">Máy ảnh</string>
+    <string name="tab_battery">Pin</string>
+    <string name="tab_thermal">Nhiệt độ</string>
+    <string name="tab_sensors">Cảm biến</string>
+    <string name="tab_applications">Ứng dụng</string>
+    <string name="tab_project">Dự án</string>
+    <string name="tab_drivers">Driver</string>
+    <string name="tab_partitions">Phân vùng</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">Mạng</string>
+    <string name="tab_input">Ngõ vào</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Bộ mã hóa-giải mã</string>
+
+    <string name="tab_system_apps">Ứng dụng hệ thống</string>
+    <string name="tab_camera_supported">Máy ảnh được hỗ trợ</string>
+    <string name="tab_cpu_monitor">Giám sát CPU</string>
+    <string name="tab_cpu_time">Thời gian hoạt động của CPU</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">Thiết bị</string>
+    <string name="manufacturer">Nhà sản xuất</string>
+    <string name="model">Mẫu</string>
+    <string name="brand">Thương hiệu</string>
+    <string name="model_name">Tên mẫu</string>
+
+    <string name="platform">Nền tảng</string>
+    <string name="board">Bảng</string>
+    <string name="resolution">Độ phân giải</string>
+
+    <string name="codename">Tên mã</string>
+    <string name="release">Phát hành</string>
+
+    <string name="machine_arch">Máy</string>
+
+    <string name="kernel">Kernel</string>
+
+    <string name="ram">RAM</string>
+    <string name="free">Còn trống:</string>
+    <string name="used">Đã dùng:</string>
+    <string name="total">Tổng số:</string>
+    <string name="flash">Đèn nháy</string>
+    <string name="flash_size">Kích cỡ đèn nháy</string>
+
+    <string name="sound">Âm thanh</string>
+    <string name="fingerprint_sensor">Vân tay</string>
+
+    <string name="baseband">Băng cơ sở</string>
+    <string name="serial">Sê-ri</string>
+    <string name="build">Bản dựng</string>
+
+    <string name="security">Bảo mật</string>
+    <string name="uptime">Thời gian hoạt động</string>
+
+    <string name="product">Sản phẩm</string>
+    <string name="type">Loại</string>
+    <string name="build_type">Loại bản dựng</string>
+    <string name="tags">Thẻ</string>
+    <string name="incremental">Gia tăng</string>
+    <string name="fingerprint">Vân tay</string>
+    <string name="description">Mô tả</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="builder">Trình dựng</string>
+    <string name="supported_features">Tính năng thiết bị</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="timezone">Múi giờ</string>
+
+    <string name="version">Phiên bản</string>
+
+    <string name="enabled">Đã bật</string>
+    <string name="disabled">Đã tắt</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">Loại LCD</string>
+    <string name="touchscreen">Màn hình cảm ứng</string>
+    <string name="touchscreen_key">Phím cảm ứng</string>
+    <string name="other">Khác</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">Máy ảnh</string>
+    <string name="lens_af">Ống kính AF</string>
+    <string name="charger">Bộ sạc</string>
+
+    <string name="audio">Âm thanh</string>
+    <string name="ethernet">Ethernet</string>
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">Nhà cung cấp</string>
+    <string name="cores">Nhân</string>
+    <string name="revision">Bản sửa đổi</string>
+    <string name="family">Họ</string>
+    <string name="instructions">Hướng dẫn</string>
+    <string name="techprocess">Tiến trình công nghệ</string>
+    <string name="unit_nm">nm</string>
+    <string name="clock_speed">Tốc độ xung nhịp</string>
+    <string name="governor">Governor</string>
+
+    <string name="clusters">Clusters</string>
+    <string name="cache_l3">Cache L3</string>
+    <string name="gpu_vendor">Nhà cung cấp</string>
+    <string name="gpu_model">GPU</string>
+
+    <string name="gpu_clock">Tốc độ xung nhịp</string>
+    <string name="gpu_cufreq">Xung nhịp hiện tại</string>
+    <string name="gpu_extensions">Phần mở rộng</string>
+
+    <string name="density">Mật độ</string>
+    <string name="refresh_rate">Tần suất làm mới</string>
+
+    <!-- Sensors -->
+    <string name="test">KIỂM TRA</string>
+    <string name="info">THÔNG TIN</string>
+
+    <string name="title_activity_light_sensor">Kiểm tra cảm biến ánh sáng</string>
+    <string name="title_activity_proximity_sensor">Kiểm tra cảm biến tiệm cận</string>
+    <string name="title_activity_accelerometer_sensor">Kiểm tra gia tốc kế</string>
+    <string name="title_activity_magnetometer_sensor">Kiểm tra từ trường kế</string>
+    <string name="title_activity_gyroscope_sensor">Kiểm tra con quay hồi chuyển</string>
+    <string name="title_activity_pressure_sensor">Kiểm tra áp suất kế</string>
+
+    <string name="accelerometer">Gia tốc</string>
+    <string name="magnetometer">Từ tính</string>
+    <string name="gyroscope">Con quay hồi chuyển</string>
+    <string name="proximity">Tiệm cận</string>
+    <string name="light">Ánh sáng</string>
+    <string name="pressure">Áp suất</string>
+
+    <string name="no_input_data">Không có dữ liệu từ cảm biến</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+
+    <string name="s_name">Tên:</string>
+    <string name="s_vendor">Vendor:</string>
+    <string name="s_version">Phiên bản:</string>
+    <string name="s_max_range">Phạm vi tối đa:</string>
+    <string name="s_resolution">Độ phân giải:</string>
+    <string name="s_power">Nguồn:</string>
+    <string name="s_unit">Đơn vị:</string>
+
+    <string name="unsupported">không được hỗ trợ</string>
+
+    <string name="total_sensors">Tổng số:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Bộ nhớ trong</string>
+    <string name="external_storage">Bộ nhớ ngoài</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Nhà cung cấp</string>
+    <string name="camera_model">Mẫu</string>
+    <string name="camera_supported">Đã hỗ trợ</string>
+
+    <string name="software">Phần mềm</string>
+    <string name="hardware">Phần cứng</string>
+
+    <string name="orientation">Định hướng</string>
+    <string name="camera_flash">Đèn nháy</string>
+    <string name="yes">có</string>
+    <string name="no">không</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Tiêu cự</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Định dạng hình ảnh</string>
+    <string name="camera_size">Kích cỡ cảm biến</string>
+    <string name="pixel_size">Kích cỡ Pixel</string>
+    <string name="camera_af_modes">Chế độ lấy nét</string>
+    <string name="aperture">Độ mở</string>
+    <string name="camera_phy_count">Loại mô-đun</string>
+    <string name="camera_add_modules">Máy ảnh bổ sung</string>
+    <string name="camera_sw_info">Thông tin</string>
+    <string name="camera_color_filter">Bộ lọc màu</string>
+    <string name="camera_view_angle">Góc nhìn</string>
+    <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
+
+    <!-- Battery -->
+
+    <string name="level">Mức độ</string>
+    <string name="health">Tình trạng</string>
+    <string name="status">Trạng thái</string>
+
+    <string name="power_source">Nguồn điện</string>
+    <string name="technology">Công nghệ</string>
+    <string name="temperature">Nhiệt độ</string>
+    <string name="voltage">Vôn</string>
+    <string name="power_profile">Hồ sơ nguồn</string>
+    <string name="kernel_profile">Hồ sơ Kernel</string>
+    <string name="charged_to">Sạc lên đến</string>
+    <string name="battery_model">Mẫu</string>
+    <string name="consumption">Tiêu thụ</string>
+    <string name="charge_speed">Tốc độ sạc</string>
+    <string name="discharge_speed">Tốc độ xả</string>
+    <string name="time_to_full_charge">Thời gian để sạc đầy</string>
+
+    <string name="charge_ac">Sạc qua AC</string>
+    <string name="charge_usb">Sạc qua USB</string>
+    <string name="quick_charge">Sạc nhanh</string>
+
+    <string name="thermal_not_found">Không tìm thấy cảm biến nhiệt</string>
+
+    <!-- Net -->
+
+    <string name="link_speed">Tốc độ liên kết</string>
+    <string name="frequency">Tần số</string>
+    <string name="signal">Tín hiệu</string>
+    <string name="channel">Kênh</string>
+    <string name="net_level">Cấp độ</string>
+
+    <!-- SIM -->
+    <string name="sim_phone_type">Loại điện thoại</string>
+    <string name="sim_operator_name">Nhà điều hành</string>
+    <string name="sim_operator_code">Mã nhà điều hành</string>
+    <string name="sim_country_code">Mã quốc gia</string>
+    <string name="network_type">Loại mạng</string>
+    <string name="sim_state">Trạng thái SIM</string>
+    <string name="sim_icc_card">Thẻ ICC</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Tên</string>
+    <string name="partition_address">Địa chỉ bắt đầu</string>
+    <string name="partition_size">Kích cỡ phân vùng</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">ngày</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">Tải:</string>
+    <string name="cpu_core">nhân</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">Kiểm tra màu LCD</string>
+    <string name="lcd_desc">Kiểm tra màu màn hình và không có pixel nào bị lỗi</string>
+
+    <string name="multitouch_label">Cảm ứng đa điểm</string>
+    <string name="multitouch_info">Kiểm tra cảm ứng đa điểm trên màn hình</string>
+    <string name="multitouch_desc">Kiểm tra xem có bao nhiêu ngón tay được hỗ trợ</string>
+
+    <string name="touchdraw_label">Chạm vẽ</string>
+    <string name="touchdraw_info">Kiểm tra chạm vẽ</string>
+    <string name="touchdraw_desc">Kiểm tra độ chính xác của cảm ứng và vùng chết</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Đường dẫn</string>
+    <string name="usb_num">Số</string>
+    <string name="usb_bus">ID thiết bị</string>
+    <string name="usb_ver">Phiên bản</string>
+    <string name="usb_not_found1">Thiết bị:</string>
+    <string name="usb_not_found2">không tìm thấy</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Máy ảnh sau</string>
+    <string name="camera_front">Máy ảnh trước</string>
+    <string name="mtk_build">Bản dựng</string>
+    <string name="mtk_platform">Nền tảng MTK</string>
+
+    <!-- Report -->
+
+    <string name="firmware">Phần sụn</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Cài đặt</string>
+
+    <string name="pref_category_general">Tổng quát</string>
+    <string name="pref_category_appearance">Hình thức</string>
+    <string name="pref_category_other">Khác</string>
+
+    <string name="pref_title_set_language">Ngôn ngữ</string>
+
+    <string name="language_default">Mặc định</string>
+
+    <string name="pref_title_use_root">Sử dụng root</string>
+    <string name="pref_description_use_root">Để có được thông tin đầy đủ</string>
+
+    <string name="pref_title_show_address">Hiển thị địa chỉ i2cs</string>
+    <string name="pref_description_show_address">Hiển thị địa chỉ i2c thiết bị</string>
+
+    <string name="pref_title_dark_theme">Dùng chủ đề tối</string>
+    <string name="pref_description_dark_theme">Áp dụng chủ đề tối vào giao diện</string>
+
+    <string name="pref_title_theme">Chủ đề giao diện</string>
+
+    <string name="pref_title_disable_sysfs_msg">Tắt lỗi sysfs</string>
+    <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
+
+    <string name="pref_title_invert_charge_speed">Đảo ngược sạc pin hiện tại</string>
+    <string name="pref_description_invert_charge_speed">Sạc đảo ngược / tốc độ xả</string>
+
+    <string name="pref_title_use_charged_to">Sử dụng \'sạc lên đến\'</string>
+    <string name="pref_description_use_charged_to">Hiển thị \'sạc lên đến\' giá trị pin, không phải tất cả các thiết bị đều tương thích hoàn toàn</string>
+
+    <string name="pref_title_temp_in_f_deg">Nhiệt độ bằng &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Hiển thị nhiệt độ bằng Fahrenheit</string>
+
+    <string name="pref_title_detect_therm_zones">Phát hiện vùng nhiệt</string>
+    <string name="pref_description_detect_therm_zones">Phát hiện tên vùng nhiệt (root)</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">Tin nhắn</string>
+
+    <string name="root_hw_detect">Trong các phiên bản mới của Android, một số thông tin bị chặn,
+	nếu bạn có quyền truy cập root, bạn có thể bật nó trong cài đặt.
+        Thông tin chi tiết sẽ có sẵn.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">Trình bảo vệ ứng dụng</string>
+    <string name="app_defender_msg">Xin lỗi, nhưng trình bảo vệ không thể kiểm tra tính hợp lệ của ứng dụng.\nVui lòng kết nối internet và nhấn vào Kiểm tra lại.</string>
+    <string name="app_recheck">Kiểm tra lại</string>
+    <string name="app_exit">Thoát ra</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Xin lỗi, việc dùng chủ đề tối miễn phí hiện đã hết hạn!\nNó khả dụng trên phiên bản PRO.</string>
+
+    <!-- Info center -->
+    <string name="update">Cập nhật</string>
+    <string name="updating">Đang cập nhật</string>
+
+    <string name="upload">Tải lên</string>
+
+    <string name="create_report">Tạo báo cáo</string>
+    <string name="create_report_msg">Đã tạo báo cáo thành công!\nNhìn xem nào</string>
+    <string name="create_report_err">Không thể tạo báo cáo!</string>
+    <string name="create_report_err_non_pro">Không thể tạo báo cáo!\nNó chỉ khả dụng trên phiên bản PRO.</string>
+    <string name="create_report_info">Thông tin thiết bị sẽ được lưu vào tệp trong thư mục dữ liệu ứng dụng.</string>
+    <string name="create">Tạo</string>
+
+    <string name="error">Lỗi</string>
+    <string name="close">Đóng</string>
+    <string name="open">Mở</string>
+    <string name="share">Chia sẻ</string>
+    <string name="send_to_email">Gửi đến email:</string>
+
+    <string name="cpu_codenames_label">Tên mã CPU</string>
+    <string name="cpu_codenames_info">Danh sách tên mã CPU</string>
+
+    <string name="update_components_label">Thành phần thiết bị</string>
+    <string name="update_components_msg">Cập nhật quy tắc phát hiện cơ sở dữ liệu</string>
+    <string name="update_component_msg">Đã cập nhật thành công quy tắc phát hiện. Khởi động lại ứng dụng để áp dụng thay đổi.</string>
+
+    <string name="upload_info_label">Tải lên thông tin thiết bị</string>
+    <string name="upload_info_text">Nó giúp cải thiện chương trình, cải thiện hỗ trợ thiết bị và các nhà phát triển khác có thể tìm thấy các thiết bị tương tự và trình điều khiển cần thiết.Kết quả được lưu trữ trong cơ sở dữ liệu. Bạn có thể xem trên:</string>
+
+    <string name="kernel_analyzer_label">Trình phân tích Kernel</string>
+
+    <string name="i2c_viewer_label">Danh sách thiết bị</string>
+    <string name="i2c_viewer_info">Thiết bị trên i2c, spi bus</string>
+
+    <string name="exif_cam_label">Thông tin máy ảnh EXIF</string>
+    <string name="exif_cam_info">Đọc thông tin EXIF từ hình ảnh</string>
+    <string name="open_img_file_label">Mở tệp hình ảnh...</string>
+
+    <string name="error_read_sysfs">Xin lỗi, nhưng hệ thống đọc sysfs trên phần sụn của bạn đã bị tắt. Chỉ có được một phần thông tin.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Đã sao chép vào bộ nhớ tạm:</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">phiên bản</string>
+
+    <string name="about_author">tác giả\n
+        Andrey Efremov\n
+        aka andr7e</string>
+
+</resources>
