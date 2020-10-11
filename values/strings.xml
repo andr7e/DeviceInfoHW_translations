@@ -405,21 +405,9 @@
     <string name="pref_title_dark_theme">Use dark theme</string>
     <string name="pref_description_dark_theme">Apply dark theme to interface</string>
 
-    <string-array name="pref_theme_titles" translatable="false">
-        <item>BASIC</item>
-        <item>DARK</item>
-        <item>BLACK</item>
-        <item>AUTO</item>
-
-    </string-array>
-    <string-array name="pref_theme_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-
     <string name="pref_title_theme">Interface theme</string>
+
+    <string name="pref_text_scale">Text scaling</string>
 
     <string name="pref_title_disable_sysfs_msg">Disable sysfs error</string>
     <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>

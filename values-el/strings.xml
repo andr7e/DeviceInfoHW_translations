@@ -321,6 +321,7 @@
     <string name="pref_description_dark_theme">Εφαρμόστε σκοτεινό θέμα στη διεπαφή</string>
 
     <string name="pref_title_theme">Θέμα διεπαφής</string>
+    <string name="pref_text_scale">Text scaling</string>
 
     <string name="pref_title_disable_sysfs_msg">Απενεργοποίηση σφάλματος sysfs</string>
     <string name="pref_description_disable_sysfs_msg">Απενεργοποίηση sysfs μήνυμα σφάλματος ανάγνωσης στο Android 7.0+</string>

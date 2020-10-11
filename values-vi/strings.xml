@@ -3,7 +3,7 @@
     <string name="action_settings">Cài đặt</string>
     <string name="action_about">Thông tin</string>
     <string name="action_info_center">Trung tâm thông tin</string>
-    <string name="action_screen_test">Thử màn hình</string>
+    <string name="action_screen_test">Kiểm tra màn hình</string>
     <string name="action_engineer_menu">Menu kỹ thuật</string>
 
     <string name="nav_header_options">Tùy chọn</string>
@@ -28,7 +28,7 @@
     <string name="tab_partitions">Phân vùng</string>
     <string name="tab_pmic">PMIC</string>
     <string name="tab_net">Mạng</string>
-    <string name="tab_input">Ngõ vào</string>
+    <string name="tab_input">Nhập liệu</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Bộ mã hóa-giải mã</string>
 
@@ -51,7 +51,7 @@
     <string name="resolution">Độ phân giải</string>
 
     <string name="codename">Tên mã</string>
-    <string name="release">Phát hành</string>
+    <string name="release">Phiên bản</string>
 
     <string name="machine_arch">Máy</string>
 
@@ -78,7 +78,7 @@
     <string name="type">Loại</string>
     <string name="build_type">Loại bản dựng</string>
     <string name="tags">Thẻ</string>
-    <string name="incremental">Gia tăng</string>
+    <string name="incremental">Bản nâng cấp</string>
     <string name="fingerprint">Vân tay</string>
     <string name="description">Mô tả</string>
     <string name="bootloader">Bootloader</string>
@@ -110,9 +110,9 @@
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">Nhà cung cấp</string>
     <string name="cores">Nhân</string>
-    <string name="revision">Bản sửa đổi</string>
+    <string name="revision">Hiệu chỉnh</string>
     <string name="family">Họ</string>
-    <string name="instructions">Hướng dẫn</string>
+    <string name="instructions">Chỉ lệnh</string>
     <string name="techprocess">Tiến trình công nghệ</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Tốc độ xung nhịp</string>
@@ -131,19 +131,19 @@
     <string name="refresh_rate">Tần suất làm mới</string>
 
     <!-- Sensors -->
-    <string name="test">KIỂM TRA</string>
-    <string name="info">THÔNG TIN</string>
+    <string name="test">ĐO</string>
+    <string name="info">T.TIN</string>
 
-    <string name="title_activity_light_sensor">Kiểm tra cảm biến ánh sáng</string>
-    <string name="title_activity_proximity_sensor">Kiểm tra cảm biến tiệm cận</string>
-    <string name="title_activity_accelerometer_sensor">Kiểm tra gia tốc kế</string>
-    <string name="title_activity_magnetometer_sensor">Kiểm tra từ trường kế</string>
-    <string name="title_activity_gyroscope_sensor">Kiểm tra con quay hồi chuyển</string>
-    <string name="title_activity_pressure_sensor">Kiểm tra áp suất kế</string>
+    <string name="title_activity_light_sensor">Đo ánh sáng</string>
+    <string name="title_activity_proximity_sensor">Đo tiệm cận</string>
+    <string name="title_activity_accelerometer_sensor">Đo gia tốc</string>
+    <string name="title_activity_magnetometer_sensor">Đo từ trường</string>
+    <string name="title_activity_gyroscope_sensor">Đo con quay hồi chuyển</string>
+    <string name="title_activity_pressure_sensor">Đo áp suất</string>
 
     <string name="accelerometer">Gia tốc</string>
     <string name="magnetometer">Từ tính</string>
-    <string name="gyroscope">Con quay hồi chuyển</string>
+    <string name="gyroscope">Con quay hồi ch.</string>
     <string name="proximity">Tiệm cận</string>
     <string name="light">Ánh sáng</string>
     <string name="pressure">Áp suất</string>
@@ -215,7 +215,7 @@
     <string name="technology">Công nghệ</string>
     <string name="temperature">Nhiệt độ</string>
     <string name="voltage">Vôn</string>
-    <string name="power_profile">Hồ sơ nguồn</string>
+    <string name="power_profile">Dung lượng</string>
     <string name="kernel_profile">Hồ sơ Kernel</string>
     <string name="charged_to">Sạc lên đến</string>
     <string name="battery_model">Mẫu</string>
@@ -236,7 +236,7 @@
     <string name="frequency">Tần số</string>
     <string name="signal">Tín hiệu</string>
     <string name="channel">Kênh</string>
-    <string name="net_level">Cấp độ</string>
+    <string name="net_level">Cường độ</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Loại điện thoại</string>
@@ -269,7 +269,7 @@
 
     <string name="lcd_label">LCD</string>
     <string name="lcd_info">Kiểm tra màu LCD</string>
-    <string name="lcd_desc">Kiểm tra màu màn hình và không có pixel nào bị lỗi</string>
+    <string name="lcd_desc">Kiểm tra màu màn hình để xem có pixel nào bị lỗi hay không</string>
 
     <string name="multitouch_label">Cảm ứng đa điểm</string>
     <string name="multitouch_info">Kiểm tra cảm ứng đa điểm trên màn hình</string>
@@ -322,6 +322,7 @@
     <string name="pref_description_dark_theme">Áp dụng chủ đề tối vào giao diện</string>
 
     <string name="pref_title_theme">Chủ đề giao diện</string>
+    <string name="pref_text_scale">Text scaling</string>
 
     <string name="pref_title_disable_sysfs_msg">Tắt lỗi sysfs</string>
     <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
@@ -382,7 +383,7 @@
     <string name="update_component_msg">Đã cập nhật thành công quy tắc phát hiện. Khởi động lại ứng dụng để áp dụng thay đổi.</string>
 
     <string name="upload_info_label">Tải lên thông tin thiết bị</string>
-    <string name="upload_info_text">Nó giúp cải thiện chương trình, cải thiện hỗ trợ thiết bị và các nhà phát triển khác có thể tìm thấy các thiết bị tương tự và trình điều khiển cần thiết.Kết quả được lưu trữ trong cơ sở dữ liệu. Bạn có thể xem trên:</string>
+    <string name="upload_info_text">Nó giúp cải thiện chương trình, cải thiện hỗ trợ thiết bị và các nhà phát triển khác có thể tìm thấy các thiết bị tương tự và trình điều khiển cần thiết. Kết quả được lưu trữ trong cơ sở dữ liệu. Bạn có thể xem trên:</string>
 
     <string name="kernel_analyzer_label">Trình phân tích Kernel</string>
 

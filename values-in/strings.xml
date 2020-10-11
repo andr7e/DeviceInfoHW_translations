@@ -324,6 +324,7 @@
     <string name="pref_description_dark_theme">terapkan tema gelap pada antarmuka</string>
 
     <string name="pref_title_theme">Tema antarmuka</string>
+    <string name="pref_text_scale">Text scaling</string>
 
     <string name="pref_title_disable_sysfs_msg">Matikan sysfs error</string>
     <string name="pref_description_disable_sysfs_msg">Matikan pesan sysfs reading error di android 7.0+</string>

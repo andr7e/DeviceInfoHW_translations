@@ -325,6 +325,7 @@
     <string name="pref_description_dark_theme">تطبيق المظهر الداكن للواجهة</string>
 
     <string name="pref_title_theme">موضوع واجهة</string>
+    <string name="pref_text_scale">Text scaling</string>
 
     <string name="pref_title_disable_sysfs_msg">تعطيل خطأ sysfs</string>
     <string name="pref_description_disable_sysfs_msg">تعطيل sysfs من قراءة رسالة الخطأ على أندرويد 7 و أعلى</string>

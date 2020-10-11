@@ -324,6 +324,7 @@
     <string name="pref_description_dark_theme">Zastosuj ciemny motyw do interfejsu</string>
 
     <string name="pref_title_theme">Motyw interfejsu</string>
+    <string name="pref_text_scale">Text scaling</string>
 
     <string name="pref_title_disable_sysfs_msg">Disable sysfs error</string>
     <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
