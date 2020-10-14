@@ -61,8 +61,8 @@
     <string name="free">Còn trống:</string>
     <string name="used">Đã dùng:</string>
     <string name="total">Tổng số:</string>
-    <string name="flash">Đèn nháy</string>
-    <string name="flash_size">Kích cỡ đèn nháy</string>
+    <string name="flash">Flash</string>
+    <string name="flash_size">Kích cỡ Flash</string>
 
     <string name="sound">Âm thanh</string>
     <string name="fingerprint_sensor">Vân tay</string>
@@ -79,7 +79,7 @@
     <string name="build_type">Loại bản dựng</string>
     <string name="tags">Thẻ</string>
     <string name="incremental">Bản nâng cấp</string>
-    <string name="fingerprint">Vân tay</string>
+    <string name="fingerprint">Chữ ký</string>
     <string name="description">Mô tả</string>
     <string name="bootloader">Bootloader</string>
     <string name="builder">Trình dựng</string>
@@ -132,7 +132,7 @@
 
     <!-- Sensors -->
     <string name="test">ĐO</string>
-    <string name="info">T.TIN</string>
+    <string name="info">THÔNG TIN</string>
 
     <string name="title_activity_light_sensor">Đo ánh sáng</string>
     <string name="title_activity_proximity_sensor">Đo tiệm cận</string>
@@ -143,7 +143,7 @@
 
     <string name="accelerometer">Gia tốc</string>
     <string name="magnetometer">Từ tính</string>
-    <string name="gyroscope">Con quay hồi ch.</string>
+    <string name="gyroscope">Con quay hồi chuyển</string>
     <string name="proximity">Tiệm cận</string>
     <string name="light">Ánh sáng</string>
     <string name="pressure">Áp suất</string>
