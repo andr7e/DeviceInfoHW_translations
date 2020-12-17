@@ -83,6 +83,7 @@
     <string name="bootloader">Φορτωτής εκκίνησης</string>
     <string name="builder">Κατασκευαστης</string>
     <string name="supported_features">Χαρακτηριστικά συσκευής</string>
+    <string name="features">Features</string>
     <string name="language">Γλωσσα</string>
     <string name="timezone">Ζωνη ωρας</string>
 
@@ -111,6 +112,8 @@
     <string name="cores">Πυρηνες</string>
     <string name="revision">Αναθεώρηση</string>
     <string name="family">Οικογένεια</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">Οδηγίες</string>
     <string name="techprocess">Τεχνολογία διεργασιών</string>
     <string name="unit_nm">nm</string>
@@ -223,6 +226,7 @@
     <string name="charge_speed">Ταχύτητα φόρτισης</string>
     <string name="discharge_speed">Ταχύτητα εκφόρτισης</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">Φόρτιση μέσω AC</string>
     <string name="charge_usb">Φόρτιση μέσω USB</string>
@@ -236,6 +240,8 @@
     <string name="signal">Σήμα</string>
     <string name="channel">Κανάλι</string>
     <string name="net_level">Επίπεδο</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Τύπος τηλεφώνου</string>
@@ -337,6 +343,9 @@
 
     <string name="pref_title_detect_therm_zones">Εντοπισμός θερμικών ζωνών</string>
     <string name="pref_description_detect_therm_zones">Εντοπισμός ονομάτων θερμικής ζώνης (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

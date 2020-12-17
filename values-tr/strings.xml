@@ -84,6 +84,7 @@
     <string name="bootloader">Ön yükleme (Bootloader)</string>
     <string name="builder">Derleyici</string>
     <string name="supported_features">Cihaz özellikleri</string>
+    <string name="features">Features</string>
     <string name="language">Dil</string>
     <string name="timezone">Zaman dilimi</string>
 
@@ -112,6 +113,8 @@
     <string name="cores">Çekirdekler</string>
     <string name="revision">Revizyon</string>
     <string name="family">Aile</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">Talimatlar</string>
     <string name="techprocess">İşlemci teknolojisi</string>
     <string name="unit_nm">nm</string>
@@ -223,6 +226,7 @@
     <string name="charge_speed">Şarj hızı</string>
     <string name="discharge_speed">Deşarj hızı</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">AC ile şarj</string>
     <string name="charge_usb">USB ile şarj</string>
@@ -237,6 +241,8 @@
     <string name="signal">Sinyal</string>
     <string name="channel">Kanal</string>
     <string name="net_level">Düzey</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
 
@@ -339,6 +345,9 @@
 
     <string name="pref_title_detect_therm_zones">Termal bölgeleri algılama</string>
     <string name="pref_description_detect_therm_zones">Termal bölge adlarını algılama (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

@@ -84,6 +84,7 @@
     <string name="bootloader">محمل الإقلاع</string>
     <string name="builder">Builder</string>
     <string name="supported_features">خصائص الجهاز</string>
+    <string name="features">Features</string>
     <string name="language">اللغة</string>
     <string name="timezone">المنطقة الزمنية</string>
 
@@ -113,6 +114,8 @@
     <string name="cores">عدد الأنوية</string>
     <string name="revision">مراجعة</string>
     <string name="family">العائلة</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
 
     <string name="instructions">التعليمات</string>
     <string name="techprocess">Process technology</string>
@@ -225,6 +228,7 @@
     <string name="charge_speed">سرعة الشحن</string>
     <string name="discharge_speed">سرعة التفريق</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">تيار متردد</string>
     <string name="charge_usb">كيبل يو اس بي</string>
@@ -239,6 +243,8 @@
     <string name="signal">الإشارة</string>
     <string name="channel">القناة</string>
     <string name="net_level">مستوى الإشارة</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
 
@@ -340,6 +346,9 @@
 
     <string name="pref_title_detect_therm_zones">إكتشف مناطق الحرارة</string>
     <string name="pref_description_detect_therm_zones">إكتشف أسماء القطع ذات الحرارة المرتفعة ( تحتاج روت )</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

@@ -101,6 +101,7 @@
     <string name="hmsver" translatable="false">Huawei Mobile Services</string>
     <string name="builder">Builder</string>
     <string name="supported_features">Device features</string>
+    <string name="features">Features</string>
     <string name="language">Language</string>
     <string name="timezone">Timezone</string>
 
@@ -134,6 +135,8 @@
     <string name="cores">Cores</string>
     <string name="revision">Revision</string>
     <string name="family">Family</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="abi" translatable="false">ABI</string>
     <string name="instructions">Instructions</string>
     <string name="techprocess">Process technology</string>
@@ -260,6 +263,7 @@
     <string name="charge_speed">Charge speed</string>
     <string name="discharge_speed">Discharge speed</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">Charge via AC</string>
     <string name="charge_usb">Charge via USB</string>
@@ -277,6 +281,10 @@
     <string name="signal">Signal</string>
     <string name="channel">Channel</string>
     <string name="net_level">Level</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_wifi_direct"  translatable="false">Wi-Fi Direct</string>
+    <string name="support_wpa3"  translatable="false">WPA3</string>
 
     <!-- SIM -->
     <string name="sim_label" translatable="false">SIM</string>
@@ -423,6 +431,9 @@
 
     <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
     <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

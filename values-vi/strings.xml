@@ -84,6 +84,7 @@
     <string name="bootloader">Bootloader</string>
     <string name="builder">Trình dựng</string>
     <string name="supported_features">Tính năng thiết bị</string>
+    <string name="features">Features</string>
     <string name="language">Ngôn ngữ</string>
     <string name="timezone">Múi giờ</string>
 
@@ -112,13 +113,15 @@
     <string name="cores">Nhân</string>
     <string name="revision">Hiệu chỉnh</string>
     <string name="family">Họ</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">Chỉ lệnh</string>
     <string name="techprocess">Tiến trình công nghệ</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Tốc độ xung nhịp</string>
     <string name="governor">Governor</string>
 
-    <string name="clusters">Clusters</string>
+    <string name="clusters">Cụm</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Nhà cung cấp</string>
     <string name="gpu_model">GPU</string>
@@ -196,7 +199,7 @@
     <string name="camera_size">Kích cỡ cảm biến</string>
     <string name="pixel_size">Kích cỡ Pixel</string>
     <string name="camera_af_modes">Chế độ lấy nét</string>
-    <string name="aperture">Độ mở</string>
+    <string name="aperture">Khẩu độ</string>
     <string name="camera_phy_count">Loại mô-đun</string>
     <string name="camera_add_modules">Máy ảnh bổ sung</string>
     <string name="camera_sw_info">Thông tin</string>
@@ -223,6 +226,7 @@
     <string name="charge_speed">Tốc độ sạc</string>
     <string name="discharge_speed">Tốc độ xả</string>
     <string name="time_to_full_charge">Thời gian để sạc đầy</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">Sạc qua AC</string>
     <string name="charge_usb">Sạc qua USB</string>
@@ -237,6 +241,8 @@
     <string name="signal">Tín hiệu</string>
     <string name="channel">Kênh</string>
     <string name="net_level">Cường độ</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Loại điện thoại</string>
@@ -322,7 +328,8 @@
     <string name="pref_description_dark_theme">Áp dụng chủ đề tối vào giao diện</string>
 
     <string name="pref_title_theme">Chủ đề giao diện</string>
-    <string name="pref_text_scale">>Căn chỉnh văn bản</string>
+
+    <string name="pref_text_scale">Căn chỉnh văn bản</string>
 
     <string name="pref_title_disable_sysfs_msg">Tắt lỗi sysfs</string>
     <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
@@ -338,6 +345,9 @@
 
     <string name="pref_title_detect_therm_zones">Phát hiện vùng nhiệt</string>
     <string name="pref_description_detect_therm_zones">Phát hiện tên vùng nhiệt (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

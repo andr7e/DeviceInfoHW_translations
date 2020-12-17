@@ -84,6 +84,7 @@
     <string name="bootloader">Загрузчик</string>
     <string name="builder">Сборщик</string>
     <string name="supported_features">Функции устройства</string>
+    <string name="features">Функции</string>
     <string name="language">Язык</string>
     <string name="timezone">Часовой пояс</string>
 
@@ -113,6 +114,8 @@
     <string name="cores">Кол-во ядер</string>
     <string name="revision">Ревизия</string>
     <string name="family">Семейство</string>
+    <string name="mode">Режим</string>
+    <string name="mode_supported">Поддерживается</string>
 
     <string name="instructions">Инструкции</string>
     <string name="techprocess">Техпроцесс</string>
@@ -225,6 +228,7 @@
     <string name="charge_speed">Скорость зарядки</string>
     <string name="discharge_speed">Скорость разряда</string>
     <string name="time_to_full_charge">Время до полной зарядки</string>
+    <string name="bat_cycle_count">Кол-во циклов</string>
 
     <string name="charge_ac">Зарядка по сети</string>
     <string name="charge_usb">Зарядка по USB</string>
@@ -238,6 +242,8 @@
     <string name="signal">Сигнал</string>
     <string name="channel">Канал</string>
     <string name="net_level">Уровень</string>
+    <string name="not_connected">Не подключено</string>
+    <string name="support_5ghz">Диапазон 5 GHz</string>
 
     <!-- SIM -->
 
@@ -340,6 +346,9 @@
 
     <string name="pref_title_detect_therm_zones">Названия датчиков температуры</string>
     <string name="pref_description_detect_therm_zones">Определять названия датчиков температуры (root)</string>
+
+    <string name="pref_title_ad_tz_name">Название для thermal zone</string>
+    <string name="pref_description_ad_tz_name">Показать название thermal zone</string>
 
     <!-- Strings related to Message of first install -->
 

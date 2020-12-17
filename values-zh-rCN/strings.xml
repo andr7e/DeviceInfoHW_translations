@@ -83,6 +83,7 @@
     <string name="bootloader">引导程序</string>
     <string name="builder">构建者</string>
     <string name="supported_features">设备特征</string>
+    <string name="features">Features</string>
     <string name="language">语言</string>
     <string name="timezone">时区</string>
 
@@ -112,6 +113,8 @@
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">说明</string>
     <string name="techprocess">制程工艺</string>
     <string name="unit_nm">nm</string>
@@ -223,6 +226,7 @@
     <string name="charge_speed">充电速度</string>
     <string name="discharge_speed">放电速度</string>
     <string name="time_to_full_charge">充满电的时间</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">通过交流电充电</string>
     <string name="charge_usb">通过USB充电</string>
@@ -236,6 +240,8 @@
     <string name="signal">信号</string>
     <string name="channel">信道</string>
     <string name="net_level">级别</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">电话类型</string>
@@ -336,6 +342,9 @@
 
     <string name="pref_title_detect_therm_zones">检测热区</string>
     <string name="pref_description_detect_therm_zones">检测热区名称 (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

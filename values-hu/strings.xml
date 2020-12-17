@@ -84,6 +84,7 @@
     <string name="bootloader">Bootloader</string>
     <string name="builder">Építő</string>
     <string name="supported_features">Eszköz tulajdonságai</string>
+    <string name="features">Features</string>
     <string name="language">Nyelv</string>
     <string name="timezone">Időzóna</string>
 
@@ -113,6 +114,8 @@
     <string name="cores">Magok</string>
     <string name="revision">Felülvizsgálat</string>
     <string name="family">Család</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">Instrukciók</string>
     <string name="techprocess">Process technology</string>
     <string name="unit_nm">nm</string>
@@ -224,6 +227,7 @@
     <string name="charge_speed">Töltési sebesség</string>
     <string name="discharge_speed">Merülési sebesség</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">Töltés AC-n keresztül</string>
     <string name="charge_usb">Töltés USB-n keresztül</string>
@@ -237,6 +241,8 @@
     <string name="signal">Jel</string>
     <string name="channel">Channel</string>
     <string name="net_level">Level</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
 
@@ -338,6 +344,9 @@
 
     <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
     <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

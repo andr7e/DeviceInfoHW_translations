@@ -83,6 +83,7 @@
     <string name="bootloader">引導程序</string>
     <string name="builder">構建者</string>
     <string name="supported_features">裝置特徵</string>
+    <string name="features">Features</string>
     <string name="language">語言</string>
     <string name="timezone">時區</string>
 
@@ -112,6 +113,8 @@
     <string name="cores">核心數</string>
     <string name="revision">修訂版本</string>
     <string name="family">架構</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">說明</string>
     <string name="techprocess">Process technology</string>
     <string name="unit_nm">nm</string>
@@ -223,6 +226,7 @@
     <string name="charge_speed">充電速度</string>
     <string name="discharge_speed">放電速度</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">通過交流電充電</string>
     <string name="charge_usb">通過USB充電</string>
@@ -236,6 +240,8 @@
     <string name="signal">訊號</string>
     <string name="channel">信道</string>
     <string name="net_level">級別</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">電話類型</string>
@@ -336,6 +342,9 @@
 
     <string name="pref_title_detect_therm_zones">檢測熱區</string>
     <string name="pref_description_detect_therm_zones">檢測熱區名稱 (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

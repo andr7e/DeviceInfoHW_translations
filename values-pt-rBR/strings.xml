@@ -41,7 +41,7 @@
 
     <!-- Menu -->
     <string name="device">Dispositivo</string>
-    <string name="manufacturer">Frabricante</string>
+    <string name="manufacturer">Fabricante</string>
     <string name="model">Modelo</string>
     <string name="brand">Marca</string>
     <string name="model_name">Nome do modelo</string>
@@ -84,6 +84,7 @@
     <string name="bootloader">Bootloader</string>
     <string name="builder">Compilador</string>
     <string name="supported_features">Recursos do dispositivo</string>
+    <string name="features">Features</string>
     <string name="language">Linguagem</string>
     <string name="timezone">Fuso horário</string>
 
@@ -112,6 +113,8 @@
     <string name="cores">Núcleos</string>
     <string name="revision">Revisão</string>
     <string name="family">Família</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
     <string name="instructions">Instruções</string>
     <string name="techprocess">Process technology</string>
     <string name="unit_nm">nm</string>
@@ -222,6 +225,7 @@
     <string name="charge_speed">Velocidade de carregamento</string>
     <string name="discharge_speed">Velocidade de descarregamento</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">Carregando via AC</string>
     <string name="charge_usb">Carregando via USB</string>
@@ -236,6 +240,8 @@
     <string name="signal">Sinal</string>
     <string name="channel">Canal</string>
     <string name="net_level">Nível</string>
+    <string name="not_connected">Not connected</string>
+    <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
 
@@ -337,6 +343,9 @@
 
     <string name="pref_title_detect_therm_zones">Detectar zonas térmicas</string>
     <string name="pref_description_detect_therm_zones">Detectar nome das zonas térmicas (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 

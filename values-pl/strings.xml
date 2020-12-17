@@ -84,6 +84,7 @@
     <string name="bootloader">Bootloader</string>
     <string name="builder">Builder</string>
     <string name="supported_features">Device features</string>
+    <string name="features">Features</string>
     <string name="language">Język</string>
     <string name="timezone">Strefa czasowa</string>
 
@@ -113,6 +114,8 @@
     <string name="cores">Rdzenie</string>
     <string name="revision">Rewizja</string>
     <string name="family">Family</string>
+    <string name="mode">Mode</string>
+    <string name="mode_supported">Supported</string>
 
     <string name="instructions">Instrukcje</string>
     <string name="techprocess">Process technology</string>
@@ -225,6 +228,7 @@
     <string name="charge_speed">Prędkość ładowania</string>
     <string name="discharge_speed">Prędkość rozładowywania</string>
     <string name="time_to_full_charge">Time to full charge</string>
+    <string name="bat_cycle_count">Cycle count</string>
 
     <string name="charge_ac">Charge via AC</string>
     <string name="charge_usb">Charge via USB</string>
@@ -238,6 +242,8 @@
     <string name="signal">Sygnał</string>
     <string name="channel">Kanał</string>
     <string name="net_level">Poziom</string>
+    <string name="not_connected">Nie połączono</string>
+    <string name="support_5ghz">Wsparcie 5 GHz</string>
 
     <!-- SIM -->
 
@@ -339,6 +345,9 @@
 
     <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
     <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
     <!-- Strings related to Message of first install -->
 
