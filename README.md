@@ -13,5 +13,6 @@
 * Greek : Fotis
 * Turkish: NaytSeyd
 * Vietnamese: Nguyễn Lam
+* Uzbek: Zafarx94 (Zafar Shamsiddinov)
 
 ```

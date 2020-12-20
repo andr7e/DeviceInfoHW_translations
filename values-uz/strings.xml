@@ -1,0 +1,422 @@
+<resources>
+
+    <string name="action_settings">Tanlovlar</string>
+    <string name="action_about">Ilova haqida</string>
+    <string name="action_info_center">Axborot markazi</string>
+    <string name="action_screen_test">Ekranni sinamoq</string>
+    <string name="action_engineer_menu">Muhandislik menyusi</string>
+
+    <string name="nav_header_options">Tanlovlar</string>
+    <string name="action_rate_app">Baholamoq</string>
+    <string name="action_upgrade_to_pro">PROʼga oʻtmoq</string>
+
+    <string name="navigation_description">Mavjud xatchoʻplar roʻyxati</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Umumiy</string>
+    <string name="tab_soc">MP</string>
+    <string name="tab_monitor">Monitor</string>
+    <string name="tab_system">Tizim</string>
+    <string name="tab_memory">Xotira</string>
+    <string name="tab_camera">Kamera</string>
+    <string name="tab_battery">Batareya</string>
+    <string name="tab_thermal">Harorat</string>
+    <string name="tab_sensors">Sensorlar</string>
+    <string name="tab_applications">Ilovalar</string>
+    <string name="tab_project">Loyiha</string>
+    <string name="tab_drivers">Drayverlar</string>
+    <string name="tab_partitions">Boʻlimlar</string>
+    <string name="tab_pmic">Quvvat</string>
+    <string name="tab_net">Tarmoq</string>
+    <string name="tab_input">Kiritish qurilmasi</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Kodeklar</string>
+
+    <string name="tab_system_apps">Tizim ilovalari</string>
+    <string name="tab_camera_supported">Mavjud kameralar</string>
+    <string name="tab_cpu_monitor">MP monitori</string>
+    <string name="tab_cpu_time">MP ishlash vaqti</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">Qurilma nomi</string>
+    <string name="manufacturer">Ishlab chiqaruvchi</string>
+    <string name="model">Rusumi</string>
+    <string name="brand">Brendi</string>
+    <string name="model_name">Nomi</string>
+
+    <string name="platform">Platformasi</string>
+    <string name="board">Platasi</string>
+    <string name="resolution">Oʻlchami</string>
+
+    <string name="codename">Nomi</string>
+    <string name="release">Ishlab chiqarish</string>
+
+    <string name="machine_arch">Turi</string>
+
+    <string name="kernel">Yadro versiyasi</string>
+
+    <string name="ram">Tezkor xotira</string>
+    <string name="free">Boʻsh:</string>
+    <string name="used">Band:</string>
+    <string name="total">Jami:</string>
+    <string name="flash">Xotira chipi</string>
+    <string name="flash_size">Doimiy xotira hajmi</string>
+
+    <string name="sound">Ovoz</string>
+    <string name="fingerprint_sensor">Barmoq izi datchigi</string>
+
+    <string name="baseband">Modem</string>
+    <string name="serial">Seriya raqami</string>
+    <string name="build">Yigʻuv raqami</string>
+
+    <string name="security">Xavfsizlik patchi</string>
+    <string name="uptime">Ishlayotgan vaqti</string>
+
+    <string name="product">Mahsulot</string>
+    <string name="type">Turi</string>
+    <string name="build_type">Yigʻuv turi</string>
+    <string name="tags">Teglar</string>
+    <string name="incremental">Raqam</string>
+    <string name="fingerprint">Imzo</string>
+    <string name="description">Yigʻuv taʼfiri</string>
+    <string name="bootloader">Yuklovchi</string>
+    <string name="builder">Yigʻuvchi</string>
+    <string name="supported_features">Qurilma funksiyalari</string>
+    <string name="features">Funksiyalari</string>
+    <string name="language">Tili</string>
+    <string name="timezone">Soat mintaqasi</string>
+
+    <string name="version">Versiyasi</string>
+
+    <string name="enabled">Faol</string>
+    <string name="disabled">Faol emas</string>
+
+    <!-- Components -->
+    <string name="lcm">Displey</string>
+    <string name="lcm_type">Displey turi</string>
+    <string name="touchscreen">Sensorli ekran</string>
+    <string name="touchscreen_key">Sensorli tugma</string>
+    <string name="other">Boshqa</string>
+    <string name="alsps">Yorqinlik datchigi</string>
+    <string name="camera">Kamera</string>
+    <string name="lens_af">Avtofokus</string>
+    <string name="charger">Quvvatlash qurilmasi</string>
+
+    <string name="audio">Audio</string>
+    <string name="ethernet">Tarmoq</string>
+
+    <!-- CPU / GPU -->
+    <string name="cpu">Markaziy prossesor (MP)</string>
+    <string name="cpu_vendor">Ishlab chiq-chi</string>
+
+    <string name="cores">Yadrolar soni</string>
+    <string name="revision">Reviziya</string>
+    <string name="family">Oilasi</string>
+    <string name="mode">Rejimi</string>
+    <string name="mode_supported">Qoʻllab-quvvatlaydi</string>
+
+    <string name="instructions">Yoʻriqnomalari</string>
+    <string name="techprocess">Texnik jarayoni</string>
+    <string name="unit_nm">nm</string>
+    <string name="clock_speed">Chastotasi</string>
+    <string name="governor">Regulyatori</string>
+
+    <string name="clusters">Klasterlari</string>
+    <string name="cache_l3">L3 keshi</string>
+    <string name="gpu_vendor">Ishlab chiq-chi</string>
+    <string name="gpu_model">Grafik prossesor (GP)</string>
+
+    <string name="gpu_clock">Chastotasi</string>
+    <string name="gpu_cufreq">Joriy chastota</string>
+    <string name="gpu_extensions">Kengayishi</string>
+
+    <string name="density">Zichligi</string>
+    <string name="refresh_rate">Yangilanish chastotasi</string>
+
+    <!-- Sensors -->
+    <string name="test">SINASH</string>
+    <string name="info">INFO</string>
+
+    <string name="title_activity_light_sensor">Yorugʻlik datchigini sinamoq</string>
+    <string name="title_activity_proximity_sensor">Yaqinlashtirish datchigni sinamoq</string>
+    <string name="title_activity_accelerometer_sensor">Tezlanish datchigini sinamoq</string>
+    <string name="title_activity_magnetometer_sensor">Magnitometrni sinamoq</string>
+    <string name="title_activity_gyroscope_sensor">Giroskopni sinamoq</string>
+    <string name="title_activity_pressure_sensor">Barometrni sinamoq</string>
+
+    <string name="accelerometer">Tezlanish</string>
+    <string name="magnetometer">Magnitometr</string>
+    <string name="gyroscope">Giroskop</string>
+    <string name="proximity">Yaqinlashtirish</string>
+    <string name="light">Yorqinlik</string>
+    <string name="pressure">Barometr</string>
+
+    <string name="no_input_data">Datchik haqida maʼlumot yoʻq</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+
+    <string name="s_name">Nomi:</string>
+    <string name="s_vendor">Chiqaruvchisi:</string>
+    <string name="s_version">Versiyasi:</string>
+    <string name="s_max_range">Maks. qiymati:</string>
+    <string name="s_resolution">Oʻlchami:</string>
+    <string name="s_power">Quvvati:</string>
+    <string name="s_unit">Oʻlch. birligi:</string>
+
+    <string name="unsupported">qoʻllanmaydi</string>
+
+    <string name="total_sensors">Jami sensorlar:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Ichki xotira</string>
+    <string name="external_storage">Tashqi xotira</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Chiqaruvchi</string>
+    <string name="camera_model">Modeli</string>
+    <string name="camera_supported">Qoʻllaydi</string>
+
+    <string name="software">Dasturiy</string>
+    <string name="hardware">Qurilmaviy</string>
+
+    <string name="orientation">Joylashuvi</string>
+    <string name="camera_flash">Chaqnashi</string>
+    <string name="yes">bor</string>
+    <string name="no">yoʻq</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Uzoqlikni jamlash</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">Formatlari</string>
+    <string name="camera_size">Sensor oʻlchami</string>
+    <string name="pixel_size">Piksel oʻlchami</string>
+    <string name="camera_af_modes">Jamlash rejimi</string>
+    <string name="aperture">Aperturasi</string>
+    <string name="camera_phy_count">Modul turi</string>
+    <string name="camera_add_modules">Qoʻshm. kamera</string>
+    <string name="camera_sw_info">Info</string>
+    <string name="camera_color_filter">Rangli filtri</string>
+    <string name="camera_view_angle">Koʻrish burchagi</string>
+    <string name="unit_um">mkm</string>
+    <string name="unit_mm">mm</string>
+
+    <!-- Battery -->
+
+    <string name="level">Qolgan quvvati</string>
+    <string name="health">Yaroqliligi</string>
+    <string name="status">Holati</string>
+
+    <string name="power_source">Quvvat manbai</string>
+    <string name="technology">Turi</string>
+    <string name="temperature">Harorati</string>
+    <string name="voltage">Kuchlanishi</string>
+    <string name="power_profile">Tizim profili</string>
+    <string name="kernel_profile">Yadro profili</string>
+    <string name="charged_to">Заряжено до</string>
+    <string name="battery_model">Modeli</string>
+    <string name="consumption">Sarfi</string>
+    <string name="charge_speed">Quvvatlash tezligi</string>
+    <string name="discharge_speed">Quvvatlamaslik tezligi</string>
+    <string name="time_to_full_charge">Quvvat toʻlish vaqti</string>
+    <string name="bat_cycle_count">Sikllar miqdori</string>
+
+    <string name="charge_ac">Tarmoq b-n quvvatlash</string>
+    <string name="charge_usb">USB b-n quvvatlash</string>
+    <string name="quick_charge">Tezkor quvvatlash</string>
+
+    <string name="thermal_not_found">Harorat datchigi aniqlanmadi</string>
+
+    <!-- Net -->
+    <string name="link_speed">Tezligi</string>
+    <string name="frequency">Chastotasi</string>
+    <string name="signal">Signal</string>
+    <string name="channel">Kanal</string>
+    <string name="net_level">Darajasi</string>
+    <string name="not_connected">Ulanmagan</string>
+    <string name="support_5ghz">5 GHz diapazon</string>
+
+    <!-- SIM -->
+
+    <string name="sim_phone_type">Telefon turi</string>
+    <string name="sim_operator_name">Operator</string>
+    <string name="sim_operator_code">Operator kodi</string>
+    <string name="sim_country_code">Mamlakat kodi</string>
+    <string name="network_type">Tarmoq turi</string>
+    <string name="sim_state">SIM holati</string>
+    <string name="sim_icc_card">ICC</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Nomi</string>
+    <string name="partition_address">Manzili</string>
+    <string name="partition_size">Boʻlim hajmi</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">kun</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">MP</string>
+    <string name="cpu_load">Yuklama:</string>
+    <string name="cpu_core">yadro</string>
+
+    <string name="gpu_label">GP</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">Displeyni sinash</string>
+    <string name="lcd_desc">Ekranga ranglarni uzatish\nmavjud boʻlmagan bitli piksellarni tekshiring</string>
+
+    <string name="multitouch_label">Multi-touch</string>
+    <string name="multitouch_info">Sensorli ekranning multitachini sinash</string>
+    <string name="multitouch_desc">Qurilma necha marta bosish\nmumkinligini tekshiring</string>
+
+    <string name="touchdraw_label">Touch drawing</string>
+    <string name="touchdraw_info">Sensorli ekranda chizishni sinash</string>
+    <string name="touchdraw_desc">Bosish aniqligi va\n«oʻlik» hududlarni tekshiring</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Joylashuvi</string>
+    <string name="usb_num">Raqami</string>
+    <string name="usb_bus">Identifikatori</string>
+    <string name="usb_ver">Versiyasi</string>
+    <string name="usb_not_found1">Qurilma:</string>
+    <string name="usb_not_found2">topilmadi</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Asosiy kamera</string>
+    <string name="camera_front">Old kamera</string>
+    <string name="mtk_build">Yigʻuv</string>
+    <string name="mtk_platform">MTK platformasi</string>
+
+    <!-- Report -->
+
+    <string name="firmware">Toʻplam</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Tanlovlar</string>
+
+    <string name="pref_category_general">Umumiy</string>
+    <string name="pref_category_appearance">Koʻrinish</string>
+    <string name="pref_category_other">Boshqalar</string>
+
+    <string name="pref_title_set_language">Til</string>
+
+    <string name="language_default">Standart</string>
+
+    <string name="pref_title_use_root">rootʼdan foydalanmoq</string>
+    <string name="pref_description_use_root">Batafsil maʼlumot olish uchun</string>
+
+    <string name="pref_title_show_address">i2c manzilni koʻrsatmoq</string>
+    <string name="pref_description_show_address">i2c manzilli qurilmasini koʻrsatadi</string>
+
+    <string name="pref_title_dark_theme">Qora temani qoʻllamoq</string>
+    <string name="pref_description_dark_theme">Interfeysni qora temaga oʻtkazadi</string>
+
+    <string name="pref_title_theme">Interfeys temasi</string>
+
+    <string name="pref_text_scale">Matnni masshtablash</string>
+
+    <string name="pref_title_disable_sysfs_msg">sysfs xatoligini yoʻqotmoq</string>
+    <string name="pref_description_disable_sysfs_msg">Android 7.0+ʼda sysfs oʻqishdagi xatolikni bartaraf etadi</string>
+
+    <string name="pref_title_invert_charge_speed">Batareya tokini invertorlaydi</string>
+    <string name="pref_description_invert_charge_speed">Batareyani quvvatlash/uzishni teskari tartibda koʻrsatadi</string>
+    <string name="pref_title_use_charged_to">Использовать параметр \'заряжен до\'</string>
+    <string name="pref_description_use_charged_to">Показывать значение \'заряжен до\', не все устройства обеспечивают полную поддержку</string>
+
+    <string name="pref_title_temp_in_f_deg">Haroratni &#xb0;Fʼda koʻrsatmoq</string>
+    <string name="pref_description_temp_in_f_deg">Harorat Farengeytda koʻrsatiladi</string>
+
+    <string name="pref_title_detect_therm_zones">Harorat datchiklari nomi</string>
+    <string name="pref_description_detect_therm_zones">Harorat datchiklari nomini aniqlaydi (root)</string>
+
+    <string name="pref_title_ad_tz_name">thermal zone nomi</string>
+    <string name="pref_description_ad_tz_name">Thermal zone nomini koʻrsatadi</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">Xabar</string>
+
+    <string name="root_hw_detect">Yangi Androidʼlarning baʼzilarida maʼlumotlar bloklangan boʻladi,
+        agar Sizda root kirish huquqi boʻlsa, ularni koʻrsatish mumkin.
+        Batafsil maʼlumotlar shu orqaligina koʻrsatiladi.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">Haqiqiylikni tekshirib boʻlmadi.\nInternetni yoqish va Qaytadan tugmasini bosing.</string>
+    <string name="app_recheck">Qaytadan</string>
+    <string name="app_exit">Chiqish</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Qora temadan foydalanish sinov muddati tugadi!\nEndi faqat PRO versiyada bundan foydalansa boʻladi.</string>
+
+   <!-- Info center -->
+    <string name="update">Yangilamoq</string>
+    <string name="updating">Yangilash</string>
+
+    <string name="upload">Joylamoq</string>
+
+    <string name="create_report">Hisobot tuzmoq</string>
+    <string name="create_report_msg">Hisobot tuzildi. Bunga qarang</string>
+    <string name="create_report_err">Hisobotni tuzib boʻlmadi!</string>
+    <string name="create_report_err_non_pro">Hisobotni faqat PRO versiyada tuzsa boʻladi.</string>
+    <string name="create_report_info">Qurilma haqida maʼlumot faylga saqlandi.</string>
+    <string name="create">Tuzmoq</string>
+
+    <string name="error">Xatolik</string>
+    <string name="close">Yopmoq</string>
+    <string name="open">Ochmoq</string>
+    <string name="share">Ulashmoq</string>
+    <string name="send_to_email">Pochtaga joʻnatish:</string>
+
+    <string name="cpu_codenames_label">MP kodli nomi</string>
+    <string name="cpu_codenames_info">MP konli nomlari roʻyxati</string>
+
+    <string name="update_components_label">Qurilma komponentlari</string>
+    <string name="update_components_msg">Aniqlash qoidasi bilan bazani yangilamoq</string>
+    <string name="update_component_msg">Komponentlar bazasi muvaffaqiyatli yangilandi. Ilovaga qayta kiring.</string>
+
+    <string name="upload_info_label">Qurilma haqida maʼlumotni joylamoq</string>
+    <string name="upload_info_text">Bu ilovani yaxshilashda yordam beradi, shuning shunga oʻxshash qurilmalardagi ilovalar, drayverlarni muallif bazaga kiritadi. Maʼlumotlar bazasi quyidagi manzilda saqlanadi:</string>
+
+    <string name="kernel_analyzer_label">Yadro tahlilchisi</string>
+
+    <string name="i2c_viewer_label">Qurilmalar roʻyxati</string>
+    <string name="i2c_viewer_info">i2c, spi shinalaridagi qurilma</string>
+
+    <string name="exif_cam_label">EXIFʼda kamera haqida maʼlumot</string>
+    <string name="exif_cam_info">Rasmdagi EXIF maʼlumotini oʻqimoq</string>
+    <string name="open_img_file_label">Rasm tanlash...</string>
+
+    <string name="error_read_sysfs">Ushbu versiyada sysfs haqida maʼlumot olishga ruxsat etilmagan. Maʼlumot toʻliq emas.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Nusxalangan matn:</string>
+
+   <!-- Strings related to About -->
+
+   <string name="about_version">versiyasi</string>
+
+    <string name="about_author">muallif\n
+        Efremov Andrey\n
+        aka andr7e</string>
+
+</resources>
