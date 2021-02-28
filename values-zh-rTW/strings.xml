@@ -10,8 +10,6 @@
     <string name="action_rate_app">評價應用</string>
     <string name="action_upgrade_to_pro">升級到PRO版</string>
 
-    <string name="navigation_description">可用選項卡列表</string>
-
     <!-- Tabs -->
     <string name="tab_general">常規</string>
     <string name="tab_soc">芯片</string>
@@ -78,6 +76,7 @@
     <string name="build_type">構建類型</string>
     <string name="tags">標籤</string>
     <string name="incremental">增量版本</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">指紋</string>
     <string name="description">描述</string>
     <string name="bootloader">引導程序</string>
@@ -98,6 +97,7 @@
     <string name="touchscreen">觸摸屏</string>
     <string name="touchscreen_key">觸摸鍵</string>
     <string name="other">其他</string>
+    <string name="unknown">其他</string>
     <string name="alsps">光線/距離感應器</string>
     <string name="camera">照相機</string>
     <string name="lens_af">鏡頭自动对焦</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">顏色過濾器</string>
     <string name="camera_view_angle">視角</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
@@ -329,9 +330,6 @@
     <string name="pref_title_theme">界面主題</string>
     <string name="pref_text_scale">Text scaling</string>
 
-    <string name="pref_title_disable_sysfs_msg">禁用sysfs錯誤</string>
-    <string name="pref_description_disable_sysfs_msg">在Android 7.0以上，禁止顯示sysfs讀取錯誤消息</string>
-
     <string name="pref_title_invert_charge_speed">反向電池電流</string>
     <string name="pref_description_invert_charge_speed">反向充電 / 放電速度</string>
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
@@ -401,7 +399,7 @@
 
     <string name="exif_cam_label">EXIF照相機信息</string>
     <string name="exif_cam_info">從圖像中讀取EXIF信息</string>
-    <string name="open_img_file_label">打開圖像文件...</string>
+    <string name="open_img_file_label">打開圖像文件…</string>
 
     <string name="error_read_sysfs">抱歉，您的已禁止讀取sysfs。只有部分信息可用。</string>
 

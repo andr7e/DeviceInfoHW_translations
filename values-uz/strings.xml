@@ -10,8 +10,6 @@
     <string name="action_rate_app">Baholamoq</string>
     <string name="action_upgrade_to_pro">PRO versiyaga oʻtmoq</string>
 
-    <string name="navigation_description">Mavjud xatchoʻplar roʻyxati</string>
-
     <!-- Tabs -->
     <string name="tab_general">Umumiy</string>
     <string name="tab_soc">MP</string>
@@ -79,6 +77,7 @@
     <string name="build_type">Yigʻuv turi</string>
     <string name="tags">Teglar</string>
     <string name="incremental">Raqam</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">Imzo</string>
     <string name="description">Yigʻuv taʼfiri</string>
     <string name="bootloader">Yuklovchi</string>
@@ -99,6 +98,7 @@
     <string name="touchscreen">Sensorli ekran</string>
     <string name="touchscreen_key">Sensorli tugma</string>
     <string name="other">Boshqa</string>
+    <string name="unknown">Boshqa</string>
     <string name="alsps">Yorqinlik datchigi</string>
     <string name="camera">Kamera</string>
     <string name="lens_af">Avtofokus</string>
@@ -207,6 +207,7 @@
     <string name="camera_sw_info">Info</string>
     <string name="camera_color_filter">Rangl filtri</string>
     <string name="camera_view_angle">Koʻrish burchagi</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">mkm</string>
     <string name="unit_mm">mm</string>
 
@@ -333,9 +334,6 @@
 
     <string name="pref_text_scale">Matn oʻlchami</string>
 
-    <string name="pref_title_disable_sysfs_msg">«sysfs» xatoligini yoʻqotmoq</string>
-    <string name="pref_description_disable_sysfs_msg">Android 7.0+ʼda sysfs oʻqishdagi xatolikni bartaraf etadi.</string>
-
     <string name="pref_title_invert_charge_speed">Batareya tokini invertorlamoq</string>
     <string name="pref_description_invert_charge_speed">Batareyani quvvatlash/uzishni teskari tartibda koʻrsatadi.</string>
     <string name="pref_title_use_charged_to">\'Quvvatlanishgacha\' parametrini qoʻllamoq</string>
@@ -403,7 +401,7 @@
 
     <string name="exif_cam_label">EXIFʼda kamera haqida maʼlumot</string>
     <string name="exif_cam_info">Rasmdagi EXIF maʼlumotini oʻqimoq</string>
-    <string name="open_img_file_label">Rasm tanlash...</string>
+    <string name="open_img_file_label">Rasm tanlash…</string>
 
     <string name="error_read_sysfs">Ushbu versiyada «sysfs» haqida maʼlumot olishga ruxsat etilmagan. Maʼlumot toʻliq emas.</string>
 

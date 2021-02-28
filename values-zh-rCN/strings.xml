@@ -10,8 +10,6 @@
     <string name="action_rate_app">评价应用</string>
     <string name="action_upgrade_to_pro">升级到PRO版</string>
 
-    <string name="navigation_description">可用选项卡列表</string>
-
     <!-- Tabs -->
     <string name="tab_general">常规</string>
     <string name="tab_soc">芯片</string>
@@ -78,6 +76,7 @@
     <string name="build_type">构建类型</string>
     <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">指纹</string>
     <string name="description">描述</string>
     <string name="bootloader">引导程序</string>
@@ -98,6 +97,7 @@
     <string name="touchscreen">触摸屏</string>
     <string name="touchscreen_key">触摸键</string>
     <string name="other">其他</string>
+    <string name="unknown">其他</string>
     <string name="alsps">光线/距离传感器</string>
     <string name="camera">相机</string>
     <string name="lens_af">镜头自动对焦</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">彩色滤光片</string>
     <string name="camera_view_angle">视角</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
@@ -329,9 +330,6 @@
     <string name="pref_title_theme">界面主题</string>
     <string name="pref_text_scale">Text scaling</string>
 
-    <string name="pref_title_disable_sysfs_msg">禁用sysfs错误</string>
-    <string name="pref_description_disable_sysfs_msg">在android 7.0+上禁用sysfs读取错误消息</string>
-
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向充电 / 放电速度</string>
     <string name="pref_title_use_charged_to">使用 \'充电至\'</string>
@@ -401,7 +399,7 @@
 
     <string name="exif_cam_label">EXIF相机信息</string>
     <string name="exif_cam_info">从图像中读取EXIF信息</string>
-    <string name="open_img_file_label">打开图像文件...</string>
+    <string name="open_img_file_label">打开图像文件…</string>
 
     <string name="error_read_sysfs">抱歉，您的固件已禁止读取sysfs。只有部分信息可用。</string>
 

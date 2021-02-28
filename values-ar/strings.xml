@@ -10,8 +10,6 @@
     <string name="action_rate_app">تقييم التطبيق</string>
     <string name="action_upgrade_to_pro">الترقية للنسخة الإحترافية</string>
 
-    <string name="navigation_description">التبويبات المتاحة</string>
-
     <!-- Tabs -->
     <string name="tab_general">عام</string>
     <string name="tab_soc">SoC</string>
@@ -79,6 +77,7 @@
     <string name="build_type">Build type</string>
     <string name="tags">الأوسمة</string>
     <string name="incremental">Incremental</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">بصمة الأصبع</string>
     <string name="description">الوصف</string>
     <string name="bootloader">محمل الإقلاع</string>
@@ -99,6 +98,7 @@
     <string name="touchscreen">شاشة اللمس</string>
     <string name="touchscreen_key">مفاتيح اللمس</string>
     <string name="other">أخرى</string>
+    <string name="unknown">أخرى</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">الكاميرا</string>
     <string name="lens_af">Lens AF</string>
@@ -207,6 +207,7 @@
     <string name="camera_sw_info">معلومات</string>
     <string name="camera_color_filter">Color Filter</string>
     <string name="camera_view_angle">View Angle</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     
@@ -333,9 +334,6 @@
     <string name="pref_title_theme">موضوع واجهة</string>
     <string name="pref_text_scale">Text scaling</string>
 
-    <string name="pref_title_disable_sysfs_msg">تعطيل خطأ sysfs</string>
-    <string name="pref_description_disable_sysfs_msg">تعطيل sysfs من قراءة رسالة الخطأ على أندرويد 7 و أعلى</string>
-
     <string name="pref_title_invert_charge_speed">عكس تيار البطارية</string>
     <string name="pref_description_invert_charge_speed">عكس سرعة شحن \ تفريغ البطارية</string>
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
@@ -405,7 +403,7 @@
 
     <string name="exif_cam_label">EXIF Camera Info</string>
     <string name="exif_cam_info">Read EXIF info from image</string>
-    <string name="open_img_file_label">Open image file...</string>
+    <string name="open_img_file_label">Open image file…</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
 

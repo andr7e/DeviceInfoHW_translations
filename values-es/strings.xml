@@ -10,8 +10,6 @@
     <string name="action_rate_app">Valorar App</string>
     <string name="action_upgrade_to_pro">Actualizar a PRO</string>
 
-    <string name="navigation_description">Listado de pestañas disponibles</string>
-
     <!-- Tabs -->
     <string name="tab_general">General</string>
     <string name="tab_soc">SoC</string>
@@ -79,6 +77,7 @@
     <string name="build_type">Build tipo</string>
     <string name="tags">Tags</string>
     <string name="incremental">Incremental</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">Firma digital</string>
     <string name="description">Description</string>
     <string name="bootloader">Bootloader</string>
@@ -99,6 +98,7 @@
     <string name="touchscreen">Pantalla táctil</string>
     <string name="touchscreen_key">Touch keys</string>
     <string name="other">Otro</string>
+    <string name="unknown">Otro</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">Cámara</string>
     <string name="lens_af">Lente AF</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">Info</string>
     <string name="camera_color_filter">Color Filter</string>
     <string name="camera_view_angle">View Angle</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     
@@ -331,9 +332,6 @@
     <string name="pref_title_theme">Tema de interfaz</string>
     <string name="pref_text_scale">Text scaling</string>
 
-    <string name="pref_title_disable_sysfs_msg">Disable sysfs error</string>
-    <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
-
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
@@ -403,7 +401,7 @@
 
     <string name="exif_cam_label">EXIF Camera Info</string>
     <string name="exif_cam_info">Read EXIF info from image</string>
-    <string name="open_img_file_label">Open image file...</string>
+    <string name="open_img_file_label">Open image file…</string>
 
     <string name="error_read_sysfs">Lo siento, pero tu lector de sysfs firmware esta deshabilitado, solo información parcial esta disponible.</string>
 

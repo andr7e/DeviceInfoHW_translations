@@ -10,8 +10,6 @@
     <string name="action_rate_app">Uygulamayı Değerlendir</string>
     <string name="action_upgrade_to_pro">Pro\'ya yükselt</string>
 
-    <string name="navigation_description">Kullanılabilir sekmelerin listesi</string>
-
     <!-- Tabs -->
     <string name="tab_general">Genel</string>
     <string name="tab_soc">İşlemci</string>
@@ -79,6 +77,7 @@
     <string name="build_type">Yapı tipi</string>
     <string name="tags">Etiketler</string>
     <string name="incremental">Incremental</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">Derleme Parmak izi</string>
     <string name="description">Açıklama</string>
     <string name="bootloader">Ön yükleme (Bootloader)</string>
@@ -99,6 +98,7 @@
     <string name="touchscreen">Dokunmatik ekran</string>
     <string name="touchscreen_key">Dokunmatik tuşlar</string>
     <string name="other">Diğer</string>
+    <string name="unknown">Diğer</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">Kamera</string>
     <string name="lens_af">Lens AF</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">Bilgi</string>
     <string name="camera_color_filter">Renk filtresi</string>
     <string name="camera_view_angle">Görüş açısı</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
@@ -331,9 +332,6 @@
     <string name="pref_title_theme">Arayüz teması</string>
     <string name="pref_text_scale">Text scaling</string>
 
-    <string name="pref_title_disable_sysfs_msg">Sysfs hatasını devre dışı bırak</string>
-    <string name="pref_description_disable_sysfs_msg">Android 7.0 ve sonraki sürümlerinde sysfs okuma hatası mesajını devre dışı bırak</string>
-
     <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
     <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
 
@@ -404,7 +402,7 @@
 
     <string name="exif_cam_label">EXIF Kamera Bilgisi</string>
     <string name="exif_cam_info">Resimdeki EXIF ​​bilgilerini okuma</string>
-    <string name="open_img_file_label">Görüntü dosyasını aç...</string>
+    <string name="open_img_file_label">Görüntü dosyasını aç…</string>
 
     <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
 

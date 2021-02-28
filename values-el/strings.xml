@@ -10,8 +10,6 @@
     <string name="action_rate_app">Βαθμολογηστε εφαρμογη</string>
     <string name="action_upgrade_to_pro">Αναβαθμιση σε επαγγελματικη</string>
 
-    <string name="navigation_description">Λίστα διαθέσιμων καρτελών</string>
-
     <!-- Tabs -->
     <string name="tab_general">Γενικα</string>
     <string name="tab_soc">SoC</string>
@@ -78,6 +76,7 @@
     <string name="build_type">Τυπος κατασκευης</string>
     <string name="tags">Ετικέτες</string>
     <string name="incremental">Σταδιακή</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">Αποτυπωμα</string>
     <string name="description">Περιγραφή</string>
     <string name="bootloader">Φορτωτής εκκίνησης</string>
@@ -98,6 +97,7 @@
     <string name="touchscreen">Οθόνη αφής</string>
     <string name="touchscreen_key">Πλήκτρα αφής</string>
     <string name="other">Αλλα</string>
+    <string name="unknown">Αλλα</string>
     <string name="alsps">Αισθητηρας φωτος</string>
     <string name="camera">Φωτογραφικη</string>
     <string name="lens_af">AF φακού</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">Πληροφορίες</string>
     <string name="camera_color_filter">Φίλτρο χρώματος</string>
     <string name="camera_view_angle">Προβολή γωνίας</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
@@ -329,9 +330,6 @@
     <string name="pref_title_theme">Θέμα διεπαφής</string>
     <string name="pref_text_scale">Text scaling</string>
 
-    <string name="pref_title_disable_sysfs_msg">Απενεργοποίηση σφάλματος sysfs</string>
-    <string name="pref_description_disable_sysfs_msg">Απενεργοποίηση sysfs μήνυμα σφάλματος ανάγνωσης στο Android 7.0+</string>
-
     <string name="pref_title_invert_charge_speed">Αντιστρέψτε το ρεύμα της μπαταρίας</string>
     <string name="pref_description_invert_charge_speed">Αντιστρέψτε την ταχύτητα φόρτισης / εκφόρτισης της μπαταρίας</string>
 
@@ -404,7 +402,7 @@
 
     <string name="exif_cam_label">Πληροφορίες κάμερας EXIF</string>
     <string name="exif_cam_info">Διαβάστε τις πληροφορίες EXIF από την εικόνα</string>
-    <string name="open_img_file_label">Άνοιγμα αρχείου εικόνας ...</string>
+    <string name="open_img_file_label">Άνοιγμα αρχείου εικόνας …</string>
 
     <string name="error_read_sysfs">Λυπούμαστε, αλλά στο firmware σας η ανάγνωση sysfs είναι απενεργοποιημένη. Διατίθενται μόνο μερικές πληροφορίες.</string>
 

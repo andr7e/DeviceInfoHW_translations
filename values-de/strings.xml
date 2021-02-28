@@ -10,8 +10,6 @@
     <string name="action_rate_app">App bewerten</string>
     <string name="action_upgrade_to_pro">PRO-Upgrade</string>
 
-    <string name="navigation_description">Liste verfügbarer Tabs</string>
-
     <!-- Tabs -->
     <string name="tab_general">Allgemein</string>
     <string name="tab_soc">SoC</string>
@@ -79,6 +77,7 @@
     <string name="build_type">Build Typ</string>
     <string name="tags">Tags</string>
     <string name="incremental">Inkremental</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">Fingerabdruck</string>
     <string name="description">Beschreibung</string>
     <string name="bootloader">Bootloader</string>
@@ -99,6 +98,7 @@
     <string name="touchscreen">Touchscreen</string>
     <string name="touchscreen_key">Touch-Tasten</string>
     <string name="other">Andere</string>
+    <string name="unknown">Andere</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">Kamera</string>
     <string name="lens_af">Objektiv AF</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">Info</string>
     <string name="camera_color_filter">Color Filter</string>
     <string name="camera_view_angle">View Angle</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
@@ -330,9 +331,6 @@
 
     <string name="pref_title_theme">Schnittstellenthema</string>
     <string name="pref_text_scale">Text scaling</string>
-
-    <string name="pref_title_disable_sysfs_msg">Sysfs Fehler deaktivieren</string>
-    <string name="pref_description_disable_sysfs_msg">Deaktivieren von sysfs Lesefehlermeldungen unter Android 7.0+</string>
 
     <string name="pref_title_invert_charge_speed">Ladegeschwindigkeit umkehren</string>
     <string name="pref_description_invert_charge_speed">Akkulade / Entladegeschwindigkeit umkehren</string>

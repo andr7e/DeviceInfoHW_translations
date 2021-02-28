@@ -10,8 +10,6 @@
     <string name="action_rate_app">Đánh giá ứng dụng</string>
     <string name="action_upgrade_to_pro">Nâng cấp lên bản PRO</string>
 
-    <string name="navigation_description">Danh sách thẻ khả dụng</string>
-
     <!-- Tabs -->
     <string name="tab_general">Tổng quát</string>
     <string name="tab_soc">SoC</string>
@@ -79,6 +77,7 @@
     <string name="build_type">Loại bản dựng</string>
     <string name="tags">Thẻ</string>
     <string name="incremental">Bản nâng cấp</string>
+    <string name="build_date">Build date</string>
     <string name="fingerprint">Chữ ký</string>
     <string name="description">Mô tả</string>
     <string name="bootloader">Bootloader</string>
@@ -99,6 +98,7 @@
     <string name="touchscreen">Màn hình cảm ứng</string>
     <string name="touchscreen_key">Phím cảm ứng</string>
     <string name="other">Khác</string>
+    <string name="unknown">Khác</string>
     <string name="alsps">Als/ps</string>
     <string name="camera">Máy ảnh</string>
     <string name="lens_af">Ống kính AF</string>
@@ -205,6 +205,7 @@
     <string name="camera_sw_info">Thông tin</string>
     <string name="camera_color_filter">Bộ lọc màu</string>
     <string name="camera_view_angle">Góc nhìn</string>
+    <string name="zoom">Zoom</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
 
@@ -331,9 +332,6 @@
 
     <string name="pref_text_scale">Căn chỉnh văn bản</string>
 
-    <string name="pref_title_disable_sysfs_msg">Tắt lỗi sysfs</string>
-    <string name="pref_description_disable_sysfs_msg">Disable sysfs reading error message on android 7.0+</string>
-
     <string name="pref_title_invert_charge_speed">Đảo ngược sạc pin hiện tại</string>
     <string name="pref_description_invert_charge_speed">Sạc đảo ngược / tốc độ xả</string>
 
@@ -402,7 +400,7 @@
 
     <string name="exif_cam_label">Thông tin máy ảnh EXIF</string>
     <string name="exif_cam_info">Đọc thông tin EXIF từ hình ảnh</string>
-    <string name="open_img_file_label">Mở tệp hình ảnh...</string>
+    <string name="open_img_file_label">Mở tệp hình ảnh…</string>
 
     <string name="error_read_sysfs">Xin lỗi, nhưng hệ thống đọc sysfs trên phần sụn của bạn đã bị tắt. Chỉ có được một phần thông tin.</string>
 
