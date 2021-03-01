@@ -1,0 +1,420 @@
+<resources>
+
+    <string name="action_settings">設定</string>
+    <string name="action_about">このアプリについて</string>
+    <string name="action_info_center">Info сenter</string>
+    <string name="action_screen_test">スクリーンテスト</string>
+    <string name="action_engineer_menu">Engineering menu</string>
+
+    <string name="nav_header_options">オプション</string>
+    <string name="action_rate_app">アプリを評価する</string>
+    <string name="action_upgrade_to_pro">Proバージョンにアップグレードする</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">一般</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">モニター</string>
+    <string name="tab_system">システム</string>
+    <string name="tab_memory">メモリー</string>
+    <string name="tab_camera">カメラ</string>
+    <string name="tab_battery">バッテリー</string>
+    <string name="tab_thermal">温度</string>
+    <string name="tab_sensors">センサー</string>
+    <string name="tab_applications">アプリケーション</string>
+    <string name="tab_project">プロジェクト</string>
+    <string name="tab_drivers">ドライバー</string>
+    <string name="tab_partitions">パーティション</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">ネット</string>
+    <string name="tab_input">インプット</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codecs</string>
+
+    <string name="tab_system_apps">システムアプリケーション</string>
+    <string name="tab_camera_supported">Supported cameras</string>
+    <string name="tab_cpu_monitor">CPUモニター</string>
+    <string name="tab_cpu_time">CPU operating time</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">端末</string>
+    <string name="manufacturer">メーカー</string>
+    <string name="model">モデル</string>
+    <string name="brand">ブランド</string>
+    <string name="model_name">モデル名</string>
+
+    <string name="platform">プラットフォーム</string>
+    <string name="board">ボード</string>
+    <string name="resolution">解像度</string>
+
+    <string name="codename">コードネーム</string>
+    <string name="release">リリース</string>
+
+    <string name="machine_arch">マシン</string>
+
+    <string name="kernel">カーネル</string>
+
+    <string name="ram">RAM</string>
+    <string name="free">Free:</string>
+    <string name="used">Used:</string>
+    <string name="total">トータル:</string>
+    <string name="flash">フラッシュ</string>
+    <string name="flash_size">フラッシュサイズ</string>
+
+    <string name="sound">音</string>
+    <string name="fingerprint_sensor">指紋</string>
+
+    <string name="baseband">ベースバンド</string>
+    <string name="serial">シリアル</string>
+    <string name="build">ビルド</string>
+    <string name="security">セキュリティ</string>
+    <string name="uptime">アップタイム</string>
+
+    <string name="product">プロダクト</string>
+    <string name="type">タイプ</string>
+    <string name="build_type">ビルドタイプ</string>
+    <string name="tags">タグ</string>
+    <string name="incremental">Incremental</string>
+    <string name="build_date">Build date</string>
+    <string name="fingerprint">指紋</string>
+    <string name="description">説明</string>
+    <string name="bootloader">ブートローダー</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">端末の機能</string>
+    <string name="features">機能</string>
+    <string name="language">言語</string>
+    <string name="timezone">タイムゾーン</string>
+
+    <string name="version">バージョン</string>
+
+    <string name="enabled">有効</string>
+    <string name="disabled">無効</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">LCDタイプ</string>
+    <string name="touchscreen">タッチスクリーン</string>
+    <string name="touchscreen_key">タッチキー</string>
+    <string name="other">その他</string>
+    <string name="unknown">Other unknown</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">カメラ</string>
+    <string name="lens_af">Lens AF</string>
+    <string name="charger">Charger</string>
+
+    <string name="audio">オーディオ</string>
+    <string name="ethernet">Ethernet</string>
+
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">ベンダ</string>
+    <string name="cores">コア数</string>
+    <string name="revision">Revision</string>
+    <string name="family">Family</string>
+    <string name="mode">モード</string>
+    <string name="mode_supported">サポート</string>
+    <string name="instructions">Instructions</string>
+    <string name="techprocess">Process technology</string>
+    <string name="unit_nm">nm</string>
+    <string name="clock_speed">クロック周波数</string>
+    <string name="governor">Governor</string>
+
+    <string name="clusters">クラスター</string>
+    <string name="cache_l3">L3キャッシュ</string>
+    <string name="gpu_vendor">ベンダ</string>
+    <string name="gpu_model">GPU</string>
+
+    <string name="gpu_clock">クロック周波数</string>
+    <string name="gpu_cufreq">現在のクロック周波数</string>
+    <string name="gpu_extensions">Extensions</string>
+
+    <string name="density">Density</string>
+    <string name="refresh_rate">リフレッシュレート</string>
+
+    <!-- Sensors -->
+    <string name="test">TEST</string>
+    <string name="info">INFO</string>
+
+    <string name="title_activity_light_sensor">光センサーのテスト</string>
+    <string name="title_activity_proximity_sensor">接近センサーのテスト</string>
+    <string name="title_activity_accelerometer_sensor">加速度計のテスト</string>
+    <string name="title_activity_magnetometer_sensor">磁気センサーのテスト</string>
+    <string name="title_activity_gyroscope_sensor">ジャイロスコープのテスト</string>
+    <string name="title_activity_pressure_sensor">バロメーター</string>
+
+    <string name="accelerometer">加速度計</string>
+    <string name="magnetometer">磁気センサー</string>
+    <string name="gyroscope">ジャイロスコープ</string>
+    <string name="proximity">接近</string>
+    <string name="light">光</string>
+    <string name="pressure">バロメーター</string>
+
+    <string name="no_input_data">No data from sensor</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+
+    <string name="s_name">名前:</string>
+    <string name="s_vendor">ベンダ:</string>
+    <string name="s_version">バージョン:</string>
+    <string name="s_max_range">Max range:</string>
+    <string name="s_resolution">解像度:</string>
+    <string name="s_power">電源:</string>
+    <string name="s_unit">ユニット:</string>
+
+    <string name="unsupported">非対応</string>
+
+    <string name="total_sensors">トータル:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">内部ストレージ</string>
+    <string name="external_storage">外部ストレージ</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">ベンダ</string>
+    <string name="camera_model">モデル</string>
+    <string name="camera_supported">対応</string>
+
+    <string name="software">ソフトウェア</string>
+    <string name="hardware">ハードウェア</string>
+
+    <string name="orientation">Orientation</string>
+    <string name="camera_flash">フラッシュ</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">ビデオ</string>
+    <string name="focal_length">Focal length</string>
+    <string name="camera2_api">Camera2 API</string>
+    <string name="camera_formats">イメージフォーマット</string>
+    <string name="camera_size">センサーのサイズ</string>
+    <string name="pixel_size">ピクセルのサイズ</string>
+    <string name="camera_af_modes">フォーカスモード</string>
+    <string name="aperture">Aperture</string>
+    <string name="camera_phy_count">モジュールのタイプ</string>
+    <string name="camera_add_modules">Additional cameras</string>
+    <string name="camera_sw_info">情報</string>
+    <string name="camera_color_filter">カラーフィルター</string>
+    <string name="camera_view_angle">View Angle</string>
+    <string name="zoom">ズーム</string>
+    <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
+
+    <!-- Battery -->
+
+    <string name="level">レベル</string>
+    <string name="health">Health</string>
+    <string name="status">ステータス</string>
+
+    <string name="power_source">Power source</string>
+    <string name="technology">テクノロジー</string>
+    <string name="temperature">温度</string>
+    <string name="voltage">ボルト</string>
+    <string name="power_profile">電源プロファイル</string>
+    <string name="kernel_profile">カーネルプロファイル</string>
+    <string name="charged_to">Charged up to</string>
+    <string name="battery_model">モデル</string>
+    <string name="consumption">Consumption</string>
+    <string name="charge_speed">充電スピード</string>
+    <string name="discharge_speed">Discharge speed</string>
+    <string name="time_to_full_charge">満充電までの時間</string>
+    <string name="bat_cycle_count">Cycle count</string>
+
+    <string name="charge_ac">ACで充電</string>
+    <string name="charge_usb">USBで充電</string>
+    <string name="quick_charge">クイックチャージ</string>
+
+    <string name="thermal_not_found">温度センサーが見つかりませんでした</string>
+
+    <!-- Net -->
+    <string name="link_speed">リンク速度</string>
+    <string name="frequency">周波数</string>
+    <string name="signal">シグナル</string>
+    <string name="channel">チャンネル</string>
+    <string name="net_level">レベル</string>
+    <string name="not_connected">未接続</string>
+    <string name="support_5ghz">Band 5 GHz</string>
+
+    <!-- SIM -->
+    <string name="sim_phone_type">携帯のタイプ</string>
+    <string name="sim_operator_name">オペレーター</string>
+    <string name="sim_operator_code">オペレーターコード</string>
+    <string name="sim_country_code">地域コード</string>
+    <string name="network_type">ネットワークのタイプ</string>
+    <string name="sim_state">SIMの状態</string>
+    <string name="sim_icc_card">ICCカード</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">名前</string>
+    <string name="partition_address">開始アドレス</string>
+    <string name="partition_size">パーティションのサイズ</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">days</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">ロード:</string>
+    <string name="cpu_core">コア数</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">LCDカラーテスト</string>
+    <string name="lcd_desc">Check screen color and no defective pixels</string>
+
+    <string name="multitouch_label">マルチタッチ</string>
+    <string name="multitouch_info">Touchscreen multi-touch test</string>
+    <string name="multitouch_desc">Check how many fingers supported</string>
+
+    <string name="touchdraw_label">Touch drawing</string>
+    <string name="touchdraw_info">Touchscreen drawing test</string>
+    <string name="touchdraw_desc">Check accuracy of touch and dead zones</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">パス</string>
+    <string name="usb_num">ナンバー</string>
+    <string name="usb_bus">デバイスID</string>
+    <string name="usb_ver">バージョン</string>
+    <string name="usb_not_found1">デバイス:</string>
+    <string name="usb_not_found2">見つかりませんでした</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Camera Back</string>
+    <string name="camera_front">Camera Front</string>
+    <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Platform MTK</string>
+
+    <!-- Report -->
+
+    <string name="firmware">ファームウェア</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">設定</string>
+
+    <string name="pref_category_general">一般</string>
+    <string name="pref_category_appearance">Appearance</string>
+    <string name="pref_category_other">その他</string>
+
+    <string name="pref_title_set_language">言語</string>
+
+    <string name="language_default">デフォルト</string>
+
+    <string name="pref_title_use_root">rootを使う</string>
+    <string name="pref_description_use_root">完全な情報を取得するために</string>
+
+    <string name="pref_title_show_address">Show i2c address</string>
+    <string name="pref_description_show_address">Show device i2c address</string>
+
+    <string name="pref_title_dark_theme">ダークテーマ</string>
+    <string name="pref_description_dark_theme">Apply dark theme to interface</string>
+
+    <string name="pref_title_theme">インターフェイステーマ</string>
+
+    <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_title_invert_charge_speed">Invert battery current</string>
+    <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+
+    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
+    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
+
+    <string name="pref_title_temp_in_f_deg">Temperature in &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Show temperature in Fahrenheit</string>
+
+    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
+    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
+    <string name="pref_title_ad_tz_name">Thermal zone name</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="first_install_title">メッセージ</string>
+
+    <string name="root_hw_detect">In new versions of android, some information is blocked,
+        if you have root access, you can enable it in the settings.
+        More details will be available.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">Sorry, but defender can\'t check app validity.\nPlease connect to the internet and click on the recheck.</string>
+    <string name="app_recheck">Recheck</string>
+    <string name="app_exit">出る</string>
+
+    <!-- PRO -->
+    <string name="using_theme_expired_non_pro">Sorry, but free using dark theme expired!\nIt\'s available in PRO version.</string>
+
+    <!-- Info center -->
+    <string name="update">更新</string>
+    <string name="updating">更新中...</string>
+
+    <string name="upload">アップロード</string>
+
+    <string name="create_report">リポートを作成</string>
+    <string name="create_report_msg">Report successfully created!\nLook in</string>
+    <string name="create_report_err">Can\'t create report!</string>
+    <string name="create_report_err_non_pro">Can not create report!\nIt\'s available in PRO version.</string>
+    <string name="create_report_info">Device information will be saved to file in app data folder.</string>
+    <string name="create">Create</string>
+
+    <string name="error">エラー</string>
+    <string name="close">閉じる</string>
+    <string name="open">開く</string>
+    <string name="share">共有</string>
+    <string name="send_to_email">Send to email:</string>
+
+    <string name="cpu_codenames_label">CPU codenames</string>
+    <string name="cpu_codenames_info">List of CPU codenames</string>
+
+    <string name="update_components_label">Device components</string>
+    <string name="update_components_msg">Update detection rules database</string>
+    <string name="update_component_msg">Detection rules successfully updated. Restart application for apply changes.</string>
+
+    <string name="upload_info_label">Upload device information</string>
+    <string name="upload_info_text">It helps make program better, improve devices support
+        and other developers can find similar devices and needed drivers.
+        Result stored in database. You can see on:</string>
+
+    <string name="kernel_analyzer_label">Kernel Analyzer</string>
+
+    <string name="i2c_viewer_label">Device list</string>
+    <string name="i2c_viewer_info">Devices on the i2c, spi bus</string>
+
+    <string name="exif_cam_label">EXIF Camera Info</string>
+    <string name="exif_cam_info">Read EXIF info from image</string>
+    <string name="open_img_file_label">Open image file…</string>
+
+    <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copied to clipboard:</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">バージョン</string>
+
+    <string name="about_author">author\n
+        Andrey Efremov\n
+        aka andr7e</string>
+
+</resources>
