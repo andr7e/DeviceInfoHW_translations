@@ -29,6 +29,7 @@
     <string name="tab_input">Giriş</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Kodekler</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">Sistem Uygulamaları</string>
     <string name="tab_camera_supported">Desteklenen kameralar</string>
@@ -47,6 +48,10 @@
     <string name="platform">Platform</string>
     <string name="board">Çip</string>
     <string name="resolution">Çözünürlük</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">Sürüm kod adı</string>
     <string name="release">Sürüm</string>
@@ -132,6 +137,9 @@
 
     <string name="density">Yoğunluk</string>
     <string name="refresh_rate">Yenileme hızı</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -168,6 +176,7 @@
     <string name="s_resolution">Çözüm:</string>
     <string name="s_power">Güç:</string>
     <string name="s_unit">Birim:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">desteklenmiyor</string>
 
@@ -197,6 +206,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Görüntü formatları</string>
     <string name="camera_size">Sensör boyutu</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Piksel boyutu</string>
     <string name="camera_af_modes">Odak modları</string>
     <string name="aperture">Açıklık</string>
@@ -293,8 +303,7 @@
     <string name="usb_num">Numara</string>
     <string name="usb_bus">Cihaz Kimliği</string>
     <string name="usb_ver">Versiyon</string>
-    <string name="usb_not_found1">Cihazlar:</string>
-    <string name="usb_not_found2">bulunamadı</string>
+    <string name="usb_not_found">Cihazlar bulunamadı</string>
 
     <!-- MTK -->
 
@@ -346,6 +355,8 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -362,6 +373,7 @@
     <string name="app_exit">Çıkış</string>
 
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Üzgünüz, ücretsiz tema süresi doldu!\nPRO sürümünde mevcuttur.</string>
 
     <!-- Info center -->
@@ -405,6 +417,7 @@
     <string name="open_img_file_label">Görüntü dosyasını aç…</string>
 
     <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

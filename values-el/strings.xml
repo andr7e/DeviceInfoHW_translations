@@ -29,6 +29,7 @@
     <string name="tab_input">Εισαγωγή</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Κωδικοποιητές</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">Εφαρμογές συστήματος</string>
     <string name="tab_camera_supported">Υποστηριζόμενες κάμερες</string>
@@ -47,6 +48,10 @@
     <string name="platform">Πλατφόρμα</string>
     <string name="board">Πινακας</string>
     <string name="resolution">Ανάλυση</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">Κωδικό όνομα</string>
     <string name="release">Ελευθέρωση</string>
@@ -129,6 +134,9 @@
 
     <string name="density">Πυκνότητα</string>
     <string name="refresh_rate">Ρυθμός ανανέωσης</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <!-- <string name="test">ΔΟΚΙΜΗ</string> -->
@@ -168,6 +176,7 @@
     <string name="s_resolution">Ανάλυση:</string>
     <string name="s_power">Ισχυς:</string>
     <string name="s_unit">Μονάδα:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">ανυποστήρικτος</string>
 
@@ -197,6 +206,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Μορφές εικόνας</string>
     <string name="camera_size">Μέγεθος αισθητήρα</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Μέγεθος pixel</string>
     <string name="camera_af_modes">Λειτουργίες εστίασης</string>
     <string name="aperture">Ανοιγμα</string>
@@ -291,8 +301,7 @@
     <string name="usb_num">Αριθμός</string>
     <string name="usb_bus">Αναγνωριστικό συσκευής</string>
     <string name="usb_ver">Εκδοχή</string>
-    <string name="usb_not_found1">Συσκευές:</string>
-    <string name="usb_not_found2">δεν βρέθηκε</string>
+    <string name="usb_not_found">Συσκευές δεν βρέθηκε</string>
 
     <!-- MTK -->
 
@@ -344,6 +353,8 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -360,8 +371,8 @@
     <string name="app_recheck">Ελέγξτε ξανά</string>
     <string name="app_exit">Εξοδος</string>
 
-
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Λυπούμαστε, αλλά η δωρεάν χρήση του θέματος έληξε!\nΔιατίθεται σε έκδοση PRO.</string>
 
     <!-- Info center -->
@@ -405,6 +416,7 @@
     <string name="open_img_file_label">Άνοιγμα αρχείου εικόνας …</string>
 
     <string name="error_read_sysfs">Λυπούμαστε, αλλά στο firmware σας η ανάγνωση sysfs είναι απενεργοποιημένη. Διατίθενται μόνο μερικές πληροφορίες.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

@@ -29,6 +29,7 @@
     <string name="tab_input">Eingabe</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">Systemanwendungen</string>
     <string name="tab_camera_supported">Unterstützte Kameras</string>
@@ -47,6 +48,10 @@
     <string name="platform">Plattform</string>
     <string name="board">Board</string>
     <string name="resolution">Auflösung</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">Codename</string>
     <string name="release">Release</string>
@@ -132,6 +137,9 @@
 
     <string name="density">Dichte</string>/string>
     <string name="refresh_rate">Wiederholrate</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -168,6 +176,7 @@
     <string name="s_resolution">Auflösung:</string>
     <string name="s_power">Leistung:</string>
     <string name="s_unit">Einheit:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">nicht unterstützt</string>
 
@@ -197,6 +206,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Bildformate</string>
     <string name="camera_size">Sensorgröße</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">Fokusmodi</string>
     <string name="aperture">Blendenöffnung</string>
@@ -293,8 +303,7 @@
     <string name="usb_num">Nummer</string>
     <string name="usb_bus">Geräte-ID</string>
     <string name="usb_ver">Version</string>
-    <string name="usb_not_found1">Geräte:</string>
-    <string name="usb_not_found2">nicht gefunden</string>
+    <string name="usb_not_found">Geräte nicht gefunden</string>
 
     <!-- MTK -->
 
@@ -345,6 +354,9 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    
+    <string name="pref_title_use_pressure_mm_hg">Druckeinheit</string>
+    <string name="pref_description_use_pressure_mm_hg">Druck in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -361,6 +373,7 @@
     <string name="app_exit">Exit</string>
 
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Sorry, die Gratisnutzung des Themes ist abgelaufen! Es ist in der PRO Version verfügbar.</string>
 	   
     <!-- Info center -->
@@ -402,6 +415,7 @@
     <string name="open_img_file_label">Bilddatei öffnen....</string>
 
     <string name="error_read_sysfs">Sorry, auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

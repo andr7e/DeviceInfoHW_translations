@@ -29,6 +29,7 @@
     <string name="tab_input">Nhập liệu</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Bộ mã hóa-giải mã</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">Ứng dụng hệ thống</string>
     <string name="tab_camera_supported">Máy ảnh được hỗ trợ</string>
@@ -47,6 +48,10 @@
     <string name="platform">Nền tảng</string>
     <string name="board">Bảng</string>
     <string name="resolution">Độ phân giải</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">Tên mã</string>
     <string name="release">Phiên bản</string>
@@ -132,6 +137,9 @@
 
     <string name="density">Mật độ</string>
     <string name="refresh_rate">Tần suất làm mới</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">ĐO</string>
@@ -168,6 +176,7 @@
     <string name="s_resolution">Độ phân giải:</string>
     <string name="s_power">Nguồn:</string>
     <string name="s_unit">Đơn vị:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">không được hỗ trợ</string>
 
@@ -197,6 +206,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Định dạng hình ảnh</string>
     <string name="camera_size">Kích cỡ cảm biến</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Kích cỡ Pixel</string>
     <string name="camera_af_modes">Chế độ lấy nét</string>
     <string name="aperture">Khẩu độ</string>
@@ -292,8 +302,7 @@
     <string name="usb_num">Số</string>
     <string name="usb_bus">ID thiết bị</string>
     <string name="usb_ver">Phiên bản</string>
-    <string name="usb_not_found1">Thiết bị:</string>
-    <string name="usb_not_found2">không tìm thấy</string>
+    <string name="usb_not_found">Thiết bị không tìm thấy</string>
 
     <!-- MTK -->
 
@@ -346,6 +355,8 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -362,6 +373,7 @@
     <string name="app_exit">Thoát ra</string>
 
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Xin lỗi, việc dùng chủ đề tối miễn phí hiện đã hết hạn!\nNó khả dụng trên phiên bản PRO.</string>
 
     <!-- Info center -->
@@ -403,6 +415,7 @@
     <string name="open_img_file_label">Mở tệp hình ảnh…</string>
 
     <string name="error_read_sysfs">Xin lỗi, nhưng hệ thống đọc sysfs trên phần sụn của bạn đã bị tắt. Chỉ có được một phần thông tin.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

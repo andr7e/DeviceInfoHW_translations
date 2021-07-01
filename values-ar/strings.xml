@@ -29,6 +29,7 @@
     <string name="tab_input">إدخال</string>
     <string name="tab_usb">منفذ USB</string>
     <string name="tab_codecs">الترميز</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">تطبيقات النظام</string>
     <string name="tab_camera_supported">الكاميرا المدعومة</string>
@@ -47,6 +48,10 @@
     <string name="platform">البيئة</string>
     <string name="board">Board</string>
     <string name="resolution">دقة الشاشة</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">الإسم الرمزي</string>
     <string name="release">تاريخ الإصدار</string>
@@ -134,6 +139,9 @@
 
     <string name="density">Density</string>
     <string name="refresh_rate">معدل التحديث</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">إختبار</string>
@@ -170,6 +178,7 @@
     <string name="s_resolution">Resolution:</string>
     <string name="s_power">Power:</string>
     <string name="s_unit">Unit:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">unsupported</string>
 
@@ -199,6 +208,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">إمتدادات الصور</string>
     <string name="camera_size">حجم الحساس</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">وضع التركيز</string>
     <string name="aperture">الفتحة</string>
@@ -295,8 +305,7 @@
     <string name="usb_num">رقم</string>
     <string name="usb_bus">معرف الجهاز</string>
     <string name="usb_ver">الإصدار</string>
-    <string name="usb_not_found1">الأجهزة:</string>
-    <string name="usb_not_found2">لا يوججد</string>
+    <string name="usb_not_found">لم يتم العثور على الأجهزة</string>
 
     <!-- MTK -->
 
@@ -347,6 +356,8 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -363,6 +374,7 @@
     <string name="app_exit">خروج</string>
 
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">عذراً, إنتهى الإستخدام المجاني للثيم!\nIt\'s متاح في النسخة المدفوعة.</string>
 
     <!-- Info center -->
@@ -406,6 +418,7 @@
     <string name="open_img_file_label">Open image file…</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

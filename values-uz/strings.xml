@@ -29,6 +29,7 @@
     <string name="tab_input">Kiritish qurilmasi</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Kodeklar</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">Tizim ilovalari</string>
     <string name="tab_camera_supported">Mavjud kameralar</string>
@@ -47,6 +48,10 @@
     <string name="platform">Platformasi</string>
     <string name="board">Platasi</string>
     <string name="resolution">Oʻlchami</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">Nomi</string>
     <string name="release">Ishlab chiqarish</string>
@@ -134,6 +139,9 @@
 
     <string name="density">Zichligi</string>
     <string name="refresh_rate">Yangilanish chastotasi</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">SINASH</string>
@@ -170,6 +178,7 @@
     <string name="s_resolution">Oʻlchami:</string>
     <string name="s_power">Quvvati:</string>
     <string name="s_unit">Oʻlchov birligi:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">qoʻllanmaydi</string>
 
@@ -199,6 +208,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Formatlari</string>
     <string name="camera_size">Sensor oʻlchami</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Piksel oʻlchami</string>
     <string name="camera_af_modes">Jamlash rejimi</string>
     <string name="aperture">Aperturasi</string>
@@ -294,8 +304,7 @@
     <string name="usb_num">Raqami</string>
     <string name="usb_bus">Identifikatori</string>
     <string name="usb_ver">Versiyasi</string>
-    <string name="usb_not_found1">Qurilma:</string>
-    <string name="usb_not_found2">topilmadi</string>
+    <string name="usb_not_found">Qurilma topilmadi</string>
 
     <!-- MTK -->
 
@@ -347,6 +356,8 @@
 
     <string name="pref_title_ad_tz_name">«Thermal zone» nomi</string>
     <string name="pref_description_ad_tz_name">Thermal zone nomini koʻrsatadi</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -363,6 +374,7 @@
     <string name="app_exit">Chiqish</string>
 
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Qora temadan foydalanish sinov muddati tugadi!\nEndi faqat PRO versiyada bundan foydalansa boʻladi.</string>
 
    <!-- Info center -->
@@ -404,6 +416,7 @@
     <string name="open_img_file_label">Rasm tanlash…</string>
 
     <string name="error_read_sysfs">Ushbu versiyada «sysfs» haqida maʼlumot olishga ruxsat etilmagan. Maʼlumot toʻliq emas.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

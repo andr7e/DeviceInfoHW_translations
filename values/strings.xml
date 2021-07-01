@@ -34,6 +34,7 @@
     <string name="tab_input">Input</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">System Applications</string>
     <string name="tab_camera_supported">Supported cameras</string>
@@ -54,6 +55,10 @@
     <string name="platform">Platform</string>
     <string name="board">Board</string>
     <string name="resolution">Resolution</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="android" translatable="false">Android</string>
     <string name="api" translatable="false">API</string>
@@ -156,6 +161,9 @@
 
     <string name="density">Density</string>
     <string name="refresh_rate">Refresh rate</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
     <string name="hdr" translatable="false">HDR</string>
 
     <string name="cmdline" translatable="false">Cmdline</string>
@@ -204,6 +212,8 @@
     <string name="s_resolution">Resolution:</string>
     <string name="s_power">Power:</string>
     <string name="s_unit">Unit:</string>
+    <string name="s_type">Type:</string>
+    <string name="s_id" translatable="false">ID:</string>
 
     <string name="unsupported">unsupported</string>
 
@@ -233,6 +243,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Image formats</string>
     <string name="camera_size">Sensor size</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
@@ -335,8 +346,7 @@
     <string name="usb_num">Number</string>
     <string name="usb_bus">Device ID</string>
     <string name="usb_ver">Version</string>
-    <string name="usb_not_found1">Devices:</string>
-    <string name="usb_not_found2">not found</string>
+    <string name="usb_not_found">Devices not found</string>
 
     <!-- MTK -->
 
@@ -386,6 +396,7 @@
         <item>العربية</item>
         <item>Tiếng Việt</item>
         <item>O\'zbek</item>
+        <item>日本語</item>
 
     </string-array>
     <string-array name="pref_language_list_values" translatable="false">
@@ -405,6 +416,7 @@
         <item>12</item>
         <item>13</item>
         <item>14</item>
+        <item>15</item>
     </string-array>
 
     <string name="pref_title_use_root">Use root</string>
@@ -435,6 +447,9 @@
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
 
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="ok" translatable="false">OK</string>
@@ -452,7 +467,8 @@
     <string name="app_exit">Exit</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Sorry, but free using dark theme expired!\nIt\'s available in PRO version.</string>
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
+    <string name="using_theme_expired_non_pro">Sorry, but free using black theme expired!\nIt\'s available in PRO version.</string>
 
     <!-- Info center -->
     <string name="update">Update</string>
@@ -495,6 +511,8 @@
     <string name="open_img_file_label">Open image file…</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

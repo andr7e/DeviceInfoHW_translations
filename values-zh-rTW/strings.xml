@@ -29,6 +29,7 @@
     <string name="tab_input">輸出</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">編解碼器</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">系統應用程式</string>
     <string name="tab_camera_supported">支援照相機</string>
@@ -47,6 +48,10 @@
     <string name="platform">平台</string>
     <string name="board">主板</string>
     <string name="resolution">解析度</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">開發代號</string>
     <string name="release">發布版</string>
@@ -132,6 +137,9 @@
 
     <string name="density">密度</string>
     <string name="refresh_rate">刷新率</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">測試</string>
@@ -168,6 +176,7 @@
     <string name="s_resolution">Resolution:</string>
     <string name="s_power">Power:</string>
     <string name="s_unit">Unit:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">unsupported</string>
 
@@ -197,6 +206,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">圖像格式</string>
     <string name="camera_size">傳感器尺寸</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">像素大小</string>
     <string name="camera_af_modes">對焦模式</string>
     <string name="aperture">光圈</string>
@@ -291,8 +301,7 @@
     <string name="usb_num">編號</string>
     <string name="usb_bus">裝置ID </string>
     <string name="usb_ver">版本</string>
-    <string name="usb_not_found1">裝置：</string>
-    <string name="usb_not_found2">找不到</string>
+    <string name="usb_not_found">裝置找不到</string>
 
     <!-- MTK -->
 
@@ -343,6 +352,8 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -359,6 +370,7 @@
     <string name="app_exit">退出</string>
 
     <!-- PRO -->
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">抱歉，免費使用主題已過期！\n它在PRO版中可用。</string>
 
     <!-- Info center -->
@@ -402,6 +414,7 @@
     <string name="open_img_file_label">打開圖像文件…</string>
 
     <string name="error_read_sysfs">抱歉，您的已禁止讀取sysfs。只有部分信息可用。</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 

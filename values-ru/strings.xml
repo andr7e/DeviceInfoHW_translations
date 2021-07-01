@@ -29,6 +29,7 @@
     <string name="tab_input">Устройства ввода</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Кодеки</string>
+    <string name="tab_screen">Экран</string>
 
     <string name="tab_system_apps">Системные приложения</string>
     <string name="tab_camera_supported">Поддерживаемые камеры</string>
@@ -47,6 +48,10 @@
     <string name="platform">Платформа</string>
     <string name="board">Плата</string>
     <string name="resolution">Разрешение</string>
+    <string name="current_resolution">Текущее разрешение</string>
+    <string name="ratio">Соотношение</string>
+    <string name="wide_color_gamut">Расширенная цветовая гамма</string>
+    <string name="wide_color_supported">Поддерживается</string>
 
     <string name="codename">Название</string>
     <string name="release">Выпуск</string>
@@ -134,6 +139,9 @@
 
     <string name="density">Плотность</string>
     <string name="refresh_rate">Частота обновления</string>
+    <string name="diagonal">Диагональ</string>
+    <string name="size">Размер</string>
+    <string name="modes">Режимы</string>
 
     <!-- Sensors -->
     <string name="test">ТЕСТ</string>
@@ -170,6 +178,7 @@
     <string name="s_resolution">Разрешение:</string>
     <string name="s_power">Мощность:</string>
     <string name="s_unit">Ед. измер:</string>
+    <string name="s_type">Тип:</string>
 
     <string name="unsupported">не поддерживается</string>
 
@@ -199,6 +208,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Форматы</string>
     <string name="camera_size">Размер сенсора</string>
+    <string name="camera_diagonal">Диагональ</string>
     <string name="pixel_size">Размер пикселя</string>
     <string name="camera_af_modes">Режимы фокусировки</string>
     <string name="aperture">Апертура</string>
@@ -294,8 +304,7 @@
     <string name="usb_num">Номер</string>
     <string name="usb_bus">Идентификатор</string>
     <string name="usb_ver">Версия</string>
-    <string name="usb_not_found1">Устройства:</string>
-    <string name="usb_not_found2">не найдены</string>
+    <string name="usb_not_found">Устройства не найдены</string>
 
     <!-- MTK -->
 
@@ -348,6 +357,9 @@
     <string name="pref_title_ad_tz_name">Название для thermal zone</string>
     <string name="pref_description_ad_tz_name">Показать название thermal zone</string>
 
+    <string name="pref_title_use_pressure_mm_hg">Ед. измер. давления</string>
+    <string name="pref_description_use_pressure_mm_hg">Показывать в мм рт. ст.</string>
+
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Сообщение</string>
@@ -363,7 +375,8 @@
     <string name="app_exit">Выйти</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Извините, но пробный период использования темной темы истек!\nВыбор тем доступен в PRO версии.</string>
+    <string name="using_theme_start_non_pro">Вы можете использовать черную тему 14 дней. После этого используйте темную тему или обновитесь до PRO.</string>
+    <string name="using_theme_expired_non_pro">Извините, но пробный период использования черной темы истек!\nВыбор тем доступен в PRO версии.</string>
 
    <!-- Info center -->
     <string name="update">Обновить</string>
@@ -404,6 +417,7 @@
     <string name="open_img_file_label">Выбрать фото…</string>
 
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>
+    <string name="title_bat_show_chart_rate">График зарядки / разряда</string>
 
     <!-- Clipboard -->
 

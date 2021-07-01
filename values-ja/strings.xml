@@ -29,6 +29,7 @@
     <string name="tab_input">インプット</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
+    <string name="tab_screen">Screen</string>
 
     <string name="tab_system_apps">システムアプリケーション</string>
     <string name="tab_camera_supported">Supported cameras</string>
@@ -47,6 +48,10 @@
     <string name="platform">プラットフォーム</string>
     <string name="board">ボード</string>
     <string name="resolution">解像度</string>
+    <string name="current_resolution">Current resolution</string>
+    <string name="ratio">Ratio</string>
+    <string name="wide_color_gamut">Wide color gamut</string>
+    <string name="wide_color_supported">Supported</string>
 
     <string name="codename">コードネーム</string>
     <string name="release">リリース</string>
@@ -132,6 +137,9 @@
 
     <string name="density">Density</string>
     <string name="refresh_rate">リフレッシュレート</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="size">Size</string>
+    <string name="modes">Modes</string>
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -168,6 +176,7 @@
     <string name="s_resolution">解像度:</string>
     <string name="s_power">電源:</string>
     <string name="s_unit">ユニット:</string>
+    <string name="s_type">Type:</string>
 
     <string name="unsupported">非対応</string>
 
@@ -197,6 +206,7 @@
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">イメージフォーマット</string>
     <string name="camera_size">センサーのサイズ</string>
+    <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">ピクセルのサイズ</string>
     <string name="camera_af_modes">フォーカスモード</string>
     <string name="aperture">Aperture</string>
@@ -291,8 +301,7 @@
     <string name="usb_num">ナンバー</string>
     <string name="usb_bus">デバイスID</string>
     <string name="usb_ver">バージョン</string>
-    <string name="usb_not_found1">デバイス:</string>
-    <string name="usb_not_found2">見つかりませんでした</string>
+    <string name="usb_not_found">デバイス見つかりませんでした</string>
 
     <!-- MTK -->
 
@@ -345,6 +354,8 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -361,7 +372,8 @@
     <string name="app_exit">出る</string>
 
     <!-- PRO -->
-    <string name="using_theme_expired_non_pro">Sorry, but free using dark theme expired!\nIt\'s available in PRO version.</string>
+    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
+    <string name="using_theme_expired_non_pro">Sorry, but free using black theme expired!\nIt\'s available in PRO version.</string>
 
     <!-- Info center -->
     <string name="update">更新</string>
@@ -404,6 +416,7 @@
     <string name="open_img_file_label">Open image file…</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
 
     <!-- Clipboard -->
 
