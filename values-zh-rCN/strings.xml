@@ -48,10 +48,10 @@
     <string name="platform">平台</string>
     <string name="board">主板</string>
     <string name="resolution">分辨率</string>
-    <string name="current_resolution">Current resolution</string>
-    <string name="ratio">Ratio</string>
-    <string name="wide_color_gamut">Wide color gamut</string>
-    <string name="wide_color_supported">Supported</string>
+    <string name="current_resolution">当前分辨率</string>
+    <string name="ratio">刷新率</string>
+    <string name="wide_color_gamut">广色域</string>
+    <string name="wide_color_supported">支持的</string>
 
     <string name="codename">开发代号</string>
     <string name="release">发布版本</string>
@@ -118,8 +118,8 @@
     <string name="cores">核心数</string>
     <string name="revision">修订版本</string>
     <string name="family">架构</string>
-    <string name="mode">Mode</string>
-    <string name="mode_supported">Supported</string>
+    <string name="mode">型号</string>
+    <string name="mode_supported">支持</string>
     <string name="instructions">说明</string>
     <string name="techprocess">制程工艺</string>
     <string name="unit_nm">nm</string>
@@ -137,9 +137,9 @@
 
     <string name="density">密度</string>
     <string name="refresh_rate">刷新率</string>
-    <string name="diagonal">Diagonal</string>
-    <string name="size">Size</string>
-    <string name="modes">Modes</string>
+    <string name="diagonal">对角线</string>
+    <string name="size">尺寸</string>
+    <string name="modes">型号</string>
 
     <!-- Sensors -->
     <string name="test">测试</string>
@@ -251,7 +251,7 @@
     <string name="signal">信号</string>
     <string name="channel">信道</string>
     <string name="net_level">级别</string>
-    <string name="not_connected">Not connected</string>
+    <string name="not_connected">未连接</string>
     <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->
@@ -337,7 +337,7 @@
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
 
     <string name="pref_title_theme">界面主题</string>
-    <string name="pref_text_scale">Text scaling</string>
+    <string name="pref_text_scale">文字缩放</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向充电 / 放电速度</string>
