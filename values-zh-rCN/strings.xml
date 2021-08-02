@@ -51,7 +51,7 @@
     <string name="current_resolution">当前分辨率</string>
     <string name="ratio">刷新率</string>
     <string name="wide_color_gamut">广色域</string>
-    <string name="wide_color_supported">支持的</string>
+    <string name="wide_color_supported">支持</string>
 
     <string name="codename">开发代号</string>
     <string name="release">发布版本</string>
@@ -176,7 +176,7 @@
     <string name="s_resolution">尺寸:</string>
     <string name="s_power">功耗:</string>
     <string name="s_unit">单位:</string>
-    <string name="s_type">Type:</string>
+    <string name="s_type">类型:</string>
 
     <string name="unsupported">不支持</string>
 
