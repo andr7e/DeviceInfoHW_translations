@@ -29,12 +29,15 @@
     <string name="tab_project">Project</string>
     <string name="tab_drivers">Drivers</string>
     <string name="tab_partitions">Partitions</string>
+    <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">PMIC</string>
     <string name="tab_net">Net</string>
     <string name="tab_input">Input</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
     <string name="tab_screen">Screen</string>
+    <string name="tab_bt" translatable="false">BT</string>
+    <string name="tab_myapps" translatable="false">MY APPS</string>
 
     <string name="tab_system_apps">System Applications</string>
     <string name="tab_camera_supported">Supported cameras</string>
@@ -81,6 +84,7 @@
 
     <string name="wifi" translatable="false">Wi-Fi</string>
     <string name="gps" translatable="false">GPS</string>
+    <string name="bluetooth" translatable="false">Bluetooth</string>
     <string name="sound">Sound</string>
     <string name="fingerprint_sensor">Fingerprint</string>
 
@@ -294,6 +298,7 @@
     <string name="channel">Channel</string>
     <string name="net_level">Level</string>
     <string name="not_connected">Not connected</string>
+    <string name="standard">Standard</string>
     <string name="support_5ghz">Band 5 GHz</string>
     <string name="support_wifi_direct"  translatable="false">Wi-Fi Direct</string>
     <string name="support_wpa3"  translatable="false">WPA3</string>
