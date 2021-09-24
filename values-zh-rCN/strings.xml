@@ -29,7 +29,7 @@
     <string name="tab_input">输出</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">编解码器</string>
-    <string name="tab_screen">Screen</string>
+    <string name="tab_screen">屏幕</string>
 
     <string name="tab_system_apps">系统应用程序</string>
     <string name="tab_camera_supported">支持相机</string>
@@ -81,13 +81,13 @@
     <string name="build_type">构建类型</string>
     <string name="tags">Tags</string>
     <string name="incremental">增量版本</string>
-    <string name="build_date">Build date</string>
+    <string name="build_date">构建日期</string>
     <string name="fingerprint">指纹</string>
     <string name="description">描述</string>
     <string name="bootloader">引导程序</string>
     <string name="builder">构建者</string>
     <string name="supported_features">设备特征</string>
-    <string name="features">Features</string>
+    <string name="features">特征</string>
     <string name="language">语言</string>
     <string name="timezone">时区</string>
 
@@ -136,7 +136,7 @@
     <string name="gpu_extensions">扩展</string>
 
     <string name="density">密度</string>
-    <string name="refresh_rate">刷新率</string>
+    <string name="refresh_rate">比例</string>
     <string name="diagonal">对角线</string>
     <string name="size">尺寸</string>
     <string name="modes">型号</string>
@@ -252,7 +252,7 @@
     <string name="channel">信道</string>
     <string name="net_level">级别</string>
     <string name="not_connected">未连接</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_5ghz">5 GHz 频段</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">电话类型</string>
@@ -350,10 +350,10 @@
     <string name="pref_title_detect_therm_zones">检测热区</string>
     <string name="pref_description_detect_therm_zones">检测热区名称 (root)</string>
 
-    <string name="pref_title_ad_tz_name">Thermal zone name</string>
-    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
-    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
-    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
+    <string name="pref_title_ad_tz_name">热区名称</string>
+    <string name="pref_description_ad_tz_name">显示热区名称</string>
+    <string name="pref_title_use_pressure_mm_hg">压力单位</string>
+    <string name="pref_description_use_pressure_mm_hg">使用单位 mm Hg（毫米汞柱）</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -368,7 +368,7 @@
     <string name="app_defender_msg">抱歉，App Defender无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
     <string name="app_recheck">重新检查</string>
     <string name="app_exit">退出</string>
-    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
+    <string name="using_theme_start_non_pro">您可以免费试用14天，之后使用深色主题将需要升级到PRO。</string>
 
     <!-- PRO -->
     <string name="using_theme_expired_non_pro">抱歉，免费使用主题已过期！\n它在PRO版中可用。</string>
@@ -414,11 +414,11 @@
     <string name="open_img_file_label">打开图像文件…</string>
 
     <string name="error_read_sysfs">抱歉，您的固件已禁止读取sysfs。只有部分信息可用。</string>
-    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+    <string name="title_bat_show_chart_rate">充/放电图</string>
 
     <!-- Clipboard -->
 
-    <string name="copied_to_clipboard">Copied to clipboard:</string>
+    <string name="copied_to_clipboard">复制到剪贴板：</string>
 
     <!-- Strings related to About -->
 
