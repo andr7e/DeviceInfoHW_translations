@@ -24,6 +24,7 @@
     <string name="tab_project">Проект</string>
     <string name="tab_drivers">Драйверы</string>
     <string name="tab_partitions">Разметка</string>
+    <string name="tab_mounts">Монтирование</string>
     <string name="tab_pmic">Питание</string>
     <string name="tab_net">Сеть</string>
     <string name="tab_input">Устройства ввода</string>
@@ -254,6 +255,7 @@
     <string name="channel">Канал</string>
     <string name="net_level">Уровень</string>
     <string name="not_connected">Не подключено</string>
+    <string name="standard">Стандарт</string>
     <string name="support_5ghz">Диапазон 5 GHz</string>
 
     <!-- SIM -->

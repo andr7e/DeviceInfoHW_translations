@@ -24,6 +24,7 @@
     <string name="tab_project">Project</string>
     <string name="tab_drivers">التعريفات</string>
     <string name="tab_partitions">الأقسام</string>
+    <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">دوائر الطاقة</string>
     <string name="tab_net">الإنترنت</string>
     <string name="tab_input">إدخال</string>
@@ -255,6 +256,7 @@
     <string name="channel">القناة</string>
     <string name="net_level">مستوى الإشارة</string>
     <string name="not_connected">Not connected</string>
+    <string name="standard">Standard</string>
     <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->

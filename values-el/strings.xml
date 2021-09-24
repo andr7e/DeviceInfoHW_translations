@@ -24,6 +24,7 @@
     <string name="tab_project">Εργο</string>
     <string name="tab_drivers">Οδηγοι</string>
     <string name="tab_partitions">Διαμερισματα</string>
+    <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">Διαχειριση ισχυος</string>
     <string name="tab_net">Δικτυο</string>
     <string name="tab_input">Εισαγωγή</string>
@@ -252,6 +253,7 @@
     <string name="channel">Κανάλι</string>
     <string name="net_level">Επίπεδο</string>
     <string name="not_connected">Not connected</string>
+    <string name="standard">Standard</string>
     <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->

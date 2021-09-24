@@ -24,6 +24,7 @@
     <string name="tab_project">プロジェクト</string>
     <string name="tab_drivers">ドライバー</string>
     <string name="tab_partitions">パーティション</string>
+    <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">PMIC</string>
     <string name="tab_net">ネット</string>
     <string name="tab_input">インプット</string>
@@ -252,6 +253,7 @@
     <string name="channel">チャンネル</string>
     <string name="net_level">レベル</string>
     <string name="not_connected">未接続</string>
+    <string name="standard">Standard</string>
     <string name="support_5ghz">Band 5 GHz</string>
 
     <!-- SIM -->

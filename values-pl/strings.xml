@@ -24,6 +24,7 @@
     <string name="tab_project">Projekty</string>
     <string name="tab_drivers">Sterowniki</string>
     <string name="tab_partitions">Partycje</string>
+    <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">PMIC</string>
     <string name="tab_net">Sieć</string>
     <string name="tab_input">Urządzenia wejściowe</string>
@@ -254,6 +255,7 @@
     <string name="channel">Kanał</string>
     <string name="net_level">Poziom</string>
     <string name="not_connected">Nie połączono</string>
+    <string name="standard">Standard</string>
     <string name="support_5ghz">Wsparcie 5 GHz</string>
 
     <!-- SIM -->

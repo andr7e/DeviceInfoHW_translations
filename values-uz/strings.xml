@@ -24,6 +24,7 @@
     <string name="tab_project">Loyiha</string>
     <string name="tab_drivers">Drayverlar</string>
     <string name="tab_partitions">Boʻlimlar</string>
+    <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">Quvvat</string>
     <string name="tab_net">Tarmoq</string>
     <string name="tab_input">Kiritish qurilmasi</string>
@@ -254,6 +255,7 @@
     <string name="channel">Kanal</string>
     <string name="net_level">Darajasi</string>
     <string name="not_connected">Ulanmagan</string>
+    <string name="standard">Standard</string>
     <string name="support_5ghz">5 GHz diapazon</string>
 
     <!-- SIM -->
