@@ -49,6 +49,7 @@
     <string name="platform">Platform</string>
     <string name="board">Çip</string>
     <string name="resolution">Çözünürlük</string>
+    <string name="max_resolution">Max. resolution</string>
     <string name="current_resolution">Current resolution</string>
     <string name="ratio">Ratio</string>
     <string name="wide_color_gamut">Wide color gamut</string>
@@ -121,6 +122,7 @@
     <string name="family">Aile</string>
     <string name="mode">Mode</string>
     <string name="mode_supported">Supported</string>
+    <string name="abis">Supported ABI</string>
     <string name="instructions">Talimatlar</string>
     <string name="techprocess">İşlemci teknolojisi</string>
     <string name="unit_nm">nm</string>
@@ -204,9 +206,11 @@
     <string name="mp">MP</string>
     <string name="video_resolution">Video</string>
     <string name="focal_length">Odak uzaklığı</string>
+    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Görüntü formatları</string>
     <string name="camera_size">Sensör boyutu</string>
+    <string name="optical_format">Optical format</string>
     <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Piksel boyutu</string>
     <string name="camera_af_modes">Odak modları</string>
@@ -217,8 +221,12 @@
     <string name="camera_color_filter">Renk filtresi</string>
     <string name="camera_view_angle">Görüş açısı</string>
     <string name="zoom">Zoom</string>
+    <string name="crop_factor">Crop factor</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
+    <string name="allow">Allow</string>
+    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
+    <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
     <!-- Battery -->
 
@@ -420,6 +428,13 @@
 
     <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- App info -->
+
+    <string name="app_details">App details</string>
+    <string name="app_extract">Extract</string>
+    <string name="app_extract_ok">Extracted successfully to</string>
+    <string name="app_extract_err">Extraction failed!</string>
 
     <!-- Clipboard -->
 

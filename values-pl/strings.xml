@@ -49,6 +49,7 @@
     <string name="platform">Platforma</string>
     <string name="board">Płyta</string>
     <string name="resolution">Rozdzielczość</string>
+    <string name="max_resolution">Max. resolution</string>
     <string name="current_resolution">Current resolution</string>
     <string name="ratio">Ratio</string>
     <string name="wide_color_gamut">Wide color gamut</string>
@@ -122,6 +123,7 @@
     <string name="family">Family</string>
     <string name="mode">Mode</string>
     <string name="mode_supported">Supported</string>
+    <string name="abis">Supported ABI</string>
 
     <string name="instructions">Instrukcje</string>
     <string name="techprocess">Process technology</string>
@@ -206,9 +208,11 @@
     <string name="mp">MP</string>
     <string name="video_resolution">Video</string>
     <string name="focal_length">Focal length</string>
+    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Image formats</string>
     <string name="camera_size">Sensor size</string>
+    <string name="optical_format">Optical format</string>
     <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Pixel size</string>
     <string name="camera_af_modes">Focus modes</string>
@@ -216,11 +220,15 @@
     <string name="camera_phy_count">Module type</string>
     <string name="camera_add_modules">Additional cameras</string>
     <string name="camera_sw_info">Info</string>
-    <string name="camera_color_filter">Color Filter</string>
-    <string name="camera_view_angle">View Angle</string>
+    <string name="camera_color_filter">Color filter</string>
+    <string name="camera_view_angle">Angle of view</string>
     <string name="zoom">Zoom</string>
+    <string name="crop_factor">Crop factor</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
+    <string name="allow">Allow</string>
+    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
+    <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
     <!-- Battery -->
 
@@ -420,6 +428,13 @@
 
     <string name="error_read_sysfs">Przepraszamy, ale twój firmware czytający sysfs jest wyłączony. Dostępna tylko częściowa informacja.</string>
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- App info -->
+
+    <string name="app_details">App details</string>
+    <string name="app_extract">Extract</string>
+    <string name="app_extract_ok">Extracted successfully to</string>
+    <string name="app_extract_err">Extraction failed!</string>
 
     <!-- Clipboard -->
 

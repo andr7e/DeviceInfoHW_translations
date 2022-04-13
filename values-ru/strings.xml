@@ -49,6 +49,7 @@
     <string name="platform">Платформа</string>
     <string name="board">Плата</string>
     <string name="resolution">Разрешение</string>
+    <string name="max_resolution">Макс. разрешение</string>
     <string name="current_resolution">Текущее разрешение</string>
     <string name="ratio">Соотношение</string>
     <string name="wide_color_gamut">Расширенная цветовая гамма</string>
@@ -122,6 +123,7 @@
     <string name="family">Семейство</string>
     <string name="mode">Режим</string>
     <string name="mode_supported">Поддерживается</string>
+    <string name="abis">Поддерживаемые ABI</string>
 
     <string name="instructions">Инструкции</string>
     <string name="techprocess">Техпроцесс</string>
@@ -206,9 +208,11 @@
     <string name="mp">МП</string>
     <string name="video_resolution">Видео</string>
     <string name="focal_length">Фокусное расстояние</string>
+    <string name="focal_length_35mm">Фокусное расстояние 35 мм (ЭФР)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Форматы</string>
     <string name="camera_size">Размер сенсора</string>
+    <string name="optical_format">Оптический формат</string>
     <string name="camera_diagonal">Диагональ</string>
     <string name="pixel_size">Размер пикселя</string>
     <string name="camera_af_modes">Режимы фокусировки</string>
@@ -219,8 +223,12 @@
     <string name="camera_color_filter">Цветовой фильтр</string>
     <string name="camera_view_angle">Угол обзора</string>
     <string name="zoom">Увеличение</string>
+    <string name="crop_factor">Кроп-фактор</string>
     <string name="unit_um">мкм</string>
     <string name="unit_mm">мм</string>
+    <string name="allow">Разрешить</string>
+    <string name="cam_res_max_info">- Для некоторых устройств, где в камере используется объединение пикселей, такие как 4 в 1 доступно только базовое разрешение.</string>
+    <string name="cam_res_max_info_perm">- Для получения максимального разрешения изображения вы можете попробовать выдать разрешение на использование камеры.</string>
 
     <!-- Battery -->
 
@@ -420,6 +428,13 @@
 
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>
     <string name="title_bat_show_chart_rate">График зарядки / разряда</string>
+
+    <!-- App info -->
+
+    <string name="app_details">Подробности</string>
+    <string name="app_extract">Извлечь</string>
+    <string name="app_extract_ok">Успешно извлечено в</string>
+    <string name="app_extract_err">Не удалось извлечь!</string>
 
     <!-- Clipboard -->
 
