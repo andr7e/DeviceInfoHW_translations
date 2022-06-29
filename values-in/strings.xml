@@ -227,6 +227,7 @@
     <string name="crop_factor">Crop factor</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
+    <string name="unit_cm">cm</string>
     <string name="allow">Allow</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
@@ -385,6 +386,14 @@
     <!-- PRO -->
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Maaf, penggunaan tema gratis sudah kadaluarsa!\nIt\'s tersedia di versi PRO.</string>
+    <string name="pro_version_info">
+Features:\n
+ • Full theme support\n
+ • Create report and send by email\n
+ • Copy text by long press in info lists\n
+ • New design of battery tab with charge / discharge chart\n
+ • Early access to new version
+</string>
 
     <!-- Info center -->
     <string name="update">Perbarui</string>

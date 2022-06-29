@@ -226,6 +226,7 @@
     <string name="crop_factor">Кроп-фактор</string>
     <string name="unit_um">мкм</string>
     <string name="unit_mm">мм</string>
+    <string name="unit_cm">см</string>
     <string name="allow">Разрешить</string>
     <string name="cam_res_max_info">- Для некоторых устройств, где в камере используется объединение пикселей, такие как 4 в 1 доступно только базовое разрешение.</string>
     <string name="cam_res_max_info_perm">- Для получения максимального разрешения изображения вы можете попробовать выдать разрешение на использование камеры.</string>
@@ -387,6 +388,14 @@
     <!-- PRO -->
     <string name="using_theme_start_non_pro">Вы можете использовать черную тему 14 дней. После этого используйте темную тему или обновитесь до PRO.</string>
     <string name="using_theme_expired_non_pro">Извините, но пробный период использования черной темы истек!\nВыбор тем доступен в PRO версии.</string>
+    <string name="pro_version_info">
+Возможности:\n
+• Полная поддержка тем\n
+• Создание отчета и отправка отчета по почте\n
+• Копирование инфы в списках по долгому нажатию\n
+• Улучшенная вкладка батареи с графиком зарядки\n
+• Ранний доступ к новым версиям
+</string>
 
    <!-- Info center -->
     <string name="update">Обновить</string>

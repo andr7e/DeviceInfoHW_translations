@@ -36,7 +36,7 @@
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
     <string name="tab_screen">Screen</string>
-    <string name="tab_bt" translatable="false">BT</string>
+    <string name="tab_bt" translatable="false">Bluetooth</string>
     <string name="tab_myapps" translatable="false">MY APPS</string>
 
     <string name="tab_system_apps">System Applications</string>
@@ -81,6 +81,7 @@
     <string name="zram" translatable="false">SWAP</string>
     <string name="flash">Flash</string>
     <string name="scsi" translatable="false">SCSI</string>
+    <string name="ufs" translatable="false">UFS</string>
     <string name="flash_size">Flash size</string>
 
     <string name="wifi" translatable="false">Wi-Fi</string>
@@ -256,6 +257,7 @@
     <string name="camera_af_modes">Focus modes</string>
     <string name="aperture">Aperture</string>
     <string name="iso" translatable="false">ISO</string>
+    <string name="ois" translatable="false">OIS</string>
     <string name="camera_phy_count">Module type</string>
     <string name="camera_add_modules">Additional cameras</string>
     <string name="camera_sw_info">Info</string>
@@ -265,6 +267,7 @@
     <string name="crop_factor">Crop factor</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
+    <string name="unit_cm">cm</string>
     <string name="allow">Allow</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
@@ -480,8 +483,20 @@
     <string name="app_exit">Exit</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Sorry, but free using black theme expired!\nIt\'s available in PRO version.</string>
+
+    <string name="pro_version_label" translatable="false">PRO</string>
+
+    <string name="pro_version_info">
+Features:\n
+ • Full theme support\n
+ • Create report and send by email\n
+ • Copy text by long press in info lists\n
+ • New design of battery tab with charge / discharge chart\n
+ • Early access to new version
+</string>
 
     <!-- Info center -->
     <string name="update">Update</string>
@@ -522,6 +537,9 @@
     <string name="exif_cam_label">EXIF Camera Info</string>
     <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file…</string>
+
+    <string name="translation_label" translatable="false">Translation</string>
+    <string name="translation_info" translatable="false">If you would like to help add or update a translation for your language:</string>
 
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
 
