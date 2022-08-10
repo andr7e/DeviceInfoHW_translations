@@ -49,11 +49,11 @@
     <string name="platform">Nền tảng</string>
     <string name="board">Bảng</string>
     <string name="resolution">Độ phân giải</string>
-    <string name="max_resolution">Max. resolution</string>
-    <string name="current_resolution">Current resolution</string>
-    <string name="ratio">Ratio</string>
-    <string name="wide_color_gamut">Wide color gamut</string>
-    <string name="wide_color_supported">Supported</string>
+    <string name="max_resolution">Độ phân giải cao nhất</string>
+    <string name="current_resolution">Độ phân giải hiện tại</string>
+    <string name="ratio">Tỉ lệ</string>
+    <string name="wide_color_gamut">Gam màu rộng</string>
+    <string name="wide_color_supported">Độ phân giải hỗ trợ</string>
 
     <string name="codename">Tên mã</string>
     <string name="release">Phiên bản</string>
@@ -84,13 +84,13 @@
     <string name="build_type">Loại bản dựng</string>
     <string name="tags">Thẻ</string>
     <string name="incremental">Bản nâng cấp</string>
-    <string name="build_date">Build date</string>
+    <string name="build_date">Ngày dựng</string>
     <string name="fingerprint">Chữ ký</string>
     <string name="description">Mô tả</string>
     <string name="bootloader">Bootloader</string>
     <string name="builder">Trình dựng</string>
     <string name="supported_features">Tính năng thiết bị</string>
-    <string name="features">Features</string>
+    <string name="features">Tính năng</string>
     <string name="language">Ngôn ngữ</string>
     <string name="timezone">Múi giờ</string>
 
@@ -121,8 +121,8 @@
     <string name="revision">Hiệu chỉnh</string>
     <string name="family">Họ</string>
     <string name="mode">Mode</string>
-    <string name="mode_supported">Supported</string>
-    <string name="abis">Supported ABI</string>
+    <string name="mode_supported">Hỗ trợ</string>
+    <string name="abis">ABI được hỗ trợ</string>
     <string name="instructions">Chỉ lệnh</string>
     <string name="techprocess">Tiến trình công nghệ</string>
     <string name="unit_nm">nm</string>
@@ -206,7 +206,7 @@
     <string name="mp">MP</string>
     <string name="video_resolution">Video</string>
     <string name="focal_length">Tiêu cự</string>
-    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
+    <string name="focal_length_35mm">Tiêu cự (Tương đương 35 mm)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Định dạng hình ảnh</string>
     <string name="camera_size">Kích cỡ cảm biến</string>
@@ -220,14 +220,14 @@
     <string name="camera_sw_info">Thông tin</string>
     <string name="camera_color_filter">Bộ lọc màu</string>
     <string name="camera_view_angle">Góc nhìn</string>
-    <string name="zoom">Zoom</string>
+    <string name="zoom">Thu phóng</string>
     <string name="crop_factor">Crop factor</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
     <string name="allow">Allow</string>
-    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
-    <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
+    <string name="cam_res_max_info">- Đối với một số thiết bị mà máy ảnh sử dụng pixel binning như 4 trong 1, chỉ độ phân giải cơ bản khả dụng.</string>
+    <string name="cam_res_max_info_perm">- Để có được độ phân giải tối đa của hình ảnh, bạn có thể thử cho phép quyền truy cập máy ảnh.</string>
 
     <!-- Battery -->
 
@@ -247,7 +247,7 @@
     <string name="charge_speed">Tốc độ sạc</string>
     <string name="discharge_speed">Tốc độ xả</string>
     <string name="time_to_full_charge">Thời gian để sạc đầy</string>
-    <string name="bat_cycle_count">Cycle count</string>
+    <string name="bat_cycle_count">Chu kỳ sạc</string>
 
     <string name="charge_ac">Sạc qua AC</string>
     <string name="charge_usb">Sạc qua USB</string>
@@ -262,9 +262,9 @@
     <string name="signal">Tín hiệu</string>
     <string name="channel">Kênh</string>
     <string name="net_level">Cường độ</string>
-    <string name="not_connected">Not connected</string>
-    <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="not_connected">Chưa kết nối</string>
+    <string name="standard">Tiêu chuẩn</string>
+    <string name="support_5ghz">Băng tần 5 GHz</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Loại điện thoại</string>
@@ -364,8 +364,8 @@
     <string name="pref_title_detect_therm_zones">Phát hiện vùng nhiệt</string>
     <string name="pref_description_detect_therm_zones">Phát hiện tên vùng nhiệt (root)</string>
 
-    <string name="pref_title_ad_tz_name">Thermal zone name</string>
-    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_ad_tz_name">Tên thermal zone</string>
+    <string name="pref_description_ad_tz_name">Hiển thị tên thermal zone</string>
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
@@ -384,15 +384,15 @@
     <string name="app_exit">Thoát ra</string>
 
     <!-- PRO -->
-    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
+    <string name="using_theme_start_non_pro">Bạn có thể sử dụng chủ đề BLACK trong 14 ngày. Sau đó sử dụng chủ đề Dark hoặc nâng cấp lên bản PRO.</string>
     <string name="using_theme_expired_non_pro">Xin lỗi, việc dùng chủ đề tối miễn phí hiện đã hết hạn!\nNó khả dụng trên phiên bản PRO.</string>
     <string name="pro_version_info">
-Features:\n
- • Full theme support\n
- • Create report and send by email\n
- • Copy text by long press in info lists\n
- • New design of battery tab with charge / discharge chart\n
- • Early access to new version
+Tính năng:\n
+ • Hỗ trợ đầy đủ chủ đề\n
+ • Tạo báo cáo và gửi qua Email\n
+ • Sao chép văn bản bằng cách nhấn giữ \n
+ • Thiết kế mới của tab pin với biểu đồ sạc / xả\n
+ • Được trải nghiệm phiên bản mới trước
 </string>
 
     <!-- Info center -->
@@ -438,10 +438,10 @@ Features:\n
 
     <!-- App info -->
 
-    <string name="app_details">App details</string>
-    <string name="app_extract">Extract</string>
-    <string name="app_extract_ok">Extracted successfully to</string>
-    <string name="app_extract_err">Extraction failed!</string>
+    <string name="app_details">Chi tiết ứng dụng</string>
+    <string name="app_extract">Giải nén</string>
+    <string name="app_extract_ok">Đã giải nén thành công tới</string>
+    <string name="app_extract_err">Không thể giải nén!</string>
 
     <!-- Clipboard -->
 
@@ -449,9 +449,9 @@ Features:\n
 
     <!-- Strings related to About -->
 
-    <string name="about_version">phiên bản</string>
+    <string name="about_version">Phiên bản</string>
 
-    <string name="about_author">tác giả\n
+    <string name="about_author">Tác giả\n
         Andrey Efremov\n
         aka andr7e</string>
 
