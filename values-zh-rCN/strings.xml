@@ -5,6 +5,7 @@
     <string name="action_info_center">信息中心</string>
     <string name="action_screen_test">屏幕测试</string>
     <string name="action_engineer_menu">工程菜单</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">选项</string>
     <string name="action_rate_app">评价应用</string>
@@ -248,6 +249,7 @@
     <string name="discharge_speed">放电速度</string>
     <string name="time_to_full_charge">充满电的时间</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">通过交流电充电</string>
     <string name="charge_usb">通过USB充电</string>
@@ -263,7 +265,8 @@
     <string name="net_level">级别</string>
     <string name="not_connected">未连接</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">5 GHz 频段</string>
+    <string name="support_ghz">%1d GHz 频段</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">电话类型</string>

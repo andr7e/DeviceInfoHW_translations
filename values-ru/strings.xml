@@ -5,6 +5,7 @@
     <string name="action_info_center">Инфо-центр</string>
     <string name="action_screen_test">Тесты экрана</string>
     <string name="action_engineer_menu">Инженерное меню</string>
+    <string name="action_test_fake">Тест на фейк в тексте</string>
 
     <string name="nav_header_options">Опции</string>
     <string name="action_rate_app">Поставить оценку</string>
@@ -250,6 +251,7 @@
     <string name="discharge_speed">Скорость разряда</string>
     <string name="time_to_full_charge">Время до полной зарядки</string>
     <string name="bat_cycle_count">Кол-во циклов</string>
+    <string name="throttling">Троттлинг</string>
 
     <string name="charge_ac">Зарядка по сети</string>
     <string name="charge_usb">Зарядка по USB</string>
@@ -265,7 +267,8 @@
     <string name="net_level">Уровень</string>
     <string name="not_connected">Не подключено</string>
     <string name="standard">Стандарт</string>
-    <string name="support_5ghz">Диапазон 5 GHz</string>
+    <string name="support_ghz">Диапазон %1d GHz</string>
+    <string name="wifi_connection">Подключение</string>
 
     <!-- SIM -->
 

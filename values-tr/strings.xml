@@ -5,6 +5,7 @@
     <string name="action_info_center">Bilgi merkezi</string>
     <string name="action_screen_test">Ekran testi</string>
     <string name="action_engineer_menu">Mühendislik menüsü</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Seçenekler</string>
     <string name="action_rate_app">Uygulamayı Değerlendir</string>
@@ -248,6 +249,7 @@
     <string name="discharge_speed">Deşarj hızı</string>
     <string name="time_to_full_charge">Time to full charge</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">AC ile şarj</string>
     <string name="charge_usb">USB ile şarj</string>
@@ -264,7 +266,8 @@
     <string name="net_level">Düzey</string>
     <string name="not_connected">Not connected</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
 

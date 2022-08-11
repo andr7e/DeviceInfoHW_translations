@@ -5,6 +5,7 @@
     <string name="action_info_center">مركز المعلومات</string>
     <string name="action_screen_test">إختبار الشاشة</string>
     <string name="action_engineer_menu">Engineering menu</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">خيارات أخرى</string>
     <string name="action_rate_app">تقييم التطبيق</string>
@@ -250,6 +251,7 @@
     <string name="discharge_speed">سرعة التفريق</string>
     <string name="time_to_full_charge">Time to full charge</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">تيار متردد</string>
     <string name="charge_usb">كيبل يو اس بي</string>
@@ -266,7 +268,8 @@
     <string name="net_level">مستوى الإشارة</string>
     <string name="not_connected">Not connected</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
 

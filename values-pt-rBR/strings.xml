@@ -5,6 +5,7 @@
     <string name="action_info_center">Centro de informação</string>
     <string name="action_screen_test">Testar tela</string>
     <string name="action_engineer_menu">Menu de engenharia</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Opções</string>
     <string name="action_rate_app">Avaliar App</string>
@@ -247,6 +248,7 @@
     <string name="discharge_speed">Velocidade de descarregamento</string>
     <string name="time_to_full_charge">Time to full charge</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">Carregando via AC</string>
     <string name="charge_usb">Carregando via USB</string>
@@ -263,7 +265,8 @@
     <string name="net_level">Nível</string>
     <string name="not_connected">Not connected</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
 

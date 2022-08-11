@@ -5,6 +5,7 @@
     <string name="action_info_center">Info сenter</string>
     <string name="action_screen_test">スクリーンテスト</string>
     <string name="action_engineer_menu">Engineering menu</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">オプション</string>
     <string name="action_rate_app">アプリを評価する</string>
@@ -248,6 +249,7 @@
     <string name="discharge_speed">Discharge speed</string>
     <string name="time_to_full_charge">満充電までの時間</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">ACで充電</string>
     <string name="charge_usb">USBで充電</string>
@@ -263,7 +265,8 @@
     <string name="net_level">レベル</string>
     <string name="not_connected">未接続</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">携帯のタイプ</string>

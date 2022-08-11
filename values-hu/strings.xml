@@ -5,6 +5,7 @@
     <string name="action_info_center">Infó központ</string>
     <string name="action_screen_test">Képernyő Teszt</string>
     <string name="action_engineer_menu">Mérnöki menü</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Opciók</string>
     <string name="action_rate_app">App értékelése</string>
@@ -249,6 +250,7 @@
     <string name="discharge_speed">Merülési sebesség</string>
     <string name="time_to_full_charge">Time to full charge</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">Töltés AC-n keresztül</string>
     <string name="charge_usb">Töltés USB-n keresztül</string>
@@ -264,7 +266,8 @@
     <string name="net_level">Level</string>
     <string name="not_connected">Not connected</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
 

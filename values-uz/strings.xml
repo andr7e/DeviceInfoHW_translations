@@ -5,6 +5,7 @@
     <string name="action_info_center">Axborot markazi</string>
     <string name="action_screen_test">Ekranni sinamoq</string>
     <string name="action_engineer_menu">Muhandislik menyusi</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Tanlovlar</string>
     <string name="action_rate_app">Baholamoq</string>
@@ -250,6 +251,7 @@
     <string name="discharge_speed">Quvvatlamaslik tezligi</string>
     <string name="time_to_full_charge">Quvvat toʻlish vaqti</string>
     <string name="bat_cycle_count">Sikllar miqdori</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">Tarmoq b-n quvvatlash</string>
     <string name="charge_usb">USB b-n quvvatlash</string>
@@ -265,7 +267,8 @@
     <string name="net_level">Darajasi</string>
     <string name="not_connected">Ulanmagan</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">5 GHz diapazon</string>
+    <string name="support_ghz">%1d GHz diapazon</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
 

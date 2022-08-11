@@ -5,6 +5,7 @@
     <string name="action_info_center">Κεντρο πληροφοριων</string>
     <string name="action_screen_test">Δοκιμη οθονης</string>
     <string name="action_engineer_menu">Μηχανικο μενου</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Επιλογες</string>
     <string name="action_rate_app">Βαθμολογηστε εφαρμογη</string>
@@ -248,6 +249,7 @@
     <string name="discharge_speed">Ταχύτητα εκφόρτισης</string>
     <string name="time_to_full_charge">Time to full charge</string>
     <string name="bat_cycle_count">Cycle count</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">Φόρτιση μέσω AC</string>
     <string name="charge_usb">Φόρτιση μέσω USB</string>
@@ -263,7 +265,8 @@
     <string name="net_level">Επίπεδο</string>
     <string name="not_connected">Not connected</string>
     <string name="standard">Standard</string>
-    <string name="support_5ghz">Band 5 GHz</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Τύπος τηλεφώνου</string>

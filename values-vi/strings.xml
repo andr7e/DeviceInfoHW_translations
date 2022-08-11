@@ -5,6 +5,7 @@
     <string name="action_info_center">Trung tâm thông tin</string>
     <string name="action_screen_test">Kiểm tra màn hình</string>
     <string name="action_engineer_menu">Menu kỹ thuật</string>
+    <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Tùy chọn</string>
     <string name="action_rate_app">Đánh giá ứng dụng</string>
@@ -248,6 +249,7 @@
     <string name="discharge_speed">Tốc độ xả</string>
     <string name="time_to_full_charge">Thời gian để sạc đầy</string>
     <string name="bat_cycle_count">Chu kỳ sạc</string>
+    <string name="throttling">Throttling</string>
 
     <string name="charge_ac">Sạc qua AC</string>
     <string name="charge_usb">Sạc qua USB</string>
@@ -264,7 +266,8 @@
     <string name="net_level">Cường độ</string>
     <string name="not_connected">Chưa kết nối</string>
     <string name="standard">Tiêu chuẩn</string>
-    <string name="support_5ghz">Băng tần 5 GHz</string>
+    <string name="support_ghz">Băng tần %1d GHz</string>
+    <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Loại điện thoại</string>
