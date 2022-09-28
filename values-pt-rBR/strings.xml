@@ -5,7 +5,7 @@
     <string name="action_info_center">Centro de informação</string>
     <string name="action_screen_test">Testar tela</string>
     <string name="action_engineer_menu">Menu de engenharia</string>
-    <string name="action_test_fake">Test for fake text</string>
+    <string name="action_test_fake">Teste para texto falso</string>
 
     <string name="nav_header_options">Opções</string>
     <string name="action_rate_app">Avaliar App</string>
@@ -31,7 +31,7 @@
     <string name="tab_input">Entrada</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Codecs</string>
-    <string name="tab_screen">Screen</string>
+    <string name="tab_screen">Tela</string>
 
     <string name="tab_system_apps">Aplicativos do Sistema</string>
     <string name="tab_camera_supported">Câmeras suportadas</string>
@@ -50,11 +50,11 @@
     <string name="platform">Plataforma</string>
     <string name="board">Placa</string>
     <string name="resolution">Resolução</string>
-    <string name="max_resolution">Max. resolution</string>
-    <string name="current_resolution">Current resolution</string>
-    <string name="ratio">Ratio</string>
-    <string name="wide_color_gamut">Wide color gamut</string>
-    <string name="wide_color_supported">Supported</string>
+    <string name="max_resolution">Resolução máx.</string>
+    <string name="current_resolution">Resolução atual</string>
+    <string name="ratio">Proporção</string>
+    <string name="wide_color_gamut">Ampla gama de cores</string>
+    <string name="wide_color_supported">Suportado</string>
 
     <string name="codename">Codinome</string>
     <string name="release">Lançamento</string>
@@ -64,8 +64,8 @@
     <string name="kernel">Kernel</string>
 
     <string name="ram">RAM</string>
-    <string name="free">Free:</string>
-    <string name="used">Used:</string>
+    <string name="free">Livre:</string>
+    <string name="used">Usado:</string>
     <string name="total">Total:</string>
     <string name="flash">Flash</string>
     <string name="flash_size">Tamanho Flash</string>
@@ -85,14 +85,14 @@
     <string name="build_type">Tipo de construção</string>
     <string name="tags">Tags</string>
     <string name="incremental">Incremental</string>
-    <string name="build_date">Build date</string>
+    <string name="build_date">Data de construção</string>
     <string name="fingerprint">Identificação</string>
     <string name="description">Descrição</string>
     <string name="bootloader">Bootloader</string>
     <string name="builder">Compilador</string>
     <string name="supported_features">Recursos do dispositivo</string>
-    <string name="features">Features</string>
-    <string name="language">Linguagem</string>
+    <string name="features">Recursos</string>
+    <string name="language">Idioma</string>
     <string name="timezone">Fuso horário</string>
 
     <string name="version">Versão</string>
@@ -121,11 +121,11 @@
     <string name="cores">Núcleos</string>
     <string name="revision">Revisão</string>
     <string name="family">Família</string>
-    <string name="mode">Mode</string>
-    <string name="mode_supported">Supported</string>
-    <string name="abis">Supported ABI</string>
+    <string name="mode">Modo</string>
+    <string name="mode_supported">Suportado</string>
+    <string name="abis">ABI suportadas</string>
     <string name="instructions">Instruções</string>
-    <string name="techprocess">Process technology</string>
+    <string name="techprocess">Processo tecnológico</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Velocidade</string>
     <string name="governor">Governador</string>
@@ -141,19 +141,19 @@
     <string name="density">Densidade</string>
     <string name="refresh_rate">Taxa de atualização</string>
     <string name="diagonal">Diagonal</string>
-    <string name="size">Size</string>
-    <string name="modes">Modes</string>
+    <string name="size">Tamanho</string>
+    <string name="modes">Modos</string>
 
     <!-- Sensors -->
     <string name="test">TESTAR</string>
     <string name="info">INFO</string>
 
-    <string name="title_activity_light_sensor">Light Sensor Test</string>
-    <string name="title_activity_proximity_sensor">Proximity Sensor Test</string>
-    <string name="title_activity_accelerometer_sensor">Accelerometer Test</string>
-    <string name="title_activity_magnetometer_sensor">Magnetometer Test</string>
-    <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
-    <string name="title_activity_pressure_sensor">Barometer Test</string>
+    <string name="title_activity_light_sensor">Teste do sensor de luz</string>
+    <string name="title_activity_proximity_sensor">Teste de Sensor de Proximidade</string>
+    <string name="title_activity_accelerometer_sensor">Teste do acelerômetro</string>
+    <string name="title_activity_magnetometer_sensor">Teste do magnetômetro</string>
+    <string name="title_activity_gyroscope_sensor">Teste de Giroscópio</string>
+    <string name="title_activity_pressure_sensor">Teste de Barômetro</string>
 
     <string name="accelerometer">Acelerômetro</string>
     <string name="magnetometer">Magnetômetro</string>
@@ -162,7 +162,7 @@
     <string name="light">Iluminação</string>
     <string name="pressure">Barômetro</string>
 
-    <string name="no_input_data">No data from sensor</string>
+    <string name="no_input_data">Sem dados do sensor</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -172,16 +172,16 @@
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
 
-    <string name="s_name">Name:</string>
-    <string name="s_vendor">Vendor:</string>
-    <string name="s_version">Version:</string>
-    <string name="s_max_range">Max range:</string>
-    <string name="s_resolution">Resolution:</string>
-    <string name="s_power">Power:</string>
-    <string name="s_unit">Unit:</string>
-    <string name="s_type">Type:</string>
+    <string name="s_name">Nome:</string>
+    <string name="s_vendor">Fornecedor:</string>
+    <string name="s_version">Versão:</string>
+    <string name="s_max_range">Alcance máximo:</string>
+    <string name="s_resolution">Resolução:</string>
+    <string name="s_power">Potência:</string>
+    <string name="s_unit">Unidade:</string>
+    <string name="s_type">Tipo:</string>
 
-    <string name="unsupported">unsupported</string>
+    <string name="unsupported">não suportado</string>
 
     <string name="total_sensors">Total:</string>
 
@@ -206,26 +206,26 @@
     <string name="mp">MP</string>
     <string name="video_resolution">Vídeo</string>
     <string name="focal_length">Comprimento do foco</string>
-    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
+    <string name="focal_length_35mm">Comprimento focal (equivalente a 35 mm)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Formatos de imagem</string>
     <string name="camera_size">Tamanho do sensor</string>
-    <string name="optical_format">Optical format</string>
+    <string name="optical_format">Formato óptico</string>
     <string name="camera_diagonal">Diagonal</string>
-    <string name="pixel_size">Pixel size</string>
+    <string name="pixel_size">Tamanho de pixel</string>
     <string name="camera_af_modes">Modos de foco</string>
     <string name="aperture">Abertura</string>
-    <string name="camera_phy_count">Module type</string>
-    <string name="camera_add_modules">Additional cameras</string>
+    <string name="camera_phy_count">Tipo de módulo</string>
+    <string name="camera_add_modules">Câmeras adicionais</string>
     <string name="camera_sw_info">Informações</string>
-    <string name="camera_color_filter">Color Filter</string>
-    <string name="camera_view_angle">Angle of view</string>
+    <string name="camera_color_filter">Filtro de cor</string>
+    <string name="camera_view_angle">Ângulo de visão</string>
     <string name="zoom">Zoom</string>
-    <string name="crop_factor">Crop factor</string>
+    <string name="crop_factor">Fator de corte</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
-    <string name="allow">Allow</string>
+    <string name="allow">Permitir</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
@@ -246,8 +246,8 @@
     <string name="consumption">Consumo</string>
     <string name="charge_speed">Velocidade de carregamento</string>
     <string name="discharge_speed">Velocidade de descarregamento</string>
-    <string name="time_to_full_charge">Time to full charge</string>
-    <string name="bat_cycle_count">Cycle count</string>
+    <string name="time_to_full_charge">Tempo para carga completa</string>
+    <string name="bat_cycle_count">Contagem de ciclo</string>
     <string name="throttling">Throttling</string>
 
     <string name="charge_ac">Carregando via AC</string>
@@ -263,10 +263,10 @@
     <string name="signal">Sinal</string>
     <string name="channel">Canal</string>
     <string name="net_level">Nível</string>
-    <string name="not_connected">Not connected</string>
+    <string name="not_connected">Não conectado</string>
     <string name="standard">Standard</string>
     <string name="support_ghz">Band %1d GHz</string>
-    <string name="wifi_connection">Connection</string>
+    <string name="wifi_connection">Conexão</string>
 
     <!-- SIM -->
 
@@ -332,17 +332,17 @@
 
     <!-- Strings related to Settings -->
 
-    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_settings">@string/action_settings</string>
 
     <string name="pref_category_general">Geral</string>
     <string name="pref_category_appearance">Aparência</string>
     <string name="pref_category_other">Outros</string>
 
-    <string name="pref_title_set_language">Linguagem</string>
+    <string name="pref_title_set_language">@string/language</string>
 
     <string name="language_default">Padrão</string>
 
-    <string name="pref_title_use_root">Usar root</string>
+    <string name="pref_title_use_root">Usuário root</string>
     <string name="pref_description_use_root">Para obter informações completas</string>
 
     <string name="pref_title_show_address">Mostrar endereço i2c</string>
@@ -352,12 +352,12 @@
     <string name="pref_description_dark_theme">Aplicar tema escuro na interface</string>
 
     <string name="pref_title_theme">Tema da interface</string>
-    <string name="pref_text_scale">Text scaling</string>
+    <string name="pref_text_scale">Escala de texto</string>
 
     <string name="pref_title_invert_charge_speed">Inverter bateria atual</string>
     <string name="pref_description_invert_charge_speed">Inverter velocidade de carregamento / descarregamento</string>
-    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
-    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
+    <string name="pref_title_use_charged_to">Use \'carregado até\'</string>
+    <string name="pref_description_use_charged_to">Mostrar o valor da bateria \'carregado até\', nem todos os dispositivos totalmente compatíveis</string>
 
     <string name="pref_title_temp_in_f_deg">Temperatura em &#xb0;F</string>
     <string name="pref_description_temp_in_f_deg">Mostrar temperatura em Fahrenheit</string>
@@ -365,18 +365,16 @@
     <string name="pref_title_detect_therm_zones">Detectar zonas térmicas</string>
     <string name="pref_description_detect_therm_zones">Detectar nome das zonas térmicas (root)</string>
 
-    <string name="pref_title_ad_tz_name">Thermal zone name</string>
-    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
-    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
-    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
+    <string name="pref_title_ad_tz_name">Nome da zona térmica</string>
+    <string name="pref_description_ad_tz_name">Mostrar nome da zona térmica</string>
+    <string name="pref_title_use_pressure_mm_hg">Unidade de pressão</string>
+    <string name="pref_description_use_pressure_mm_hg">Use pressão em mm Hg</string>
 
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Mensagem</string>
 
-    <string name="root_hw_detect">In new versions of android, some information is blocked,
-        if you have root access, you can enable it in the settings.
-        More details will be available.</string>
+    <string name="root_hw_detect">Nas novas versões do android, algumas informações são bloqueadas, se você tiver acesso root, poderá habilitá-lo nas configurações. Mais detalhes estarão disponíveis.</string>
 
     <!-- Defender -->
     <string name="app_defender">Defensor de aplicativos</string>
@@ -385,15 +383,15 @@
     <string name="app_exit">Sair</string>
 
     <!-- PRO -->
-    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
+    <string name="using_theme_start_non_pro">Você pode usar o tema preto 14 dias. Depois disso, use o tema escuro ou atualize para o PRO.</string>
     <string name="using_theme_expired_non_pro">Desculpe, mas o uso de temas grátis expirou!\nEstá disponível na versão PRO.</string>
     <string name="pro_version_info">
-Features:\n
- • Full theme support\n
- • Create report and send by email\n
- • Copy text by long press in info lists\n
- • New design of battery tab with charge / discharge chart\n
- • Early access to new version
+Recursos:\n
+• Suporte completo a temas\n 
+• Criar relatório e enviar por e-mail\n 
+• Copie o texto pressionando longamente nas listas de informações\n 
+• Novo design da guia da bateria com gráfico de carga/descarga\n 
+• Acesso antecipado a novas versões
 </string>
 
     <!-- Info center -->
@@ -432,23 +430,23 @@ Features:\n
     <string name="i2c_viewer_label">Lista de dispositivos</string>
     <string name="i2c_viewer_info">Dispositivos em i2c, spi bus</string>
 
-    <string name="exif_cam_label">EXIF Camera Info</string>
+    <string name="exif_cam_label">Informações da câmera EXIF</string>
     <string name="exif_cam_info">Ler informações EXIF da imagem</string>
     <string name="open_img_file_label">Abrir arquivo de imagem…</string>
 
     <string name="error_read_sysfs">Desculpe, mas em seu firmware a leitura de sysfs está desativada. Apenas parte da informação estará disponível.</string>
-    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+    <string name="title_bat_show_chart_rate">Gráfico de carga/descarga</string>
 
     <!-- App info -->
 
-    <string name="app_details">App details</string>
-    <string name="app_extract">Extract</string>
-    <string name="app_extract_ok">Extracted successfully to</string>
-    <string name="app_extract_err">Extraction failed!</string>
+    <string name="app_details">Detalhes do aplicativo</string>
+    <string name="app_extract">Extrair</string>
+    <string name="app_extract_ok">Extraído com sucesso para</string>
+    <string name="app_extract_err">A extração falhou!</string>
 
     <!-- Clipboard -->
 
-    <string name="copied_to_clipboard">Copied to clipboard:</string>
+    <string name="copied_to_clipboard">Copiado para a área de transferência:</string>
 
     <!-- Strings related to About -->
 
