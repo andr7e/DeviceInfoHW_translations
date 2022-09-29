@@ -342,7 +342,7 @@
 
     <string name="language_default">Padrão</string>
 
-    <string name="pref_title_use_root">Usuário root</string>
+    <string name="pref_title_use_root">Usar root</string>
     <string name="pref_description_use_root">Para obter informações completas</string>
 
     <string name="pref_title_show_address">Mostrar endereço i2c</string>
@@ -446,7 +446,7 @@ Recursos:\n
 
     <!-- Clipboard -->
 
-    <string name="copied_to_clipboard">Copiado para a área de transferência:</string>
+    <string name="copied_to_clipboard">Texto copiado:</string>
 
     <!-- Strings related to About -->
 
