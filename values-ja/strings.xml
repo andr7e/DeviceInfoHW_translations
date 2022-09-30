@@ -218,6 +218,7 @@
     <string name="aperture">Aperture</string>
     <string name="camera_phy_count">モジュールのタイプ</string>
     <string name="camera_add_modules">Additional cameras</string>
+    <string name="camera_all_modules">Modules</string>
     <string name="camera_sw_info">情報</string>
     <string name="camera_color_filter">カラーフィルター</string>
     <string name="camera_view_angle">Angle of view</string>

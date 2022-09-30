@@ -217,6 +217,7 @@
     <string name="aperture">Abertura</string>
     <string name="camera_phy_count">Tipo de módulo</string>
     <string name="camera_add_modules">Câmeras adicionais</string>
+    <string name="camera_all_modules">Modules</string>
     <string name="camera_sw_info">Informações</string>
     <string name="camera_color_filter">Filtro de cor</string>
     <string name="camera_view_angle">Ângulo de visão</string>

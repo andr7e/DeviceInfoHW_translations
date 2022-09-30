@@ -218,6 +218,7 @@
     <string name="aperture">Ανοιγμα</string>
     <string name="camera_phy_count">Μοναδα καμερας</string>
     <string name="camera_add_modules">Πρόσθετες κάμερες</string>
+    <string name="camera_all_modules">Modules</string>
     <string name="camera_sw_info">Πληροφορίες</string>
     <string name="camera_color_filter">Φίλτρο χρώματος</string>
     <string name="camera_view_angle">Προβολή γωνίας</string>

@@ -218,6 +218,7 @@
     <string name="aperture">光圈</string>
     <string name="camera_phy_count">模组类型</string>
     <string name="camera_add_modules">额外的相机</string>
+    <string name="camera_all_modules">Modules</string>
     <string name="camera_sw_info">信息</string>
     <string name="camera_color_filter">彩色滤光片</string>
     <string name="camera_view_angle">视角</string>

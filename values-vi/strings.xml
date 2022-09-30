@@ -218,6 +218,7 @@
     <string name="aperture">Khẩu độ</string>
     <string name="camera_phy_count">Loại mô-đun</string>
     <string name="camera_add_modules">Máy ảnh bổ sung</string>
+    <string name="camera_all_modules">Modules</string>
     <string name="camera_sw_info">Thông tin</string>
     <string name="camera_color_filter">Bộ lọc màu</string>
     <string name="camera_view_angle">Góc nhìn</string>

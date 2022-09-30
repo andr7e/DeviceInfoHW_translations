@@ -220,6 +220,7 @@
     <string name="aperture">Апертура</string>
     <string name="camera_phy_count">Тип модуля</string>
     <string name="camera_add_modules">Доп. камеры</string>
+    <string name="camera_all_modules">Модули</string>
     <string name="camera_sw_info">Инфо</string>
     <string name="camera_color_filter">Цветовой фильтр</string>
     <string name="camera_view_angle">Угол обзора</string>

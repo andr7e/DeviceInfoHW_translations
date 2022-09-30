@@ -218,6 +218,7 @@
     <string name="aperture">Açıklık</string>
     <string name="camera_phy_count">Modül tipi</string>
     <string name="camera_add_modules">Ek kameralar</string>
+    <string name="camera_all_modules">Modules</string>
     <string name="camera_sw_info">Bilgi</string>
     <string name="camera_color_filter">Renk filtresi</string>
     <string name="camera_view_angle">Görüş açısı</string>
