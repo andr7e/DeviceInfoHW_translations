@@ -9,7 +9,7 @@
 
     <string name="nav_header_options">Opções</string>
     <string name="action_rate_app">Avaliar App</string>
-    <string name="action_upgrade_to_pro">Atualizar para PRO</string>
+    <string name="action_upgrade_to_pro">Atualize para a versão PRO</string>
 
     <!-- Tabs -->
     <string name="tab_general">Geral</string>
@@ -217,7 +217,7 @@
     <string name="aperture">Abertura</string>
     <string name="camera_phy_count">Tipo de módulo</string>
     <string name="camera_add_modules">Câmeras adicionais</string>
-    <string name="camera_all_modules">Modules</string>
+    <string name="camera_all_modules">Módulos</string>
     <string name="camera_sw_info">Informações</string>
     <string name="camera_color_filter">Filtro de cor</string>
     <string name="camera_view_angle">Ângulo de visão</string>
@@ -227,8 +227,8 @@
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
     <string name="allow">Permitir</string>
-    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
-    <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
+    <string name="cam_res_max_info">- Para alguns dispositivos onde a câmera usa o pixel binning como 4 em 1, somente a resolução base está disponível.</string>
+    <string name="cam_res_max_info_perm">- Para máxima resolução de imagem, você pode tentar ativar a permissão de uso da câmera.</string>
 
     <!-- Battery -->
 
@@ -266,7 +266,7 @@
     <string name="net_level">Nível</string>
     <string name="not_connected">Não conectado</string>
     <string name="standard">Standard</string>
-    <string name="support_ghz">Band %1d GHz</string>
+    <string name="support_ghz">Banda %1d GHz</string>
     <string name="wifi_connection">Conexão</string>
 
     <!-- SIM -->
@@ -317,7 +317,7 @@
     <string name="usb_num">Número</string>
     <string name="usb_bus">ID do dispositivo</string>
     <string name="usb_ver">Versão</string>
-    <string name="usb_not_found">Dispositivos não encontrado</string>
+    <string name="usb_not_found">Dispositivos não encontrados</string>
 
     <!-- MTK -->
 
@@ -375,21 +375,21 @@
 
     <string name="first_install_title">Mensagem</string>
 
-    <string name="root_hw_detect">Nas novas versões do android, algumas informações são bloqueadas, se você tiver acesso root, poderá habilitá-lo nas configurações. Mais detalhes estarão disponíveis.</string>
+    <string name="root_hw_detect">Nas novas versões do Android algumas informações são bloqueadas, caso você tenha acesso root você pode ativar para usar nas configurações e mais informações estarão disponíveis.</string>
 
     <!-- Defender -->
     <string name="app_defender">Defensor de aplicativos</string>
-    <string name="app_defender_msg">Desculpe, mas o defensor não pôde verificar a validade do aplicativo.\nPor favor conecte-se à internet e toque para verificar novamente.</string>
+    <string name="app_defender_msg">Desculpe, mas o defensor não pode verificar a validade do aplicativo.\nConecte-se à Internet e clique em verificar novamente.</string>
     <string name="app_recheck">Verificar novamente</string>
     <string name="app_exit">Sair</string>
 
     <!-- PRO -->
-    <string name="using_theme_start_non_pro">Você pode usar o tema preto 14 dias. Depois disso, use o tema escuro ou atualize para o PRO.</string>
-    <string name="using_theme_expired_non_pro">Desculpe, mas o uso de temas grátis expirou!\nEstá disponível na versão PRO.</string>
+    <string name="using_theme_start_non_pro">Você pode usar o tema preto por 14 dias. Depois disso, use o tema escuro ou atualize para a versão PRO.</string>
+    <string name="using_theme_expired_non_pro">Desculpe, mas o uso de temas grátis expirou!\nEstá disponível agora apenas na versão PRO.</string>
     <string name="pro_version_info">
 Recursos:\n
 • Suporte completo a temas\n 
-• Criar relatório e enviar por e-mail\n 
+• Criar relatório e enviar por email\n 
 • Copie o texto pressionando longamente nas listas de informações\n 
 • Novo design da guia da bateria com gráfico de carga/descarga\n 
 • Acesso antecipado a novas versões
@@ -403,8 +403,8 @@ Recursos:\n
 
     <string name="create_report">Criar relatório</string>
     <string name="create_report_msg">Relatório criado com sucesso!\nAbrir</string>
-    <string name="create_report_err">Não foi possível criar relatório!</string>
-    <string name="create_report_err_non_pro">Não é possível criar relatório!\nEstá disponível na versão PRO.</string>
+    <string name="create_report_err">Não foi possível criar o relatório!</string>
+    <string name="create_report_err_non_pro">Não é possível criar relatório!\nVocê só pode fazer isso na versão PRO.</string>
     <string name="create_report_info">Informações do dispositivo serão salvas em um arquivo html/pdf na pasta de dados do aplicativo.</string>
     <string name="create">Criar</string>
 
@@ -422,9 +422,7 @@ Recursos:\n
     <string name="update_component_msg">Regras de detecção atualizadas com sucesso. Reinicie o aplicativo para aplicar as alterações.</string>
 
     <string name="upload_info_label">Atualizar informações do dispositivo</string>
-    <string name="upload_info_text">Isso ajuda a tornar o programa melhor, melhora o suporte a dispositivos
-        e outros desenvolvedores podem encontrar dispositivos similares e drivers requeridos.
-        Resultado armazenado na base de dados. Você pode ver em:</string>
+    <string name="upload_info_text">Isso ajuda a melhorar o aplicativo, melhorar o suporte a dispositivos e outros desenvolvedores podem encontrar dispositivos semelhantes e drivers necessários. Resultado armazenado em banco de dados. Você pode ver em:</string>
 
     <string name="kernel_analyzer_label">Analisador de Kernel</string>
 
@@ -443,7 +441,7 @@ Recursos:\n
     <string name="app_details">Detalhes do aplicativo</string>
     <string name="app_extract">Extrair</string>
     <string name="app_extract_ok">Extraído com sucesso para</string>
-    <string name="app_extract_err">A extração falhou!</string>
+    <string name="app_extract_err">Erro ao extrair!</string>
 
     <!-- Clipboard -->
 
