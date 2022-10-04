@@ -9,7 +9,7 @@
 
     <string name="nav_header_options">Opções</string>
     <string name="action_rate_app">Avaliar App</string>
-    <string name="action_upgrade_to_pro">Atualize para a versão PRO</string>
+    <string name="action_upgrade_to_pro">Atualizar para PRO</string>
 
     <!-- Tabs -->
     <string name="tab_general">Geral</string>
