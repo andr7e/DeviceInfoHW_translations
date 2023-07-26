@@ -5,7 +5,7 @@
     <string name="action_info_center">Infó központ</string>
     <string name="action_screen_test">Képernyő Teszt</string>
     <string name="action_engineer_menu">Mérnöki menü</string>
-    <string name="action_test_fake">Test for fake text</string>
+    <string name="action_test_fake">Próbaszöveg teszt</string>
 
     <string name="nav_header_options">Opciók</string>
     <string name="action_rate_app">App értékelése</string>
@@ -183,9 +183,9 @@
     <string name="s_unit">Mértékegység:</string>
     <string name="s_type">Típus:</string>
 
-    <string name="unsupported">unsupported</string>
+    <string name="unsupported">nem támogatott</string>
 
-    <string name="total_sensors">Total:</string>
+    <string name="total_sensors">Összesen:</string>
 
     <!-- Memory -->
 
@@ -196,45 +196,45 @@
 
     <string name="camera_vendor">Gyártó</string>
     <string name="camera_model">Típus</string>
-    <string name="camera_supported">Támogatva</string>
+    <string name="camera_supported">Támogatott</string>
 
     <string name="software">Szoftver</string>
     <string name="hardware">Hardver</string>
 
-    <string name="orientation">Orientáció</string>
+    <string name="orientation">Tájolás</string>
     <string name="camera_flash">Flash</string>
     <string name="yes">igen</string>
     <string name="no">nem</string>
     <string name="mp">MP</string>
-    <string name="video_resolution">Vide</string>
+    <string name="video_resolution">Videófelbontás</string>
     <string name="focal_length">Fókusztávolság</string>
-    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
+    <string name="focal_length_35mm">Fokúsztávolság (35 mm ekvivalens)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Fénykép formátumok</string>
-    <string name="camera_size">Szensor mérete</string>
-    <string name="optical_format">Optical format</string>
-    <string name="camera_diagonal">Diagonal</string>
-    <string name="pixel_size">Pixel size</string>
+    <string name="camera_size">Szenzorméret</string>
+    <string name="optical_format">Optikai formátumok</string>
+    <string name="camera_diagonal">Átmérő</string>
+    <string name="pixel_size">Képpontméret</string>
     <string name="camera_af_modes">Fókusz módok</string>
     <string name="aperture">Rekesz</string>
-    <string name="camera_phy_count">Module type</string>
-    <string name="camera_add_modules">Additional cameras</string>
-    <string name="camera_all_modules">Modules</string>
+    <string name="camera_phy_count">Modul típus</string>
+    <string name="camera_add_modules">További kamerák</string>
+    <string name="camera_all_modules">Modulok</string>
     <string name="camera_sw_info">Info</string>
-    <string name="camera_color_filter">Color Filter</string>
-    <string name="camera_view_angle">Angle of view</string>
-    <string name="zoom">Zoom</string>
-    <string name="crop_factor">Crop factor</string>
+    <string name="camera_color_filter">Színszűrő</string>
+    <string name="camera_view_angle">Látószög</string>
+    <string name="zoom">Nagyítás</string>
+    <string name="crop_factor">Levágási faktor</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
-    <string name="allow">Allow</string>
-    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
-    <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
+    <string name="allow">Engedélyezés</string>
+    <string name="cam_res_max_info">- Egyes eszközökön, ahol a kamera pixel-binninget használ, például 4 az 1-ben, csak az alapfelbontás érhető el.</string>
+    <string name="cam_res_max_info_perm">- A kép maximális felbontása érdekében megpróbálhatja megadni a kameraengedélyt.</string>
 
     <!-- Battery -->
 
-    <string name="level">Szint</string>
+    <string name="level">Töltöttség</string>
     <string name="health">Egészség</string>
     <string name="status">Állapot</string>
 
@@ -242,16 +242,16 @@
     <string name="technology">Technológia</string>
     <string name="temperature">Hőmérséklet</string>
     <string name="voltage">Feszültség</string>
-    <string name="power_profile">Teljesítményprofil</string>
+    <string name="power_profile">Kapacitásprofil</string>
     <string name="kernel_profile">Kernel profil</string>
-    <string name="charged_to">Charged up to</string>
+    <string name="charged_to">Feltöltve eddig</string>
     <string name="battery_model">Típus</string>
     <string name="consumption">Fogyasztás</string>
     <string name="charge_speed">Töltési sebesség</string>
     <string name="discharge_speed">Merülési sebesség</string>
-    <string name="time_to_full_charge">Time to full charge</string>
-    <string name="bat_cycle_count">Cycle count</string>
-    <string name="throttling">Throttling</string>
+    <string name="time_to_full_charge">Teljes feltöltéshez szükséges idő</string>
+    <string name="bat_cycle_count">Ciklusszámláló</string>
+    <string name="throttling">Fojtás</string>
 
     <string name="charge_ac">Töltés AC-n keresztül</string>
     <string name="charge_usb">Töltés USB-n keresztül</string>
@@ -263,19 +263,19 @@
     <string name="link_speed">Link sebesség</string>
     <string name="frequency">Frekvencia</string>
     <string name="signal">Jel</string>
-    <string name="channel">Channel</string>
-    <string name="net_level">Level</string>
-    <string name="not_connected">Not connected</string>
-    <string name="standard">Standard</string>
-    <string name="support_ghz">Band %1d GHz</string>
-    <string name="wifi_connection">Connection</string>
+    <string name="channel">Csatorna</string>
+    <string name="net_level">Jelerősség</string>
+    <string name="not_connected">Nem csatlakozik</string>
+    <string name="standard">Hagyományos</string>
+    <string name="support_ghz">%1d GHz-es sáv</string>
+    <string name="wifi_connection">Kapcsolat</string>
 
     <!-- SIM -->
 
     <string name="sim_phone_type">Telefon típus</string>
     <string name="sim_operator_name">Szolgáltató</string>
     <string name="sim_operator_code">Szolgáltató kódja</string>
-    <string name="sim_country_code">Ország kódja</string>
+    <string name="sim_country_code">Országkód</string>
     <string name="network_type">Hálózat típusa</string>
     <string name="sim_state">SIM állapot</string>
     <string name="sim_icc_card">ICC kártya</string>
@@ -304,8 +304,8 @@
     <string name="lcd_info">LCD szín teszt</string>
     <string name="lcd_desc">A képernyő színének és a hibás pixelek ellenőrzése</string>
 
-    <string name="multitouch_label">Többérintéses</string>
-    <string name="multitouch_info">Képernyő többétrintéses teszt</string>
+    <string name="multitouch_label">Többujjas érintés</string>
+    <string name="multitouch_info">Képernyő többujjas érintéses teszt</string>
     <string name="multitouch_desc">Ellenőrizze hány ujjat támogat a készülék</string>
 
     <string name="touchdraw_label">Érintéses rajzolás</string>
@@ -314,7 +314,7 @@
 
     <!-- USB -->
 
-    <string name="usb_path">Út</string>
+    <string name="usb_path">Elérési út</string>
     <string name="usb_num">Szám</string>
     <string name="usb_bus">Eszköz ID</string>
     <string name="usb_ver">Verzió</string>
@@ -344,25 +344,25 @@
 
     <string name="language_default">Alapértelmezett</string>
 
-    <string name="pref_title_use_root">Root használata</string>
+    <string name="pref_title_use_root">Root használat</string>
     <string name="pref_description_use_root">Több információ engedélyezése</string>
 
     <string name="pref_title_show_address">i2c cím mutatása</string>
     <string name="pref_description_show_address">Mutassa az eszköz i2c címét</string>
 
     <string name="pref_title_dark_theme">Sötét téma</string>
-    <string name="pref_description_dark_theme">Sötét téma használata az felületre</string>
+    <string name="pref_description_dark_theme">Sötét téma használata a felületen</string>
 
     <string name="pref_title_theme">Interfész téma</string>
-    <string name="pref_text_scale">Text scaling</string>
+    <string name="pref_text_scale">Szöveg méretezés</string>
 
     <string name="pref_title_invert_charge_speed">Akku értékek megfordítása</string>
     <string name="pref_description_invert_charge_speed">Fordítsa meg az akku töltés / merülés sebességet</string>
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
-    <string name="pref_title_temp_in_f_deg">Hőmerésklet &#xb0;F</string>
-    <string name="pref_description_temp_in_f_deg">Mutassa a hőmérsékletet Fahrenheitban</string>
+    <string name="pref_title_temp_in_f_deg">Hőmerséklet &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Mutassa a hőmérsékletet Fahrenheitbnn</string>
 
     <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
     <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
