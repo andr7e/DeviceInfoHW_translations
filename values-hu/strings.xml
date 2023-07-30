@@ -326,7 +326,7 @@
     <string name="camera_back">Hátlapi Kamera</string>
     <string name="camera_front">Előlapi Kamera</string>
     <string name="mtk_build">Gyártmány</string>
-    <string name="mtk_platform">Platform MTK</string>
+    <string name="mtk_platform">MTK platform</string>
 
     <!-- Report -->
 
@@ -358,44 +358,44 @@
 
     <string name="pref_title_invert_charge_speed">Akku értékek megfordítása</string>
     <string name="pref_description_invert_charge_speed">Fordítsa meg az akku töltés / merülés sebességet</string>
-    <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
-    <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
+    <string name="pref_title_use_charged_to">\'Feltöltve eddig\' használata</string>
+    <string name="pref_description_use_charged_to">\'Feltöltve eddig\' érték mutatása, nem minden eszközzel kompatibilis teljesen</string>
 
     <string name="pref_title_temp_in_f_deg">Hőmerséklet &#xb0;F</string>
-    <string name="pref_description_temp_in_f_deg">Mutassa a hőmérsékletet Fahrenheitbnn</string>
+    <string name="pref_description_temp_in_f_deg">Fahrenheitben mutassa a hőmérsékletet</string>
 
-    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
-    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+    <string name="pref_title_detect_therm_zones">Termikus zónák detektálása</string>
+    <string name="pref_description_detect_therm_zones">Termikus zónák nevének felismerése (root)</string>
 
-    <string name="pref_title_ad_tz_name">Thermal zone name</string>
-    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
-    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
-    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
+    <string name="pref_title_ad_tz_name">Termikus zóna neve</string>
+    <string name="pref_description_ad_tz_name">Termikus zóna nevének mutatása</string>
+    <string name="pref_title_use_pressure_mm_hg">Légnyomás mértékegysége</string>
+    <string name="pref_description_use_pressure_mm_hg">Használja a mm Hg-ban kifejezett nyomást</string>
 
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">Üzenet</string>
 
-    <string name="root_hw_detect">In new versions of android, some information is blocked,
-        if you have root access, you can enable it in the settings.
-        More details will be available.</string>
+    <string name="root_hw_detect">Az android új verzióiban néhány információ blokkolva van,
+        de ha van root hozzáférése, akkor engedélyezheti a beállítások között.
+        További részletek rövidesen.</string>
 
     <!-- Defender -->
     <string name="app_defender">App védő</string>
     <string name="app_defender_msg">Sajnálom de a védő nem tuja ellenőrizni az app hitelességét. Kérem csatlakozzon az internethez és kattintson az újraellenőrzésre.</string>
     <string name="app_recheck">Újraellenőrzés</string>
-    <string name="app_exit">Kilép</string>
+    <string name="app_exit">Kilépés</string>
 
     <!-- PRO -->
-    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
-    <string name="using_theme_expired_non_pro">Sajnáljuk, de az ingyenesen használt téma lejárt!\nElérhető a PRO verzióban.</string>
+    <string name="using_theme_start_non_pro">A fekete témát 14 napig használhatja. Ezután a sötét témát tudja használni vagy frissítsen PRO-ra.</string>
+    <string name="using_theme_expired_non_pro">Sajnáljuk, de a téma ingyenes használati ideje lejárt!\nElérhető a PRO verzióban.</string>
     <string name="pro_version_info">
-Features:\n
- • Full theme support\n
- • Create report and send by email\n
- • Copy text by long press in info lists\n
- • New design of battery tab with charge / discharge chart\n
- • Early access to new version
+Jellemzők:\n
+ • Összes téma támogatása\n
+ • Jelentés készítése és elküldése email-ben\n
+ • Szöveg másolása hosszú érintéssel az információs listákban\n
+ • Új kialakítású akkumulátorfül, töltéssel / discharge chart\n
+ • Korai hozzáférés az új verzióhoz
 </string>
 
     <!-- Info center -->
@@ -408,14 +408,14 @@ Features:\n
     <string name="create_report_msg">A jelentés sikeresen elkészült!\nNézze meg</string>
     <string name="create_report_err">A jelentés nem hozható létre!</string>
     <string name="create_report_err_non_pro">Nem hozható létre jelentés!\nA PRO verzióban elérhető.</string>
-    <string name="create_report_info">Az információk az eszközről el lesznek mentve egy html/pdf fájlban az App Data mappában.</string>
-    <string name="create">Létrehoz</string>
+    <string name="create_report_info">Az információk az eszközről el lesznek mentve egy html/pdf fájlba az App Data mappában.</string>
+    <string name="create">Létrehozás</string>
 
     <string name="error">Hiba</string>
-    <string name="close">Bezár</string>
-    <string name="open">Megnyit</string>
-    <string name="share">Share</string>
-    <string name="send_to_email">Send to email:</string>
+    <string name="close">Bezárás</string>
+    <string name="open">Megnyitás</string>
+    <string name="share">Megosztás</string>
+    <string name="send_to_email">Email küldése:</string>
 
     <string name="cpu_codenames_label">CPU kódnév</string>
     <string name="cpu_codenames_info">A CPU kódnevek listája</string>
@@ -427,36 +427,36 @@ Features:\n
     <string name="upload_info_label">Eszközinformációk feltöltése</string>
     <string name="upload_info_text">Segít a program jobb elkészítésében, javítja az eszközök támogatását
         és más fejlesztők találhatnak hasonló eszközöket és a szükséges illesztőprogramokat.
-        Adatbázisban tároljuk az eredményt. Megnézheti a:</string>
+        Adatbázisban tároljuk az eredményt. Megnézheti itt:</string>
 
-    <string name="kernel_analyzer_label">Kernelanalizátor</string>
+    <string name="kernel_analyzer_label">Kernel-analizátor</string>
 
     <string name="i2c_viewer_label">Eszközök listája</string>
     <string name="i2c_viewer_info">Eszközök listája az i2c, spi csatlakozón</string>
 
-    <string name="exif_cam_label">EXIF Camera Info</string>
-    <string name="exif_cam_info">Read EXIF info from image</string>
-    <string name="open_img_file_label">Open image file…</string>
+    <string name="exif_cam_label">EXIF információ</string>
+    <string name="exif_cam_info">EXIF információ kiolvasása a képből</string>
+    <string name="open_img_file_label">Kép megnyitása…</string>
 
     <string name="error_read_sysfs">Sajnáljuk, de a firmware olvasásakor a sysfs le van tiltva. Csak részleges információk állnak rendelkezésre.</string>
-    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+    <string name="title_bat_show_chart_rate">Töltés / merítés grafikon</string>
 
     <!-- App info -->
 
-    <string name="app_details">App details</string>
-    <string name="app_extract">Extract</string>
-    <string name="app_extract_ok">Extracted successfully to</string>
-    <string name="app_extract_err">Extraction failed!</string>
+    <string name="app_details">App részletek</string>
+    <string name="app_extract">Kibontás</string>
+    <string name="app_extract_ok">Sikeresen kibontva ide:</string>
+    <string name="app_extract_err">Sikertelen kibontás!</string>
 
     <!-- Clipboard -->
 
-    <string name="copied_to_clipboard">Copied to clipboard:</string>
+    <string name="copied_to_clipboard">Vágólapra másolva:</string>
 
     <!-- Strings related to About -->
 
     <string name="about_version">verzió</string>
 
-    <string name="about_author">author\n
+    <string name="about_author">szerző\n
         Andrey Efremov\n
         aka andr7e</string>
 
