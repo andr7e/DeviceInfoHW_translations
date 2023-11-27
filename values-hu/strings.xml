@@ -4,12 +4,14 @@
     <string name="action_about">Rólunk</string>
     <string name="action_info_center">Infó központ</string>
     <string name="action_screen_test">Képernyő Teszt</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Mérnöki menü</string>
     <string name="action_test_fake">Próbaszöveg teszt</string>
 
     <string name="nav_header_options">Opciók</string>
     <string name="action_rate_app">App értékelése</string>
     <string name="action_upgrade_to_pro">Frissítsen PRO-ra</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Általános</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Támogatott kamerák</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
     <string name="tab_cpu_time">CPU működési idő</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Alapsáv</string>
     <string name="serial">Sorozatszám</string>
     <string name="build">Változat</string>
-
     <string name="security">Biztonság</string>
     <string name="uptime">Ébrenléti idő</string>
 
@@ -111,7 +116,6 @@
     <string name="camera">Kamera</string>
     <string name="lens_af">Lencse AF</string>
     <string name="charger">Töltő</string>
-
     <string name="audio">Hang</string>
     <string name="ethernet">Hálózat</string>
 
@@ -130,12 +134,10 @@
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Órajel</string>
     <string name="governor">Vezérlő</string>
-
     <string name="clusters">Klaszterek</string>
     <string name="cache_l3">L3 gyorsítótár</string>
     <string name="gpu_vendor">Gyártó</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Órajel</string>
     <string name="gpu_cufreq">Jelenlegi órajel</string>
     <string name="gpu_extensions">Kiterjesztések</string>
@@ -145,6 +147,7 @@
     <string name="diagonal">Kijelzőméret</string>
     <string name="size">Oldalméretek</string>
     <string name="modes">Módok</string>
+
 
     <!-- Sensors -->
     <string name="test">TESZT</string>
@@ -157,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Giroszkóp teszt</string>
     <string name="title_activity_pressure_sensor">Légnyomásmérő teszt</string>
 
+
     <string name="accelerometer">Gyorsulásmérő</string>
     <string name="magnetometer">Magnetométer</string>
     <string name="gyroscope">Giroszkóp</string>
     <string name="proximity">Közelség</string>
     <string name="light">Fény</string>
     <string name="pressure">Légnyomás</string>
+
 
     <string name="no_input_data">Nincs adat az érzékelőtől</string>
 
@@ -232,6 +237,8 @@
     <string name="cam_res_max_info">- Egyes eszközökön, ahol a kamera pixel-binninget használ, például 4 az 1-ben, csak az alapfelbontás érhető el.</string>
     <string name="cam_res_max_info_perm">- A kép maximális felbontása érdekében megpróbálhatja megadni a kameraengedélyt.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Töltöttség</string>
@@ -271,7 +278,6 @@
     <string name="wifi_connection">Kapcsolat</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Telefon típus</string>
     <string name="sim_operator_name">Szolgáltató</string>
     <string name="sim_operator_code">Szolgáltató kódja</string>
@@ -330,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -354,10 +361,14 @@
     <string name="pref_description_dark_theme">Sötét téma használata a felületen</string>
 
     <string name="pref_title_theme">Interfész téma</string>
+
     <string name="pref_text_scale">Szöveg méretezés</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Akku értékek megfordítása</string>
     <string name="pref_description_invert_charge_speed">Fordítsa meg az akku töltés / merülés sebességet</string>
+
     <string name="pref_title_use_charged_to">\'Feltöltve eddig\' használata</string>
     <string name="pref_description_use_charged_to">\'Feltöltve eddig\' érték mutatása, nem minden eszközzel kompatibilis teljesen</string>
 
@@ -369,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Termikus zóna neve</string>
     <string name="pref_description_ad_tz_name">Termikus zóna nevének mutatása</string>
+
     <string name="pref_title_use_pressure_mm_hg">Légnyomás mértékegysége</string>
     <string name="pref_description_use_pressure_mm_hg">Használja a mm Hg-ban kifejezett nyomást</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Üzenet</string>
 
@@ -387,14 +400,19 @@
     <string name="app_exit">Kilépés</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">A fekete témát 14 napig használhatja. Ezután a sötét témát tudja használni vagy frissítsen PRO-ra.</string>
     <string name="using_theme_expired_non_pro">Sajnáljuk, de a téma ingyenes használati ideje lejárt!\nElérhető a PRO verzióban.</string>
+
+
     <string name="pro_version_info">
 Jellemzők:\n
  • Összes téma támogatása\n
  • Jelentés készítése és elküldése email-ben\n
  • Szöveg másolása hosszú érintéssel az információs listákban\n
  • Új kialakítású akkumulátorfül, töltéssel / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Korai hozzáférés az új verzióhoz
 </string>
 
@@ -438,8 +456,22 @@ Jellemzők:\n
     <string name="exif_cam_info">EXIF információ kiolvasása a képből</string>
     <string name="open_img_file_label">Kép megnyitása…</string>
 
+
     <string name="error_read_sysfs">Sajnáljuk, de a firmware olvasásakor a sysfs le van tiltva. Csak részleges információk állnak rendelkezésre.</string>
+
     <string name="title_bat_show_chart_rate">Töltés / merítés grafikon</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -459,5 +491,6 @@ Jellemzők:\n
     <string name="about_author">szerző\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

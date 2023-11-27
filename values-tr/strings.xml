@@ -4,12 +4,14 @@
     <string name="action_about">Hakkında</string>
     <string name="action_info_center">Bilgi merkezi</string>
     <string name="action_screen_test">Ekran testi</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Mühendislik menüsü</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Seçenekler</string>
     <string name="action_rate_app">Uygulamayı Değerlendir</string>
     <string name="action_upgrade_to_pro">Pro\'ya yükselt</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Genel</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Desteklenen kameralar</string>
     <string name="tab_cpu_monitor">CPU Monitörü</string>
     <string name="tab_cpu_time">CPU çalışma süresi</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Ana Bant</string>
     <string name="serial">Seri numarası</string>
     <string name="build">Yapı numarası</string>
-
     <string name="security">Güvenlik yaması</string>
     <string name="uptime">Çalışma süresi</string>
 
@@ -111,9 +116,9 @@
     <string name="camera">Kamera</string>
     <string name="lens_af">Lens AF</string>
     <string name="charger">Şarj cihazı</string>
- 
     <string name="audio">Ses</string>
     <string name="ethernet">Ethernet</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
@@ -129,12 +134,10 @@
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Saat hızı</string>
     <string name="governor">Governor</string>
-
     <string name="clusters">Clusters</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Üretici</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Saat hızı</string>
     <string name="gpu_cufreq">Geçerli saat</string>
     <string name="gpu_extensions">Uzantılar</string>
@@ -144,6 +147,7 @@
     <string name="diagonal">Diagonal</string>
     <string name="size">Size</string>
     <string name="modes">Modes</string>
+
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -156,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Jiroskop Testi</string>
     <string name="title_activity_pressure_sensor">Barometre Testi</string>
 
+
     <string name="accelerometer">İvme ölçer</string>
     <string name="magnetometer">Manyetometre</string>
     <string name="gyroscope">Jiroskop</string>
     <string name="proximity">Yakınlık</string>
     <string name="light">Işık</string>
     <string name="pressure">Barometre</string>
+
 
     <string name="no_input_data">Sensor verisi yok</string>
 
@@ -231,6 +237,8 @@
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Düzey</string>
@@ -259,7 +267,6 @@
     <string name="thermal_not_found">Termal sensörler bulunamadı</string>
 
     <!-- Net -->
-
     <string name="link_speed">Bağlantı hızı</string>
     <string name="frequency">Frekans</string>
     <string name="signal">Sinyal</string>
@@ -271,7 +278,6 @@
     <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Telefon türü</string>
     <string name="sim_operator_name">Operatör</string>
     <string name="sim_operator_code">Operatör kodu</string>
@@ -330,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Yazılım</string>
 
     <!-- Strings related to Settings -->
@@ -354,7 +361,10 @@
     <string name="pref_description_dark_theme">Arayüze karanlık tema uygula</string>
 
     <string name="pref_title_theme">Arayüz teması</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
     <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
@@ -370,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">İleti</string>
 
@@ -388,14 +400,19 @@
     <string name="app_exit">Çıkış</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Üzgünüz, ücretsiz tema süresi doldu!\nPRO sürümünde mevcuttur.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -439,8 +456,22 @@ Features:\n
     <string name="exif_cam_info">Resimdeki EXIF ​​bilgilerini okuma</string>
     <string name="open_img_file_label">Görüntü dosyasını aç…</string>
 
+
     <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -461,5 +492,6 @@ Features:\n
         Andrey Efremov\n
         diğer adıyla andr7e\n
         Türkçe uyarlama NaytSeyd</string>
+
 
 </resources>

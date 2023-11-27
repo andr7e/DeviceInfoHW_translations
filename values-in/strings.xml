@@ -4,12 +4,14 @@
     <string name="action_about">Tentang</string>
     <string name="action_info_center">Pusat Informasi</string>
     <string name="action_screen_test">Pengetesan Layar</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Menu Teknisi</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Opsi</string>
     <string name="action_rate_app">Berikan Rating</string>
     <string name="action_upgrade_to_pro">Upgrade ke versi PRO</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Umum</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Dukungan Kamera</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
     <string name="tab_cpu_time">Lama CPU beroperasi</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Baseband</string>
     <string name="serial">Serial</string>
     <string name="build">Build</string>
-
     <string name="security">Security</string>
     <string name="uptime">Waktu hidup</string>
 
@@ -111,32 +116,28 @@
     <string name="camera">Kamera</string>
     <string name="lens_af">AF Lensa</string>
     <string name="charger">Charger</string>
-
     <string name="audio">Audio</string>
     <string name="ethernet">Ethernet</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">Vendor</string>
-
     <string name="cores">Core</string>
     <string name="revision">Revisi</string>
     <string name="family">Famili</string>
     <string name="mode">Mode</string>
     <string name="mode_supported">Supported</string>
     <string name="abis">Supported ABI</string>
-
     <string name="instructions">Instruksi</string>
     <string name="techprocess">Process technology</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Kecepatan Clock</string>
     <string name="governor">Governor</string>
-
     <string name="clusters">Cluster</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Vendor</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Kecepatan Clock</string>
     <string name="gpu_cufreq">Clock saat ini</string>
     <string name="gpu_extensions">Ekstensi</string>
@@ -159,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
     <string name="title_activity_pressure_sensor">Barometer Test</string>
 
+
     <string name="accelerometer">Accelerometer</string>
     <string name="magnetometer">Magnetometer</string>
     <string name="gyroscope">Giroskop</string>
     <string name="proximity">Proximity</string>
     <string name="light">Cahaya</string>
     <string name="pressure">Barometer</string>
+
 
     <string name="no_input_data">No data from sensor</string>
 
@@ -234,6 +237,8 @@
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Tersisa</string>
@@ -258,6 +263,7 @@
     <string name="charge_ac">Pengisian via AC</string>
     <string name="charge_usb">Pengisian via USB</string>
     <string name="quick_charge">Pengisian Cepat</string>
+
     <string name="thermal_not_found">Sensor suhu tidak ditemukan</string>
 
     <!-- Net -->
@@ -272,7 +278,6 @@
     <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Tipe telepon</string>
     <string name="sim_operator_name">Operator</string>
     <string name="sim_operator_code">Kode Operator</string>
@@ -331,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -355,10 +361,14 @@
     <string name="pref_description_dark_theme">terapkan tema gelap pada antarmuka</string>
 
     <string name="pref_title_theme">Tema antarmuka</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Balikkan arus baterai</string>
     <string name="pref_description_invert_charge_speed">Balikkan pengisian baterai / kecepatan penggunaan daya</string>
+
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
@@ -370,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Pesan</string>
 
@@ -388,14 +400,19 @@
     <string name="app_exit">Keluar</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Maaf, penggunaan tema gratis sudah kadaluarsa!\nIt\'s tersedia di versi PRO.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -439,8 +456,22 @@ Features:\n
     <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file…</string>
 
+
     <string name="error_read_sysfs">Maaf, di firmware Anda, pembacaan sysfs telah di-nonaktifkan. Hanya sebagian informasi yang dapat ditampilkan.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -460,5 +491,6 @@ Features:\n
     <string name="about_author">pembuat\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

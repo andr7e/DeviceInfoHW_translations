@@ -4,12 +4,14 @@
     <string name="action_about">O programie</string>
     <string name="action_info_center">Centrum informacji</string>
     <string name="action_screen_test">Screen Test</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Menu inżynieria</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Opcje</string>
     <string name="action_rate_app">Oceń aplikacje</string>
     <string name="action_upgrade_to_pro">Zaktualizuj do wersji PRO</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Ogólne</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Kompatybilne kamery</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
     <string name="tab_cpu_time">CPU operating time</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Baseband</string>
     <string name="serial">Numer seryjny</string>
     <string name="build">Build</string>
-
     <string name="security">Zabezpieczenia</string>
     <string name="uptime">Czas pracy</string>
 
@@ -87,7 +92,7 @@
     <string name="incremental">Przyrost</string>
     <string name="build_date">Build date</string>
     <string name="fingerprint">Fingerprint</string>
-    <string name="description">Description</string> 
+    <string name="description">Description</string>
     <string name="bootloader">Bootloader</string>
     <string name="builder">Builder</string>
     <string name="supported_features">Device features</string>
@@ -111,32 +116,28 @@
     <string name="camera">Kamera</string>
     <string name="lens_af">Lens AF</string>
     <string name="charger">Ładowarka</string>
-
     <string name="audio">Audio</string>
     <string name="ethernet">Ethernet</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">Producent</string>
-
     <string name="cores">Rdzenie</string>
     <string name="revision">Rewizja</string>
     <string name="family">Family</string>
     <string name="mode">Mode</string>
     <string name="mode_supported">Supported</string>
     <string name="abis">Supported ABI</string>
-
     <string name="instructions">Instrukcje</string>
     <string name="techprocess">Process technology</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Taktowanie</string>
     <string name="governor">Governor</string>
-
     <string name="clusters">Klaster</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Producent</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Taktowanie</string>
     <string name="gpu_cufreq">Aktualne taktowanie</string>
     <string name="gpu_extensions">Rozszerzenia</string>
@@ -146,6 +147,7 @@
     <string name="diagonal">Diagonal</string>
     <string name="size">Size</string>
     <string name="modes">Modes</string>
+
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -158,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
     <string name="title_activity_pressure_sensor">Barometer Test</string>
 
+
     <string name="accelerometer">Akcelerometr</string>
     <string name="magnetometer">Magnetometr</string>
     <string name="gyroscope">Żyroskop</string>
     <string name="proximity">Czujnik bliskości</string>
     <string name="light">Czujnik światła</string>
     <string name="pressure">Barometr</string>
+
 
     <string name="no_input_data">No data from sensor</string>
 
@@ -233,6 +237,8 @@
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Poziom</string>
@@ -272,7 +278,6 @@
     <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Typ telefonu</string>
     <string name="sim_operator_name">Operator</string>
     <string name="sim_operator_code">Kod operatora</string>
@@ -331,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -355,10 +361,14 @@
     <string name="pref_description_dark_theme">Zastosuj ciemny motyw do interfejsu</string>
 
     <string name="pref_title_theme">Motyw interfejsu</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
@@ -370,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Wiadomość</string>
 
@@ -388,14 +400,19 @@
     <string name="app_exit">Wyjdź</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Przepraszamy, ale darmowy czarny motyw wygasł!\nJest dostępny w wersji PRO.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -439,8 +456,22 @@ Features:\n
     <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file…</string>
 
+
     <string name="error_read_sysfs">Przepraszamy, ale twój firmware czytający sysfs jest wyłączony. Dostępna tylko częściowa informacja.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -460,5 +491,6 @@ Features:\n
     <string name="about_author">autor\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

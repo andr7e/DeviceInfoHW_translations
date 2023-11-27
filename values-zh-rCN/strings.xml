@@ -4,12 +4,14 @@
     <string name="action_about">关于</string>
     <string name="action_info_center">信息中心</string>
     <string name="action_screen_test">屏幕测试</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">工程菜单</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">选项</string>
     <string name="action_rate_app">评价应用</string>
     <string name="action_upgrade_to_pro">升级到PRO版</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">常规</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">支持相机</string>
     <string name="tab_cpu_monitor">CPU监视器</string>
     <string name="tab_cpu_time">CPU运行时间</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -110,7 +116,6 @@
     <string name="camera">相机</string>
     <string name="lens_af">镜头自动对焦</string>
     <string name="charger">充电器</string>
-
     <string name="audio">音频</string>
     <string name="ethernet">以太网络</string>
 
@@ -129,12 +134,10 @@
     <string name="unit_nm">nm</string>
     <string name="clock_speed">时钟频率</string>
     <string name="governor">调频器</string>
-
     <string name="clusters">集群</string>
     <string name="cache_l3">三级缓存</string>
     <string name="gpu_vendor">供应商</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">时钟频率</string>
     <string name="gpu_cufreq">当前频率</string>
     <string name="gpu_extensions">扩展</string>
@@ -144,6 +147,7 @@
     <string name="diagonal">对角线</string>
     <string name="size">尺寸</string>
     <string name="modes">型号</string>
+
 
     <!-- Sensors -->
     <string name="test">测试</string>
@@ -156,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
     <string name="title_activity_pressure_sensor">Barometer Test</string>
 
+
     <string name="accelerometer">加速规</string>
     <string name="magnetometer">磁强计</string>
     <string name="gyroscope">陀螺仪</string>
     <string name="proximity">接近传感器</string>
     <string name="light">环境光传感器</string>
     <string name="pressure">气压表</string>
+
 
     <string name="no_input_data">无传感器数据</string>
 
@@ -230,6 +236,8 @@
     <string name="allow">Allow</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
+
+    <string name="cameras_not_found">Cameras not found</string>
 
     <!-- Battery -->
 
@@ -328,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">固件</string>
 
     <!-- Strings related to Settings -->
@@ -352,10 +361,14 @@
     <string name="pref_description_dark_theme">将暗色主题应用于界面</string>
 
     <string name="pref_title_theme">界面主题</string>
+
     <string name="pref_text_scale">文字缩放</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">反向电池电流</string>
     <string name="pref_description_invert_charge_speed">反向充电 / 放电速度</string>
+
     <string name="pref_title_use_charged_to">使用 \'充电至\'</string>
     <string name="pref_description_use_charged_to">显示 \'充电至\' 电池电量，并非所有设备都完全兼容</string>
 
@@ -367,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">热区名称</string>
     <string name="pref_description_ad_tz_name">显示热区名称</string>
+
     <string name="pref_title_use_pressure_mm_hg">压力单位</string>
     <string name="pref_description_use_pressure_mm_hg">使用单位 mm Hg（毫米汞柱）</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">信息</string>
 
@@ -383,16 +398,21 @@
     <string name="app_defender_msg">抱歉，App Defender无法检查应用程序的有效性。\n请连接到互联网并单击重新检查。</string>
     <string name="app_recheck">重新检查</string>
     <string name="app_exit">退出</string>
-    <string name="using_theme_start_non_pro">您可以免费试用14天，之后使用深色主题将需要升级到PRO。</string>
 
     <!-- PRO -->
+
+    <string name="using_theme_start_non_pro">您可以免费试用14天，之后使用深色主题将需要升级到PRO。</string>
     <string name="using_theme_expired_non_pro">抱歉，免费使用主题已过期！\n它在PRO版中可用。</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -436,8 +456,22 @@ Features:\n
     <string name="exif_cam_info">从图像中读取EXIF信息</string>
     <string name="open_img_file_label">打开图像文件…</string>
 
+
     <string name="error_read_sysfs">抱歉，您的固件已禁止读取sysfs。只有部分信息可用。</string>
+
     <string name="title_bat_show_chart_rate">充/放电图</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -457,5 +491,6 @@ Features:\n
     <string name="about_author">作者\n
         Andrey Efremov\n
         又名 andr7e</string>
+
 
 </resources>

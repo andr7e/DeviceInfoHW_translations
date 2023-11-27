@@ -4,12 +4,14 @@
     <string name="action_about">حول التطبيق</string>
     <string name="action_info_center">مركز المعلومات</string>
     <string name="action_screen_test">إختبار الشاشة</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Engineering menu</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">خيارات أخرى</string>
     <string name="action_rate_app">تقييم التطبيق</string>
     <string name="action_upgrade_to_pro">الترقية للنسخة الإحترافية</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">عام</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">الكاميرا المدعومة</string>
     <string name="tab_cpu_monitor">مراقب المعالج</string>
     <string name="tab_cpu_time">وقت عمل المعالج</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">إصدار النطاق الأساسي</string>
     <string name="serial">الرقم التسلسلي</string>
     <string name="build">Build</string>
-
     <string name="security">الحماية</string>
     <string name="uptime">وقت التشغيل</string>
 
@@ -111,32 +116,28 @@
     <string name="camera">الكاميرا</string>
     <string name="lens_af">Lens AF</string>
     <string name="charger">الشاحن</string>
-
     <string name="audio">الصوت</string>
     <string name="ethernet">إبثرنت</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">المعالج</string>
     <string name="cpu_vendor">المزود</string>
-
     <string name="cores">عدد الأنوية</string>
     <string name="revision">مراجعة</string>
     <string name="family">العائلة</string>
     <string name="mode">Mode</string>
     <string name="mode_supported">Supported</string>
     <string name="abis">Supported ABI</string>
-
     <string name="instructions">التعليمات</string>
     <string name="techprocess">Process technology</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">السرعة</string>
     <string name="governor">Governor</string>
-
     <string name="clusters">Clusters</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">المزود</string>
     <string name="gpu_model">المعالج</string>
-
     <string name="gpu_clock">السرعة</string>
     <string name="gpu_cufreq">الحالية</string>
     <string name="gpu_extensions">إضافات</string>
@@ -146,6 +147,7 @@
     <string name="diagonal">Diagonal</string>
     <string name="size">Size</string>
     <string name="modes">Modes</string>
+
 
     <!-- Sensors -->
     <string name="test">إختبار</string>
@@ -158,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
     <string name="title_activity_pressure_sensor">Barometer Test</string>
 
+
     <string name="accelerometer">التسارع</string>
     <string name="magnetometer">مقياس المغنطيسية</string>
     <string name="gyroscope">جيروسكوب</string>
     <string name="proximity">التقارب</string>
     <string name="light">الإضاءة</string>
     <string name="pressure">مقياس الضغط الجوي</string>
+
 
     <string name="no_input_data">No data from sensor</string>
 
@@ -232,7 +236,9 @@
     <string name="allow">Allow</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
-    
+
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">المستوى</string>
@@ -261,7 +267,6 @@
     <string name="thermal_not_found">Thermal sensors not found</string>
 
     <!-- Net -->
-
     <string name="link_speed">سرعة الربط</string>
     <string name="frequency">التردد</string>
     <string name="signal">الإشارة</string>
@@ -273,7 +278,6 @@
     <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Phone type</string>
     <string name="sim_operator_name">المشغل</string>
     <string name="sim_operator_code">رمز المشغل</string>
@@ -332,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -356,10 +361,14 @@
     <string name="pref_description_dark_theme">تطبيق المظهر الداكن للواجهة</string>
 
     <string name="pref_title_theme">موضوع واجهة</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">عكس تيار البطارية</string>
     <string name="pref_description_invert_charge_speed">عكس سرعة شحن \ تفريغ البطارية</string>
+
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
@@ -371,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">رسالة</string>
 
@@ -389,14 +400,19 @@
     <string name="app_exit">خروج</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">عذراً, إنتهى الإستخدام المجاني للثيم!\nIt\'s متاح في النسخة المدفوعة.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -440,8 +456,22 @@ Features:\n
     <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file…</string>
 
+
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -461,5 +491,6 @@ Features:\n
     <string name="about_author">المطور\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

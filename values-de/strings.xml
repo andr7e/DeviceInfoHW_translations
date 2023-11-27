@@ -4,12 +4,14 @@
     <string name="action_about">Über</string>
     <string name="action_info_center">Info Center</string>
     <string name="action_screen_test">Bildschirmtest</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Expertenmenü</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Optionen</string>
     <string name="action_rate_app">App bewerten</string>
     <string name="action_upgrade_to_pro">PRO-Upgrade</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Allgemein</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Unterstützte Kameras</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
     <string name="tab_cpu_time">CPU Betriebszeit</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Basisband</string>
     <string name="serial">Seriennummer</string>
     <string name="build">Build</string>
-
     <string name="security">Sicherheit</string>
     <string name="uptime">Laufzeit</string>
 
@@ -111,15 +116,15 @@
     <string name="camera">Kamera</string>
     <string name="lens_af">Objektiv AF</string>
     <string name="charger">Ladegerät</string>
-
     <string name="audio">Audio</string>
     <string name="ethernet">Ethernet</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
     <string name="cpu_vendor">Hersteller</string>
     <string name="cores">Kerne</string>
-    <string name="revision">Revision</string>>
+    <string name="revision">Revision</string>
     <string name="family">Familie</string>
     <string name="mode">Mode</string>
     <string name="mode_supported">Supported</string>
@@ -129,32 +134,32 @@
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Taktfrequenz</string>
     <string name="governor">Regler</string>
-
     <string name="clusters">Cluster</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Hersteller</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Taktfrequenz</string>
     <string name="gpu_cufreq">Aktueller Takt</string>
     <string name="gpu_extensions">Erweiterungen</string>
 
-    <string name="density">Dichte</string>/string>
+    <string name="density">Dichte</string>
     <string name="refresh_rate">Wiederholrate</string>
     <string name="diagonal">Diagonal</string>
     <string name="size">Size</string>
     <string name="modes">Modes</string>
+
 
     <!-- Sensors -->
     <string name="test">TEST</string>
     <string name="info">INFO</string>
 
     <string name="title_activity_light_sensor">Lichtsensor Test</string>
-    <string name="title_activity_proximity_sensor" >Näherungssensor Test</string>
+    <string name="title_activity_proximity_sensor">Näherungssensor Test</string>
     <string name="title_activity_accelerometer_sensor">Beschleunigungssensor Test</string>
     <string name="title_activity_magnetometer_sensor">Magnetometer Test</string>
     <string name="title_activity_gyroscope_sensor">Gyroskop Test</string>
     <string name="title_activity_pressure_sensor">Barometer Test</string>
+
 
     <string name="accelerometer">Accelerometer</string>
     <string name="magnetometer">Magnetometer</string>
@@ -162,6 +167,7 @@
     <string name="proximity">Näherung</string>
     <string name="light">Licht</string>
     <string name="pressure">Barometer</string>
+
 
     <string name="no_input_data">Keine Daten vom Sensor</string>
 
@@ -174,9 +180,9 @@
     <string name="unit_pressure_mm">mm Hg</string>
 
     <string name="s_name">Name:</string>
-    <string name="s_vendor" >Hersteller:</string>
+    <string name="s_vendor">Hersteller:</string>
     <string name="s_version">Version:</string>
-    <string name="s_max_range" >Max Bereich:</string>
+    <string name="s_max_range">Max Bereich:</string>
     <string name="s_resolution">Auflösung:</string>
     <string name="s_power">Leistung:</string>
     <string name="s_unit">Einheit:</string>
@@ -187,7 +193,7 @@
     <string name="total_sensors">Total:</string>
 
     <!-- Memory -->
-	
+
     <string name="internal_storage">Interner Speicher</string>
     <string name="external_storage">Externer Speicher</string>
 
@@ -231,6 +237,8 @@
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Level</string>
@@ -259,7 +267,6 @@
     <string name="thermal_not_found">Thermische Sensoren nicht gefunden</string>
 
     <!-- Net -->
-
     <string name="link_speed">Geschwindigkeit </string>
     <string name="frequency">Frequenz</string>
     <string name="signal">Signal</string>
@@ -271,7 +278,6 @@
     <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Telefontyp</string>
     <string name="sim_operator_name">Betreiber</string>
     <string name="sim_operator_code">Betreibercode</string>
@@ -310,7 +316,7 @@
 
     <string name="touchdraw_label">Touchzeichnung</string>
     <string name="touchdraw_info">Touchscreen-Zeichnungstest</string>
-    <string name="touchdraw_desc">Berührungsgenauigkeit und Totzonen testen</string>.
+    <string name="touchdraw_desc">Berührungsgenauigkeit und Totzonen testen</string>
 
     <!-- USB -->
 
@@ -330,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -344,7 +351,7 @@
 
     <string name="language_default">Standard</string>
 
-    <string name="pref_title_use_root">Root verwenden</string>.
+    <string name="pref_title_use_root">Root verwenden</string>
     <string name="pref_description_use_root">Für vollständige Informationen</string>
 
     <string name="pref_title_show_address">Zeige i2c Adresse</string>
@@ -354,10 +361,14 @@
     <string name="pref_description_dark_theme">Färbt das Interface dunkel</string>
 
     <string name="pref_title_theme">Schnittstellenthema</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Ladegeschwindigkeit umkehren</string>
     <string name="pref_description_invert_charge_speed">Akkulade / Entladegeschwindigkeit umkehren</string>
+
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
@@ -369,11 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
-    
+
     <string name="pref_title_use_pressure_mm_hg">Druckeinheit</string>
     <string name="pref_description_use_pressure_mm_hg">Druck in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Meldung</string>
 
@@ -383,32 +395,37 @@
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
-    <string name="app_defender_msg">Schade, aber der Defender kann die App-Gültigkeit nicht überprüfen.\nBitte verbinden Sie sich mit dem Internet und klicken Sie auf die Recheck.</string>.
+    <string name="app_defender_msg">Schade, aber der Defender kann die App-Gültigkeit nicht überprüfen.\nBitte verbinden Sie sich mit dem Internet und klicken Sie auf die Recheck.</string>
     <string name="app_recheck">Recheck</string>
     <string name="app_exit">Exit</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Sorry, die Gratisnutzung des Themes ist abgelaufen! Es ist in der PRO Version verfügbar.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
-	   
+
     <!-- Info center -->
-    <string name="update">Update</string>>
+    <string name="update">Update</string>
     <string name="updating">Aktualisieren</string>
 
-    <string name="upload">Upload</string>/string>
+    <string name="upload">Upload</string>
 
     <string name="create_report">Bericht erstellen</string>
     <string name="create_report_msg">Bericht erfolgreich erstellt!\nHier ansehen</string>
     <string name="create_report_err">Kann keinen Bericht erstellen!</string>
-    <string name="create_report_err_non_pro">Kann keinen Bericht erstellen!\nBerichte in PRO Version verfügbar.</string>.
+    <string name="create_report_err_non_pro">Kann keinen Bericht erstellen!\nBerichte in PRO Version verfügbar.</string>
     <string name="create_report_info">Geräteinformationen werden in der html/pdf-Datei im App-Data Ordner gespeichert.</string>
     <string name="create">Erstellen</string>
 
@@ -437,8 +454,22 @@ Features:\n
     <string name="exif_cam_info">EXIF-Informationen aus Bild auslesen</string>
     <string name="open_img_file_label">Bilddatei öffnen....</string>
 
+
     <string name="error_read_sysfs">Sorry, auf Ihrer Firmware ist das Lesen von sysfs deaktiviert. Nur TeilInformationen verfügbar.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -458,5 +489,6 @@ Features:\n
     <string name="about_author">Autor\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

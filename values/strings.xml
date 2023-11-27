@@ -6,6 +6,7 @@
     <string name="action_about">About</string>
     <string name="action_info_center">Info сenter</string>
     <string name="action_screen_test">Screen Test</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Engineering menu</string>
     <string name="action_test_fake">Test for fake text</string>
 
@@ -44,6 +45,10 @@
     <string name="tab_camera_supported">Supported cameras</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
     <string name="tab_cpu_time">CPU operating time</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
     <string name="system_apps" translatable="false">System Applications</string>
@@ -274,6 +279,8 @@
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Level</string>
@@ -399,46 +406,6 @@
 
     <string name="language_default">Default</string>
 
-    <string-array name="pref_language_list_titles" translatable="false">
-        <item>@string/language_default</item>
-        <item>English</item>
-        <item>Русский</item>
-        <item>Español</item>
-        <item>Polski</item>
-        <item>Bahasa Indonesia</item>
-        <item>Magyar</item>
-        <item>Deutsch</item>
-        <item>Português (Brasil)</item>
-        <item>Ελληνικά</item>
-        <item>Türkçe</item>
-        <item>中文（简体）</item>
-        <item>中文（繁體）</item>
-        <item>العربية</item>
-        <item>Tiếng Việt</item>
-        <item>O\'zbek</item>
-        <item>日本語</item>
-
-    </string-array>
-    <string-array name="pref_language_list_values" translatable="false">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-    </string-array>
-
     <string name="pref_title_use_root">Use root</string>
     <string name="pref_description_use_root">For getting complete information</string>
 
@@ -451,6 +418,8 @@
     <string name="pref_title_theme">Interface theme</string>
 
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
@@ -499,6 +468,8 @@ Features:\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -548,6 +519,18 @@ Features:\n
     <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
 
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 

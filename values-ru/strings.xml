@@ -4,12 +4,14 @@
     <string name="action_about">О программе</string>
     <string name="action_info_center">Инфо-центр</string>
     <string name="action_screen_test">Тесты экрана</string>
+    <string name="action_audio_test">Тест аудио</string>
     <string name="action_engineer_menu">Инженерное меню</string>
     <string name="action_test_fake">Тест на фейк в тексте</string>
 
     <string name="nav_header_options">Опции</string>
     <string name="action_rate_app">Поставить оценку</string>
     <string name="action_upgrade_to_pro">Перейти на PRO</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Общее</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Поддерживаемые камеры</string>
     <string name="tab_cpu_monitor">Монитор ЦП</string>
     <string name="tab_cpu_time">Время работы ЦП</string>
+
+    <string name="basic_info">Базовый</string>
+    <string name="gl_extensions">Расширения OpenGL</string>
+    <string name="device_features">Функции устройства</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Модем</string>
     <string name="serial">Серийный номер</string>
     <string name="build">Сборка</string>
-
     <string name="security">Патч безопасности</string>
     <string name="uptime">Время работы</string>
 
@@ -111,32 +116,28 @@
     <string name="camera">Камера</string>
     <string name="lens_af">Автофокус</string>
     <string name="charger">ЗУ</string>
-
     <string name="audio">Аудио</string>
     <string name="ethernet">Сеть</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">ЦП</string>
     <string name="cpu_vendor">Вендор</string>
-
     <string name="cores">Кол-во ядер</string>
     <string name="revision">Ревизия</string>
     <string name="family">Семейство</string>
     <string name="mode">Режим</string>
     <string name="mode_supported">Поддерживается</string>
     <string name="abis">Поддерживаемые ABI</string>
-
     <string name="instructions">Инструкции</string>
     <string name="techprocess">Техпроцесс</string>
     <string name="unit_nm">нм</string>
     <string name="clock_speed">Частота</string>
     <string name="governor">Регулятор</string>
-
     <string name="clusters">Кластеры</string>
     <string name="cache_l3">Кэш L3</string>
     <string name="gpu_vendor">Вендор</string>
     <string name="gpu_model">ГП</string>
-
     <string name="gpu_clock">Частота</string>
     <string name="gpu_cufreq">Тек. частота</string>
     <string name="gpu_extensions">Расширения</string>
@@ -146,6 +147,7 @@
     <string name="diagonal">Диагональ</string>
     <string name="size">Размер</string>
     <string name="modes">Режимы</string>
+
 
     <!-- Sensors -->
     <string name="test">ТЕСТ</string>
@@ -158,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Тест гироскопа</string>
     <string name="title_activity_pressure_sensor">Тест барометра</string>
 
+
     <string name="accelerometer">Акселерометр</string>
     <string name="magnetometer">Магнитометр</string>
     <string name="gyroscope">Гироскоп</string>
     <string name="proximity">Приближение</string>
     <string name="light">Освещенность</string>
     <string name="pressure">Барометр</string>
+
 
     <string name="no_input_data">Нет данных от датчика</string>
 
@@ -233,6 +237,8 @@
     <string name="cam_res_max_info">- Для некоторых устройств, где в камере используется объединение пикселей, такие как 4 в 1 доступно только базовое разрешение.</string>
     <string name="cam_res_max_info_perm">- Для получения максимального разрешения изображения вы можете попробовать выдать разрешение на использование камеры.</string>
 
+    <string name="cameras_not_found">Камеры не найдены</string>
+
     <!-- Battery -->
 
     <string name="level">Уровень заряда</string>
@@ -272,7 +278,6 @@
     <string name="wifi_connection">Подключение</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Тип телефона</string>
     <string name="sim_operator_name">Оператор</string>
     <string name="sim_operator_code">Код оператора</string>
@@ -331,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Прошивка</string>
 
     <!-- Strings related to Settings -->
@@ -358,8 +364,11 @@
 
     <string name="pref_text_scale">Масштабирование текста</string>
 
+    <string name="pref_hide_tab_bar">Скрыть панель вкладок</string>
+
     <string name="pref_title_invert_charge_speed">Инвертировать ток батареи</string>
     <string name="pref_description_invert_charge_speed">Инвертировать скорость заряда / разряда батареи</string>
+
     <string name="pref_title_use_charged_to">Использовать параметр \'заряжен до\'</string>
     <string name="pref_description_use_charged_to">Показывать значение \'заряжен до\', не все устройства обеспечивают полную поддержку</string>
 
@@ -377,6 +386,7 @@
 
     <!-- Strings related to Message of first install -->
 
+
     <string name="first_install_title">Сообщение</string>
 
     <string name="root_hw_detect">В новых версиях android некоторая информация заблокирована,
@@ -390,18 +400,23 @@
     <string name="app_exit">Выйти</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">Вы можете использовать черную тему 14 дней. После этого используйте темную тему или обновитесь до PRO.</string>
     <string name="using_theme_expired_non_pro">Извините, но пробный период использования черной темы истек!\nВыбор тем доступен в PRO версии.</string>
+
+
     <string name="pro_version_info">
 Возможности:\n
-• Полная поддержка тем\n
-• Создание отчета и отправка отчета по почте\n
-• Копирование инфы в списках по долгому нажатию\n
-• Улучшенная вкладка батареи с графиком зарядки\n
-• Ранний доступ к новым версиям
+ • Полная поддержка тем\n
+ • Создание отчета и отправка отчета по почте\n
+ • Копирование инфы в списках по долгому нажатию\n
+ • Улучшенная вкладка батареи с графиком зарядки\n
+ • Дополнительная информация об установленных приложениях\n
+ • Вкладка с графиком частоты ЦП\n
+ • Ранний доступ к новым версиям
 </string>
 
-   <!-- Info center -->
+    <!-- Info center -->
     <string name="update">Обновить</string>
     <string name="updating">Обновление</string>
 
@@ -439,8 +454,22 @@
     <string name="exif_cam_info">Считать данные EXIF из фото</string>
     <string name="open_img_file_label">Выбрать фото…</string>
 
+
     <string name="error_read_sysfs">К сожалению, на вашей прошивке не разрешено чтение sysfs. Информация неполная.</string>
+
     <string name="title_bat_show_chart_rate">График зарядки / разряда</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Стерео</string>
+    <string name="left">Левый</string>
+    <string name="right">Правый</string>
+    <string name="ear">Разговорный</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Тип:</string>
+    <string name="codec_group">Группа:</string>
 
     <!-- App info -->
 
@@ -453,12 +482,13 @@
 
     <string name="copied_to_clipboard">Скопирован текст:</string>
 
-   <!-- Strings related to About -->
+    <!-- Strings related to About -->
 
-   <string name="about_version">версия</string>
+    <string name="about_version">версия</string>
 
     <string name="about_author">автор\n
         Ефремов Андрей\n
         aka andr7e</string>
+
 
 </resources>

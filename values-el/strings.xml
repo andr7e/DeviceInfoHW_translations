@@ -4,12 +4,14 @@
     <string name="action_about">Σχετικα</string>
     <string name="action_info_center">Κεντρο πληροφοριων</string>
     <string name="action_screen_test">Δοκιμη οθονης</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Μηχανικο μενου</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Επιλογες</string>
     <string name="action_rate_app">Βαθμολογηστε εφαρμογη</string>
     <string name="action_upgrade_to_pro">Αναβαθμιση σε επαγγελματικη</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Γενικα</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Υποστηριζόμενες κάμερες</string>
     <string name="tab_cpu_monitor">Οθόνη CPU</string>
     <string name="tab_cpu_time">Χρόνος λειτουργίας CPU</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -110,9 +116,9 @@
     <string name="camera">Φωτογραφικη</string>
     <string name="lens_af">AF φακού</string>
     <string name="charger">Φορτιστής</string>
-
     <string name="audio">Ηχος</string>
     <string name="ethernet">Τοπικο δικτυο</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
@@ -142,10 +148,8 @@
     <string name="size">Size</string>
     <string name="modes">Modes</string>
 
-    <!-- Sensors -->
-    <!-- <string name="test">ΔΟΚΙΜΗ</string> -->
-    <!-- <string name="info">ΠΛΗΡΟΦΟΡΙΕΣ</string> -->
 
+    <!-- Sensors -->
     <string name="test">TEST</string>
     <string name="info">INFO</string>
 
@@ -156,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Δοκιμη γυροσκοπιου</string>
     <string name="title_activity_pressure_sensor">Δοκιμή βαρόμετρου</string>
 
+
     <string name="accelerometer">Επιταχυνσιόμετρο</string>
     <string name="magnetometer">Μαγνητόμετρο</string>
     <string name="gyroscope">Γυροσκόπιο</string>
     <string name="proximity">Εγγύτητα</string>
     <string name="light">Φως</string>
     <string name="pressure">Βαρόμετρο</string>
+
 
     <string name="no_input_data">Χωρις δεδομένα</string>
 
@@ -230,6 +236,8 @@
     <string name="allow">Allow</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
+
+    <string name="cameras_not_found">Cameras not found</string>
 
     <!-- Battery -->
 
@@ -328,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Υλικολογισμικό</string>
 
     <!-- Strings related to Settings -->
@@ -352,7 +361,10 @@
     <string name="pref_description_dark_theme">Εφαρμόστε σκοτεινό θέμα στη διεπαφή</string>
 
     <string name="pref_title_theme">Θέμα διεπαφής</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Αντιστρέψτε το ρεύμα της μπαταρίας</string>
     <string name="pref_description_invert_charge_speed">Αντιστρέψτε την ταχύτητα φόρτισης / εκφόρτισης της μπαταρίας</string>
@@ -368,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Μήνυμα</string>
 
@@ -387,14 +401,19 @@
     <string name="app_exit">Εξοδος</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Λυπούμαστε, αλλά η δωρεάν χρήση του θέματος έληξε!\nΔιατίθεται σε έκδοση PRO.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -438,8 +457,22 @@ Features:\n
     <string name="exif_cam_info">Διαβάστε τις πληροφορίες EXIF από την εικόνα</string>
     <string name="open_img_file_label">Άνοιγμα αρχείου εικόνας …</string>
 
+
     <string name="error_read_sysfs">Λυπούμαστε, αλλά στο firmware σας η ανάγνωση sysfs είναι απενεργοποιημένη. Διατίθενται μόνο μερικές πληροφορίες.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -459,5 +492,6 @@ Features:\n
     <string name="about_author">συντάκτης\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

@@ -4,12 +4,14 @@
     <string name="action_about">Thông tin</string>
     <string name="action_info_center">Trung tâm thông tin</string>
     <string name="action_screen_test">Kiểm tra màn hình</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Menu kỹ thuật</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Tùy chọn</string>
     <string name="action_rate_app">Đánh giá ứng dụng</string>
     <string name="action_upgrade_to_pro">Nâng cấp lên bản PRO</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">Tổng quát</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Máy ảnh được hỗ trợ</string>
     <string name="tab_cpu_monitor">Giám sát CPU</string>
     <string name="tab_cpu_time">Thời gian hoạt động của CPU</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Băng cơ sở</string>
     <string name="serial">Sê-ri</string>
     <string name="build">Bản dựng</string>
-
     <string name="security">Bảo mật</string>
     <string name="uptime">Thời gian hoạt động</string>
 
@@ -111,9 +116,9 @@
     <string name="camera">Máy ảnh</string>
     <string name="lens_af">Ống kính AF</string>
     <string name="charger">Bộ sạc</string>
-
     <string name="audio">Âm thanh</string>
     <string name="ethernet">Ethernet</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
@@ -129,12 +134,10 @@
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Tốc độ xung nhịp</string>
     <string name="governor">Governor</string>
-
     <string name="clusters">Cụm</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Nhà cung cấp</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Tốc độ xung nhịp</string>
     <string name="gpu_cufreq">Xung nhịp hiện tại</string>
     <string name="gpu_extensions">Phần mở rộng</string>
@@ -144,6 +147,7 @@
     <string name="diagonal">Diagonal</string>
     <string name="size">Size</string>
     <string name="modes">Modes</string>
+
 
     <!-- Sensors -->
     <string name="test">ĐO</string>
@@ -156,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Đo con quay hồi chuyển</string>
     <string name="title_activity_pressure_sensor">Đo áp suất</string>
 
+
     <string name="accelerometer">Gia tốc</string>
     <string name="magnetometer">Từ tính</string>
     <string name="gyroscope">Con quay hồi ch.</string>
     <string name="proximity">Tiệm cận</string>
     <string name="light">Ánh sáng</string>
     <string name="pressure">Áp suất</string>
+
 
     <string name="no_input_data">Không có dữ liệu từ cảm biến</string>
 
@@ -231,6 +237,8 @@
     <string name="cam_res_max_info">- Đối với một số thiết bị mà máy ảnh sử dụng pixel binning như 4 trong 1, chỉ độ phân giải cơ bản khả dụng.</string>
     <string name="cam_res_max_info_perm">- Để có được độ phân giải tối đa của hình ảnh, bạn có thể thử cho phép quyền truy cập máy ảnh.</string>
 
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Mức độ</string>
@@ -259,7 +267,6 @@
     <string name="thermal_not_found">Không tìm thấy cảm biến nhiệt</string>
 
     <!-- Net -->
-
     <string name="link_speed">Tốc độ liên kết</string>
     <string name="frequency">Tần số</string>
     <string name="signal">Tín hiệu</string>
@@ -329,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Phần sụn</string>
 
     <!-- Strings related to Settings -->
@@ -356,6 +364,8 @@
 
     <string name="pref_text_scale">Căn chỉnh văn bản</string>
 
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
+
     <string name="pref_title_invert_charge_speed">Đảo ngược sạc pin hiện tại</string>
     <string name="pref_description_invert_charge_speed">Sạc đảo ngược / tốc độ xả</string>
 
@@ -370,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Tên thermal zone</string>
     <string name="pref_description_ad_tz_name">Hiển thị tên thermal zone</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Tin nhắn</string>
 
@@ -388,14 +400,19 @@
     <string name="app_exit">Thoát ra</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">Bạn có thể sử dụng chủ đề BLACK trong 14 ngày. Sau đó sử dụng chủ đề Dark hoặc nâng cấp lên bản PRO.</string>
     <string name="using_theme_expired_non_pro">Xin lỗi, việc dùng chủ đề tối miễn phí hiện đã hết hạn!\nNó khả dụng trên phiên bản PRO.</string>
+
+
     <string name="pro_version_info">
 Tính năng:\n
  • Hỗ trợ đầy đủ chủ đề\n
  • Tạo báo cáo và gửi qua Email\n
  • Sao chép văn bản bằng cách nhấn giữ \n
  • Thiết kế mới của tab pin với biểu đồ sạc / xả\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Được trải nghiệm phiên bản mới trước
 </string>
 
@@ -437,8 +454,22 @@ Tính năng:\n
     <string name="exif_cam_info">Đọc thông tin EXIF từ hình ảnh</string>
     <string name="open_img_file_label">Mở tệp hình ảnh…</string>
 
+
     <string name="error_read_sysfs">Xin lỗi, nhưng hệ thống đọc sysfs trên phần sụn của bạn đã bị tắt. Chỉ có được một phần thông tin.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
 
     <!-- App info -->
 
@@ -458,5 +489,6 @@ Tính năng:\n
     <string name="about_author">Tác giả\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>

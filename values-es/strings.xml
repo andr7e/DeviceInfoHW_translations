@@ -4,12 +4,14 @@
     <string name="action_about">Acerca de</string>
     <string name="action_info_center">Centro de información</string>
     <string name="action_screen_test">Screen Test</string>
+    <string name="action_audio_test">Audio Test</string>
     <string name="action_engineer_menu">Menú de Ingeniería</string>
     <string name="action_test_fake">Test for fake text</string>
 
     <string name="nav_header_options">Opciones</string>
     <string name="action_rate_app">Valorar App</string>
     <string name="action_upgrade_to_pro">Actualizar a PRO</string>
+
 
     <!-- Tabs -->
     <string name="tab_general">General</string>
@@ -37,6 +39,10 @@
     <string name="tab_camera_supported">Cámaras compatibles</string>
     <string name="tab_cpu_monitor">CPU Monitor</string>
     <string name="tab_cpu_time">CPU operating time</string>
+
+    <string name="basic_info">Basic</string>
+    <string name="gl_extensions">OpenGL extensions</string>
+    <string name="device_features">Device features</string>
 
     <!-- Tabs single list -->
 
@@ -76,7 +82,6 @@
     <string name="baseband">Banda base</string>
     <string name="serial">Serial</string>
     <string name="build">Build</string>
-
     <string name="security">Seguridad</string>
     <string name="uptime">Tiempo activo</string>
 
@@ -111,9 +116,9 @@
     <string name="camera">Cámara</string>
     <string name="lens_af">Lente AF</string>
     <string name="charger">Cargador</string>
-
     <string name="audio">Audio</string>
     <string name="ethernet">Ethernet</string>
+
 
     <!-- CPU / GPU -->
     <string name="cpu">CPU</string>
@@ -129,12 +134,10 @@
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Frecuencia del reloj</string>
     <string name="governor">Governor</string>
-
     <string name="clusters">Clusters</string>
     <string name="cache_l3">Cache L3</string>
     <string name="gpu_vendor">Fabricante</string>
     <string name="gpu_model">GPU</string>
-
     <string name="gpu_clock">Frecuencia del reloj</string>
     <string name="gpu_cufreq">Frecuencia actual</string>
     <string name="gpu_extensions">Extensiones</string>
@@ -144,6 +147,7 @@
     <string name="diagonal">Diagonal</string>
     <string name="size">Size</string>
     <string name="modes">Modes</string>
+
 
     <!-- Sensors -->
     <string name="test">TEST</string>
@@ -156,12 +160,14 @@
     <string name="title_activity_gyroscope_sensor">Gyroscope Test</string>
     <string name="title_activity_pressure_sensor">Barometer Test</string>
 
+
     <string name="accelerometer">Acelerómetro</string>
     <string name="magnetometer">Magnetómetro</string>
     <string name="gyroscope">Giroscopio</string>
     <string name="proximity">Proximidad</string>
     <string name="light">Luz</string>
     <string name="pressure">Barómetro</string>
+
 
     <string name="no_input_data">No data from sensor</string>
 
@@ -230,7 +236,9 @@
     <string name="allow">Allow</string>
     <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
     <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
-    
+
+    <string name="cameras_not_found">Cameras not found</string>
+
     <!-- Battery -->
 
     <string name="level">Nivel</string>
@@ -259,7 +267,6 @@
     <string name="thermal_not_found">Thermal sensors not found</string>
 
     <!-- Net -->
-
     <string name="link_speed">Ancho de banda</string>
     <string name="frequency">Frecuencia</string>
     <string name="signal">Señal</string>
@@ -271,7 +278,6 @@
     <string name="wifi_connection">Connection</string>
 
     <!-- SIM -->
-
     <string name="sim_phone_type">Tipo de teléfono</string>
     <string name="sim_operator_name">Operador</string>
     <string name="sim_operator_code">Código del operador</string>
@@ -330,6 +336,7 @@
 
     <!-- Report -->
 
+
     <string name="firmware">Firmware</string>
 
     <!-- Strings related to Settings -->
@@ -354,10 +361,14 @@
     <string name="pref_description_dark_theme">Apply dark theme to interface</string>
 
     <string name="pref_title_theme">Tema de interfaz</string>
+
     <string name="pref_text_scale">Text scaling</string>
+
+    <string name="pref_hide_tab_bar">Hide tab bar</string>
 
     <string name="pref_title_invert_charge_speed">Invert battery current</string>
     <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>
 
@@ -369,10 +380,12 @@
 
     <string name="pref_title_ad_tz_name">Thermal zone name</string>
     <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
     <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
     <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
 
     <!-- Strings related to Message of first install -->
+
 
     <string name="first_install_title">Mensaje</string>
 
@@ -387,14 +400,19 @@
     <string name="app_exit">Exit</string>
 
     <!-- PRO -->
+
     <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
     <string name="using_theme_expired_non_pro">Sorry, but free using black theme expired!\nIt\'s available in PRO version.</string>
+
+
     <string name="pro_version_info">
 Features:\n
  • Full theme support\n
  • Create report and send by email\n
  • Copy text by long press in info lists\n
  • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
  • Early access to new version
 </string>
 
@@ -438,10 +456,25 @@ Features:\n
     <string name="exif_cam_info">Read EXIF info from image</string>
     <string name="open_img_file_label">Open image file…</string>
 
-    <!-- App info -->
 
     <string name="error_read_sysfs">Lo siento, pero tu lector de sysfs firmware esta deshabilitado, solo información parcial esta disponible.</string>
+
     <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Type:</string>
+    <string name="codec_group">Group:</string>
+
+    <!-- App info -->
+
     <string name="app_details">App details</string>
     <string name="app_extract">Extract</string>
     <string name="app_extract_ok">Extracted successfully to</string>
@@ -458,5 +491,6 @@ Features:\n
     <string name="about_author">autor\n
         Andrey Efremov\n
         aka andr7e</string>
+
 
 </resources>
