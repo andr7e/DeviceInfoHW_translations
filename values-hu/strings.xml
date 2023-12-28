@@ -77,7 +77,7 @@
     <string name="flash_size">Flash méret</string>
 
     <string name="sound">Hang</string>
-    <string name="fingerprint_sensor">Ujjlennyomat</string>
+    <string name="fingerprint_sensor">Ujjlenyomat</string>
 
     <string name="baseband">Alapsáv</string>
     <string name="serial">Sorozatszám</string>
@@ -213,7 +213,7 @@
     <string name="mp">MP</string>
     <string name="video_resolution">Videófelbontás</string>
     <string name="focal_length">Fókusztávolság</string>
-    <string name="focal_length_35mm">Fokúsztávolság (35 mm ekvivalens)</string>
+    <string name="focal_length_35mm">Fókusztávolság (35 mm ekvivalens)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Fénykép formátumok</string>
     <string name="camera_size">Szenzorméret</string>
@@ -395,7 +395,7 @@
 
     <!-- Defender -->
     <string name="app_defender">App védő</string>
-    <string name="app_defender_msg">Sajnálom de a védő nem tuja ellenőrizni az app hitelességét. Kérem csatlakozzon az internethez és kattintson az újraellenőrzésre.</string>
+    <string name="app_defender_msg">Sajnálom, de a védő nem tudja ellenőrizni az app hitelességét. Kérem csatlakozzon az internethez és kattintson az újraellenőrzésre.</string>
     <string name="app_recheck">Újraellenőrzés</string>
     <string name="app_exit">Kilépés</string>
 
@@ -463,9 +463,9 @@ Jellemzők:\n
 
     <!-- Audio test -->
 
-    <string name="stereo">Stereo</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
+    <string name="stereo">Sztereó</string>
+    <string name="left">Bal</string>
+    <string name="right">Jobb</string>
     <string name="ear">Ear</string>
 
     <!-- Codecs -->
