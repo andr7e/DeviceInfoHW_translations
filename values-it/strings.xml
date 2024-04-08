@@ -1,0 +1,556 @@
+<resources>
+    <string name="app_name" translatable="false">Device Info HW</string>
+    <string name="app_name_title" translatable="false">Device Info HW</string>
+
+    <string name="action_settings">Impostazioni</string>
+    <string name="action_about">Info app</string>
+    <string name="action_info_center">Centro info</string>
+    <string name="action_screen_test">Test schermo</string>
+    <string name="action_audio_test">Test audio</string>
+    <string name="action_engineer_menu">Menu engineering</string>
+    <string name="action_test_fake">Prova testo falso</string>
+
+    <string name="nav_header_options">Opzioni</string>
+    <string name="action_rate_app">Valuta app</string>
+    <string name="action_upgrade_to_pro">Aggiorna a PRO</string>
+
+    <string name="navigation_drawer_open" translatable="false">Apri pannello navigazione</string>
+    <string name="navigation_drawer_close" translatable="false">Chiudi pannello navigazione</string>
+
+    <!-- Tabs -->
+    <string name="tab_general">Generale</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitor</string>
+    <string name="tab_system">Sistema</string>
+    <string name="tab_memory">Memoria</string>
+    <string name="tab_camera">Fotocamera</string>
+    <string name="tab_battery">Batteria</string>
+    <string name="tab_thermal">Termico</string>
+    <string name="tab_sensors">Sensori</string>
+    <string name="tab_applications">Applicazioni</string>
+    <string name="tab_project">Progetto</string>
+    <string name="tab_drivers">Driver</string>
+    <string name="tab_partitions">Partizioni</string>
+    <string name="tab_mounts">Montaggi</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">Rete</string>
+    <string name="tab_input">Input</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Codec</string>
+    <string name="tab_screen">Schermo</string>
+    <string name="tab_bt" translatable="false">Bluetooth</string>
+    <string name="tab_myapps" translatable="false">MIE APP</string>
+
+    <string name="tab_system_apps">Applicazioni sistema</string>
+    <string name="tab_camera_supported">Fotocamere supportate</string>
+    <string name="tab_cpu_monitor">Monitor CPU</string>
+    <string name="tab_cpu_time">Tempo funzionamento CPU</string>
+
+    <string name="basic_info">Base</string>
+    <string name="gl_extensions">Estensioni OpenGL</string>
+    <string name="device_features">Funzioni dispositivo</string>
+
+    <!-- Tabs single list -->
+    <string name="system_apps" translatable="false">Applicazioni sistema</string>
+    <string name="system_apps_info" translatable="false">ru.andr7e.deviceinfohw.apps</string>
+
+    <!-- Menu -->
+    <string name="device">Dispositivo</string>
+    <string name="manufacturer">Produttore</string>
+    <string name="model">Modello</string>
+    <string name="brand">Marca</string>
+    <string name="model_name">Nome modello</string>
+
+    <string name="platform">Piattaforma</string>
+    <string name="board">Scheda</string>
+    <string name="resolution">Risoluzione</string>
+    <string name="max_resolution">Risoluzione max.</string>
+    <string name="current_resolution">Risoluzione attuale</string>
+    <string name="ratio">Rapporto</string>
+    <string name="wide_color_gamut">Ampia gamma di colori</string>
+    <string name="wide_color_supported">Supportata</string>
+
+    <string name="android" translatable="false">Android</string>
+    <string name="api" translatable="false">API</string>
+    <string name="codename">Nome in codice</string>
+    <string name="release">Rilascio</string>
+
+    <string name="machine_arch">Architettura</string>
+
+    <string name="kernel">Kernel</string>
+
+    <string name="ram">RAM</string>
+    <string name="free">Libera:</string>
+    <string name="used">Usata:</string>
+    <string name="total">Totale:</string>
+    <string name="kram" translatable="false">RAM (kernel)</string>
+    <string name="zram" translatable="false">SWAP</string>
+    <string name="flash">Flash</string>
+    <string name="scsi" translatable="false">SCSI</string>
+    <string name="ufs" translatable="false">UFS</string>
+    <string name="flash_size">Dim. flash</string>
+
+    <string name="wifi" translatable="false">Wi-Fi</string>
+    <string name="gps" translatable="false">GPS</string>
+    <string name="bluetooth" translatable="false">Bluetooth</string>
+    <string name="sound">Audio</string>
+    <string name="fingerprint_sensor">Impronta</string>
+
+    <string name="baseband">Baseband</string>
+    <string name="serial">Seriale</string>
+    <string name="build">Build</string>
+    <string name="java_vm" translatable="false">VM Java</string>
+    <string name="security">Sicurezza</string>
+    <string name="uptime">Tempo accensione</string>
+
+    <string name="product">Prodotto</string>
+    <string name="type">Tipo</string>
+    <string name="build_type">Tipo build</string>
+    <string name="tags">Tag</string>
+    <string name="incremental">Incrementale</string>
+    <string name="build_date">Data build</string>
+    <string name="fingerprint">Firma digitale</string>
+    <string name="description">Descrizione</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="selinux" translatable="false">SELinux</string>
+    <string name="gmsver" translatable="false">Servizi Google Play</string>
+    <string name="hmsver" translatable="false">Servizi Huawei Mobile</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">Funzioni dispositivo</string>
+    <string name="features">Funzioni</string>
+    <string name="language">Lingua</string>
+    <string name="timezone">Fuso orario</string>
+
+    <string name="version">Versione</string>
+
+    <string name="enabled">Abilitato/a</string>
+    <string name="disabled">Disabilitato/a</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">Tipo LCD</string>
+    <string name="touchscreen">Touchscreen</string>
+    <string name="touchscreen_key">Tasti touch</string>
+    <string name="other">Altro</string>
+    <string name="unknown">Altro sconosciuto</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">Fotocamera</string>
+    <string name="lens_af">Lenti AF</string>
+    <string name="charger">Caricatore</string>
+    <string name="usb_typec" translatable="false">USB Type-C</string>
+    <string name="pmic" translatable="false">PMIC</string>
+    <string name="rtc" translatable="false">RTC</string>
+    <string name="nfc" translatable="false">NFC</string>
+    <string name="audio">Audio</string>
+    <string name="ethernet">Ethernet</string>
+
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">Produttore</string>
+    <string name="soc" translatable="false">SoC</string>
+    <string name="cores">Core</string>
+    <string name="revision">Revisione</string>
+    <string name="family">Famiglia</string>
+    <string name="mode">Modo</string>
+    <string name="mode_supported">Supportato</string>
+    <string name="abi" translatable="false">ABI</string>
+    <string name="abis">ABI supportato</string>
+    <string name="instructions">Istruzioni</string>
+    <string name="techprocess">Tecnologia processo</string>
+    <string name="unit_nm">nm</string>
+    <string name="clock_speed">Frequenza clock</string>
+    <string name="governor">Governatore</string>
+    <string name="big_little" translatable="false">big.LITTLE</string>
+    <string name="clusters">Cluster</string>
+    <string name="cache_l3">Cache L3</string>
+    <string name="gpu_vendor">Produttore</string>
+    <string name="gpu_model">GPU</string>
+    <string name="gl_version" translatable="false">OpenGL ES</string>
+    <string name="gpu_clock">Frequenza clock</string>
+    <string name="gpu_cufreq">Frequenza attuale</string>
+    <string name="gpu_extensions">Estensioni</string>
+    <string name="vulkan" translatable="false">Vulkan</string>
+
+    <string name="density">Densità</string>
+    <string name="refresh_rate">Freq. aggiornamento</string>
+    <string name="diagonal">Diagonale</string>
+    <string name="size">Dimensione</string>
+    <string name="modes">Modi</string>
+    <string name="hdr" translatable="false">HDR</string>
+
+    <string name="cmdline" translatable="false">Linea di comando</string>
+
+    <!-- Sensors -->
+    <string name="test">TEST</string>
+    <string name="info">INFO</string>
+
+    <string name="title_activity_light_sensor">Test sensore luce</string>
+    <string name="title_activity_proximity_sensor">Test sensore prossimità</string>
+    <string name="title_activity_accelerometer_sensor">Test accelerometro</string>
+    <string name="title_activity_magnetometer_sensor">Test magnetometro</string>
+    <string name="title_activity_gyroscope_sensor">Test bussola</string>
+    <string name="title_activity_pressure_sensor">Test barometro</string>
+
+    <string name="led" translatable="false">•</string>
+
+    <string name="accelerometer">Accelerometro</string>
+    <string name="magnetometer">Magnetometro</string>
+    <string name="gyroscope">Bussola</string>
+    <string name="proximity">Prossimità</string>
+    <string name="light">Luce</string>
+    <string name="pressure">Barometro</string>
+    <string name="accel_gyro" translatable="false">Accel + bussola</string>
+
+    <string name="google_play_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="sensor_app_name" translatable="false">Test sensore</string>
+
+    <string name="no_input_data">Nessun dato dal sensore</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+    <string name="unit_percent" translatable="false">%</string>
+    <string name="unit_temp" translatable="false">&#xb0;С</string>
+    <string name="unit_degree" translatable="false">&#xb0;</string>
+
+    <string name="s_name">Nome:</string>
+    <string name="s_vendor">Produttore:</string>
+    <string name="s_version">Versione:</string>
+    <string name="s_max_range">Intervallo max:</string>
+    <string name="s_resolution">Risoluzione:</string>
+    <string name="s_power">Alimentazione:</string>
+    <string name="s_unit">Unità:</string>
+    <string name="s_type">Tipo:</string>
+    <string name="s_id" translatable="false">ID:</string>
+
+    <string name="unsupported">non supportato/a</string>
+
+    <string name="total_sensors">Totale:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Archivio interno</string>
+    <string name="external_storage">Archivio esterno</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Produttore</string>
+    <string name="camera_model">Modello</string>
+    <string name="camera_supported">Supportata</string>
+
+    <string name="software">Software</string>
+    <string name="hardware">Hardware</string>
+
+    <string name="orientation">Orientamento</string>
+    <string name="camera_flash">Flash</string>
+    <string name="yes">sì</string>
+    <string name="no">no</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Lunghezza focale</string>
+    <string name="focal_length_35mm">Lunghezza focale (equivalente 35 mm)</string>
+    <string name="camera2_api">API Camera2</string>
+    <string name="camera_formats">Formati immagine</string>
+    <string name="camera_size">Dimensione sensore</string>
+    <string name="optical_format">Formato ottico</string>
+    <string name="camera_diagonal">Diagonale</string>
+    <string name="pixel_size">Dimensione pixel</string>
+    <string name="camera_af_modes">Modi fuoco</string>
+    <string name="aperture">Apertura</string>
+    <string name="iso" translatable="false">ISO</string>
+    <string name="ois" translatable="false">OIS</string>
+    <string name="camera_phy_count">Tipo modulo</string>
+    <string name="camera_add_modules">Fotocamere aggiuntive</string>
+    <string name="camera_all_modules">Moduli</string>
+    <string name="camera_sw_info">Info</string>
+    <string name="camera_color_filter">Filtro colore</string>
+    <string name="camera_view_angle">Angolo vista</string>
+    <string name="zoom">Zoom</string>
+    <string name="crop_factor">Fattore taglio</string>
+    <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
+    <string name="unit_cm">cm</string>
+    <string name="allow">Consenti</string>
+    <string name="cam_res_max_info">- Per alcuni dispositivi in ​​cui la fotocamera usa il pixel binning come 4 in 1, è disponibile solo la risoluzione base.</string>
+    <string name="cam_res_max_info_perm">- Per ottenere la massima risoluzione dell\'immagine puoi provare a consentire l\'autorizzazione della fotocamera.</string>
+
+    <string name="cameras_not_found">Fotocamere non trovate</string>
+
+    <!-- Battery -->
+
+    <string name="level">Livello</string>
+    <string name="health">Salute</string>
+    <string name="status">Stato</string>
+
+    <string name="power_source">Sorgente alimentazione</string>
+    <string name="technology">Tecnologia</string>
+    <string name="temperature">Temperatura</string>
+    <string name="voltage">Voltaggio</string>
+    <string name="power_profile">Profilo alimentazione</string>
+    <string name="kernel_profile">Profilo kernel</string>
+    <string name="charged_to">Carica fino a</string>
+    <string name="battery_model">Modello</string>
+    <string name="consumption">Consumo</string>
+    <string name="charge_speed">Velocità carica</string>
+    <string name="discharge_speed">Velocità scarica</string>
+    <string name="time_to_full_charge">Tempo per carica completa</string>
+    <string name="bat_cycle_count">N. cicli</string>
+    <string name="throttling">Limitazione</string>
+
+    <string name="charge_ac">Carica via AC</string>
+    <string name="charge_usb">Carica via USB</string>
+    <string name="quick_charge">Carica rapida</string>
+
+    <string name="thermal_not_found">Sensori termici non trovati</string>
+
+    <!-- Net -->
+    <string name="ip_address" translatable="false">IPv4</string>
+    <string name="ip6_address" translatable="false">IPv6</string>
+    <string name="ssid" translatable="false">SSID</string>
+    <string name="link_speed">Velocità collegamento</string>
+    <string name="mac_address" translatable="false">MAC</string>
+    <string name="frequency">Frequenza</string>
+    <string name="signal">Segnale</string>
+    <string name="channel">Canale</string>
+    <string name="net_level">Livello</string>
+    <string name="not_connected">Non connesso</string>
+    <string name="standard">Standard</string>
+    <string name="support_ghz">Banda %1d GHz</string>
+    <string name="wifi_connection">Connessione</string>
+    <string name="support_wifi_direct"  translatable="false">Wi-Fi Direct</string>
+    <string name="support_wpa3"  translatable="false">WPA3</string>
+
+    <!-- SIM -->
+    <string name="sim_label" translatable="false">SIM</string>
+    <string name="sim_phone_type">Tipo telefono</string>
+    <string name="sim_operator_name">Operatore</string>
+    <string name="sim_operator_code">Codice operatore</string>
+    <string name="sim_country_code">Codice nazione</string>
+    <string name="network_type">Tipo rete</string>
+    <string name="sim_state">Stato SIM</string>
+    <string name="sim_icc_card">ICC scheda</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Nome</string>
+    <string name="partition_address">Indirizzo iniziale</string>
+    <string name="partition_size">Dimensione partizione</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">giorni</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">Carico:</string>
+    <string name="cpu_core">core</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">Test colore LCD</string>
+    <string name="lcd_desc">Controlla colore schermo e assenza pixel difettosi</string>
+
+    <string name="multitouch_label">Multi-touch</string>
+    <string name="multitouch_info">Test Touchscreen multi-touch</string>
+    <string name="multitouch_desc">Verifica quante dita sono supportate</string>
+
+    <string name="touchdraw_label">Touch e disegno</string>
+    <string name="touchdraw_info">Test disegno con touchscreen</string>
+    <string name="touchdraw_desc">Verifica precisione tocco e zone morte</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Percorso</string>
+    <string name="usb_num">Numero</string>
+    <string name="usb_bus">ID dispositivo</string>
+    <string name="usb_ver">Versione</string>
+    <string name="usb_not_found">Dispositivi non trovati</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Modem</string>
+    <string name="camera_back">Fotocamera posteriore</string>
+    <string name="camera_front">Fotocamera frontale</string>
+    <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Piattaforma MTK</string>
+
+    <!-- Report -->
+
+    <string name="flash_id" translatable="false">flash_id</string>
+    <string name="flash_name" translatable="false">flash_name</string>
+    <string name="hwinfo" translatable="false">hwinfo</string>
+    <string name="platform_drivers" translatable="false">platform_drivers</string>
+    <string name="spi_drivers" translatable="false">spi</string>
+    <string name="iio_drivers" translatable="false">iio</string>
+
+    <string name="firmware">Firmware</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Impostazioni</string>
+
+    <string name="pref_category_general">Generale</string>
+    <string name="pref_category_appearance">Interfaccia</string>
+    <string name="pref_category_other">Altro</string>
+
+    <string name="pref_title_set_language">Lingua</string>
+
+    <string name="language_default">Predefinita</string>
+
+    <string name="pref_title_use_root">Usa root</string>
+    <string name="pref_description_use_root">Per avere informazioni complete</string>
+
+    <string name="pref_title_show_address">Visualizza indirizzo i2c</string>
+    <string name="pref_description_show_address">Visualizza indirizzo i2c dispositivo</string>
+
+    <string name="pref_title_dark_theme">Usa tema scuro</string>
+    <string name="pref_description_dark_theme">Applica tema scuro all\'interfaccia</string>
+
+    <string name="pref_title_theme">Tema interfaccia</string>
+
+    <string name="pref_text_scale">Ridimensionamento testo</string>
+
+    <string name="pref_hide_tab_bar">Nascondi barra schede</string>
+
+    <string name="pref_title_invert_charge_speed">Inverti corrente batteria</string>
+    <string name="pref_description_invert_charge_speed">Inverti velocità carica/scarica batteria</string>
+
+    <string name="pref_title_use_charged_to">Usa \'caricata fino a\'</string>
+    <string name="pref_description_use_charged_to">Visualizza valore batteria \'caricata fino a\', non tutti i dispositivi sono completamente compatibili</string>
+
+    <string name="pref_title_temp_in_f_deg">Temperatura in &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Visualizza temperatura in Fahrenheit</string>
+
+    <string name="pref_title_detect_therm_zones">Rileva zone termiche</string>
+    <string name="pref_description_detect_therm_zones">Rileva nomi zone termiche (root)</string>
+
+    <string name="pref_title_ad_tz_name">Nome zona termica</string>
+    <string name="pref_description_ad_tz_name">Visualizza nome zona termica</string>
+
+    <string name="pref_title_use_pressure_mm_hg">Unità pressione</string>
+    <string name="pref_description_use_pressure_mm_hg">Usa pressione in mm Hg</string>
+
+    <!-- Strings related to Message of first install -->
+
+    <string name="ok" translatable="false">OK</string>
+
+    <string name="first_install_title">Messaggio</string>
+
+    <string name="root_hw_detect">Nelle nuove versioni Android, alcune informazioni sono bloccate,
+        se hai accesso root, puoi abilitarlo nelle impostazioni.
+        Saranno disponibili maggiori dettagli.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">Defender non può verificare la validità dell\'app.\nCollegati a internet e seleziona \Ricontrolla\.</string>
+    <string name="app_recheck">Ricontrolla</string>
+    <string name="app_exit">Esci</string>
+
+    <!-- PRO -->
+
+    <string name="using_theme_start_non_pro">Puoi usare il tema nero per 14 giorni.\nSuccessivamente usa il tema scuro o esegui l\'aggiornamento a PRO.</string>
+    <string name="using_theme_expired_non_pro">Il tema gratuito con tema scuro è scaduto!\nÈ disponibile nella versione PRO.</string>
+
+    <string name="pro_version_label" translatable="false">PRO</string>
+
+    <string name="pro_version_info">
+Funzionalità:\n
+ • Supporto completo tema\n
+ • Creazione rapporto e invio via email\n
+ • Copia testo premendo a lungo negli elenchi info\n
+ • Nuovo design linguetta batteria con grafico carica/scarica\n
+ • Info aggiuntive per applicazioni installate\n
+ • Scheda grafico frequenze CPU\n
+ • Accesso anticipato alla nuova versione
+</string>
+
+    <!-- Info center -->
+    <string name="update">Aggiorna</string>
+    <string name="updating">Aggiornamento</string>
+
+    <string name="upload">Upload</string>
+
+    <string name="create_report">Crea rapporto</string>
+    <string name="create_report_msg">Rapporto creato correttamente!\nGuarda dentro</string>
+    <string name="create_report_err">Impossibile creare il rapporto!</string>
+    <string name="create_report_err_non_pro">Impossibile creare il rapporto!\nFunzione disponibile nella versione PRO.</string>
+    <string name="create_report_info">Le info sul dispositivo verranno salvate in un file nella cartella dati dell\'app.</string>
+    <string name="create">Crea</string>
+
+    <string name="error">Errore</string>
+    <string name="close">Chiudi</string>
+    <string name="open">Apri</string>
+    <string name="share">Condividi</string>
+    <string name="send_to_email">Invia all\'email:</string>
+
+    <string name="cpu_codenames_label">Nome in codice CPU</string>
+    <string name="cpu_codenames_info">Elenco nomi CPU</string>
+
+    <string name="update_components_label">Componenti dispositivo</string>
+    <string name="update_components_msg">Aggiorna database regole rilevamento</string>
+    <string name="update_component_msg">Regole rilevamento aggiornate.\nPer applicare le modifiche riavvia l\'applicazione.</string>
+
+    <string name="upload_info_label">Upload info dispositivo</string>
+    <string name="upload_info_text">Aiuta a migliorare il programma e a migliorare il supporto dei dispositivi
+       e altri sviluppatori possono trovare dispositivi simili e driver necessari.
+       Risultato memorizzato nel database.\nPuoi vederlo su:</string>
+
+    <string name="kernel_analyzer_label">Analizzatore kernel</string>
+
+    <string name="i2c_viewer_label">Elenco dispositivo</string>
+    <string name="i2c_viewer_info">Dispositivi su i2c, bus SPI</string>
+
+    <string name="exif_cam_label">Info EXIF fotocamera</string>
+    <string name="exif_cam_info">Leggi info EXIF ​​dall\'immagine</string>
+    <string name="open_img_file_label">Apri file immagine…</string>
+
+    <string name="translation_label" translatable="false">Traduzione</string>
+    <string name="translation_info" translatable="false">Se vuoi contribuire ad aggiungere o aggiornare una traduzione per una lingua:</string>
+
+    <string name="error_read_sysfs">Sul firmware del dispositivo la lettura di sysfs è disabilitata.\nSono disponibili solo info parziali.</string>
+
+    <string name="title_bat_show_chart_rate">Grafico carica/scarica</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Sinistro</string>
+    <string name="right">Destra</string>
+    <string name="ear">Cuffie</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_type">Tipo:</string>
+    <string name="codec_group">Gruppo:</string>
+
+    <!-- App info -->
+
+    <string name="app_details">Dettagli app</string>
+    <string name="app_extract">Estrai</string>
+    <string name="app_extract_ok">Estrazione completata in</string>
+    <string name="app_extract_err">Estrazione fallita!</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Copiati negli appunti:</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">versione</string>
+
+    <string name="about_author">autore\n
+        Andrey Efremov\n
+        alias andr7e</string>
+
+    <string name="about_bottom" translatable="false">(c) 2016 - %1d</string>
+
+</resources>
