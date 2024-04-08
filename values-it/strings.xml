@@ -76,7 +76,7 @@
     <string name="flash">Flash</string>
     <string name="flash_size">Dim. flash</string>
 
-    <string name="sound">Audio</string>
+    <string name="sound">Suono</string>
     <string name="fingerprint_sensor">Impronta</string>
 
     <string name="baseband">Baseband</string>
@@ -259,7 +259,7 @@
     <string name="charge_speed">Velocità carica</string>
     <string name="discharge_speed">Velocità scarica</string>
     <string name="time_to_full_charge">Tempo per carica completa</string>
-    <string name="bat_cycle_count">N. cicli</string>
+    <string name="bat_cycle_count">Numero cicli</string>
     <string name="throttling">Limitazione</string>
 
     <string name="charge_ac">Carica via AC</string>

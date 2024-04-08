@@ -15,5 +15,6 @@
 * Vietnamese: Nguyễn Lam
 * Uzbek: Zafarx94 (Zafar Shamsiddinov)
 * Japanese: Kazma Otsubo
+* Italian: bovirus
 
 ```
