@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">Дисплей</string>
     <string name="lcm_type">Тип дисплея</string>
+    <string name="lcm_tech">Технология</string>
     <string name="touchscreen">Сенсорный экран</string>
     <string name="touchscreen_key">Сенсорные кнопки</string>
     <string name="other">Другие</string>
@@ -131,6 +132,7 @@
     <string name="abis">Поддерживаемые ABI</string>
     <string name="instructions">Инструкции</string>
     <string name="techprocess">Техпроцесс</string>
+    <string name="techmanuf">Производство</string>
     <string name="unit_nm">нм</string>
     <string name="clock_speed">Частота</string>
     <string name="governor">Регулятор</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">Тест дисплея</string>
     <string name="lcd_desc">Проверьте передачу цветов экраном\nи отсутствие битых пикселей</string>
 
+    <string name="lcd_type_label">Тип дисплея</string>
+    <string name="lcd_type_info">Тест энергосбережения дисплея</string>
+    <string name="lcd_type_desc">Проверка энергосбережения для определения типа дисплея</string>
+    <string name="lcd_type_test_avg">Среднее потребление для цветов</string>
+    <string name="lcd_type_test_examples_label">Примеры для черного цвета при максимальной яркости</string>
+
+    <string name="start">Старт</string>
+
     <string name="multitouch_label">Multi-touch</string>
     <string name="multitouch_info">Тест мультитача сенсорного экрана</string>
     <string name="multitouch_desc">Проверьте сколько касаний\nподдерживает ваше устройство</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">Инвертировать ток батареи</string>
     <string name="pref_description_invert_charge_speed">Инвертировать скорость заряда / разряда батареи</string>
+
+    <string name="pref_title_battery_current_unit">Ед. измер. тока зарядки</string>
 
     <string name="pref_title_use_charged_to">Использовать параметр \'заряжен до\'</string>
     <string name="pref_description_use_charged_to">Показывать значение \'заряжен до\', не все устройства обеспечивают полную поддержку</string>

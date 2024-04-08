@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">LCD típusa</string>
+    <string name="lcm_tech">Technology</string>
     <string name="touchscreen">Érintőképernyő</string>
     <string name="touchscreen_key">Érintő gombok</string>
     <string name="other">Egyéb</string>
@@ -131,6 +132,7 @@
     <string name="abis">Támogatott ABI</string>
     <string name="instructions">Utasítások</string>
     <string name="techprocess">Gyártástechnológia</string>
+    <string name="techmanuf">Manufacturing</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Órajel</string>
     <string name="governor">Vezérlő</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">LCD szín teszt</string>
     <string name="lcd_desc">A képernyő színének és a hibás pixelek ellenőrzése</string>
 
+    <string name="lcd_type_label">LCD type</string>
+    <string name="lcd_type_info">LCD energy saving test</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Start</string>
+
     <string name="multitouch_label">Többujjas érintés</string>
     <string name="multitouch_info">Képernyő többujjas érintéses teszt</string>
     <string name="multitouch_desc">Ellenőrizze hány ujjat támogat a készülék</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">Akku értékek megfordítása</string>
     <string name="pref_description_invert_charge_speed">Fordítsa meg az akku töltés / merülés sebességet</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
 
     <string name="pref_title_use_charged_to">\'Feltöltve eddig\' használata</string>
     <string name="pref_description_use_charged_to">\'Feltöltve eddig\' érték mutatása, nem minden eszközzel kompatibilis teljesen</string>

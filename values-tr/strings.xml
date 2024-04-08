@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">LCD Tipi</string>
+    <string name="lcm_tech">Technology</string>
     <string name="touchscreen">Dokunmatik ekran</string>
     <string name="touchscreen_key">Dokunmatik tuşlar</string>
     <string name="other">Diğer</string>
@@ -131,6 +132,7 @@
     <string name="abis">Supported ABI</string>
     <string name="instructions">Talimatlar</string>
     <string name="techprocess">İşlemci teknolojisi</string>
+    <string name="techmanuf">Manufacturing</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Saat hızı</string>
     <string name="governor">Governor</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">LCD renk testi</string>
     <string name="lcd_desc">Ekran rengini ve ölü pikselleri kontrol edin</string>
 
+    <string name="lcd_type_label">LCD type</string>
+    <string name="lcd_type_info">LCD energy saving test</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Start</string>
+
     <string name="multitouch_label">Çoklu dokunuş</string>
     <string name="multitouch_info">Dokunmatik ekran çoklu dokunma testi</string>
     <string name="multitouch_desc">Kaç parmağın desteklendiğini kontrol edin</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
     <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
 
     <string name="pref_title_use_charged_to">Pil yüzdesini göster</string>
     <string name="pref_description_use_charged_to">Bataryanın yüzde kaç dolu olduğunu gösterir. Bazı cihazlarda çalışmayabilir</string>

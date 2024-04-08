@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCD顯示模組</string>
     <string name="lcm_type">LCD類型</string>
+    <string name="lcm_tech">Technology</string>
     <string name="touchscreen">觸摸屏</string>
     <string name="touchscreen_key">觸摸鍵</string>
     <string name="other">其他</string>
@@ -131,6 +132,7 @@
     <string name="abis">Supported ABI</string>
     <string name="instructions">說明</string>
     <string name="techprocess">Process technology</string>
+    <string name="techmanuf">Manufacturing</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">時脈時脈</string>
     <string name="governor">調頻器</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">熒幕顏色測試</string>
     <string name="lcd_desc">檢查熒幕顏色和像素缺陷</string>
 
+    <string name="lcd_type_label">LCD type</string>
+    <string name="lcd_type_info">LCD energy saving test</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Start</string>
+
     <string name="multitouch_label">多點觸控</string>
     <string name="multitouch_info">觸摸屏多點觸控測試</string>
     <string name="multitouch_desc">檢查支持的手指數</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">反向電池電流</string>
     <string name="pref_description_invert_charge_speed">反向充電 / 放電速度</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
 
     <string name="pref_title_use_charged_to">Use \'charged up to\'</string>
     <string name="pref_description_use_charged_to">Show \'charged up to\' battery value, not all devices full compatible</string>

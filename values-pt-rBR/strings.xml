@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">Tipo de LCD</string>
+    <string name="lcm_tech">Technology</string>
     <string name="touchscreen">Tela</string>
     <string name="touchscreen_key">Teclas de toque</string>
     <string name="other">Outros</string>
@@ -131,6 +132,7 @@
     <string name="abis">ABI suportadas</string>
     <string name="instructions">Instruções</string>
     <string name="techprocess">Processo tecnológico</string>
+    <string name="techmanuf">Manufacturing</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Velocidade</string>
     <string name="governor">Governador</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">Teste de cor LCD</string>
     <string name="lcd_desc">Verficiar cores da tela e corrigir pixels defeituosos</string>
 
+    <string name="lcd_type_label">LCD type</string>
+    <string name="lcd_type_info">LCD energy saving test</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Start</string>
+
     <string name="multitouch_label">Multi-toque</string>
     <string name="multitouch_info">Testar múltiplos toques na tela</string>
     <string name="multitouch_desc">Verificar quantos dedos são suportados</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">Inverter bateria atual</string>
     <string name="pref_description_invert_charge_speed">Inverter velocidade de carregamento / descarregamento</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
 
     <string name="pref_title_use_charged_to">Use \'carregado até\'</string>
     <string name="pref_description_use_charged_to">Mostrar o valor da bateria \'carregado até\', nem todos os dispositivos totalmente compatíveis</string>

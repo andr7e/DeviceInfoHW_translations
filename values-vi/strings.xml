@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">Loại LCD</string>
+    <string name="lcm_tech">Technology</string>
     <string name="touchscreen">Màn hình cảm ứng</string>
     <string name="touchscreen_key">Phím cảm ứng</string>
     <string name="other">Khác</string>
@@ -131,6 +132,7 @@
     <string name="abis">ABI được hỗ trợ</string>
     <string name="instructions">Chỉ lệnh</string>
     <string name="techprocess">Tiến trình công nghệ</string>
+    <string name="techmanuf">Manufacturing</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Tốc độ xung nhịp</string>
     <string name="governor">Governor</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">Kiểm tra màu LCD</string>
     <string name="lcd_desc">Kiểm tra màu màn hình để xem có pixel nào bị lỗi hay không</string>
 
+    <string name="lcd_type_label">LCD type</string>
+    <string name="lcd_type_info">LCD energy saving test</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Start</string>
+
     <string name="multitouch_label">Cảm ứng đa điểm</string>
     <string name="multitouch_info">Kiểm tra cảm ứng đa điểm trên màn hình</string>
     <string name="multitouch_desc">Kiểm tra xem có bao nhiêu ngón tay được hỗ trợ</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">Đảo ngược sạc pin hiện tại</string>
     <string name="pref_description_invert_charge_speed">Sạc đảo ngược / tốc độ xả</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
 
     <string name="pref_title_use_charged_to">Sử dụng \'sạc lên đến\'</string>
     <string name="pref_description_use_charged_to">Hiển thị \'sạc lên đến\' giá trị pin, không phải tất cả các thiết bị đều tương thích hoàn toàn</string>

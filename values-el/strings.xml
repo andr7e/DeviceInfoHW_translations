@@ -108,6 +108,7 @@
     <!-- Components -->
     <string name="lcm">Οθονη</string>
     <string name="lcm_type">Τυπος οθονης</string>
+    <string name="lcm_tech">Technology</string>
     <string name="touchscreen">Οθόνη αφής</string>
     <string name="touchscreen_key">Πλήκτρα αφής</string>
     <string name="other">Αλλα</string>
@@ -131,6 +132,7 @@
     <string name="abis">Supported ABI</string>
     <string name="instructions">Οδηγίες</string>
     <string name="techprocess">Τεχνολογία διεργασιών</string>
+    <string name="techmanuf">Manufacturing</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Ταχυτητα ρολογιου</string>
     <string name="governor">Ρυθμιστης</string>
@@ -310,6 +312,14 @@
     <string name="lcd_info">Δοκιμή χρώματος οθονης</string>
     <string name="lcd_desc">Ελέγξτε το χρώμα της οθόνης και οχι ελαττωματικά pixel</string>
 
+    <string name="lcd_type_label">LCD type</string>
+    <string name="lcd_type_info">LCD energy saving test</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Start</string>
+
     <string name="multitouch_label">Πολλαπλής αφής</string>
     <string name="multitouch_info">Δοκιμή πολλαπλής αφής οθόνης αφής</string>
     <string name="multitouch_desc">Ελέγξτε πόσα δάχτυλα υποστηρίζονται</string>
@@ -368,6 +378,8 @@
 
     <string name="pref_title_invert_charge_speed">Αντιστρέψτε το ρεύμα της μπαταρίας</string>
     <string name="pref_description_invert_charge_speed">Αντιστρέψτε την ταχύτητα φόρτισης / εκφόρτισης της μπαταρίας</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
 
     <string name="pref_title_use_charged_to">Χρήση \'φορτιστικε στο\'</string>
     <string name="pref_description_use_charged_to">Εμφάνιση της τιμής μπαταρίας \'φορτισμένη σε\' και όχι όλες οι συσκευές πλήρως συμβατές</string>
