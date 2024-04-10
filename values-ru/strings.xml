@@ -172,6 +172,7 @@
 
 
     <string name="no_input_data">Нет данных от датчика</string>
+    <string name="sensor_list">Список датчиков</string>
 
     <string name="unit_accelerometer">м/с²</string>
     <string name="unit_light">лк</string>
@@ -293,6 +294,7 @@
     <string name="partition_name">Название</string>
     <string name="partition_address">Адрес начала</string>
     <string name="partition_size">Размер раздела</string>
+    <string name="partitions_not_found">Разделы не найдены</string>
 
     <!-- System -->
 
@@ -480,6 +482,7 @@
 
     <!-- Codecs -->
 
+    <string name="codec_info">Кодек</string>
     <string name="codec_type">Тип:</string>
     <string name="codec_group">Группа:</string>
 

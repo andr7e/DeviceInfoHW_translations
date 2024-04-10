@@ -208,6 +208,7 @@
     <string name="sensor_app_name" translatable="false">Sensor Test</string>
 
     <string name="no_input_data">No data from sensor</string>
+    <string name="sensor_list">Sensors</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -342,6 +343,7 @@
     <string name="partition_name">Name</string>
     <string name="partition_address">Start address</string>
     <string name="partition_size">Partition size</string>
+    <string name="partitions_not_found">Partitions not found</string>
 
     <!-- System -->
 
@@ -541,6 +543,7 @@ Features:\n
 
     <!-- Codecs -->
 
+    <string name="codec_info">Codec info</string>
     <string name="codec_type">Type:</string>
     <string name="codec_group">Group:</string>
 

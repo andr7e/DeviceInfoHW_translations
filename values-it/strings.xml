@@ -172,6 +172,7 @@
 
 
     <string name="no_input_data">Nessun dato dal sensore</string>
+    <string name="sensor_list">Sensors</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -293,6 +294,7 @@
     <string name="partition_name">Nome</string>
     <string name="partition_address">Indirizzo iniziale</string>
     <string name="partition_size">Dimensione partizione</string>
+    <string name="partitions_not_found">Partitions not found</string>
 
     <!-- System -->
 
@@ -482,6 +484,7 @@ Funzionalità:\n
 
     <!-- Codecs -->
 
+    <string name="codec_info">Codec info</string>
     <string name="codec_type">Tipo:</string>
     <string name="codec_group">Gruppo:</string>
 
