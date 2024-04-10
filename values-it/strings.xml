@@ -108,7 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">Tipo LCD</string>
-    <string name="lcm_tech">Technology</string>
+    <string name="lcm_tech">Technologia</string>
     <string name="touchscreen">Touchscreen</string>
     <string name="touchscreen_key">Tasti touch</string>
     <string name="other">Altro</string>
@@ -132,7 +132,7 @@
     <string name="abis">ABI supportato</string>
     <string name="instructions">Istruzioni</string>
     <string name="techprocess">Tecnologia processo</string>
-    <string name="techmanuf">Manufacturing</string>
+    <string name="techmanuf">Produttore</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Frequenza clock</string>
     <string name="governor">Governatore</string>
@@ -312,11 +312,11 @@
     <string name="lcd_info">Test colore LCD</string>
     <string name="lcd_desc">Controlla colore schermo e assenza pixel difettosi</string>
 
-    <string name="lcd_type_label">LCD type</string>
-    <string name="lcd_type_info">LCD energy saving test</string>
-    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
-    <string name="lcd_type_test_avg">Average consumption for colors</string>
-    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+    <string name="lcd_type_label">Tipo LCD</string>
+    <string name="lcd_type_info">Test risparmio energia LCD</string>
+    <string name="lcd_type_desc">Verifica il risparmio energetico per determinare il tipo di LCD</string>
+    <string name="lcd_type_test_avg">Consumo medio per i colori</string>
+    <string name="lcd_type_test_examples_label">Esempi di colore nero alla massima luminosità</string>
 
     <string name="start">Start</string>
 
@@ -379,7 +379,7 @@
     <string name="pref_title_invert_charge_speed">Inverti corrente batteria</string>
     <string name="pref_description_invert_charge_speed">Inverti velocità carica/scarica batteria</string>
 
-    <string name="pref_title_battery_current_unit">Battery current unit</string>
+    <string name="pref_title_battery_current_unit">Unità corrente batteria</string>
 
     <string name="pref_title_use_charged_to">Usa \'caricata fino a\'</string>
     <string name="pref_description_use_charged_to">Visualizza valore batteria \'caricata fino a\', non tutti i dispositivi sono completamente compatibili</string>
