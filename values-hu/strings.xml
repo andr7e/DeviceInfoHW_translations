@@ -253,6 +253,7 @@
     <string name="temperature">Hőmérséklet</string>
     <string name="voltage">Feszültség</string>
     <string name="power_profile">Kapacitásprofil</string>
+    <string name="nominal_profile">Nominal profile</string>
     <string name="kernel_profile">Kernel profil</string>
     <string name="charged_to">Feltöltve eddig</string>
     <string name="battery_model">Típus</string>
@@ -266,6 +267,8 @@
     <string name="charge_ac">Töltés AC-n keresztül</string>
     <string name="charge_usb">Töltés USB-n keresztül</string>
     <string name="quick_charge">Gyorstöltés</string>
+
+    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
 
     <string name="thermal_not_found">Nem található hőszenzor</string>
 

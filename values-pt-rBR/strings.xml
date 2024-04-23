@@ -253,6 +253,7 @@
     <string name="temperature">Temperatura</string>
     <string name="voltage">Voltagem</string>
     <string name="power_profile">Capacidade</string>
+    <string name="nominal_profile">Nominal profile</string>
     <string name="kernel_profile">Capacidade do Kernel</string>
     <string name="charged_to">Carregado até</string>
     <string name="battery_model">Modelo</string>
@@ -266,6 +267,8 @@
     <string name="charge_ac">Carregando via AC</string>
     <string name="charge_usb">Carregando via USB</string>
     <string name="quick_charge">Carregamento rápido</string>
+
+    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
 
     <string name="thermal_not_found">Sensores de temperatura não encontrados</string>
 

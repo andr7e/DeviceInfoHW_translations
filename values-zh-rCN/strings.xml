@@ -253,6 +253,7 @@
     <string name="temperature">温度</string>
     <string name="voltage">电压</string>
     <string name="power_profile">电源配置文件</string>
+    <string name="nominal_profile">Nominal profile</string>
     <string name="kernel_profile">内核配置文件</string>
     <string name="charged_to">充电至</string>
     <string name="battery_model">型号</string>
@@ -266,6 +267,8 @@
     <string name="charge_ac">通过交流电充电</string>
     <string name="charge_usb">通过USB充电</string>
     <string name="quick_charge">快速充电</string>
+
+    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
 
     <string name="thermal_not_found">找不到温度传感器</string>
 

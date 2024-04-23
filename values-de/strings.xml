@@ -253,6 +253,7 @@
     <string name="temperature">Temperatur</string>
     <string name="voltage">Spannung</string>
     <string name="power_profile">Energieprofil</string>
+    <string name="nominal_profile">Nominal profile</string>
     <string name="kernel_profile">Kernel-Profil</string>
     <string name="charged_to">Ladestatus</string>
     <string name="battery_model">Modell</string>
@@ -266,6 +267,8 @@
     <string name="charge_ac">Laden über AC</string>
     <string name="charge_usb">Laden über USB</string>
     <string name="quick_charge">Quick Charge</string>
+
+    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
 
     <string name="thermal_not_found">Thermische Sensoren nicht gefunden</string>
 
@@ -403,9 +406,8 @@
 
     <string name="first_install_title">Meldung</string>
 
-    <string name="root_hw_detect">In new versions of android, some information is blocked,
-        if you have root access, you can enable it in the settings.
-        More details will be available.</string>
+    <string name="root_hw_detect">In new versions of android some information is blocked.
+        If you have root access, you can enable it in the settings for provide full information.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>

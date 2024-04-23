@@ -253,6 +253,7 @@
     <string name="temperature">Температура</string>
     <string name="voltage">Напряжение</string>
     <string name="power_profile">Профиль системы</string>
+    <string name="nominal_profile">Профиль по номиналу</string>
     <string name="kernel_profile">Профиль ядра</string>
     <string name="charged_to">Заряжено до</string>
     <string name="battery_model">Модель</string>
@@ -266,6 +267,8 @@
     <string name="charge_ac">Зарядка по сети</string>
     <string name="charge_usb">Зарядка по USB</string>
     <string name="quick_charge">Быстрая зарядка</string>
+
+    <string name="samsung_battery_help">Для самсунга в профиле системы минимальная емкость. В профиле по номиналу - типичная емкость.</string>
 
     <string name="thermal_not_found">Датчики температуры не найдены</string>
 
@@ -403,9 +406,8 @@
 
     <string name="first_install_title">Сообщение</string>
 
-    <string name="root_hw_detect">В новых версиях android некоторая информация заблокирована,
-        если у вас есть root доступ, вы можете включить его в настройках.
-        Будет доступна более подробная информация.</string>
+    <string name="root_hw_detect">В новых версиях android некоторая информация заблокирована.
+        Eсли у вас есть root доступ, вы можете включить его в настройках для получения подробной информация.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>

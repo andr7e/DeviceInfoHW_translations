@@ -253,6 +253,7 @@
     <string name="temperature">温度</string>
     <string name="voltage">ボルト</string>
     <string name="power_profile">電源プロファイル</string>
+    <string name="nominal_profile">Nominal profile</string>
     <string name="kernel_profile">カーネルプロファイル</string>
     <string name="charged_to">Charged up to</string>
     <string name="battery_model">モデル</string>
@@ -266,6 +267,8 @@
     <string name="charge_ac">ACで充電</string>
     <string name="charge_usb">USBで充電</string>
     <string name="quick_charge">クイックチャージ</string>
+
+    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
 
     <string name="thermal_not_found">温度センサーが見つかりませんでした</string>
 
@@ -403,9 +406,8 @@
 
     <string name="first_install_title">メッセージ</string>
 
-    <string name="root_hw_detect">In new versions of android, some information is blocked,
-        if you have root access, you can enable it in the settings.
-        More details will be available.</string>
+    <string name="root_hw_detect">In new versions of android some information is blocked.
+        If you have root access, you can enable it in the settings for provide full information.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
