@@ -238,7 +238,7 @@
     <string name="unit_cm">cm</string>
     <string name="allow">İzin ver</string>
     <string name="cam_res_max_info">- Kameranın 4'ü 1 arada gibi piksel gruplama kullandığı bazı cihazlarda yalnızca temel çözünürlük kullanılabilir.</string>
-    <string name="cam_res_max_info_perm">- Maksimum görüntü çözünürlüğü elde etmek için kamera iznine izin verin.</string>
+    <string name="cam_res_max_info_perm">- Maksimum görüntü çözünürlüğü elde etmek için kameraya izin verin.</string>
 
     <string name="cameras_not_found">Kameralar bulunamadı</string>
 
@@ -390,7 +390,7 @@
     <string name="pref_description_use_charged_to">Bataryanın yüzde kaç dolu olduğunu gösterir. Bazı cihazlarda çalışmayabilir</string>
 
     <string name="pref_title_temp_in_f_deg">&#xb0;F cinsinden sıcaklık</string>
-    <string name="pref_description_temp_in_f_deg">Sıcaklığı Fahrenheit olarak göster</string>
+    <string name="pref_description_temp_in_f_deg">Sıcaklığı Fahrenhayt olarak göster</string>
 
     <string name="pref_title_detect_therm_zones">Termal bölgeleri algılama</string>
     <string name="pref_description_detect_therm_zones">Termal bölge adlarını algılama (root)</string>
@@ -456,7 +456,7 @@
     <string name="cpu_codenames_info">CPU kod adlarının listesi</string>
 
     <string name="update_components_label">Cihaz bileşenleri</string>
-    <string name="update_components_msg">Algılama kuralları veritabanını güncelleme</string>
+    <string name="update_components_msg">Algılama kuralları veritabanını güncelle</string>
     <string name="update_component_msg">Algılama kuralları başarıyla güncellendi. Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</string>
 
     <string name="upload_info_label">Cihaz bilgilerini yükle</string>
