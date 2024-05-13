@@ -4,9 +4,9 @@
     <string name="action_about">Hakkında</string>
     <string name="action_info_center">Bilgi merkezi</string>
     <string name="action_screen_test">Ekran testi</string>
-    <string name="action_audio_test">Audio Test</string>
+    <string name="action_audio_test">Ses Testi</string>
     <string name="action_engineer_menu">Mühendislik menüsü</string>
-    <string name="action_test_fake">Test for fake text</string>
+    <string name="action_test_fake">Sahte metin için deneme</string>
 
     <string name="nav_header_options">Seçenekler</string>
     <string name="action_rate_app">Uygulamayı Değerlendir</string>
@@ -29,11 +29,11 @@
     <string name="tab_partitions">Bölümler</string>
     <string name="tab_mounts">Mounts</string>
     <string name="tab_pmic">PMIC</string>
-    <string name="tab_net">Net</string>
+    <string name="tab_net">Ağ</string>
     <string name="tab_input">Giriş</string>
     <string name="tab_usb">USB</string>
     <string name="tab_codecs">Kodekler</string>
-    <string name="tab_screen">Screen</string>
+    <string name="tab_screen">Ekran</string>
 
     <string name="tab_system_apps">Sistem Uygulamaları</string>
     <string name="tab_camera_supported">Desteklenen kameralar</string>
@@ -41,14 +41,14 @@
     <string name="tab_cpu_time">CPU çalışma süresi</string>
 
     <string name="basic_info">Basic</string>
-    <string name="gl_extensions">OpenGL extensions</string>
-    <string name="device_features">Device features</string>
+    <string name="gl_extensions">OpenGL uzantıları</string>
+    <string name="device_features">Cihaz özellikleri</string>
 
     <!-- Tabs single list -->
 
     <!-- Menu -->
     <string name="device">Cihaz</string>
-    <string name="manufacturer">Üretici firma</string>
+    <string name="manufacturer">Üretici</string>
     <string name="model">Model</string>
     <string name="brand">Marka</string>
     <string name="model_name">Model adı</string>
@@ -56,11 +56,11 @@
     <string name="platform">Platform</string>
     <string name="board">Çip</string>
     <string name="resolution">Çözünürlük</string>
-    <string name="max_resolution">Max. resolution</string>
-    <string name="current_resolution">Current resolution</string>
-    <string name="ratio">Ratio</string>
+    <string name="max_resolution">Maksimum çözünürlük</string>
+    <string name="current_resolution">Geçerli çözünürlük</string>
+    <string name="ratio">Oran</string>
     <string name="wide_color_gamut">Wide color gamut</string>
-    <string name="wide_color_supported">Supported</string>
+    <string name="wide_color_supported">Desteklenen</string>
 
     <string name="codename">Sürüm kod adı</string>
     <string name="release">Sürüm</string>
@@ -90,13 +90,13 @@
     <string name="build_type">Yapı tipi</string>
     <string name="tags">Etiketler</string>
     <string name="incremental">Incremental</string>
-    <string name="build_date">Build date</string>
+    <string name="build_date">Derleme tarihi</string>
     <string name="fingerprint">Derleme Parmak izi</string>
     <string name="description">Açıklama</string>
     <string name="bootloader">Ön yükleme (Bootloader)</string>
     <string name="builder">Derleyici</string>
     <string name="supported_features">Cihaz özellikleri</string>
-    <string name="features">Features</string>
+    <string name="features">Özellikler</string>
     <string name="language">Dil</string>
     <string name="timezone">Zaman dilimi</string>
 
@@ -108,7 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">LCD Tipi</string>
-    <string name="lcm_tech">Technology</string>
+    <string name="lcm_tech">Teknoloji</string>
     <string name="touchscreen">Dokunmatik ekran</string>
     <string name="touchscreen_key">Dokunmatik tuşlar</string>
     <string name="other">Diğer</string>
@@ -128,11 +128,11 @@
     <string name="revision">Revizyon</string>
     <string name="family">Aile</string>
     <string name="mode">Mode</string>
-    <string name="mode_supported">Supported</string>
-    <string name="abis">Supported ABI</string>
+    <string name="mode_supported">Desteklenen</string>
+    <string name="abis">Desteklenen ABI</string>
     <string name="instructions">Talimatlar</string>
     <string name="techprocess">İşlemci teknolojisi</string>
-    <string name="techmanuf">Manufacturing</string>
+    <string name="techmanuf">İmalatçı</string>
     <string name="unit_nm">nm</string>
     <string name="clock_speed">Saat hızı</string>
     <string name="governor">Governor</string>
@@ -147,8 +147,8 @@
     <string name="density">Yoğunluk</string>
     <string name="refresh_rate">Yenileme hızı</string>
     <string name="diagonal">Diagonal</string>
-    <string name="size">Size</string>
-    <string name="modes">Modes</string>
+    <string name="size">Boyut</string>
+    <string name="modes">Modlar</string>
 
 
     <!-- Sensors -->
@@ -172,7 +172,7 @@
 
 
     <string name="no_input_data">Sensor verisi yok</string>
-    <string name="sensor_list">Sensors</string>
+    <string name="sensor_list">Sensörler</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -189,7 +189,7 @@
     <string name="s_resolution">Çözüm:</string>
     <string name="s_power">Güç:</string>
     <string name="s_unit">Birim:</string>
-    <string name="s_type">Type:</string>
+    <string name="s_type">Tip:</string>
 
     <string name="unsupported">desteklenmiyor</string>
 
@@ -216,18 +216,18 @@
     <string name="mp">MP</string>
     <string name="video_resolution">Video</string>
     <string name="focal_length">Odak uzaklığı</string>
-    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
+    <string name="focal_length_35mm">Odak uzaklığı (35 mm)</string>
     <string name="camera2_api">Camera2 API</string>
     <string name="camera_formats">Görüntü formatları</string>
     <string name="camera_size">Sensör boyutu</string>
-    <string name="optical_format">Optical format</string>
+    <string name="optical_format">Optik formatı</string>
     <string name="camera_diagonal">Diagonal</string>
     <string name="pixel_size">Piksel boyutu</string>
     <string name="camera_af_modes">Odak modları</string>
     <string name="aperture">Açıklık</string>
     <string name="camera_phy_count">Modül tipi</string>
     <string name="camera_add_modules">Ek kameralar</string>
-    <string name="camera_all_modules">Modules</string>
+    <string name="camera_all_modules">Modüller</string>
     <string name="camera_sw_info">Bilgi</string>
     <string name="camera_color_filter">Renk filtresi</string>
     <string name="camera_view_angle">Görüş açısı</string>
@@ -236,11 +236,11 @@
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
-    <string name="allow">Allow</string>
-    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
-    <string name="cam_res_max_info_perm">- For getting maximum resolution of image you can try to allow camera permission.</string>
+    <string name="allow">İzin ver</string>
+    <string name="cam_res_max_info">- Kameranın 4'ü 1 arada gibi piksel gruplama kullandığı bazı cihazlarda yalnızca temel çözünürlük kullanılabilir.</string>
+    <string name="cam_res_max_info_perm">- Maksimum görüntü çözünürlüğü elde etmek için kamera iznine izin verin.</string>
 
-    <string name="cameras_not_found">Cameras not found</string>
+    <string name="cameras_not_found">Kameralar bulunamadı</string>
 
     <!-- Battery -->
 
@@ -253,22 +253,22 @@
     <string name="temperature">Sıcaklık</string>
     <string name="voltage">Voltaj</string>
     <string name="power_profile">Güç profili</string>
-    <string name="nominal_profile">Nominal profile</string>
+    <string name="nominal_profile">Nominal profili</string>
     <string name="kernel_profile">Çekirdek (Kernel) profili</string>
     <string name="charged_to">Şarj ediliyor</string>
     <string name="battery_model">Model</string>
     <string name="consumption">Tüketim</string>
     <string name="charge_speed">Şarj hızı</string>
     <string name="discharge_speed">Deşarj hızı</string>
-    <string name="time_to_full_charge">Time to full charge</string>
-    <string name="bat_cycle_count">Cycle count</string>
+    <string name="time_to_full_charge">Tam şarj olma süresi</string>
+    <string name="bat_cycle_count">Döngü sayısı</string>
     <string name="throttling">Throttling</string>
 
     <string name="charge_ac">AC ile şarj</string>
     <string name="charge_usb">USB ile şarj</string>
     <string name="quick_charge">Hızlı şarj</string>
 
-    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
+    <string name="samsung_battery_help">Samsung için güç profili minimum kapasitedir. Nominal profil tipik kapasitedir.</string>
 
     <string name="thermal_not_found">Termal sensörler bulunamadı</string>
 
@@ -278,10 +278,10 @@
     <string name="signal">Sinyal</string>
     <string name="channel">Kanal</string>
     <string name="net_level">Düzey</string>
-    <string name="not_connected">Not connected</string>
-    <string name="standard">Standard</string>
+    <string name="not_connected">Bağlanmadı</string>
+    <string name="standard">Standart</string>
     <string name="support_ghz">Band %1d GHz</string>
-    <string name="wifi_connection">Connection</string>
+    <string name="wifi_connection">Bağlantı</string>
 
     <!-- SIM -->
     <string name="sim_phone_type">Telefon türü</string>
@@ -297,7 +297,7 @@
     <string name="partition_name">İsim</string>
     <string name="partition_address">Başlangıç ​​adresi</string>
     <string name="partition_size">Bölüm boyutu</string>
-    <string name="partitions_not_found">Partitions not found</string>
+    <string name="partitions_not_found">Bölümler bulunamadı</string>
 
     <!-- System -->
 
@@ -317,13 +317,13 @@
     <string name="lcd_info">LCD renk testi</string>
     <string name="lcd_desc">Ekran rengini ve ölü pikselleri kontrol edin</string>
 
-    <string name="lcd_type_label">LCD type</string>
-    <string name="lcd_type_info">LCD energy saving test</string>
-    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
-    <string name="lcd_type_test_avg">Average consumption for colors</string>
-    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+    <string name="lcd_type_label">LCD tipi</string>
+    <string name="lcd_type_info">LCD enerji tasarrufu testi</string>
+    <string name="lcd_type_desc">LCD tipini belirlemek için enerji tasarrufunu kontrol edin</string>
+    <string name="lcd_type_test_avg">Renkler için ortalama tüketim</string>
+    <string name="lcd_type_test_examples_label">Maksimum parlaklıkta siyah renk örnekleri</string>
 
-    <string name="start">Start</string>
+    <string name="start">Başlangıç</string>
 
     <string name="multitouch_label">Çoklu dokunuş</string>
     <string name="multitouch_info">Dokunmatik ekran çoklu dokunma testi</string>
@@ -347,7 +347,7 @@
     <string name="camera_back">Arka Kamera</string>
     <string name="camera_front">Ön Kamera</string>
     <string name="mtk_build">Yapı</string>
-    <string name="mtk_platform">Platform MTK</string>
+    <string name="mtk_platform">MTK platformu</string>
 
     <!-- Report -->
 
@@ -377,14 +377,14 @@
 
     <string name="pref_title_theme">Arayüz teması</string>
 
-    <string name="pref_text_scale">Text scaling</string>
+    <string name="pref_text_scale">Metin ölçeklendirme</string>
 
-    <string name="pref_hide_tab_bar">Hide tab bar</string>
+    <string name="pref_hide_tab_bar">Sekme çubuğunu gizle</string>
 
-    <string name="pref_title_invert_charge_speed">Pil akımını ters çevir</string>
+    <string name="pref_title_invert_charge_speed">Pil akım hızını ters çevir</string>
     <string name="pref_description_invert_charge_speed">Pil şarj / deşarj hızını ters çevirin</string>
 
-    <string name="pref_title_battery_current_unit">Battery current unit</string>
+    <string name="pref_title_battery_current_unit">Batarya mevcut birim</string>
 
     <string name="pref_title_use_charged_to">Pil yüzdesini göster</string>
     <string name="pref_description_use_charged_to">Bataryanın yüzde kaç dolu olduğunu gösterir. Bazı cihazlarda çalışmayabilir</string>
@@ -395,11 +395,11 @@
     <string name="pref_title_detect_therm_zones">Termal bölgeleri algılama</string>
     <string name="pref_description_detect_therm_zones">Termal bölge adlarını algılama (root)</string>
 
-    <string name="pref_title_ad_tz_name">Thermal zone name</string>
-    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+    <string name="pref_title_ad_tz_name">Termal bölge adı</string>
+    <string name="pref_description_ad_tz_name">Termal bölge ismini göster</string>
 
-    <string name="pref_title_use_pressure_mm_hg">Pressure unit</string>
-    <string name="pref_description_use_pressure_mm_hg">Use pressure in mm Hg</string>
+    <string name="pref_title_use_pressure_mm_hg">Basınç birimi</string>
+    <string name="pref_description_use_pressure_mm_hg">mm Hg birimini kullan</string>
 
     <!-- Strings related to Message of first install -->
 
@@ -418,19 +418,19 @@
 
     <!-- PRO -->
 
-    <string name="using_theme_start_non_pro">You can use black theme 14 days. After that use dark theme or upgrade to PRO.</string>
+    <string name="using_theme_start_non_pro">Siyah temayı 14 gün kullanabilirsiniz. Bundan sonra karanlık temayı kullanın veya PRO'ya yükseltin.</string>
     <string name="using_theme_expired_non_pro">Üzgünüz, ücretsiz tema süresi doldu!\nPRO sürümünde mevcuttur.</string>
 
 
     <string name="pro_version_info">
-Features:\n
- • Full theme support\n
- • Create report and send by email\n
- • Copy text by long press in info lists\n
- • New design of battery tab with charge / discharge chart\n
- • Extra info for installed applications\n
- • Tab CPU freq chart\n
- • Early access to new version
+Özellikler:\n
+ • Tam tema desteği\n
+ • Rapor oluştur ve e-postayla gönder\n
+ • Bilgi listelerinde metni uzun basarak kopyalayın\n
+ • Şarj / deşarj tablosuyla birlikte yeni pil sekmesi tasarımı\n
+ • Yüklü uygulamalar için ekstra bilgi\n
+ • CPU frekans tablosu\n
+ • Yeni sürüme erken erişim
 </string>
 
     <!-- Info center -->
@@ -476,31 +476,31 @@ Features:\n
 
     <string name="error_read_sysfs">Üzgünüz, ama sizinkinde sysfs bellenimi okuma devre dışı. Yalnızca kısmi bilgiler mevcuttur.</string>
 
-    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+    <string name="title_bat_show_chart_rate">Şarj / deşarj tablosu</string>
 
     <!-- Audio test -->
 
     <string name="stereo">Stereo</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="ear">Ear</string>
+    <string name="left">Sol</string>
+    <string name="right">Sağ</string>
+    <string name="ear">Kulak</string>
 
     <!-- Codecs -->
 
-    <string name="codec_info">Codec info</string>
-    <string name="codec_type">Type:</string>
-    <string name="codec_group">Group:</string>
+    <string name="codec_info">Kodek bilgisi</string>
+    <string name="codec_type">Tip:</string>
+    <string name="codec_group">Grup:</string>
 
     <!-- App info -->
 
-    <string name="app_details">App details</string>
-    <string name="app_extract">Extract</string>
-    <string name="app_extract_ok">Extracted successfully to</string>
-    <string name="app_extract_err">Extraction failed!</string>
+    <string name="app_details">Uygulama detayları</string>
+    <string name="app_extract">Çıkar</string>
+    <string name="app_extract_ok">Şuraya başarılıyla çıkarıldı</string>
+    <string name="app_extract_err">Çıkarma başarısız!</string>
 
     <!-- Clipboard -->
 
-    <string name="copied_to_clipboard">Copied to clipboard:</string>
+    <string name="copied_to_clipboard">Panoya kopyalandı:</string>
 
     <!-- Strings related to About -->
 
