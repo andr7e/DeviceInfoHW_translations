@@ -108,7 +108,7 @@
     <!-- Components -->
     <string name="lcm">LCM</string>
     <string name="lcm_type">Tipo LCD</string>
-    <string name="lcm_tech">Technologia</string>
+    <string name="lcm_tech">Tecnologia</string>
     <string name="touchscreen">Touchscreen</string>
     <string name="touchscreen_key">Tasti touch</string>
     <string name="other">Altro</string>
@@ -149,9 +149,9 @@
     <string name="diagonal">Diagonale</string>
     <string name="size">Dimensione</string>
     <string name="modes">Modi</string>
-    <string name="luminance">Luminance</string>
+    <string name="luminance">Luminanza</string>
 
-    <string name="bt_or_higher">or higher</string>
+    <string name="bt_or_higher">o superiore</string>
 
 
     <!-- Sensors -->
@@ -240,7 +240,7 @@
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
     <string name="allow">Consenti</string>
-    <string name="cam_res_max_info">- Per alcuni dispositivi in ​​cui la fotocamera usa il pixel binning come 4 in 1, è disponibile solo la risoluzione base.</string>
+    <string name="cam_res_max_info">- Per alcuni dispositivi in cui la fotocamera usa il pixel binning come 4 in 1, è disponibile solo la risoluzione base.</string>
     <string name="cam_res_max_info_perm">- Per ottenere la massima risoluzione dell\'immagine puoi provare a consentire l\'autorizzazione della fotocamera.</string>
 
     <string name="cameras_not_found">Fotocamere non trovate</string>
@@ -256,7 +256,7 @@
     <string name="temperature">Temperatura</string>
     <string name="voltage">Voltaggio</string>
     <string name="power_profile">Profilo alimentazione</string>
-    <string name="nominal_profile">Nominal profile</string>
+    <string name="nominal_profile">Profilo nominale</string>
     <string name="kernel_profile">Profilo kernel</string>
     <string name="charged_to">Carica fino a</string>
     <string name="battery_model">Modello</string>
@@ -271,7 +271,7 @@
     <string name="charge_usb">Carica via USB</string>
     <string name="quick_charge">Carica rapida</string>
 
-    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
+    <string name="samsung_battery_help">Per Samsung nel profilo alimentazione la capacità è minima. Il profilo nominale è la capacità tipica.</string>
 
     <string name="thermal_not_found">Sensori termici non trovati</string>
 
@@ -328,8 +328,8 @@
 
     <string name="start">Start</string>
 
-    <string name="multitouch_label">Multi-touch</string>
-    <string name="multitouch_info">Test Touchscreen multi-touch</string>
+    <string name="multitouch_label">Multi touch</string>
+    <string name="multitouch_info">Test Touchscreen multi touch</string>
     <string name="multitouch_desc">Verifica quante dita sono supportate</string>
 
     <string name="touchdraw_label">Touch e disegno</string>
@@ -410,8 +410,7 @@
     <string name="first_install_title">Messaggio</string>
 
     <string name="root_hw_detect">Nelle nuove versioni Android, alcune informazioni sono bloccate,
-        se hai accesso root, puoi abilitarlo nelle impostazioni.
-        Saranno disponibili maggiori dettagli.</string>
+        se hai accesso root, puoi abilitarlo nelle impostazioni per avere maggiori info.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
@@ -473,7 +472,7 @@ Funzionalità:\n
     <string name="i2c_viewer_info">Dispositivi su i2c, bus SPI</string>
 
     <string name="exif_cam_label">Info EXIF fotocamera</string>
-    <string name="exif_cam_info">Leggi info EXIF ​​dall\'immagine</string>
+    <string name="exif_cam_info">Leggi info EXIF dall\'immagine</string>
     <string name="open_img_file_label">Apri file immagine…</string>
 
 
