@@ -149,6 +149,9 @@
     <string name="diagonal">Диагональ</string>
     <string name="size">Размер</string>
     <string name="modes">Режимы</string>
+    <string name="luminance">Яркость</string>
+
+    <string name="bt_or_higher">или выше</string>
 
 
     <!-- Sensors -->

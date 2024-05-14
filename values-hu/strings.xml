@@ -149,6 +149,9 @@
     <string name="diagonal">Kijelzőméret</string>
     <string name="size">Oldalméretek</string>
     <string name="modes">Módok</string>
+    <string name="luminance">Luminance</string>
+
+    <string name="bt_or_higher">or higher</string>
 
 
     <!-- Sensors -->

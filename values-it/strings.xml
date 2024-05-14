@@ -149,6 +149,9 @@
     <string name="diagonal">Diagonale</string>
     <string name="size">Dimensione</string>
     <string name="modes">Modi</string>
+    <string name="luminance">Luminance</string>
+
+    <string name="bt_or_higher">or higher</string>
 
 
     <!-- Sensors -->

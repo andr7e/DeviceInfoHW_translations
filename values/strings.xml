@@ -180,6 +180,9 @@
     <string name="size">Size</string>
     <string name="modes">Modes</string>
     <string name="hdr" translatable="false">HDR</string>
+    <string name="luminance">Luminance</string>
+
+    <string name="bt_or_higher">or higher</string>
 
     <string name="cmdline" translatable="false">Cmdline</string>
 

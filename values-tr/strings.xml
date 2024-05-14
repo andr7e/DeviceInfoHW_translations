@@ -149,6 +149,9 @@
     <string name="diagonal">Diagonal</string>
     <string name="size">Boyut</string>
     <string name="modes">Modlar</string>
+    <string name="luminance">Luminance</string>
+
+    <string name="bt_or_higher">or higher</string>
 
 
     <!-- Sensors -->
