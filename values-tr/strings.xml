@@ -5,7 +5,7 @@
     <string name="action_info_center">Bilgi merkezi</string>
     <string name="action_screen_test">Ekran testi</string>
     <string name="action_audio_test">Ses Testi</string>
-    <string name="action_engineer_menu">Mühendislik menüsü</string>
+    <string name="action_engineer_menu">Mühendis menüsü</string>
     <string name="action_test_fake">Sahte metin için deneme</string>
 
     <string name="nav_header_options">Seçenekler</string>
@@ -127,7 +127,7 @@
     <string name="cores">Çekirdekler</string>
     <string name="revision">Revizyon</string>
     <string name="family">Aile</string>
-    <string name="mode">Mode</string>
+    <string name="mode">Mod</string>
     <string name="mode_supported">Desteklenen</string>
     <string name="abis">Desteklenen ABI</string>
     <string name="instructions">Talimatlar</string>
@@ -151,7 +151,7 @@
     <string name="modes">Modlar</string>
     <string name="luminance">Luminance</string>
 
-    <string name="bt_or_higher">or higher</string>
+    <string name="bt_or_higher">veya daha yüksek</string>
 
 
     <!-- Sensors -->
@@ -235,7 +235,7 @@
     <string name="camera_color_filter">Renk filtresi</string>
     <string name="camera_view_angle">Görüş açısı</string>
     <string name="zoom">Zoom</string>
-    <string name="crop_factor">Crop factor</string>
+    <string name="crop_factor">Kırpma faktörü</string>
     <string name="unit_um">µm</string>
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
@@ -437,10 +437,10 @@
 </string>
 
     <!-- Info center -->
-    <string name="update">Güncelleme</string>
+    <string name="update">Güncelle</string>
     <string name="updating">Güncelleniyor</string>
 
-    <string name="upload">Yükleme</string>
+    <string name="upload">Yükle</string>
 
     <string name="create_report">Rapor oluştur</string>
     <string name="create_report_msg">Rapor başarıyla oluşturuldu!\nArama konumu</string>
