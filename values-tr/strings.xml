@@ -240,7 +240,7 @@
     <string name="unit_mm">mm</string>
     <string name="unit_cm">cm</string>
     <string name="allow">İzin ver</string>
-    <string name="cam_res_max_info">- Kameranın 4'ü 1 arada gibi piksel gruplama kullandığı bazı cihazlarda yalnızca temel çözünürlük kullanılabilir.</string>
+    <string name="cam_res_max_info">- Kameranın 4\'ü 1 arada gibi piksel gruplama kullandığı bazı cihazlarda yalnızca temel çözünürlük kullanılabilir.</string>
     <string name="cam_res_max_info_perm">- Maksimum görüntü çözünürlüğü elde etmek için kameraya izin verin.</string>
 
     <string name="cameras_not_found">Kameralar bulunamadı</string>
@@ -421,7 +421,7 @@
 
     <!-- PRO -->
 
-    <string name="using_theme_start_non_pro">Siyah temayı 14 gün kullanabilirsiniz. Bundan sonra karanlık temayı kullanın veya PRO'ya yükseltin.</string>
+    <string name="using_theme_start_non_pro">Siyah temayı 14 gün kullanabilirsiniz. Bundan sonra karanlık temayı kullanın veya PRO\'ya yükseltin.</string>
     <string name="using_theme_expired_non_pro">Üzgünüz, ücretsiz tema süresi doldu!\nPRO sürümünde mevcuttur.</string>
 
 
